@@ -1,22 +1,22 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"id": "Inchez.UkranianLanguage",
 	"name": "Ukranian Language",
 	"description": "Adds support for the Ukrainian language.",
 	"authors": ["Inchez"],
-	"frameworkVersion": "2.25.1",
+	"frameworkVersion": "2.33.26",
 	"contentFolders": ["content"],
 	"localisationOverrides": {
 		"008D33DE8C75CACB": {
 			"english": {
+				"202926189": "Завантажити гру",
+				"2387206187": "Кампанії",
+				"2542372253": "Не вдалося завантажити гру. Хочете спробувати ще раз?",
 				"3338503134": "Пролог",
 				"3669884802": "Кампанія",
-				"4167410408": "Кампанія",
-				"2387206187": "Кампанії",
-				"202926189": "Завантажити гру",
-				"2542372253": "Не вдалося завантажити гру. Хочете спробувати ще раз?",
-				"3773079186": "Вийти з гри?"
+				"3773079186": "Вийти з гри?",
+				"4167410408": "Кампанія"
 			}
 		},
 		"0031D320C0F9FF08": {
@@ -24,5 +24,6 @@
 				"554456577": "Новий ігровий режим"
 			}
 		}
-	}
+	},
+	"updateCheck": "https://github.com/davidshevnya/hitman3-ua-localization/releases/latest/download/updates.json"
 }
