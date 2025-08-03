@@ -5,5 +5,24 @@
 	"name": "Ukranian Language",
 	"description": "Adds support for the Ukrainian language.",
 	"authors": ["Inchez"],
-	"frameworkVersion": "2.25.1"
+	"frameworkVersion": "2.25.1",
+	"contentFolders": ["content"],
+	"localisationOverrides": {
+		"008D33DE8C75CACB": {
+			"english": {
+				"3338503134": "Пролог",
+				"3669884802": "Кампанія",
+				"4167410408": "Кампанія",
+				"2387206187": "Кампанії",
+				"202926189": "Завантажити гру",
+				"2542372253": "Не вдалося завантажити гру. Хочете спробувати ще раз?",
+				"3773079186": "Вийти з гри?"
+			}
+		},
+		"0031D320C0F9FF08": {
+			"english": {
+				"554456577": "Новий ігровий режим"
+			}
+		}
+	}
 }

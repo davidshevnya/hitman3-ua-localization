@@ -1,0 +1,78 @@
+{
+	"tempHash": "0057C0E23328F131",
+	"tbluHash": "000F18EA14B44A31",
+	"rootEntity": "f0c8b2edaf712bf2",
+	"entities": {
+		"f0c8b2edaf712bf2": {
+			"parent": null,
+			"name": "FontConfigurationCommon",
+			"factory": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+		},
+		"cd3bd943801dfc6f": {
+			"parent": "f0c8b2edaf712bf2",
+			"name": "FontConfiguration",
+			"factory": "[modules:/zfontconfigurationentity.class].pc_entitytype",
+			"blueprint": "[modules:/zfontconfigurationentity.class].pc_entityblueprint",
+			"properties": {
+				"m_aFontLibraries": {
+					"type": "TArray<SFontLibraryDefinition>",
+					"value": [
+						{
+							"sFontLocaleID": "en",
+							"m_aFontDefinitions": [
+								{
+									"sFontId": "$normal",
+									"sFontName": "Neue Haas Grotesk Display Pro 55 Roman",
+									"eFontFlags": "FV_Original",
+									"fScaleFactor": 1
+								},
+								{
+									"sFontId": "$bold",
+									"sFontName": "Neue Haas Grotesk Display Pro 75 Bold",
+									"eFontFlags": "FV_Bold",
+									"fScaleFactor": 1
+								},
+								{
+									"sFontId": "$light",
+									"sFontName": "Neue Haas Grotesk Display Pro 35 Extra Light",
+									"eFontFlags": "FV_Original",
+									"fScaleFactor": 1
+								},
+								{
+									"sFontId": "$medium",
+									"sFontName": "Neue Haas Grotesk Display Pro 65 Medium",
+									"eFontFlags": "FV_Original",
+									"fScaleFactor": 1
+								},
+								{
+									"sFontId": "$global",
+									"sFontName": "Noto Sans Hitman2 SemiCondensed Bold",
+									"eFontFlags": "FV_Bold",
+									"fScaleFactor": 1
+								}
+							]
+						}
+					]
+				},
+				"m_resourceId": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/ui/fonts/fonts_en.swf].pc_swf",
+						"flag": "9F"
+					}
+				}
+			}
+		}
+	},
+	"propertyOverrides": [],
+	"overrideDeletes": [],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": [],
+	"subType": "template",
+	"quickEntityVersion": 3.1,
+	"extraFactoryDependencies": [],
+	"extraBlueprintDependencies": [],
+	"comments": []
+}
