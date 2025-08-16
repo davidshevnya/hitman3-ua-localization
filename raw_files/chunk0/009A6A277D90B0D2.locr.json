@@ -1,0 +1,78 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "009A6A277D90B0D2",
+	"languages": {
+		"xx": {
+			"84A0A61F": "Pest Control",
+			"D08C3767": "Cassidy's neighbour's house is undergoing fumigation. Apparently, Cassidy's house went through the same treatment recently and some of the poisonous equipment is still connected to his house...",
+			"7165AD6A": "Sleep tight",
+			"4D93A7FD": "Obtain Insecticide",
+			"4849E6F7": "Disguise as Exterminator",
+			"4CD6274B": "Infiltrate Cassidy's property",
+			"F1FD8B5C": "Add insecticide to the Fumigation Unit",
+			"E7133512": "Discover a way to keep Cassidy inside the house",
+			"A4F2C4B4": "Wait for Cassidy to arrive to the house",
+			"19AF9CC2": "Activate the Fumigation Unit"
+		},
+		"en": {
+			"84A0A61F": "Pest Control",
+			"D08C3767": "Apparently there is a fumigator in town. He's working on a house belonging to a \"James Batty\" and has previously been working on Cassidy's house. The fumigator has stored some of his chemicals, a strong sedative, in a container in a vacant lot near the creek. Sounds like this could be useful, 47.",
+			"7165AD6A": "Sleep tight.",
+			"4D93A7FD": "Obtain insecticide",
+			"4849E6F7": "Disguise yourself as an exterminator",
+			"4CD6274B": "Infiltrate Cassidy's property",
+			"F1FD8B5C": "Add insecticide to the fumigation unit",
+			"E7133512": "Discover a way to keep Cassidy inside the house",
+			"A4F2C4B4": "Wait for Cassidy to arrive at the house",
+			"19AF9CC2": "Activate the fumigation unit"
+		},
+		"fr": {
+			"84A0A61F": "Lutte antiparasitaire",
+			"D08C3767": "Il y a apparemment un exterminateur en ville. Il travaille sur une maison appartenant à un certain \"James Batty\", et s'occupait de celle de Cassidy juste avant. L'exterminateur a entreposé ses produits, des sédatifs puissants, dans un conteneur dans une maison vide près de la rivière. Ce pourrait être utile, 47.",
+			"7165AD6A": "Bonne nuit",
+			"4D93A7FD": "Trouvez l'insecticide",
+			"4849E6F7": "Déguisez-vous en exterminateur",
+			"4CD6274B": "Infiltrez la propriété de Cassidy",
+			"F1FD8B5C": "Ajoutez l'insecticide à l'unité de fumigation",
+			"E7133512": "Trouvez un moyen de garder Cassidy dans la maison",
+			"A4F2C4B4": "Attendez que Cassidy entre dans la maison",
+			"19AF9CC2": "Activez l'unité de fumigation"
+		},
+		"it": {
+			"84A0A61F": "Disinfestazione",
+			"D08C3767": "A quanto pare c'è un disinfestatore in città. Attualmente lavora nella casa di un certo \"James Batty\", mentre prima si è occupato della casa di Cassidy. Il disinfestatore ha sistemato uno di suoi agenti chimici, un forte sedativo, in un container presso un parcheggio vuoto vicino al torrente. Sembra che questo possa tornare utile, 47.",
+			"7165AD6A": "Dormi bene",
+			"4D93A7FD": "Ottieni insetticida",
+			"4849E6F7": "Travestiti da disinfestatore",
+			"4CD6274B": "Infiltrati nella proprietà di Cassidy",
+			"F1FD8B5C": "Aggiungi insetticida al dispositivo di fumigazione",
+			"E7133512": "Scopri un modo per tenere Cassidy all'interno della casa",
+			"A4F2C4B4": "Aspetta che Cassidy arrivi a casa",
+			"19AF9CC2": "Attiva il dispositivo di fumigazione"
+		},
+		"de": {
+			"84A0A61F": "Schädlingsbekämpfung",
+			"D08C3767": "Anscheinend ist ein Kammerjäger in der Stadt. Er hat ein Haus begast, das einem „James Batty“ gehört, und sich vorher um Cassidys Haus gekümmert. Der Begaser hat eine seiner Chemikalien, ein starkes Betäubungsmittel, in einem Container auf einem leeren Grundstück beim Bach verstaut. Klingt, als könnte das nützlich sein, 47.",
+			"7165AD6A": "Schlaf gut",
+			"4D93A7FD": "Beschaffen Sie Insektizid.",
+			"4849E6F7": "Verkleiden Sie sich als Kammerjäger.",
+			"4CD6274B": "Infiltrieren Sie das Grundstück von Cassidy.",
+			"F1FD8B5C": "Geben Sie das Insektizid in die Begasungsmaschine.",
+			"E7133512": "Finden Sie einen Weg, damit Cassidy das Haus nicht verlässt.",
+			"A4F2C4B4": "Warten Sie, bis Cassidy am Haus eintrifft.",
+			"19AF9CC2": "Aktivieren Sie die Begasungsmaschine."
+		},
+		"es": {
+			"84A0A61F": "Control de plagas",
+			"D08C3767": "Al parecer, hay un fumigador en el vecindario. Está trabajando en una vivienda que pertenece a «James Batty» y antes trabajó en la casa de Cassidy. El fumigador ha guardado parte de sus productos químicos, un fuerte sedante, en un contenedor en una parcela vacía situada cerca del arroyo. Podría ser útil, 47.",
+			"7165AD6A": "Que duermas bien.",
+			"4D93A7FD": "Consigue el insecticida",
+			"4849E6F7": "Disfrázate de exterminador",
+			"4CD6274B": "Infíltrate en la propiedad de Cassidy",
+			"F1FD8B5C": "Pon insecticida en la unidad de fumigación",
+			"E7133512": "Descubre el modo de retener a Cassidy en el interior de la casa",
+			"A4F2C4B4": "Espera a que Cassidy llegue a la casa",
+			"19AF9CC2": "Activa la unidad de fumigación"
+		}
+	}
+}

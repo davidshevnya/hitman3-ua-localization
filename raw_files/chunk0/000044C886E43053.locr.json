@@ -1,0 +1,48 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "000044C886E43053",
+	"languages": {
+		"xx": {
+			"68637C17": "PH_OpportunityGrade",
+			"B893E4F8": "PH_BODYTEXT",
+			"90D0B01A": "PH_OKKEEP",
+			"6DCEBD6F": "PH_CHANGESETTINGS",
+			"17F57EC9": ""
+		},
+		"en": {
+			"68637C17": "Mission Story Guidance",
+			"B893E4F8": "Mission Stories can guide you through the world with waypoints (currently active), or they can give minimal hints for what to do. You can also turn them off entirely.",
+			"90D0B01A": "Okay, keep waypoints",
+			"6DCEBD6F": "Change settings",
+			"17F57EC9": "This Mission Story unlocks on mission complete"
+		},
+		"fr": {
+			"68637C17": "Orientation grâce aux intrigues",
+			"B893E4F8": "Les intrigues peuvent vous guider à travers le monde grâce aux repères de balisage actifs à ce moment-là, ou vous donner des indices sur la marche à suivre. Vous pouvez aussi les désactiver complètement.",
+			"90D0B01A": "OK, garder les repères de balisage",
+			"6DCEBD6F": "Modifier les réglages",
+			"17F57EC9": "L'intrigue se débloque une fois la mission terminée"
+		},
+		"it": {
+			"68637C17": "Guida alla Storia della missione",
+			"B893E4F8": "Le Storie della missione possono aiutarti nel gioco tramite punti di riferimento (attivi al momento) o possono accennare suggerimenti su cosa fare. Puoi anche disattivarli completamente.",
+			"90D0B01A": "Mantieni i punti di riferimento",
+			"6DCEBD6F": "Cambia impostazioni",
+			"17F57EC9": "Questa Storia della missione verrà sbloccata a missione compiuta"
+		},
+		"de": {
+			"68637C17": "Story-Missionen als Leitfaden",
+			"B893E4F8": "Story-Missionen bieten Ihnen Wegpunkte (zurzeit aktiv) oder kleinste Hinweise, an denen Sie sich orientieren können. Sie können auch ganz abgestellt werden.",
+			"90D0B01A": "Wegpunkte lassen",
+			"6DCEBD6F": "Einstellungen ändern",
+			"17F57EC9": "Story-Mission wird nach dem Ende der Mission freigeschaltet"
+		},
+		"es": {
+			"68637C17": "Indicadores de historias de la misión",
+			"B893E4F8": "Las historias de la misión te pueden guiar en el juego a través de indicadores de ruta (activos actualmente), o pueden darte solo pequeñas pistas sobre tus objetivos. También puedes desactivarlas por completo.",
+			"90D0B01A": "Mantener indicadores",
+			"6DCEBD6F": "Cambiar ajustes",
+			"17F57EC9": "La historia de la misión se desbloqueará al completar la misión"
+		}
+	}
+}

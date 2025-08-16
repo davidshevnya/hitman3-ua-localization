@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0070C838005C2819",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_LUPINE_LEVEL_1_TITLE": "The Raskoph Satisfaction - Level 1",
+			"UI_CONTRACT_LUPINE_OBJ_1": "Eliminate Dabir Wasim Abboud while disguised as shopkeeper",
+			"UI_CONTRACT_LUPINE_LEVEL_2_TITLE": "The Raskoph Satisfaction - Level 2",
+			"UI_CONTRACT_LUPINE_LEVEL_3_TITLE": "The Raskoph Satisfaction - Level 3",
+			"UI_CONTRACT_LUPINE_LEVEL_4_TITLE": "The Raskoph Satisfaction - Level 4",
+			"UI_CONTRACT_LUPINE_LEVEL_5_TITLE": "The Raskoph Satisfaction - Level 5",
+			"UI_CONTRACT_LUPINE_GROUP_TITLE": "The Raskoph Satisfaction",
+			"UI_CONTRACT_LUPINE_GROUP_DESC": "Five level escalation in Marrakesh",
+			"UI_CONTRACT_LUPINE_OBJ_1_2": "Eliminate Dabir Wasim Abboud in an explosion",
+			"UI_CONTRACT_LUPINE_OBJ_3": "Eliminate Nabhan Shamim Sleiman by electrocution",
+			"UI_CONTRACT_LUPINE_OBJ_2_2": "Ashraf Raghib Mustafa in an explosion",
+			"UI_CONTRACT_LUPINE_OBJ_3_2": "Eliminate Nabhan Shamim Sleiman in an explosion"
+		},
+		"en": {
+			"UI_CONTRACT_LUPINE_LEVEL_1_TITLE": "The Raskoph Satisfaction - Level 1",
+			"UI_CONTRACT_LUPINE_OBJ_1": "Eliminate Dabir Wasim Abboud while disguised as a shopkeeper",
+			"UI_CONTRACT_LUPINE_LEVEL_2_TITLE": "The Raskoph Satisfaction - Level 2",
+			"UI_CONTRACT_LUPINE_LEVEL_3_TITLE": "The Raskoph Satisfaction - Level 3",
+			"UI_CONTRACT_LUPINE_LEVEL_4_TITLE": "The Raskoph Satisfaction - Level 4",
+			"UI_CONTRACT_LUPINE_LEVEL_5_TITLE": "The Raskoph Satisfaction - Level 5",
+			"UI_CONTRACT_LUPINE_GROUP_TITLE": "The Raskoph Satisfaction",
+			"UI_CONTRACT_LUPINE_GROUP_DESC": "Five level Escalation in Marrakesh.",
+			"UI_CONTRACT_LUPINE_OBJ_1_2": "Eliminate Dabir Wasim Abboud in an explosion",
+			"UI_CONTRACT_LUPINE_OBJ_3": "Eliminate Nabhan Shamim Sleiman by electrocution",
+			"UI_CONTRACT_LUPINE_OBJ_2_2": "Eliminate Ashraf Raghib Mustafa in an explosion",
+			"UI_CONTRACT_LUPINE_OBJ_3_2": "Eliminate Nabhan Shamim Sleiman in an explosion"
+		},
+		"fr": {
+			"UI_CONTRACT_LUPINE_LEVEL_1_TITLE": "La satisfaction de Raskoph - Niveau 1",
+			"UI_CONTRACT_LUPINE_OBJ_1": "Éliminez Dabir Wasim Abboud, déguisé en commerçant",
+			"UI_CONTRACT_LUPINE_LEVEL_2_TITLE": "La satisfaction de Raskoph - Niveau 2",
+			"UI_CONTRACT_LUPINE_LEVEL_3_TITLE": "La satisfaction de Raskoph - Niveau 3",
+			"UI_CONTRACT_LUPINE_LEVEL_4_TITLE": "La satisfaction de Raskoph - Niveau 4",
+			"UI_CONTRACT_LUPINE_LEVEL_5_TITLE": "La satisfaction de Raskoph - Niveau 5",
+			"UI_CONTRACT_LUPINE_GROUP_TITLE": "La satisfaction de Raskoph",
+			"UI_CONTRACT_LUPINE_GROUP_DESC": "Escalade en cinq niveaux à Marrakech.",
+			"UI_CONTRACT_LUPINE_OBJ_1_2": "Éliminez Dabir Wasim Abboud dans une explosion",
+			"UI_CONTRACT_LUPINE_OBJ_3": "Éliminez Nabhan Shamim Sleiman en l'électrocutant",
+			"UI_CONTRACT_LUPINE_OBJ_2_2": "Éliminez Raghib Mustafa dans une explosion",
+			"UI_CONTRACT_LUPINE_OBJ_3_2": "Éliminez Nabhan Shamim Sleiman dans une explosion"
+		},
+		"it": {
+			"UI_CONTRACT_LUPINE_LEVEL_1_TITLE": "La soddisfazione di Raskoph - Livello 1",
+			"UI_CONTRACT_LUPINE_OBJ_1": "Elimina Dabir Wasim Abboud mentre sei travestito da negoziante",
+			"UI_CONTRACT_LUPINE_LEVEL_2_TITLE": "La soddisfazione di Raskoph - Livello 2",
+			"UI_CONTRACT_LUPINE_LEVEL_3_TITLE": "La soddisfazione di Raskoph - Livello 3",
+			"UI_CONTRACT_LUPINE_LEVEL_4_TITLE": "La soddisfazione di Raskoph - Livello 4",
+			"UI_CONTRACT_LUPINE_LEVEL_5_TITLE": "La soddisfazione di Raskoph - Livello 5",
+			"UI_CONTRACT_LUPINE_GROUP_TITLE": "La soddisfazione di Raskoph",
+			"UI_CONTRACT_LUPINE_GROUP_DESC": "Escalation di cinque livelli a Marrakech.",
+			"UI_CONTRACT_LUPINE_OBJ_1_2": "Elimina Dabir Wasim Abboud con un'esplosione",
+			"UI_CONTRACT_LUPINE_OBJ_3": "Elimina Nabhan Shamim Sleiman folgorandolo",
+			"UI_CONTRACT_LUPINE_OBJ_2_2": "Elimina Ashraf Raghib Mustafa con un'esplosione",
+			"UI_CONTRACT_LUPINE_OBJ_3_2": "Elimina Nabhan Shamim Sleiman con un'esplosione"
+		},
+		"de": {
+			"UI_CONTRACT_LUPINE_LEVEL_1_TITLE": "Die Raskoph-Satisfaktion – Stufe 1",
+			"UI_CONTRACT_LUPINE_OBJ_1": "Eliminieren Sie Dabir Wasim Abboud als Ladenbesitzer",
+			"UI_CONTRACT_LUPINE_LEVEL_2_TITLE": "Die Raskoph-Satisfaktion – Stufe 2",
+			"UI_CONTRACT_LUPINE_LEVEL_3_TITLE": "Die Raskoph-Satisfaktion – Stufe 3",
+			"UI_CONTRACT_LUPINE_LEVEL_4_TITLE": "Die Raskoph-Satisfaktion – Stufe 4",
+			"UI_CONTRACT_LUPINE_LEVEL_5_TITLE": "Die Raskoph-Satisfaktion – Stufe 5",
+			"UI_CONTRACT_LUPINE_GROUP_TITLE": "Die Raskoph-Satisfaktion",
+			"UI_CONTRACT_LUPINE_GROUP_DESC": "Fünf-Stufen-Eskalation in Marrakesch.",
+			"UI_CONTRACT_LUPINE_OBJ_1_2": "Eliminieren Sie Dabir Wasim Abboud mit einer Explosion",
+			"UI_CONTRACT_LUPINE_OBJ_3": "Eliminieren Sie Nabhan Shamim Sleiman mit einem Stromschlag",
+			"UI_CONTRACT_LUPINE_OBJ_2_2": "Eliminieren Sie Ashraf Raghib Mustafa mit einer Explosion",
+			"UI_CONTRACT_LUPINE_OBJ_3_2": "Eliminieren Sie Nabhan Shamim Sleiman mit einer Explosion"
+		},
+		"es": {
+			"UI_CONTRACT_LUPINE_LEVEL_1_TITLE": "La satisfacción de Raskoph - Nivel 1",
+			"UI_CONTRACT_LUPINE_OBJ_1": "Elimina a Dabir Wasim Abboud disfrazado de tendero",
+			"UI_CONTRACT_LUPINE_LEVEL_2_TITLE": "La satisfacción de Raskoph - Nivel 2",
+			"UI_CONTRACT_LUPINE_LEVEL_3_TITLE": "La satisfacción de Raskoph - Nivel 3",
+			"UI_CONTRACT_LUPINE_LEVEL_4_TITLE": "La satisfacción de Raskoph - Nivel 4",
+			"UI_CONTRACT_LUPINE_LEVEL_5_TITLE": "La satisfacción de Raskoph - Nivel 5",
+			"UI_CONTRACT_LUPINE_GROUP_TITLE": "La satisfacción de Raskoph",
+			"UI_CONTRACT_LUPINE_GROUP_DESC": "Intensificación de cinco niveles en Marrakech.",
+			"UI_CONTRACT_LUPINE_OBJ_1_2": "Elimina a Dabir Wasim Abboud en una explosión",
+			"UI_CONTRACT_LUPINE_OBJ_3": "Elimina a Nabhan Shamim Sleiman por electrocución",
+			"UI_CONTRACT_LUPINE_OBJ_2_2": "Elimina a Ashraf Raghib Mustafa en una explosión",
+			"UI_CONTRACT_LUPINE_OBJ_3_2": "Elimina a Nabhan Shamim Sleiman en una explosión"
+		}
+	}
+}

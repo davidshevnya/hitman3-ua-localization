@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0097345E0BAB0112",
+	"languages": {
+		"xx": {
+			"E99F6B20": "Title",
+			"70963A9A": "Summary",
+			"07910A0C": "Briefing",
+			"99F59FAF": "Conclusion",
+			"EEF2AF39": "Step 1",
+			"77FBFE83": "Step 2",
+			"00FCCE15": "Step 3",
+			"E744E312": "Step 5",
+			"87836AF7": "Step 6",
+			"9043D384": "Step 4",
+			"1E8A3B4D": "Step 7"
+		},
+		"en": {
+			"E99F6B20": "Catharsis",
+			"70963A9A": "Caruso expects a visit from a psychologist. I would love to be a fly on the wall in that session.",
+			"07910A0C": "It seems Ether management is concerned about Silvio Caruso's mental health. No doubt due to his mental breakdown last year. They have hired world-renowned psychologist Dr. Oscar Lafayette to treat the neurotic bioengineer. The session will no doubt take place in private, and furthermore, our records show that Caruso and Lafayette have not previously met.",
+			"99F59FAF": "A private therapy session with Caruso. Nicely done, 47. Now get under his skin.",
+			"EEF2AF39": "Find an emetic poison",
+			"77FBFE83": "Get a Waiter disguise",
+			"00FCCE15": "Poison Dr. Lafayette's coffee",
+			"E744E312": "Disguise yourself as Dr. Lafayette",
+			"87836AF7": "Talk to the mansion's butler",
+			"9043D384": "Wait for Dr. Lafayette to drink",
+			"1E8A3B4D": "Follow the butler to Silvio's room"
+		},
+		"fr": {
+			"E99F6B20": "Soulagement émotionnel",
+			"70963A9A": "Caruso attend la visite d'un psychologue. Je donnerais cher pour être une petite souris et espionner cette séance !",
+			"07910A0C": "Les dirigeants d'Ether semblent s'inquiéter de la santé mentale de Silvio Caruso, sans doute suite à la dépression qu'il a faite l'an dernier, et ils ont engagé le célèbre psychologue Oscar Lafayette pour lui venir en aide. L'entretien devrait avoir lieu à huis clos et marquera, selon nos informations, la toute première rencontre entre le psychologue et le biologiste.",
+			"99F59FAF": "Un entretien thérapeutique privé avec Caruso. Bien joué, 47. À présent, cuisinez-le.",
+			"EEF2AF39": "Procurez-vous un vomitif",
+			"77FBFE83": "Procurez-vous une tenue de serveur",
+			"00FCCE15": "Versez le vomitif dans le café du docteur Lafayette",
+			"E744E312": "Déguisez-vous en docteur Lafayette",
+			"87836AF7": "Parlez au majordome du manoir",
+			"9043D384": "Attendez que le docteur Lafayette finisse de boire",
+			"1E8A3B4D": "Suivez le majordome jusqu'à la chambre de Silvio"
+		},
+		"it": {
+			"E99F6B20": "Catarsi",
+			"70963A9A": "Caruso attende la visita di uno psichiatra. Vorrei essere una mosca sul muro per ascoltare la loro conversazione.",
+			"07910A0C": "La dirigenza della Ether sembra preoccupata per la salute mentale di Silvio Caruso. Dopotutto, l'anno scorso è stato vittima di un crollo nervoso. Hanno affidato il nevrotico bioingegnere a uno psichiatra di fama mondiale, il dottor Oscar Lafayette. La sessione terapeutica si terrà in un luogo privato. Inoltre, i nostri rapporti indicano che Caruso e Lafayette non si sono mai incontrati prima d'ora.",
+			"99F59FAF": "Una sessione di terapia privata con Caruso. Ben fatto, 47. Cerca di farlo irritare.",
+			"EEF2AF39": "Ottieni un veleno emetico",
+			"77FBFE83": "Procurati un travestimento da cameriere",
+			"00FCCE15": "Avvelena il caffè del dottor Lafayette",
+			"E744E312": "Travestiti da dottor Lafayette",
+			"87836AF7": "Parla con il maggiordomo della villa",
+			"9043D384": "Aspetta che il dottor Lafayette beva",
+			"1E8A3B4D": "Segui il maggiordomo fino alla stanza di Silvio"
+		},
+		"de": {
+			"E99F6B20": "Katharsis",
+			"70963A9A": "Caruso erwartet einen Psychologen. Ich würde bei dieser Sitzung zu gerne Mäuschen spielen.",
+			"07910A0C": "Offenbar macht sich das Management der Ether Corporation Sorgen um Silvio Carusos Geisteszustand. Vermutlich wegen seines Nervenzusammenbruchs im letzten Jahr. Sie haben deshalb einen anerkannten Psychologen engagiert, der den neurotischen Bioingenieur behandeln soll ... einen gewissen Dr. Oscar Lafayette. Die Sitzung findet garantiert unter vier Augen statt und es kommt noch besser: Laut unseren Informationen haben sich Caruso und Lafayette noch nie getroffen.",
+			"99F59FAF": "Eine private Therapiesitzung mit Caruso. Nicht übel, 47. Und jetzt fühlen Sie ihm auf den Zahn.",
+			"EEF2AF39": "Besorgen Sie ein Brechmittel",
+			"77FBFE83": "Verkleiden Sie sich als Kellner",
+			"00FCCE15": "Vergiften Sie Dr. Lafayettes Kaffee",
+			"E744E312": "Verkleiden Sie sich als Dr. Lafayette",
+			"87836AF7": "Sprechen Sie mit dem Butler des Anwesens",
+			"9043D384": "Warten Sie darauf, dass Dr. Lafayette trinkt",
+			"1E8A3B4D": "Folgen Sie dem Butler zu Silvios Zimmer"
+		},
+		"es": {
+			"E99F6B20": "Catarsis",
+			"70963A9A": "Caruso espera la visita de un psicólogo. Me encantaría poder oír lo que se dice en esa sesión.",
+			"07910A0C": "Parece que la dirección de Ether está preocupada por la salud mental de Silvio Caruso, seguramente debido a su crisis nerviosa del año pasado. Han contratado a un psicólogo mundialmente famoso, el doctor Oscar Lafayette, para que trate al neurótico ingeniero genético. Es de esperar que la sesión tenga lugar en privado y, según nuestros informes, este será el primer encuentro entre Caruso y Lafayette.",
+			"99F59FAF": "Una sesión privada de terapia con Caruso. Bien hecho, 47. Ahora métete en su cabeza.",
+			"EEF2AF39": "Consigue veneno emético",
+			"77FBFE83": "Consigue el disfraz de camarero",
+			"00FCCE15": "Envenena el café del doctor Lafayette",
+			"E744E312": "Disfrázate del doctor Lafayette",
+			"87836AF7": "Habla con el mayordomo de la mansión",
+			"9043D384": "Espera a que el doctor Lafayette beba",
+			"1E8A3B4D": "Sigue al mayordomo a la habitación de Silvio"
+		}
+	}
+}

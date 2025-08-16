@@ -1,0 +1,48 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0010AA12E47869FF",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_ANTHOGONIUM_GROUP_TITLE": "The Raaz Algorithm",
+			"UI_CONTRACT_ANTHOGONIUM_GROUP_DESC": "Three Level Escalation in Mumbai",
+			"UI_CONTRACT_ANTHOGONIUM_LEVEL_1_TITLE": "The Raaz Algorithm - Level 1",
+			"UI_CONTRACT_ANTHOGONIUM_LEVEL_2_TITLE": "The Raaz Algorithm - Level 2",
+			"UI_CONTRACT_ANTHOGONIUM_LEVEL_3_TITLE": "The Raaz Algorithm - Level 3"
+		},
+		"en": {
+			"UI_CONTRACT_ANTHOGONIUM_GROUP_TITLE": "The Raaz Algorithm",
+			"UI_CONTRACT_ANTHOGONIUM_GROUP_DESC": "Three Level Escalation in Mumbai.",
+			"UI_CONTRACT_ANTHOGONIUM_LEVEL_1_TITLE": "The Raaz Algorithm - Level 1",
+			"UI_CONTRACT_ANTHOGONIUM_LEVEL_2_TITLE": "The Raaz Algorithm - Level 2",
+			"UI_CONTRACT_ANTHOGONIUM_LEVEL_3_TITLE": "The Raaz Algorithm - Level 3"
+		},
+		"fr": {
+			"UI_CONTRACT_ANTHOGONIUM_GROUP_TITLE": "L'algorithme de Raaz",
+			"UI_CONTRACT_ANTHOGONIUM_GROUP_DESC": "Escalade en trois niveaux à Bombay",
+			"UI_CONTRACT_ANTHOGONIUM_LEVEL_1_TITLE": "L'algorithme de Raaz - Niveau 1",
+			"UI_CONTRACT_ANTHOGONIUM_LEVEL_2_TITLE": "L'algorithme de Raaz - Niveau 2",
+			"UI_CONTRACT_ANTHOGONIUM_LEVEL_3_TITLE": "L'algorithme de Raaz - Niveau 3"
+		},
+		"it": {
+			"UI_CONTRACT_ANTHOGONIUM_GROUP_TITLE": "L'algoritmo di Raaz",
+			"UI_CONTRACT_ANTHOGONIUM_GROUP_DESC": "Escalation di tre livelli a Mumbai.",
+			"UI_CONTRACT_ANTHOGONIUM_LEVEL_1_TITLE": "L'algoritmo di Raaz - Livello 1",
+			"UI_CONTRACT_ANTHOGONIUM_LEVEL_2_TITLE": "L'algoritmo di Raaz - Livello 2",
+			"UI_CONTRACT_ANTHOGONIUM_LEVEL_3_TITLE": "L'algoritmo di Raaz - Livello 3"
+		},
+		"de": {
+			"UI_CONTRACT_ANTHOGONIUM_GROUP_TITLE": "Der Raaz-Algorithmus",
+			"UI_CONTRACT_ANTHOGONIUM_GROUP_DESC": "Drei-Stufen-Eskalation in Mumbai.",
+			"UI_CONTRACT_ANTHOGONIUM_LEVEL_1_TITLE": "Der Raaz-Algorithmus – Stufe 1",
+			"UI_CONTRACT_ANTHOGONIUM_LEVEL_2_TITLE": "Der Raaz-Algorithmus – Stufe 2",
+			"UI_CONTRACT_ANTHOGONIUM_LEVEL_3_TITLE": "Der Raaz-Algorithmus – Stufe 3"
+		},
+		"es": {
+			"UI_CONTRACT_ANTHOGONIUM_GROUP_TITLE": "El algoritmo de Raaz",
+			"UI_CONTRACT_ANTHOGONIUM_GROUP_DESC": "Intensificación de tres niveles en Bombay.",
+			"UI_CONTRACT_ANTHOGONIUM_LEVEL_1_TITLE": "El algoritmo de Raaz - Nivel 1",
+			"UI_CONTRACT_ANTHOGONIUM_LEVEL_2_TITLE": "El algoritmo de Raaz - Nivel 2",
+			"UI_CONTRACT_ANTHOGONIUM_LEVEL_3_TITLE": "El algoritmo de Raaz - Nivel 3"
+		}
+	}
+}

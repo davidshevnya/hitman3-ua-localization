@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "008B0F9FE38EC230",
+	"languages": {
+		"xx": {
+			"26CA4968": "Title",
+			"BFC318D2": "Summary",
+			"C8C42844": "Briefing",
+			"56A0BDE7": "Conclusion",
+			"21A78D71": "Step 1",
+			"B8AEDCCB": "Step 2",
+			"CFA9EC5D": "Step 3",
+			"5F16F1CC": "Step 4"
+		},
+		"en": {
+			"26CA4968": "Memento",
+			"BFC318D2": "Caruso keeps a secret safe in the attic. Could turn out interesting.",
+			"C8C42844": "The Ether Corporation clearly doesn't trust Caruso and have ordered their proxy, De Santis, to spy on him. Paranoid or not, the content of Caruso's safe is sure to be useful.",
+			"56A0BDE7": "Well done, 47. This should keep De Santis distracted for a while.",
+			"21A78D71": "Find the safe combination",
+			"B8AEDCCB": "Investigate the safe",
+			"CFA9EC5D": "Get a Mansion Security Guard disguise",
+			"5F16F1CC": "Give the DNA sample to De Santis"
+		},
+		"fr": {
+			"26CA4968": "Petit souvenir",
+			"BFC318D2": "Caruso cache un secret dans son grenier ! Ça pourrait être intéressant.",
+			"C8C42844": "Les dirigeants d'Ether Corporation ne font pas confiance à Caruso et ont demandé à leur mandataire, De Santis, de l'espionner. Que Caruso soit ou non paranoïaque, une chose est sûre : le contenu de son coffre-fort est digne d'intérêt.",
+			"56A0BDE7": "Beau travail, 47. Voilà qui devrait occuper De Santis un moment.",
+			"21A78D71": "Trouvez la combinaison du coffre-fort",
+			"B8AEDCCB": "Fouillez le coffre-fort",
+			"CFA9EC5D": "Procurez-vous une tenue de garde du manoir",
+			"5F16F1CC": "Remettez l'échantillon d'ADN à De Santis"
+		},
+		"it": {
+			"26CA4968": "Souvenir del passato",
+			"BFC318D2": "Caruso ha una cassaforte segreta nell'attico. Potrebbe rivelarsi interessante.",
+			"C8C42844": "La Ether Corporation non si fida di Caruso e ha chiesto a De Santis di tenerlo d'occhio. Forse è solo paranoia, ma la cassaforte di Caruso contiene senza dubbio qualcosa di utile.",
+			"56A0BDE7": "Ottimo lavoro, 47. Questo dovrebbe distrarre De Santis.",
+			"21A78D71": "Trova la combinazione della cassaforte",
+			"B8AEDCCB": "Ispeziona la cassaforte",
+			"CFA9EC5D": "Procurati un travestimento da guardia della villa",
+			"5F16F1CC": "Consegna il campione di DNA a De Santis"
+		},
+		"de": {
+			"26CA4968": "Memento",
+			"BFC318D2": "Caruso hat einen geheimen Safe auf dem Dachboden. Könnte interessant sein.",
+			"C8C42844": "Die Ether Corporation traut Caruso nicht und hat De Santis gebeten, ihn im Auge zu behalten. Paranoid oder nicht, der Inhalt von Carusos Safe wäre definitiv nützlich.",
+			"56A0BDE7": "Gute Arbeit, 47. Das dürfte De Santis eine Weile ablenken.",
+			"21A78D71": "Finden Sie die Safekombination",
+			"B8AEDCCB": "Untersuchen Sie den Safe",
+			"CFA9EC5D": "Verkleiden Sie sich als Villa-Wachmann",
+			"5F16F1CC": "Geben Sie De Santis die DNA-Probe"
+		},
+		"es": {
+			"26CA4968": "Recuerdo",
+			"BFC318D2": "Caruso tiene una caja fuerte secreta en el ático. Podría ser interesante.",
+			"C8C42844": "Está claro que la Corporación Ether no confía en Caruso, ya que ha ordenado a su representante, De Santis, que lo espíe. Paranoico o no, el contenido de la caja fuerte de Caruso seguro que es útil.",
+			"56A0BDE7": "Buen trabajo, 47. Eso debería mantener a De Santis distraída durante un rato.",
+			"21A78D71": "Encuentra la combinación de la caja fuerte",
+			"B8AEDCCB": "Investiga la caja fuerte",
+			"CFA9EC5D": "Consigue el disfraz de guardia de seguridad de la mansión",
+			"5F16F1CC": "Dale la muestra de ADN a De Santis"
+		}
+	}
+}

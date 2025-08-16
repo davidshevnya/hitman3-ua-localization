@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0045E6A5A899555C",
+	"languages": {
+		"xx": {
+			"C0292494": "PH_Run_Text",
+			"5AE87C63": "PH_RunHeadline"
+		},
+		"en": {
+			"C0292494": "Press and hold {RUN} to run.",
+			"5AE87C63": "Running"
+		},
+		"fr": {
+			"C0292494": "Maintenez {RUN} pour courir.",
+			"5AE87C63": "Courir"
+		},
+		"it": {
+			"C0292494": "Tieni premuto {RUN} per correre.",
+			"5AE87C63": "Corsa"
+		},
+		"de": {
+			"C0292494": "Drücken und halten Sie {RUN}, um zu rennen.",
+			"5AE87C63": "Rennen"
+		},
+		"es": {
+			"C0292494": "Mantén {RUN} para correr.",
+			"5AE87C63": "Correr"
+		}
+	}
+}

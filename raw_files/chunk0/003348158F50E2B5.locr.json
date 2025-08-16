@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "003348158F50E2B5",
+	"languages": {
+		"xx": {
+			"A6E37AB5": "Thief - Placeholder",
+			"E6AD3E4D": "Placeholder",
+			"378F68E7": "Help the target find his stolen Item and be rewarded - Placeholder",
+			"73AFC32B": "Give the stolen Item to Tyson - Placeholder",
+			"AF162EDE": "Obtain a Villa Guard Disguise - Placeholder",
+			"7171AFDB": "Find clues on who stole the item - Placeholder",
+			"B4B5E055": "Infiltrate the Facility- Placeholder",
+			"5432CDE1": "Find the thief in the underground",
+			"2B434068": "Retrieve Stolen Item - Placeholder",
+			"2DCDF16B": "Bring the USB to Williams",
+			"D0FC9857": "Follow Tyson Williams"
+		},
+		"en": {
+			"A6E37AB5": "Idle Hands",
+			"E6AD3E4D": "A thief in paradise? Someone's stolen a USB from Tyson Williams and now the entire security squad is looking for it. Perhaps you should look closer at those security tapes, 47?",
+			"378F68E7": "A Stolen Item",
+			"73AFC32B": "Access to William's secret office... Good place for a one-on-one, 47.",
+			"AF162EDE": "Disguise Yourself as a Villa Guard",
+			"7171AFDB": "Uncover the Thief's Identity",
+			"B4B5E055": "Infiltrate the Facility",
+			"5432CDE1": "Search for the Thief in the Facility",
+			"2B434068": "Retrieve the Stolen USB Stick",
+			"2DCDF16B": "Bring the USB Stick to Tyson Williams",
+			"D0FC9857": "Follow Tyson Williams"
+		},
+		"fr": {
+			"A6E37AB5": "Oisiveté propice",
+			"E6AD3E4D": "Un voleur au paradis ? Quelqu'un a volé une clé USB à Tyson Williams, et tous les agents de sécurité sont à sa recherche. Les vidéos de surveillance pourraient bien vous apprendre quelque chose, 47.",
+			"378F68E7": "Un objet volé",
+			"73AFC32B": "Le bureau secret de Williams… L'endroit rêvé pour un face-à-face, 47.",
+			"AF162EDE": "Déguisez-vous en garde de la villa",
+			"7171AFDB": "Dévoilez l'identité du voleur",
+			"B4B5E055": "Infiltrez le complexe",
+			"5432CDE1": "Cherchez le voleur dans le complexe",
+			"2B434068": "Récupérez la clé USB volée",
+			"2DCDF16B": "Apportez la clé USB à Tyson Williams",
+			"D0FC9857": "Suivez Tyson Williams"
+		},
+		"it": {
+			"A6E37AB5": "Con le mani in mano",
+			"E6AD3E4D": "Un ladro in paradiso? Qualcuno ha rubato una chiavetta USB a Tyson Williams e adesso l'intera squadra di addetti alla sicurezza la sta cercando. 47, forse vale la pena di dare un'occhiata a quei nastri della sicurezza.",
+			"378F68E7": "Un oggetto rubato",
+			"73AFC32B": "L'accesso all'ufficio segreto di Williams... È il posto adatto per un faccia a faccia, 47.",
+			"AF162EDE": "Travestiti da guardia della villa",
+			"7171AFDB": "Scopri l'identità del ladro",
+			"B4B5E055": "Infiltrati nella struttura",
+			"5432CDE1": "Cerca il ladro nella struttura",
+			"2B434068": "Recupera la chiavetta USB rubata",
+			"2DCDF16B": "Porta la chiavetta USB a Tyson Williams",
+			"D0FC9857": "Segui Tyson Williams"
+		},
+		"de": {
+			"A6E37AB5": "Aller Laster Anfang",
+			"E6AD3E4D": "Ein Dieb im Paradies? Jemand hat einen USB-Stick von Tyson Williams gestohlen, und nun sucht der ganze Sicherheitstrupp danach. Vielleicht sollten Sie sich einmal die Überwachungsbänder anschauen, 47?",
+			"378F68E7": "Ein gestohlener Gegenstand",
+			"73AFC32B": "Zugang zu Williams’ geheimem Büro … Ein guter Ort für ein Gespräch unter vier Augen, 47.",
+			"AF162EDE": "Verkleiden Sie sich als Villa-Wache.",
+			"7171AFDB": "Entlarven Sie den Dieb.",
+			"B4B5E055": "Infiltrieren Sie die Anlage.",
+			"5432CDE1": "Suchen Sie in der Anlage nach dem Dieb.",
+			"2B434068": "Beschaffen Sie den gestohlenen USB-Stick.",
+			"2DCDF16B": "Bringen Sie Tyson Williams den gestohlenen USB-Stick.",
+			"D0FC9857": "Folgen Sie Tyson Williams."
+		},
+		"es": {
+			"A6E37AB5": "Dedos largos",
+			"E6AD3E4D": "¿Hay un ladrón en el paraíso? Alguien le ha robado un USB a Tyson Williams y ahora está todo el equipo de seguridad buscándolo. ¿Por qué no analizas más a fondo esas cintas de seguridad, 47?",
+			"378F68E7": "Un objeto robado",
+			"73AFC32B": "Acceso a la oficina secreta de Williams... Es un buen sitio para un cara a cara, 47.",
+			"AF162EDE": "Disfrázate de guardia de la villa",
+			"7171AFDB": "Descubre la identidad del ladrón",
+			"B4B5E055": "Infíltrate en las instalaciones",
+			"5432CDE1": "Busca al ladrón en las instalaciones",
+			"2B434068": "Recupera la memoria USB robada",
+			"2DCDF16B": "Llévale la memoria USB a Tyson Williams",
+			"D0FC9857": "Sigue a Tyson Williams"
+		}
+	}
+}

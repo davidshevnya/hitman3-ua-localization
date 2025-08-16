@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00979FE83D4513B0",
+	"languages": {
+		"xx": {
+			"7318CFD6": "Title",
+			"BBEDF40A": "Headline",
+			"AFA2EF81": "Briefing",
+			"C24FDD75": "Conclusion",
+			"C2B49A92": "",
+			"E179E907": "",
+			"C3EBD07A": "",
+			"79F84754": "",
+			"75CBF145": "",
+			"2F3B387B": "",
+			"1DE243D9": "",
+			"30D42A04": ""
+		},
+		"en": {
+			"7318CFD6": "Point Man",
+			"BBEDF40A": "So. There's been a training accident. Well, misery loves company.",
+			"AFA2EF81": "A battering ram has injured one of the strike team. Point man by the name of Burgess. And according to those militiamen, Maya Parvati likes to oversee training. Sounds promising. I suggest you infiltrate the strike team, 47. Perhaps you can relieve the hapless point man of his duties.",
+			"C24FDD75": "Nicely done, 47. Parvati won't know what hit her.",
+			"C2B49A92": "Disguise yourself as the Point Man",
+			"E179E907": "Talk to Maya Parvati",
+			"C3EBD07A": "Wait for Sean Rose",
+			"79F84754": "Listen to the training briefing",
+			"75CBF145": "Get into position",
+			"2F3B387B": "Take part in the training routine",
+			"1DE243D9": "Disable the safety system",
+			"30D42A04": "Listen to the debriefing"
+		},
+		"fr": {
+			"7318CFD6": "Homme de pointe",
+			"BBEDF40A": "Il y a eu un accident d'entraînement. Un malheur n'arrive jamais seul.",
+			"AFA2EF81": "Un membre de l'équipe d'assaut a été blessé par un bélier. L'homme de pointe, un certain Burgess. Selon les miliciens, Maya Parvati aime superviser l'entraînement. Ça tombe bien. Vous devriez infiltrer l'équipe d'assaut. Vous pourriez remplacer ce pauvre homme de pointe.",
+			"C24FDD75": "Bravo, 47. Parvati ne verra rien venir.",
+			"C2B49A92": "Procurez-vous la tenue de l'homme de pointe",
+			"E179E907": "Parlez à Maya Parvati",
+			"C3EBD07A": "Attendez Sean Rose",
+			"79F84754": "Écoutez le briefing d'entraînement",
+			"75CBF145": "Mettez-vous en position",
+			"2F3B387B": "Participez à l'entraînement",
+			"1DE243D9": "Désactivez le système d'avertissement",
+			"30D42A04": "Écoutez le débriefing"
+		},
+		"it": {
+			"7318CFD6": "Il caposquadra",
+			"BBEDF40A": "Si è verificato un incidente durante l'addestramento. Come suol dire, le disgrazie non vengono mai sole...",
+			"AFA2EF81": "Un ariete da sfondamento ha ferito uno dei membri della squadra d'assalto, il caposquadra Burgess. Secondo quei miliziani, inoltre, Maya Parvati ama supervisionare le sessioni di addestramento. Sembra promettente. Ti suggerisco di infiltrarti nella squadra d'assalto, 47. Forse puoi prendere il posto di quello sfortunato caposquadra.",
+			"C24FDD75": "Bel lavoro, 47. Parvati non farà nemmeno in tempo a capire cosa l'abbia colpita.",
+			"C2B49A92": "Travestiti da caposquadra",
+			"E179E907": "Parla con Maya Parvati",
+			"C3EBD07A": "Aspetta Sean Rose",
+			"79F84754": "Ascolta il briefing della sessione d'addestramento",
+			"75CBF145": "Va' in posizione",
+			"2F3B387B": "Partecipa alla sessione d'addestramento",
+			"1DE243D9": "Disattiva il sistema di sicurezza",
+			"30D42A04": "Ascolta il resoconto"
+		},
+		"de": {
+			"7318CFD6": "Schütze",
+			"BBEDF40A": "Es gab einen Trainingsunfall. Tja, ein Unglück kommt selten allein.",
+			"AFA2EF81": "Eine Ramme hat den Anführer des Strike-Teams verletzt, einen Mann namens Burgess. Und laut der Milizionäre überwacht Maya Parvati das Training für gewöhnlich. Klingt vielversprechend. Ich schlage vor, Sie infiltrieren das Strike-Team, 47. Vielleicht können Sie den armen Mann ja von seinen Pflichten entbinden.",
+			"C24FDD75": "Gute Arbeit, 47. Parvati wird nie erfahren, was passiert ist.",
+			"C2B49A92": "Verkleiden Sie sich als der Anführer des Strike-Teams",
+			"E179E907": "Sprechen Sie mit Maya Parvati",
+			"C3EBD07A": "Warten Sie auf Sean Rose",
+			"79F84754": "Hören Sie sich die Trainingsbesprechung an",
+			"75CBF145": "Nehmen Sie Ihre Stellung ein",
+			"2F3B387B": "Nehmen Sie am Training teil",
+			"1DE243D9": "Schalten Sie das Sicherheitssystem aus",
+			"30D42A04": "Hören Sie sich die Einsatzbesprechung an"
+		},
+		"es": {
+			"7318CFD6": "Hombre punta",
+			"BBEDF40A": "Bueno. Ha habido un accidente durante un entrenamiento. Vaya, las desgracias nunca vienen solas.",
+			"AFA2EF81": "Un miliciano del equipo de asalto ha resultado herido con un quitapiedras. El hombre punta en cuestión se llama Burgess, y, según parece, a Maya Parvati le gusta supervisar los entrenamientos. Suena prometedor. Te sugiero que te infiltres en el equipo de asalto, 47. Podrías relevar al pobre hombre de sus funciones.",
+			"C24FDD75": "Bien hecho, 47. Parvati no sabrá ni lo que ha pasado.",
+			"C2B49A92": "Disfrázate como el hombre punta",
+			"E179E907": "Habla con Maya Parvati",
+			"C3EBD07A": "Espera a Sean Rose",
+			"79F84754": "Escucha las instrucciones del entrenamiento",
+			"75CBF145": "Ponte en posición",
+			"2F3B387B": "Participa en el entrenamiento",
+			"1DE243D9": "Desactiva el sistema de seguridad",
+			"30D42A04": "Escucha el informe"
+		}
+	}
+}

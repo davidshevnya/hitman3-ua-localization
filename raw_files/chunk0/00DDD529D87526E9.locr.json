@@ -1,0 +1,36 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00DDD529D87526E9",
+	"languages": {
+		"xx": {
+			"9B66A3A3": "PH_Throw",
+			"2E6BFAF0": "PH_Headline",
+			"6ED4A7C8": "PH_Text"
+		},
+		"en": {
+			"9B66A3A3": "Knock Out the Crewman.",
+			"2E6BFAF0": "Throwing",
+			"6ED4A7C8": "Hold {AIM} to aim, and press {TOSS} to throw."
+		},
+		"fr": {
+			"9B66A3A3": "Assommez le membre d'équipage.",
+			"2E6BFAF0": "Lancer",
+			"6ED4A7C8": "Maintenez {AIM} pour viser et appuyez sur {TOSS} pour lancer."
+		},
+		"it": {
+			"9B66A3A3": "Metti K.O. il membro dell'equipaggio.",
+			"2E6BFAF0": "Lanciare",
+			"6ED4A7C8": "Tieni premuto {AIM} per prendere la mira e premi {TOSS} per lanciare."
+		},
+		"de": {
+			"9B66A3A3": "Schlagen Sie das Besatzungsmitglied k.o.",
+			"2E6BFAF0": "Werfen",
+			"6ED4A7C8": "Halten Sie {AIM} zum Zielen und drücken Sie {TOSS}, um zu werfen."
+		},
+		"es": {
+			"9B66A3A3": "Noquea al tripulante.",
+			"2E6BFAF0": "Lanzar",
+			"6ED4A7C8": "Mantén {AIM} para apuntar y pulsa {TOSS} para lanzar."
+		}
+	}
+}

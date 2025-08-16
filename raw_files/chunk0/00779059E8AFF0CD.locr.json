@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00779059E8AFF0CD",
+	"languages": {
+		"xx": {
+			"0284C5A2": "PH_Headline",
+			"194A7538": "PH_BodyText"
+		},
+		"en": {
+			"0284C5A2": "Locked Door",
+			"194A7538": "A locked door can be breached with a crowbar."
+		},
+		"fr": {
+			"0284C5A2": "Porte verrouillée",
+			"194A7538": "Une porte verrouillée peut être forcée grâce à un pied-de-biche."
+		},
+		"it": {
+			"0284C5A2": "Porta chiusa a chiave",
+			"194A7538": "Puoi forzare una porta chiusa a chiave con un piede di porco."
+		},
+		"de": {
+			"0284C5A2": "Verriegelte Tür",
+			"194A7538": "Eine verriegelte Tür kann mit einer Brechstange aufgebrochen werden."
+		},
+		"es": {
+			"0284C5A2": "Puerta cerrada",
+			"194A7538": "Una puerta cerrada puede forzarse con una palanqueta."
+		}
+	}
+}

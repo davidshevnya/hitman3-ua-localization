@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/input.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"F253C7EC": "Caps Lock",
+			"FA35A243": "Enter",
+			"332D0990": "Esc",
+			"AB0AE076": "L Alt",
+			"1BCCC0DA": "R Alt",
+			"FAC3A11A": "L Ctrl",
+			"251388F9": "R Ctrl",
+			"D32F9B05": "L Shift",
+			"EAF3F8EE": "R Shift",
+			"6A64AA10": "Page Down",
+			"8AE0F1BE": "Page Up",
+			"6A37A317": "Spacebar"
+		},
+		"en": {
+			"F253C7EC": "Caps Lock",
+			"FA35A243": "Enter",
+			"332D0990": "Esc",
+			"AB0AE076": "L Alt",
+			"1BCCC0DA": "R Alt",
+			"FAC3A11A": "L Ctrl",
+			"251388F9": "R Ctrl",
+			"D32F9B05": "L Shift",
+			"EAF3F8EE": "R Shift",
+			"6A64AA10": "Page Down",
+			"8AE0F1BE": "Page Up",
+			"6A37A317": "Spacebar"
+		},
+		"fr": {
+			"F253C7EC": "Caps Lock",
+			"FA35A243": "Enter",
+			"332D0990": "Esc",
+			"AB0AE076": "L Alt",
+			"1BCCC0DA": "R Alt",
+			"FAC3A11A": "L Ctrl",
+			"251388F9": "R Ctrl",
+			"D32F9B05": "L Shift",
+			"EAF3F8EE": "R Shift",
+			"6A64AA10": "Page Down",
+			"8AE0F1BE": "Page Up",
+			"6A37A317": "Spacebar"
+		},
+		"it": {
+			"F253C7EC": "Caps Lock",
+			"FA35A243": "Enter",
+			"332D0990": "Esc",
+			"AB0AE076": "L Alt",
+			"1BCCC0DA": "R Alt",
+			"FAC3A11A": "L Ctrl",
+			"251388F9": "R Ctrl",
+			"D32F9B05": "L Shift",
+			"EAF3F8EE": "R Shift",
+			"6A64AA10": "Page Down",
+			"8AE0F1BE": "Page Up",
+			"6A37A317": "Spacebar"
+		},
+		"de": {
+			"F253C7EC": "Feststell",
+			"FA35A243": "Eingabe",
+			"332D0990": "Esc",
+			"AB0AE076": "Alt Gr",
+			"1BCCC0DA": "Alt",
+			"FAC3A11A": "Strg L",
+			"251388F9": "Strg R",
+			"D32F9B05": "Umstell L",
+			"EAF3F8EE": "Umstell R",
+			"6A64AA10": "Bild Ab",
+			"8AE0F1BE": "Bild Auf",
+			"6A37A317": "Leer"
+		},
+		"es": {
+			"F253C7EC": "Caps Lock",
+			"FA35A243": "Enter",
+			"332D0990": "Esc",
+			"AB0AE076": "L Alt",
+			"1BCCC0DA": "R Alt",
+			"FAC3A11A": "L Ctrl",
+			"251388F9": "R Ctrl",
+			"D32F9B05": "L Shift",
+			"EAF3F8EE": "R Shift",
+			"6A64AA10": "Page Down",
+			"8AE0F1BE": "Page Up",
+			"6A37A317": "Spacebar"
+		}
+	}
+}

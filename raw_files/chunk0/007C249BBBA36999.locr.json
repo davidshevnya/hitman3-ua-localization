@@ -1,0 +1,60 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "007C249BBBA36999",
+	"languages": {
+		"xx": {
+			"E3FD0943": "Title",
+			"B2367717": "Flavor",
+			"8CA1677B": "Description",
+			"56E75C9E": "Conclusion",
+			"8A42A4F9": "STEP 1",
+			"134BF543": "STEP 2",
+			"644CC5D5": "STEP 3"
+		},
+		"en": {
+			"E3FD0943": "The Heist",
+			"B2367717": "Hmm, the vault looks even more fortified than we feared. If I'm not mistaken, only high-tier security is allowed in here. Access seems to be restricted to the use of a keycard of some sort. Hang on. There's a similar security hub on the second floor. You might be able to acquire what you need there?",
+			"8CA1677B": "How to break the bank?",
+			"56E75C9E": "Excellent, 47. Now all that remains is to get inside the vault itself.",
+			"8A42A4F9": "Disguise yourself as High Security Guard",
+			"134BF543": "Obtain a High Security Keycard",
+			"644CC5D5": "Enter the Vault Area"
+		},
+		"fr": {
+			"E3FD0943": "Le casse",
+			"B2367717": "Hm, la chambre forte a l'air encore plus sécurisée que l'on ne pensait. Je pense qu'il faut un niveau d'accès très élevé pour pouvoir entrer… Il faut visiblement présenter une carte d'accès pour entrer dans la chambre. Un instant. Il y a un système de sécurité similaire au deuxième étage… Peut-être pourriez-vous trouver ce qu'il vous faut là-haut ?",
+			"8CA1677B": "Comment pénétrer dans la banque ?",
+			"56E75C9E": "Excellent, 47. Il ne reste plus qu'à entrer dans la chambre forte.",
+			"8A42A4F9": "Déguisez-vous en agent de haute sécurité",
+			"134BF543": "Trouvez une carte d'accès de haute sécurité",
+			"644CC5D5": "Entrez dans la zone de la chambre forte"
+		},
+		"it": {
+			"E3FD0943": "La rapina",
+			"B2367717": "Uhm, la camera blindata sembra ancor più rinforzata di quanto temessimo. Se non sbaglio, solo ai membri della sicurezza di alto livello è concesso entrare qui. A quanto pare è possibile entrare solo utilizzando una chiave magnetica di qualche tipo. Aspetta. Al secondo piano c'è un centro di sicurezza simile. Riuscirai a trovare là ciò che ti serve?",
+			"8CA1677B": "Come si irrompe nella banca?",
+			"56E75C9E": "Eccellente, 47. Ora non resta che entrare nella camera blindata.",
+			"8A42A4F9": "Travestiti da guardia di massima sicurezza",
+			"134BF543": "Ottieni la chiave magnetica di massima sicurezza",
+			"644CC5D5": "Entra nella zona della camera blindata"
+		},
+		"de": {
+			"E3FD0943": "Der Banküberfall",
+			"B2367717": "Hm. Offenbar ist der Tresorraum sogar noch besser geschützt als befürchtet. Wenn mich nicht alles täuscht, ist nur den wichtigsten Mitarbeitern der Zutritt gestattet. Für den Zugang braucht man anscheinend eine Schlüsselkarte. Moment. Im zweiten Stock gibt es eine ähnliche Sicherheitszentrale. Vielleicht finden Sie dort ja, was Sie suchen?",
+			"8CA1677B": "Wie bricht man in eine Bank ein?",
+			"56E75C9E": "Ausgezeichnet, 47. Jetzt müssen Sie nur noch in den Tresorraum kommen.",
+			"8A42A4F9": "Verkleiden Sie sich als wichtiger Wachmann.",
+			"134BF543": "Holen Sie sich eine Schlüsselkarte eines wichtigen Wachmanns.",
+			"644CC5D5": "Betreten Sie den Tresorbereich."
+		},
+		"es": {
+			"E3FD0943": "El golpe",
+			"B2367717": "Mmm, la cámara parece estar aún más fortificada de lo que nos temíamos. Si no me equivoco, aquí solo se puede entrar con un permiso de seguridad de alto nivel. El acceso está restringido y solo se puede acceder con una especie de tarjeta. Espera. Hay un centro de seguridad similar en la segunda planta. Puede que allí consigas lo que necesitas.",
+			"8CA1677B": "¿Cómo colarse en el banco?",
+			"56E75C9E": "Excelente, 47. Ahora ya solo nos falta entrar en la cámara acorazada.",
+			"8A42A4F9": "Disfrázate de guardia de alta seguridad",
+			"134BF543": "Obtén una tarjeta de acceso de alta seguridad",
+			"644CC5D5": "Entra en la zona de la cámara acorazada"
+		}
+	}
+}

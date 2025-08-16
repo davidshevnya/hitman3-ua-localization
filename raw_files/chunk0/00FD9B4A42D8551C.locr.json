@@ -1,0 +1,12 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_npcs_caged.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {},
+		"en": {},
+		"fr": {},
+		"it": {},
+		"de": {},
+		"es": {}
+	}
+}

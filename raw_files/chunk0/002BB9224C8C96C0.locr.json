@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "002BB9224C8C96C0",
+	"languages": {
+		"xx": {
+			"3FDD2809": "Safety First",
+			"A6D479B3": "According to the evacuation plan, Viktor Novikov’s guards will escort him to the rear garden area in case the fire alarm is triggered.",
+			"D1D34925": "Calling in a \"Code 14\" will force Novikov and Dahlia into the same room",
+			"4FB7DC86": "Get a bodyguard disguise",
+			"38B0EC10": "Find a walkie talkie",
+			"A1B9BDAA": "Call it in"
+		},
+		"en": {
+			"3FDD2809": "Safety First",
+			"A6D479B3": "According to the evacuation plan, Viktor Novikov’s guards will escort him to the rear garden area in case the fire alarm is triggered.",
+			"D1D34925": "Calling in a \"Code 14\" will force Novikov and Dalia into the same room",
+			"4FB7DC86": "Get a Bodyguard disguise",
+			"38B0EC10": "Find a walkie talkie",
+			"A1B9BDAA": "Call it in"
+		},
+		"fr": {
+			"3FDD2809": "La sécurité avant tout",
+			"A6D479B3": "D'après le plan d'évacuation, les gardes de Victor Novikov l'escorteront au jardin à l'arrière si l'alarme incendie est déclenchée.",
+			"D1D34925": "Faire appel au \"Code 14\" forcera Novikov et Dalia à se rejoindre dans la même chambre.",
+			"4FB7DC86": "Procurez-vous une tenue de garde du corps",
+			"38B0EC10": "Trouvez un talkie walkie",
+			"A1B9BDAA": "Sonnez l'alerte"
+		},
+		"it": {
+			"3FDD2809": "",
+			"A6D479B3": "",
+			"D1D34925": "",
+			"4FB7DC86": "Procurati un travestimento da guardia del corpo",
+			"38B0EC10": "",
+			"A1B9BDAA": ""
+		},
+		"de": {
+			"3FDD2809": "",
+			"A6D479B3": "",
+			"D1D34925": "",
+			"4FB7DC86": "Verkleiden Sie sich als Leibwächter",
+			"38B0EC10": "",
+			"A1B9BDAA": ""
+		},
+		"es": {
+			"3FDD2809": "La seguridad es lo primero",
+			"A6D479B3": "De acuerdo con el plan de evacuación, los guardias de Viktor Novikov lo escoltarán hasta la zona del jardín trasero en caso de que se active la alarma de incendio",
+			"D1D34925": "",
+			"4FB7DC86": "Consigue el disfraz de guardaespaldas",
+			"38B0EC10": "Encuentra un Walkie-Talkie",
+			"A1B9BDAA": ""
+		}
+	}
+}

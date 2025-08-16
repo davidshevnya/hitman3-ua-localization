@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "001106FA5764E910",
+	"languages": {
+		"xx": {
+			"6E901E28": "as Security Guard",
+			"993BD95D": "as Guard",
+			"140F93B1": "as Penthouse Guard",
+			"F97373EF": "as Penthouse Staff",
+			"08E30B43": "as Art Technician",
+			"BCC2E14A": "as Event Staff",
+			"74473903": "as Staff",
+			"47AFAF53": "as Maintenance Staff"
+		},
+		"en": {
+			"6E901E28": "as Security Guard",
+			"993BD95D": "as Guard",
+			"140F93B1": "as Penthouse Guard",
+			"F97373EF": "as Penthouse Staff",
+			"08E30B43": "as Art Technician",
+			"BCC2E14A": "as Event Staff",
+			"74473903": "as Staff",
+			"47AFAF53": "as Maintenance Staff"
+		},
+		"fr": {
+			"6E901E28": "en agent de sécurité",
+			"993BD95D": "en garde",
+			"140F93B1": "en garde du penthouse",
+			"F97373EF": "en employé du penthouse",
+			"08E30B43": "en technicien d'art",
+			"BCC2E14A": "en employé de l'événement",
+			"74473903": "en employé",
+			"47AFAF53": "en concierge"
+		},
+		"it": {
+			"6E901E28": "come addetto alla sicurezza",
+			"993BD95D": "come guardia",
+			"140F93B1": "come guardia dell'attico",
+			"F97373EF": "come membro del personale dell'attico",
+			"08E30B43": "come tecnico artistico",
+			"BCC2E14A": "come membro del personale dell'evento",
+			"74473903": "come membro del personale",
+			"47AFAF53": "come custode"
+		},
+		"de": {
+			"6E901E28": "als Sicherheitswache",
+			"993BD95D": "als Wache",
+			"140F93B1": "als Penthouse-Wache",
+			"F97373EF": "als Penthouse-Personal",
+			"08E30B43": "als Kunsttechniker",
+			"BCC2E14A": "als Event-Personal",
+			"74473903": "als Personal",
+			"47AFAF53": "als Hausmeister"
+		},
+		"es": {
+			"6E901E28": "de guardia de seguridad",
+			"993BD95D": "de vigilante",
+			"140F93B1": "de vigilante del ático",
+			"F97373EF": "de personal del ático",
+			"08E30B43": "de técnico de arte",
+			"BCC2E14A": "de personal del evento",
+			"74473903": "de personal",
+			"47AFAF53": "de personal de mantenimiento"
+		}
+	}
+}

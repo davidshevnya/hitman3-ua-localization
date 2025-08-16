@@ -1,0 +1,42 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/game_store_metadata_sc.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"GAME_STORE_METADATA_SC_GAME_TITLE": "HITMAN",
+			"8B39DB91": "placeholder",
+			"F1FA8FCE": "placeholder",
+			"GAME_STORE_METADATA_SC_PACKAGE_TITLE": "Sniper Assassin"
+		},
+		"en": {
+			"GAME_STORE_METADATA_SC_GAME_TITLE": "HITMAN",
+			"8B39DB91": "",
+			"F1FA8FCE": "",
+			"GAME_STORE_METADATA_SC_PACKAGE_TITLE": "Sniper Assassin"
+		},
+		"fr": {
+			"GAME_STORE_METADATA_SC_GAME_TITLE": "HITMAN",
+			"8B39DB91": "",
+			"F1FA8FCE": "",
+			"GAME_STORE_METADATA_SC_PACKAGE_TITLE": "Sniper Assassin"
+		},
+		"it": {
+			"GAME_STORE_METADATA_SC_GAME_TITLE": "HITMAN",
+			"8B39DB91": "",
+			"F1FA8FCE": "",
+			"GAME_STORE_METADATA_SC_PACKAGE_TITLE": "Sniper Assassin"
+		},
+		"de": {
+			"GAME_STORE_METADATA_SC_GAME_TITLE": "HITMAN",
+			"8B39DB91": "",
+			"F1FA8FCE": "",
+			"GAME_STORE_METADATA_SC_PACKAGE_TITLE": "Sniper Assassin"
+		},
+		"es": {
+			"GAME_STORE_METADATA_SC_GAME_TITLE": "HITMAN",
+			"8B39DB91": "",
+			"F1FA8FCE": "",
+			"GAME_STORE_METADATA_SC_PACKAGE_TITLE": "Sniper Assassin"
+		}
+	}
+}

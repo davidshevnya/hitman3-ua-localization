@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00F7A3684AC790B8",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_BAMBOO_OBJ_3": "Eliminate Hailey Brennan with battle axe while wearing 47's Signature Suit",
+			"UI_CONTRACT_BAMBOO_OBJ_2": "Eliminate Sheik Salman Al-Ghazali with battle axe while wearing 47's Signature Suit",
+			"UI_CONTRACT_BAMBOO_OBJ_1": "Eliminate Liza McKenzie with battle axe while wearing 47's Signature Suit",
+			"UI_CONTRACT_BAMBOO_LEVEL_3_DESC": "This Escalation is based on \"Ghost of the Barbarian\" by TheKotti, originally created as a Contract. TheKotti said the original contract wasn't \"ludicrously hard\" so we added some complications to the original. We think it's pretty tough now! \r\n<br><br>The third and final level of \"The Kotti Paradigm\" demands you eliminate Hailey Brennan, Sheik Salman Al-Ghazali and Liza McKenzie with a Battle Axe all while wearing 47's Signature Suit, and do so without pacifying anyone.\r\n<br>In addition to the patrolling guards which are Super Enforcers (who can bust any disguise!) you must complete the entire mission without climbing drainpipes or walls, vault over cover, climb or drop off ledges!",
+			"UI_CONTRACT_BAMBOO_LEVEL_2_DESC": "This Escalation is based on \"Ghost of the Barbarian\" by TheKotti, originally created as a Contract. TheKotti said the original contract wasn't \"ludicrously hard\" so we added some complications to the original. We think it's pretty tough now! \r\n<br><br>The second level of \"The Kotti Paradigm\" requires that you eliminate both Sheik Salman Al-Ghazali and Liza McKenzie with a Battle Axe while wearing 47's Signature Suit, and do so without pacifying anyone.\r\n <br>This level adds an additional requirement that you not climb drainpipes or walls, vault over cover, climb or drop off ledges!",
+			"UI_CONTRACT_BAMBOO_LEVEL_1_DESC": "This Escalation is based on \"Ghost of the Barbarian\" by TheKotti, originally created as a Contract. TheKotti said the original contract wasn't \"ludicrously hard\" so we added some complications to the original. We think it's pretty tough now! \r\n<br><br>The first level of \"The Kotti Paradigm\" challenges you to eliminate Liza McKenzie with a Battle Axe while wearing 47's Signature Suit.\r\n<br>This challenge is increased by the fact that you may not Pacify anyone at any time.",
+			"UI_CONTRACT_BAMBOO_LEVEL_3_TITLE": "The Kotti Paradigm - Level 3",
+			"UI_CONTRACT_BAMBOO_LEVEL_2_TITLE": "The Kotti Paradigm - Level 2",
+			"UI_CONTRACT_BAMBOO_LEVEL_1_TITLE": "The Kotti Paradigm - Level 1",
+			"UI_CONTRACT_BAMBOO_GROUP_TITLE": "The Kotti Paradigm",
+			"UI_CONTRACT_BAMBOO_GROUP_DESC": "Three level escalation in Paris"
+		},
+		"en": {
+			"UI_CONTRACT_BAMBOO_OBJ_3": "Eliminate Hailey Brennan with a battle axe while wearing 47's signature suit",
+			"UI_CONTRACT_BAMBOO_OBJ_2": "Eliminate Sheikh Salman al-Ghazali with a battle axe while wearing 47's signature suit",
+			"UI_CONTRACT_BAMBOO_OBJ_1": "Eliminate Liza McKenzie with a battle axe while wearing 47's signature suit",
+			"UI_CONTRACT_BAMBOO_LEVEL_3_DESC": "This Escalation is based on \"Ghost of the Barbarian\" by TheKotti, originally created as a Contract. TheKotti said the original contract wasn't \"ludicrously hard,\" so we added some complications to the original. We think it's pretty tough now!<br><br>The third and final level of \"The Kotti Paradigm\" demands you eliminate Hailey Brennan, Sheikh Salman al-Ghazali and Liza McKenzie with a battle axe, all while wearing 47's signature suit and without pacifying anyone.\r\n<br><br>In addition to the patrolling guards who are Super Enforcers (they can bust any disguise), you must complete the entire mission without climbing drainpipes or walls. You cannot vault, climb, change cover or drop off ledges.",
+			"UI_CONTRACT_BAMBOO_LEVEL_2_DESC": "This Escalation is based on \"Ghost of the Barbarian\" by TheKotti, originally created as a Contract. TheKotti said the original contract wasn't \"ludicrously hard,\" so we added some complications to the original. We think it's pretty tough now!<br><br>The second level of \"The Kotti Paradigm\" requires that you eliminate both Sheikh Salman al-Ghazali and Liza McKenzie with a battle axe while wearing 47's Signature Suit, and do so without pacifying anyone.\r\n<br><br>This level adds an additional requirement that you cannot climb drainpipes or walls, nor can you vault, climb, change cover or drop off ledges.",
+			"UI_CONTRACT_BAMBOO_LEVEL_1_DESC": "This Escalation is based on \"Ghost of the Barbarian\" by TheKotti, originally created as a Contract. TheKotti said the original contract wasn't \"ludicrously hard,\" so we added some complications to the original. We think it's pretty tough now!<br><br>The first level of \"The Kotti Paradigm\" challenges you to eliminate Liza McKenzie with a battle axe while wearing 47's signature suit.\r\n<br><br>This challenge is increased by the fact that you may not pacify anyone at any time.",
+			"UI_CONTRACT_BAMBOO_LEVEL_3_TITLE": "The Kotti Paradigm - Level 3",
+			"UI_CONTRACT_BAMBOO_LEVEL_2_TITLE": "The Kotti Paradigm - Level 2",
+			"UI_CONTRACT_BAMBOO_LEVEL_1_TITLE": "The Kotti Paradigm - Level 1",
+			"UI_CONTRACT_BAMBOO_GROUP_TITLE": "The Kotti Paradigm",
+			"UI_CONTRACT_BAMBOO_GROUP_DESC": "Three level Escalation in Paris."
+		},
+		"fr": {
+			"UI_CONTRACT_BAMBOO_OBJ_3": "Éliminez Hailey Brennan à la hache de guerre en portant le costume emblématique de 47",
+			"UI_CONTRACT_BAMBOO_OBJ_2": "Éliminez le cheikh Salman Al-Ghazali à la hache de guerre en portant le costume emblématique de 47",
+			"UI_CONTRACT_BAMBOO_OBJ_1": "Éliminez Lisa Mc Kenzie à la hache de guerre en portant le costume emblématique de 47",
+			"UI_CONTRACT_BAMBOO_LEVEL_3_DESC": "Cette Escalade est basée sur \"Ghost of the Barbarian\", de TheKotti, un contrat original. TheKotti ayant estimé que la difficulté de son contrat était \"raisonnablement dosée\", nous avons décidé de le compliquer un peu. Problème résolu !<br><br>Pour ce troisième et dernier niveau du \"paradigme de Kotti\", vous allez devoir éliminer Hailey Brennan, le cheikh Salman Al-Ghazali et Liza Mc Kenzie à la hache de guerre, tout en portant le costume emblématique de 47 et sans neutraliser qui que ce soit. <br>En plus des gardes en patrouille, qui sont tous des Super agents ne se laissant berner par aucun déguisement, vous devez terminer la mission sans grimper aux tuyaux ou aux murs, sans sauter par-dessus les abris bas, et sans grimper ou vous laisser tomber des rebords !",
+			"UI_CONTRACT_BAMBOO_LEVEL_2_DESC": "Cette Escalade est basée sur \"Ghost of the Barbarian\", de TheKotti, un contrat original. TheKotti ayant estimé que la difficulté de son contrat était \"raisonnablement dosée\", nous avons décidé de le compliquer un peu. Problème résolu !<br><br>Pour ce deuxième niveau du \"paradigme de Kotti\", vous allez devoir éliminer le cheikh Salman Al-Ghazali et Liza Mc Kenzie à la hache de guerre, tout en portant le costume emblématique de 47 et sans neutraliser qui que ce soit. <br>Cette fois-ci, il vous sera également interdit de grimper aux tuyaux ou aux murs, de sauter par-dessus les abris bas, et de grimper ou vous laisser tomber des rebords !",
+			"UI_CONTRACT_BAMBOO_LEVEL_1_DESC": "Cette Escalade est basée sur \"Ghost of the Barbarian\", de TheKotti, un contrat original. TheKotti ayant estimé que la difficulté de son contrat était \"raisonnablement dosée\", nous avons décidé de le compliquer un peu. Problème résolu !<br><br>Pour ce premier niveau du \"paradigme de Kotti\", vous allez devoir éliminer Liza Mc Kenzie à la hache de guerre, tout en portant le costume emblématique de 47. <br>Cette fois-ci, il vous sera également interdit de neutraliser qui que ce soit.",
+			"UI_CONTRACT_BAMBOO_LEVEL_3_TITLE": "Le paradigme de Kotti - Niveau 3",
+			"UI_CONTRACT_BAMBOO_LEVEL_2_TITLE": "Le paradigme de Kotti - Niveau 2",
+			"UI_CONTRACT_BAMBOO_LEVEL_1_TITLE": "Le paradigme de Kotti - Niveau 1",
+			"UI_CONTRACT_BAMBOO_GROUP_TITLE": "Le paradigme de Kotti",
+			"UI_CONTRACT_BAMBOO_GROUP_DESC": "Escalade en trois niveaux à Paris."
+		},
+		"it": {
+			"UI_CONTRACT_BAMBOO_OBJ_3": "Elimina Hailey Brennan con l'ascia da battaglia mentre indossi l'abito classico di 47",
+			"UI_CONTRACT_BAMBOO_OBJ_2": "Elimina lo sceicco Salman Al-Ghazali con l'ascia da battaglia mentre indossi l'abito classico di 47",
+			"UI_CONTRACT_BAMBOO_OBJ_1": "Elimina Liza McKenzie con l'ascia da battaglia mentre indossi l'abito classico di 47",
+			"UI_CONTRACT_BAMBOO_LEVEL_3_DESC": "Questa Escalation è basata su \"Ghost of the Barbarian\" di TheKotti, creata originariamente come un contratto. TheKotti sostiene che il contratto originale non sia \"assurdamente difficile\", per cui abbiamo aggiunto qualche ostacolo in più. Ora ci sembra piuttosto impegnativo!<br><br>Il terzo e ultimo livello de \"Il paradigma Kotti\" richiede di eliminare Hailey Brennan, lo sceicco Salman Al-Ghazali e Liza McKenzie con l'ascia da battaglia mentre indossi l'abito classico di 47 e senza neutralizzare nessuno.<br><br>Le guardie di pattuglia sono super sorveglianti in grado di smascherare qualunque travestimento. Inoltre, devi completare l'intera missione senza arrampicarti su grondaie o pareti, scavalcare ripari e aggrapparti o calarti da sporgenze!",
+			"UI_CONTRACT_BAMBOO_LEVEL_2_DESC": "Questa Escalation è basata su \"Ghost of the Barbarian\" di TheKotti, creata originariamente come un contratto. TheKotti sostiene che il contratto originale non sia \"assurdamente difficile\", per cui abbiamo aggiunto qualche ostacolo in più. Ora ci sembra piuttosto impegnativo!<br><br>Il secondo livello de \"Il paradigma Kotti\" richiede di eliminare lo sceicco Salman Al-Ghazali e Liza McKenzie con l'ascia da battaglia mentre indossi l'abito classico di 47 e senza neutralizzare nessuno.<br><br>Inoltre, devi completare l'intera missione senza arrampicarti su grondaie o pareti, scavalcare ripari e aggrapparti o calarti da sporgenze!",
+			"UI_CONTRACT_BAMBOO_LEVEL_1_DESC": "Questa Escalation è basata su \"Ghost of the Barbarian\" di TheKotti, creata originariamente come un contratto. TheKotti sostiene che il contratto originale non sia \"assurdamente difficile\", per cui abbiamo aggiunto qualche ostacolo in più. Ora ci sembra piuttosto impegnativo!<br><br>Il primo livello de \"Il paradigma Kotti\" richiede di eliminare Liza McKenzie con l'ascia da battaglia mentre indossi l'abito classico di 47.<br><br>Inoltre, devi completare l'intera missione senza neutralizzare nessuno.",
+			"UI_CONTRACT_BAMBOO_LEVEL_3_TITLE": "Il paradigma Kotti - Livello 3",
+			"UI_CONTRACT_BAMBOO_LEVEL_2_TITLE": "Il paradigma Kotti - Livello 2",
+			"UI_CONTRACT_BAMBOO_LEVEL_1_TITLE": "Il paradigma Kotti - Livello 1",
+			"UI_CONTRACT_BAMBOO_GROUP_TITLE": "Il paradigma Kotti",
+			"UI_CONTRACT_BAMBOO_GROUP_DESC": "Escalation di tre livelli a Parigi."
+		},
+		"de": {
+			"UI_CONTRACT_BAMBOO_OBJ_3": "Eliminieren Sie Hailey Brennan mit der Kriegsaxt, während Sie den klassischen Anzug von 47 tragen",
+			"UI_CONTRACT_BAMBOO_OBJ_2": "Eliminieren Sie Scheich Salman al-Ghazali mit der Kriegsaxt, während Sie den klassischen Anzug von 47 tragen",
+			"UI_CONTRACT_BAMBOO_OBJ_1": "Eliminieren Sie Liza McKenzie mit der Kriegsaxt, während Sie den klassischen Anzug von 47 tragen",
+			"UI_CONTRACT_BAMBOO_LEVEL_3_DESC": "Diese Eskalation basiert auf „Ghost of the Barbarian“ von TheKotti, und war ursprünglich als Auftrag konzipiert. Da der Originalauftrag laut TheKotti „lächerlich einfach“ war, haben wir einige Komplikationen eingebaut. Jetzt ist er ziemlich schwierig!\r\n\r\n<br><br>In der dritten und letzten Stufe von „Das Kotti-Paradigma“ müssen Sie Hailey Brennan, Scheich Salman al-Ghazali und Liza McKenzie mit einer Kriegsaxt eliminieren, während Sie den klassischen Anzug von 47 tragen. Dabei dürfen Sie niemanden ruhigstellen.\r\n\r\n<br><br>Alle Wachen sind Super-Aufpasser, die jede Verkleidung durchschauen, und Sie müssen die gesamte Mission absolvieren, ohne Dachrinnen oder Mauern hinaufzuklettern. Nicht: Überwinden, Klettern, Deckung wechseln und Hängen!",
+			"UI_CONTRACT_BAMBOO_LEVEL_2_DESC": "Diese Eskalation basiert auf „Ghost of the Barbarian“ von TheKotti, und war ursprünglich als Auftrag konzipiert. Da der Originalauftrag laut TheKotti „lächerlich einfach“ war, haben wir einige Komplikationen eingebaut. Jetzt ist er ziemlich schwierig!\r\n\r\n<br><br>In der zweiten Stufe von „Das Kotti-Paradigma“ müssen Sie Scheich Salman al-Ghazali und Liza McKenzie mit einer Kriegsaxt eliminieren, während Sie den klassischen Anzug von 47 tragen. Dabei dürfen Sie niemanden ruhigstellen.\r\n\r\n<br><br>Außerdem müssen Sie die gesamte Mission absolvieren, ohne Dachrinnen oder Mauern hinaufzuklettern. Die Aktionen Überwinden, Klettern, Deckung wechseln und Hängen sind ebenfalls nicht möglich!",
+			"UI_CONTRACT_BAMBOO_LEVEL_1_DESC": "Diese Eskalation basiert auf „Ghost of the Barbarian“ von TheKotti, und war ursprünglich als Auftrag konzipiert. Da der Originalauftrag laut TheKotti „lächerlich einfach“ war, haben wir einige Komplikationen eingebaut. Jetzt ist er ziemlich schwierig!\r\n\r\n<br><br>In der ersten Stufe von „Das Kotti-Paradigma“ müssen Sie Liza McKenzie mit einer Kriegsaxt eliminieren, während Sie den klassischen Anzug von 47 tragen.\r\n\r\n<br><br>Außerdem dürfen Sie während der gesamten Mission niemanden ruhigstellen.",
+			"UI_CONTRACT_BAMBOO_LEVEL_3_TITLE": "Das Kotti-Paradigma – Stufe 3",
+			"UI_CONTRACT_BAMBOO_LEVEL_2_TITLE": "Das Kotti-Paradigma – Stufe 2",
+			"UI_CONTRACT_BAMBOO_LEVEL_1_TITLE": "Das Kotti-Paradigma – Stufe 1",
+			"UI_CONTRACT_BAMBOO_GROUP_TITLE": "Das Kotti-Paradigma",
+			"UI_CONTRACT_BAMBOO_GROUP_DESC": "Drei-Stufen-Eskalation in Paris."
+		},
+		"es": {
+			"UI_CONTRACT_BAMBOO_OBJ_3": "Elimina a Hailey Brennan con un hacha de combate llevando el traje característico de 47",
+			"UI_CONTRACT_BAMBOO_OBJ_2": "Elimina al jeque Salman Al-Ghazali con un hacha de combate llevando el traje característico de 47",
+			"UI_CONTRACT_BAMBOO_OBJ_1": "Elimina a Liza McKenzie con un hacha de combate llevando el traje característico de 47",
+			"UI_CONTRACT_BAMBOO_LEVEL_3_DESC": "Esta intensificación se basa en el \"Ghost of the Barbarian\", de TheKotti, que inicialmente se creó como contrato. TheKotti afirmó que el contrato original no era \"para nada difícil\", por lo que hemos añadido ciertas complicaciones. ¡Ahora sí que pensamos que es difícil!\r\n\r\n<br><br>El tercer y último nivel de \"El paradigma de Kotti\" requiere que elimines a Hailey Brennan, al jeque Salman Al-Ghazali y a Liza McKenzie con un hacha de combate llevando el traje característico de 47 sin dejar inconsciente a nadie.\r\n\r\n<br><br>Además de los guardias de patrulla con atención al detalle (¡capaces de detectar cualquier disfraz!), ¡debes completar toda la misión sin trepar por tuberías o muros, ni saltar coberturas, ni escalar o bajar de cornisas!",
+			"UI_CONTRACT_BAMBOO_LEVEL_2_DESC": "Esta intensificación se basa en el \"Ghost of the Barbarian\", de TheKotti, que inicialmente se creó como contrato. TheKotti afirmó que el contrato original no era \"para nada difícil\", por lo que hemos añadido ciertas complicaciones. ¡Ahora sí que pensamos que es difícil!\r\n\r\n<br><br>El segundo nivel de \"El paradigma de Kotti\" requiere que elimines al jeque Salman Al-Ghazali y a Liza McKenzie con un hacha de combate llevando el traje característico de 47 sin dejar inconsciente a nadie.\r\n\r\n<br><br>Además, ¡este nivel te exige que no trepes por tuberías o muros, ni saltes coberturas, ni escales o bajes de cornisas!",
+			"UI_CONTRACT_BAMBOO_LEVEL_1_DESC": "Esta intensificación se basa en el \"Ghost of the Barbarian\", de TheKotti, que inicialmente se creó como contrato. TheKotti afirmó que el contrato original no era \"para nada difícil\", por lo que hemos añadido ciertas complicaciones. ¡Ahora sí que pensamos que es difícil!\r\n\r\n<br><br>El primer nivel de \"El paradigma de Kotti\" te desafía a que elimines a Liza McKenzie con un hacha de combate llevando el traje característico de 47.\r\n\r\n<br><br>El desafío es mayor al no permitirte dejar inconsciente a nadie en ningún momento.",
+			"UI_CONTRACT_BAMBOO_LEVEL_3_TITLE": "El paradigma de Kotti - Nivel 3",
+			"UI_CONTRACT_BAMBOO_LEVEL_2_TITLE": "El paradigma de Kotti - Nivel 2",
+			"UI_CONTRACT_BAMBOO_LEVEL_1_TITLE": "El paradigma de Kotti - Nivel 1",
+			"UI_CONTRACT_BAMBOO_GROUP_TITLE": "El paradigma de Kotti",
+			"UI_CONTRACT_BAMBOO_GROUP_DESC": "Intensificación de tres niveles en París."
+		}
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00A7C9DDAA98BE72",
+	"languages": {
+		"xx": {
+			"6D079A61": "PH_TWENTY YEARS EARLIERE",
+			"67A29EF2": "PH_ICATrainingFacility1999"
+		},
+		"en": {
+			"6D079A61": "20 YEARS EARLIER",
+			"67A29EF2": "ICA Training Facility, 1999"
+		},
+		"fr": {
+			"6D079A61": "20 ANS AUPARAVANT",
+			"67A29EF2": "Centre d'entraînement de l'ICA, 1999"
+		},
+		"it": {
+			"6D079A61": "20 ANNI PRIMA",
+			"67A29EF2": "Struttura di addestramento ICA, 1999"
+		},
+		"de": {
+			"6D079A61": "20 JAHRE ZUVOR",
+			"67A29EF2": "ICA-Ausbildungseinrichtung, 1999"
+		},
+		"es": {
+			"6D079A61": "20 AÑOS ANTES",
+			"67A29EF2": "Centro de entrenamiento de la Agencia, 1999"
+		}
+	}
+}

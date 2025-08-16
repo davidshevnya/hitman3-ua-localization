@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "004497FD133699E8",
+	"languages": {
+		"xx": {
+			"79BAB8DA": "PH_Holster",
+			"9934702E": "PH_Text"
+		},
+		"en": {
+			"79BAB8DA": "Holster Item",
+			"9934702E": "Press {HOLSTER} to holster items."
+		},
+		"fr": {
+			"79BAB8DA": "Rangez un objet",
+			"9934702E": "Appuyez sur {HOLSTER} pour ranger un objet."
+		},
+		"it": {
+			"79BAB8DA": "Riporre un oggetto",
+			"9934702E": "Premi {HOLSTER} per riporre gli oggetti."
+		},
+		"de": {
+			"79BAB8DA": "Gegenstand wegstecken",
+			"9934702E": "Drücken Sie {HOLSTER}, um Gegenstände wegzustecken."
+		},
+		"es": {
+			"79BAB8DA": "Guardar objeto",
+			"9934702E": "Pulsa {HOLSTER} para guardar objetos."
+		}
+	}
+}

@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00901FBA17D5381F",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_CATCHFLY_GROUP_TITLE": "The BigMooney Flamboyancy",
+			"UI_CONTRACT_CATCHFLY_GROUP_DESC": "Three level escalation in Miami",
+			"UI_CONTRACT_CATCHFLY_OBJ_1": "Eliminate Levi Akerman with a battle axe while disguised as mascot",
+			"UI_CONTRACT_CATCHFLY_OBJ_2": "Eliminate Antoine Mack in explosion or with non-silenced shotgun while disguised as mascot",
+			"UI_CONTRACT_CATCHFLY_OBJ_3": "Eliminate Gustav Gerber with battle axe while disguised as mascot",
+			"UI_CONTRACT_CATCHFLY_RETRIEVE_AXE_NAME": "Retrieve",
+			"UI_CONTRACT_CATCHFLY_RETRIEVE_AXE_DESC": "Retrieve a battle axe",
+			"UI_CONTRACT_CATCHFLY_OBJ_2_2": "Eliminate Antoine Mack with a battle axe while disguised as mascot",
+			"02D92183": "Retrieve battle axe",
+			"UI_CONTRACT_CATCHFLY_LEVEL_1_TITLE": "The BigMooney Flamboyancy - Level 1",
+			"UI_CONTRACT_CATCHFLY_LEVEL_2_TITLE": "The BigMooney Flamboyancy - Level 2",
+			"UI_CONTRACT_CATCHFLY_LEVEL_3_TITLE": "The BigMooney Flamboyancy - Level 3"
+		},
+		"en": {
+			"UI_CONTRACT_CATCHFLY_GROUP_TITLE": "The BigMooney Flamboyancy",
+			"UI_CONTRACT_CATCHFLY_GROUP_DESC": "Three Level Escalation in Miami.",
+			"UI_CONTRACT_CATCHFLY_OBJ_1": "Eliminate Levi Akerman with a battle axe while disguised as mascot",
+			"UI_CONTRACT_CATCHFLY_OBJ_2": "Eliminate Antoine Mack in explosion or with non-silenced shotgun while disguised as mascot",
+			"UI_CONTRACT_CATCHFLY_OBJ_3": "Eliminate Gustav Gerber with battle axe while disguised as mascot",
+			"UI_CONTRACT_CATCHFLY_RETRIEVE_AXE_NAME": "Retrieve",
+			"UI_CONTRACT_CATCHFLY_RETRIEVE_AXE_DESC": "Retrieve a battle axe",
+			"UI_CONTRACT_CATCHFLY_OBJ_2_2": "Eliminate Antoine Mack with a battle axe while disguised as mascot",
+			"02D92183": "Retrieve battle axe",
+			"UI_CONTRACT_CATCHFLY_LEVEL_1_TITLE": "The BigMooney Flamboyancy - Level 1",
+			"UI_CONTRACT_CATCHFLY_LEVEL_2_TITLE": "The BigMooney Flamboyancy - Level 2",
+			"UI_CONTRACT_CATCHFLY_LEVEL_3_TITLE": "The BigMooney Flamboyancy - Level 3"
+		},
+		"fr": {
+			"UI_CONTRACT_CATCHFLY_GROUP_TITLE": "L'extravagance de BigMooney",
+			"UI_CONTRACT_CATCHFLY_GROUP_DESC": "Escalade en trois niveaux à Miami",
+			"UI_CONTRACT_CATCHFLY_OBJ_1": "Éliminez Levi Akerman à la hache de guerre déguisé en mascotte",
+			"UI_CONTRACT_CATCHFLY_OBJ_2": "Éliminez Antoine Mack dans une explosion ou au fusil à pompe sans silencieux déguisé en mascotte",
+			"UI_CONTRACT_CATCHFLY_OBJ_3": "Éliminez Gustav Gerber à la hache de guerre déguisé en mascotte",
+			"UI_CONTRACT_CATCHFLY_RETRIEVE_AXE_NAME": "Récupérer",
+			"UI_CONTRACT_CATCHFLY_RETRIEVE_AXE_DESC": "Récupérez une hache de guerre.",
+			"UI_CONTRACT_CATCHFLY_OBJ_2_2": "Éliminez Antoine Mack à la hache de guerre déguisé en mascotte",
+			"02D92183": "Récupérez une hache de guerre",
+			"UI_CONTRACT_CATCHFLY_LEVEL_1_TITLE": "L'extravagance de BigMooney - Niveau 1",
+			"UI_CONTRACT_CATCHFLY_LEVEL_2_TITLE": "L'extravagance de BigMooney - Niveau 2",
+			"UI_CONTRACT_CATCHFLY_LEVEL_3_TITLE": "L'extravagance de BigMooney - Niveau 3"
+		},
+		"it": {
+			"UI_CONTRACT_CATCHFLY_GROUP_TITLE": "La stravaganza di BigMooney",
+			"UI_CONTRACT_CATCHFLY_GROUP_DESC": "Escalation di tre livelli a Miami.",
+			"UI_CONTRACT_CATCHFLY_OBJ_1": "Elimina Levi Akerman con un'ascia da battaglia travestito da mascotte",
+			"UI_CONTRACT_CATCHFLY_OBJ_2": "Elimina Antoine Mack con un'esplosione o con un fucile a pompa non silenziato travestito da mascotte",
+			"UI_CONTRACT_CATCHFLY_OBJ_3": "Elimina Gustav Gerber con un'ascia da battaglia travestito da mascotte",
+			"UI_CONTRACT_CATCHFLY_RETRIEVE_AXE_NAME": "Recupera",
+			"UI_CONTRACT_CATCHFLY_RETRIEVE_AXE_DESC": "Recupera un'ascia da battaglia.",
+			"UI_CONTRACT_CATCHFLY_OBJ_2_2": "Elimina Antoine Mack con un'ascia da battaglia travestito da mascotte",
+			"02D92183": "Recupera ascia da battaglia",
+			"UI_CONTRACT_CATCHFLY_LEVEL_1_TITLE": "La stravaganza di BigMooney - Livello 1",
+			"UI_CONTRACT_CATCHFLY_LEVEL_2_TITLE": "La stravaganza di BigMooney - Livello 2",
+			"UI_CONTRACT_CATCHFLY_LEVEL_3_TITLE": "La stravaganza di BigMooney - Livello 3"
+		},
+		"de": {
+			"UI_CONTRACT_CATCHFLY_GROUP_TITLE": "Der Bigmooney-Überschwang",
+			"UI_CONTRACT_CATCHFLY_GROUP_DESC": "Drei-Stufen-Eskalation in Miami.",
+			"UI_CONTRACT_CATCHFLY_OBJ_1": "Eliminieren Sie als Maskottchen verkleidet Levi Akerman mit einer Kriegsaxt.",
+			"UI_CONTRACT_CATCHFLY_OBJ_2": "Eliminieren Sie als Maskottchen verkleidet Antoine Mack per Explosion oder lauter Schrotflinte.",
+			"UI_CONTRACT_CATCHFLY_OBJ_3": "Eliminieren Sie als Maskottchen verkleidet Gustav Gerber mit einer Kriegsaxt.",
+			"UI_CONTRACT_CATCHFLY_RETRIEVE_AXE_NAME": "Beschaffen",
+			"UI_CONTRACT_CATCHFLY_RETRIEVE_AXE_DESC": "Beschaffen Sie eine Kriegsaxt.",
+			"UI_CONTRACT_CATCHFLY_OBJ_2_2": "Eliminieren Sie als Maskottchen verkleidet Antoine Mack mit einer Kriegsaxt.",
+			"02D92183": "Beschaffen Sie eine Kriegsaxt.",
+			"UI_CONTRACT_CATCHFLY_LEVEL_1_TITLE": "Der Bigmooney-Überschwang – Stufe 1",
+			"UI_CONTRACT_CATCHFLY_LEVEL_2_TITLE": "Der Bigmooney-Überschwang – Stufe 2",
+			"UI_CONTRACT_CATCHFLY_LEVEL_3_TITLE": "Der Bigmooney-Überschwang – Stufe 3"
+		},
+		"es": {
+			"UI_CONTRACT_CATCHFLY_GROUP_TITLE": "La extravagancia de BigMooney",
+			"UI_CONTRACT_CATCHFLY_GROUP_DESC": "Intensificación de tres niveles en Miami",
+			"UI_CONTRACT_CATCHFLY_OBJ_1": "Elimina a Levi Akerman con un hacha de combate disfrazado de mascota",
+			"UI_CONTRACT_CATCHFLY_OBJ_2": "Elimina a Antoine Mack con una explosión o una escopeta sin silenciar mientras estás disfrazado de mascota",
+			"UI_CONTRACT_CATCHFLY_OBJ_3": "Elimina a Gustav Gerber con un hacha de combate disfrazado de mascota",
+			"UI_CONTRACT_CATCHFLY_RETRIEVE_AXE_NAME": "Recuperar",
+			"UI_CONTRACT_CATCHFLY_RETRIEVE_AXE_DESC": "Consigue un hacha de combate.",
+			"UI_CONTRACT_CATCHFLY_OBJ_2_2": "Elimina a Antoine Mack con un hacha de combate disfrazado de mascota",
+			"02D92183": "Consigue un hacha de combate.",
+			"UI_CONTRACT_CATCHFLY_LEVEL_1_TITLE": "La extravagancia de BigMooney - Nivel 1",
+			"UI_CONTRACT_CATCHFLY_LEVEL_2_TITLE": "La extravagancia de BigMooney - Nivel 2",
+			"UI_CONTRACT_CATCHFLY_LEVEL_3_TITLE": "La extravagancia de BigMooney - Nivel 3"
+		}
+	}
+}

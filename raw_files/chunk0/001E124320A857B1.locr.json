@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "001E124320A857B1",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_THISTLE_GROUP_DESC": "Five level escalation in Colorado",
+			"UI_CONTRACT_THISTLE_GROUP_TITLE": "The Mallory Misfortune",
+			"UI_CONTRACT_THISTLE_OBJ_1_1": "Eliminate Mark Hicks in hay baler or explosion",
+			"UI_CONTRACT_THISTLE_LEVEL_2_TITLE": "The Mallory Misfortune - Level 2",
+			"UI_CONTRACT_THISTLE_LEVEL_5_TITLE": "The Mallory Misfortune - Level 5",
+			"UI_CONTRACT_THISTLE_LEVEL_4_TITLE": "The Mallory Misfortune - Level 4",
+			"UI_CONTRACT_THISTLE_LEVEL_3_TITLE": "The Mallory Misfortune - Level 3",
+			"UI_CONTRACT_THISTLE_OBJ_2_1": "Eliminate Milton Geiger in fire or by crushing under a car",
+			"UI_CONTRACT_THISTLE_LEVEL_1_TITLE": "The Mallory Misfortune - Level 1",
+			"UI_CONTRACT_THISTLE_OBJ_1_2": "Eliminate Mark Hicks while disguised as a Scarecrow",
+			"UI_CONTRACT_THISTLE_OBJ_2_2": "Eliminate Milton Geiger while disguised as a Scarecrow"
+		},
+		"en": {
+			"UI_CONTRACT_THISTLE_GROUP_DESC": "Five level Escalation in Colorado.",
+			"UI_CONTRACT_THISTLE_GROUP_TITLE": "The Mallory Misfortune",
+			"UI_CONTRACT_THISTLE_OBJ_1_1": "Eliminate Mark Hicks in a hay baler or explosion",
+			"UI_CONTRACT_THISTLE_LEVEL_2_TITLE": "The Mallory Misfortune - Level 2",
+			"UI_CONTRACT_THISTLE_LEVEL_5_TITLE": "The Mallory Misfortune - Level 5",
+			"UI_CONTRACT_THISTLE_LEVEL_4_TITLE": "The Mallory Misfortune - Level 4",
+			"UI_CONTRACT_THISTLE_LEVEL_3_TITLE": "The Mallory Misfortune - Level 3",
+			"UI_CONTRACT_THISTLE_OBJ_2_1": "Eliminate Milton Geiger in fire or by crushing under a car",
+			"UI_CONTRACT_THISTLE_LEVEL_1_TITLE": "The Mallory Misfortune - Level 1",
+			"UI_CONTRACT_THISTLE_OBJ_1_2": "Eliminate Mark Hicks while disguised as a Scarecrow",
+			"UI_CONTRACT_THISTLE_OBJ_2_2": "Eliminate Milton Geiger while disguised as a Scarecrow"
+		},
+		"fr": {
+			"UI_CONTRACT_THISTLE_GROUP_DESC": "Escalade en cinq niveaux dans le Colorado.",
+			"UI_CONTRACT_THISTLE_GROUP_TITLE": "La malchance des Mallory",
+			"UI_CONTRACT_THISTLE_OBJ_1_1": "Éliminez Mark Hicks avec la presse à foin ou dans une explosion",
+			"UI_CONTRACT_THISTLE_LEVEL_2_TITLE": "La malchance des Mallory - Niveau 2",
+			"UI_CONTRACT_THISTLE_LEVEL_5_TITLE": "La malchance des Mallory - Niveau 5",
+			"UI_CONTRACT_THISTLE_LEVEL_4_TITLE": "La malchance des Mallory - Niveau 4",
+			"UI_CONTRACT_THISTLE_LEVEL_3_TITLE": "La malchance des Mallory - Niveau 3",
+			"UI_CONTRACT_THISTLE_OBJ_2_1": "Éliminez Preston Becker par le feu ou en l'écrasant sous une voiture",
+			"UI_CONTRACT_THISTLE_LEVEL_1_TITLE": "La malchance des Mallory - Niveau 1",
+			"UI_CONTRACT_THISTLE_OBJ_1_2": "Éliminez Mark Hicks avec une vieille hache, déguisé en épouvantail",
+			"UI_CONTRACT_THISTLE_OBJ_2_2": "Éliminez Preston Becker avec une mitraillette, déguisé en épouvantail"
+		},
+		"it": {
+			"UI_CONTRACT_THISTLE_GROUP_DESC": "Escalation di cinque livelli in Colorado.",
+			"UI_CONTRACT_THISTLE_GROUP_TITLE": "La sventura di Mallory",
+			"UI_CONTRACT_THISTLE_OBJ_1_1": "Elimina Mark Hicks con un'imballatrice o un'esplosione",
+			"UI_CONTRACT_THISTLE_LEVEL_2_TITLE": "La sventura di Mallory - Livello 2",
+			"UI_CONTRACT_THISTLE_LEVEL_5_TITLE": "La sventura di Mallory - Livello 5",
+			"UI_CONTRACT_THISTLE_LEVEL_4_TITLE": "La sventura di Mallory - Livello 4",
+			"UI_CONTRACT_THISTLE_LEVEL_3_TITLE": "La sventura di Mallory - Livello 3",
+			"UI_CONTRACT_THISTLE_OBJ_2_1": "Elimina Preston Becker con un incendio o schiacciandolo sotto un'auto",
+			"UI_CONTRACT_THISTLE_LEVEL_1_TITLE": "La sventura di Mallory - Livello 1",
+			"UI_CONTRACT_THISTLE_OBJ_1_2": "Elimina Mark Hicks con una vecchia ascia mentre sei travestito da spaventapasseri",
+			"UI_CONTRACT_THISTLE_OBJ_2_2": "Elimina Preston Becker con un mitra mentre sei travestito da spaventapasseri"
+		},
+		"de": {
+			"UI_CONTRACT_THISTLE_GROUP_DESC": "Fünf-Stufen-Eskalation in Colorado.",
+			"UI_CONTRACT_THISTLE_GROUP_TITLE": "Das Mallory-Missgeschick",
+			"UI_CONTRACT_THISTLE_OBJ_1_1": "Eliminieren Sie Mark Hicks in einer Heupresse oder durch eine Explosion.",
+			"UI_CONTRACT_THISTLE_LEVEL_2_TITLE": "Das Mallory-Missgeschick - Stufe 2",
+			"UI_CONTRACT_THISTLE_LEVEL_5_TITLE": "Das Mallory-Missgeschick - Stufe 5",
+			"UI_CONTRACT_THISTLE_LEVEL_4_TITLE": "Das Mallory-Missgeschick - Stufe 4",
+			"UI_CONTRACT_THISTLE_LEVEL_3_TITLE": "Das Mallory-Missgeschick - Stufe 3",
+			"UI_CONTRACT_THISTLE_OBJ_2_1": "Eliminieren Sie Preston Becker durch Feuer oder zerquetschen Sie ihn unter einem Auto",
+			"UI_CONTRACT_THISTLE_LEVEL_1_TITLE": "Das Mallory-Missgeschick - Stufe 1",
+			"UI_CONTRACT_THISTLE_OBJ_1_2": "Eliminieren Sie Mark Hicks als Vogelscheuche verkleidet mit einer alten Axt.",
+			"UI_CONTRACT_THISTLE_OBJ_2_2": "Eliminieren Sie Preston Becker als Vogelscheuche mit einer MP"
+		},
+		"es": {
+			"UI_CONTRACT_THISTLE_GROUP_DESC": "Intensificación de cinco niveles en Colorado.",
+			"UI_CONTRACT_THISTLE_GROUP_TITLE": "La desgracia de Mallory",
+			"UI_CONTRACT_THISTLE_OBJ_1_1": "Elimina a Mark Hicks en una embaladora de heno o en una explosión",
+			"UI_CONTRACT_THISTLE_LEVEL_2_TITLE": "La desgracia de Mallory - Nivel 2",
+			"UI_CONTRACT_THISTLE_LEVEL_5_TITLE": "La desgracia de Mallory - Nivel 5",
+			"UI_CONTRACT_THISTLE_LEVEL_4_TITLE": "La desgracia de Mallory - Nivel 4",
+			"UI_CONTRACT_THISTLE_LEVEL_3_TITLE": "La desgracia de Mallory - Nivel 3",
+			"UI_CONTRACT_THISTLE_OBJ_2_1": "Elimina a Preston Becker con fuego o aplastándolo bajo un coche",
+			"UI_CONTRACT_THISTLE_LEVEL_1_TITLE": "La desgracia de Mallory - Nivel 1",
+			"UI_CONTRACT_THISTLE_OBJ_1_2": "Elimina a Mark Hicks con un hacha vieja mientras vas disfrazado de espantapájaros",
+			"UI_CONTRACT_THISTLE_OBJ_2_2": "Elimina a Preston Becker con un subfusil mientras vas disfrazado de espantapájaros"
+		}
+	}
+}

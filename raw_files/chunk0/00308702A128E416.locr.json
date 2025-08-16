@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00308702A128E416",
+	"languages": {
+		"xx": {
+			"C0BA393B": "Title",
+			"74A6283E": "Briefing",
+			"F639C86C": "Description",
+			"A412E315": "Conclusion",
+			"35D5E2B6": "Find the Dagger",
+			"308A9C96": "Disguise yourself as Janus",
+			"5BF5A6FF": "Get into the Casket",
+			"170E4DC2": "Signal the Musician"
+		},
+		"en": {
+			"C0BA393B": "Last Honors",
+			"74A6283E": "As we know, Zoe Washington will host Janus' wake. But now it seems an antique ceremonial dagger, which Janus is supposed to wear during the service, has gone missing from storage. I suggest you locate the disputed dagger, 47. This wake could be a chance to catch the target unaware.",
+			"F639C86C": "The ceremonial dagger for Janus' wake is missing. Sounds promising.",
+			"A412E315": "You... playing dead. Hm. This takes me back. Good thinking, 47.",
+			"35D5E2B6": "Find the Dagger",
+			"308A9C96": "Disguise yourself as Janus",
+			"5BF5A6FF": "Lay down in the casket",
+			"170E4DC2": "Signal the harpist"
+		},
+		"fr": {
+			"C0BA393B": "Dernier hommage",
+			"74A6283E": "Comme nous le savons, Zoe Washington s'occupe de la veillée de Janus. Mais une dague de cérémonie ancienne qui devait être sur Janus pendant le service a disparu des réserves. Vous devriez la retrouver, 47. Cette veillée pourrait être notre chance de surprendre notre cible.",
+			"F639C86C": "La dague cérémonielle de la veillée de Janus a disparu. C'est une opportunité.",
+			"A412E315": "Vous jouez le mort ! Je ne m'y attendais pas. Bien vu, 47.",
+			"35D5E2B6": "Trouvez la dague",
+			"308A9C96": "Déguisez-vous en Janus",
+			"5BF5A6FF": "Allongez-vous dans le cercueil",
+			"170E4DC2": "Faites signe à la harpiste"
+		},
+		"it": {
+			"C0BA393B": "L'estremo saluto",
+			"74A6283E": "Sappiamo che Zoe Washington presiederà alla veglia per Janus ma, a quanto pare, l'antico pugnale da cerimonia che Janus dovrebbe indossare durante la funzione, è stato rubato dal deposito. Ti consiglio di trovare il tanto agognato pugnale, 47. La veglia potrebbe rivelarsi l'occasione perfetta per neutralizzare il bersaglio senza che se ne accorga.",
+			"F639C86C": "Il pugnale per la veglia di Janus non si trova da nessuna parte. Sembra promettente.",
+			"A412E315": "Tu... che giochi a fare il morto. Mmm... mi ricorda qualcosa. Bell'idea, 47.",
+			"35D5E2B6": "Trova il pugnale",
+			"308A9C96": "Travestiti da Janus",
+			"5BF5A6FF": "Stenditi nella bara",
+			"170E4DC2": "Dai il segnale all'arpista"
+		},
+		"de": {
+			"C0BA393B": "Letztes Geleit",
+			"74A6283E": "Wie wir wissen, ist Zoe Washington die Gastgeberin bei Janus’ Totenwache. Doch jetzt ist ein antiker Zeremoniendolch, den Janus während der Feier tragen sollte, anscheinend aus dem Lager verschwunden. Ich würde vorschlagen, dass Sie den fraglichen Dolch finden, 47. Diese Totenwache könnte eine Chance sein, das Ziel völlig zu überrumpeln.",
+			"F639C86C": "Der Zeremoniendolch für Janus’ Totenwache wird vermisst. Klingt vielversprechend.",
+			"A412E315": "Sie … stellen sich tot. Hm. Da denke ich an alte Zeiten. Gut mitgedacht, 47.",
+			"35D5E2B6": "Finden Sie den Dolch.",
+			"308A9C96": "Verkleiden Sie sich als Janus.",
+			"5BF5A6FF": "Legen Sie sich in den Sarg.",
+			"170E4DC2": "Geben Sie dem Harfenspieler ein Zeichen."
+		},
+		"es": {
+			"C0BA393B": "Últimos honores",
+			"74A6283E": "Como ya sabemos, Zoe Washington será la anfitriona del velatorio de Janus. No obstante, parece que ha desaparecido del almacén una antigua daga ceremonial, la cual debería portar Janus durante el servicio. Te sugiero que localices la daga de la discordia, 47. Este velatorio podría ser una gran oportunidad de coger al objetivo desprevenido.",
+			"F639C86C": "Ha desaparecido la daga ceremonial del velatorio de Janus. Suena prometedor.",
+			"A412E315": "¿Vas... a hacerte el muerto? Mmm. Qué recuerdos me trae esto... Buena idea, 47.",
+			"35D5E2B6": "Encuentra la daga",
+			"308A9C96": "Disfrázate de Janus",
+			"5BF5A6FF": "Túmbate en el ataúd",
+			"170E4DC2": "Hazle una señal al arpista"
+		}
+	}
+}

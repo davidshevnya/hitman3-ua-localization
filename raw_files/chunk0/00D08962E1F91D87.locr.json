@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00D08962E1F91D87",
+	"languages": {
+		"xx": {
+			"103ABA69": "Title",
+			"8933EBD3": "Summary",
+			"FE34DB45": "Briefing",
+			"60504EE6": "Step 1",
+			"17577E70": "Step 2",
+			"8E5E2FCA": "Step 3",
+			"F9591F5C": "Step 4",
+			"69E602CD": "Step 5",
+			"1EE1325B": "Conclusion"
+		},
+		"en": {
+			"103ABA69": "Lights Out",
+			"8933EBD3": "The light rig looks like an accident waiting to happen. Question is, to whom?",
+			"FE34DB45": "The light rig could potentially crush anyone on the stage below. I suggest you locate the stage schedule. If Novikov is head designer Sebastian Sato’s replacement, we can probably tweak the odds in our favor. A fragile genius known to suffer from wild mood swings, Sato shouldn’t be hard to get rid of. Be gentle, though. He is an artist after all.",
+			"60504EE6": "Find the stage schedule",
+			"17577E70": "Get Sato out of the way",
+			"8E5E2FCA": "Find a crowbar",
+			"F9591F5C": "Investigate the light rig",
+			"69E602CD": "Wait for Novikov to take the stage",
+			"1EE1325B": "Good thinking, 47. When Novikov takes the stage, he will be right where we want him."
+		},
+		"fr": {
+			"103ABA69": "Dans l'ombre",
+			"8933EBD3": "La barre de projecteurs risque fort de tomber sur la tête de quelqu'un. Reste à savoir qui...",
+			"FE34DB45": "Si elle tombait, la barre de projecteurs écraserait quiconque se trouve dessous. Essayez de trouver le planning des entrées en scène. Si Novikov est bien le remplaçant de Sebastian Sato, nous pouvons faire pencher la balance de notre côté. Sato est un génie fragile connu pour ses sautes d'humeur ; ça ne devrait pas être trop compliqué de s'en débarrasser. Soyez délicat, cependant. C'est un artiste, après tout.",
+			"60504EE6": "Trouvez le planning des entrées en scène",
+			"17577E70": "Débarrassez-vous de Sato",
+			"8E5E2FCA": "Trouvez un pied-de-biche",
+			"F9591F5C": "Examinez la barre de projecteurs",
+			"69E602CD": "Attendez que Novikov monte sur scène",
+			"1EE1325B": "Excellente stratégie, 47. Quand Novikov montera sur scène, il sera exactement là où nous le voulions."
+		},
+		"it": {
+			"103ABA69": "Giù le luci",
+			"8933EBD3": "L'impianto delle luci potrebbe causare un incidente. Ma chi sarà la vittima?",
+			"FE34DB45": "Il crollo delle luci sarebbe fatale per chiunque si trovi sul palco. Ti consiglio di trovare la scaletta della sfilata. È probabile che al termine della sfilata sia lo stilista Sato a salire alla ribalta, ma in caso di forfeit Novikov prenderebbe il suo posto. Sato è un genio volubile e vittima di repentini sbalzi d'umore, per cui non sarà difficile liberarsene. Ma non esagerare. È pur sempre un artista.",
+			"60504EE6": "Trova la scaletta della sfilata",
+			"17577E70": "Liberati di Sato",
+			"8E5E2FCA": "Trova un piede di porco",
+			"F9591F5C": "Analizza l'impianto delle luci",
+			"69E602CD": "Aspetta che Novikov salga sul palco",
+			"1EE1325B": "Ottima idea, 47. Quando Novikov salirà sul palco, sarà esattamente dove lo vogliamo."
+		},
+		"de": {
+			"103ABA69": "Lichter aus",
+			"8933EBD3": "Die Lichtanlage schreit förmlich nach einem Unfall. Fragt sich nur, wem er zustößt.",
+			"FE34DB45": "Die Lichtanlage würde jeden zerquetschen, der unter ihr steht. Ich schlage vor, Sie besorgen sich den Ablaufplan. Wenn Novikov Sato auch heute vertritt, könnten wir es zu unserem Vorteil nutzen. Es dürfte kein Problem sein, eine Primadonna wie Sato kaltzustellen. Aber seien Sie nicht zu hart zu ihm. Er ist schließlich ein Künstler.",
+			"60504EE6": "Finden Sie den Bühnenplan",
+			"17577E70": "Schaffen Sie Sato aus dem Weg",
+			"8E5E2FCA": "Finden Sie eine Brechstange",
+			"F9591F5C": "Untersuchen Sie die Lichtanlage",
+			"69E602CD": "Warten Sie, bis Novikov die Bühne betritt",
+			"1EE1325B": "Gute Idee, 47. Sobald Novikov die Bühne betritt, haben wir ihn genau da, wo wir ihn haben wollen."
+		},
+		"es": {
+			"103ABA69": "Un adiós bajo los focos",
+			"8933EBD3": "Es cuestión de tiempo que la plataforma de iluminación le dé un disgusto a alguien. La pregunta es, ¿a quién?",
+			"FE34DB45": "Esa plataforma de iluminación podría aplastar a cualquiera que esté en el escenario. Parece ser que el diseñador jefe, Sebastian Sato, sale a escena tras el desfile, pero si se retrasa, Novikov podría sustituirlo. Te recomiendo que encuentres el programa del show y averigües si estoy en lo cierto. No debería costarte deshacerte de un genio frágil susceptible a altibajos emocionales como es Sato, pero sé amable, a fin de cuentas es un artista.",
+			"60504EE6": "Busca el programa del show",
+			"17577E70": "Deshazte de Sato",
+			"8E5E2FCA": "Hazte con una palanqueta",
+			"F9591F5C": "Investiga la plataforma",
+			"69E602CD": "Espera a que Novikov suba al escenario",
+			"1EE1325B": "Muy inteligente, 47. Cuando Novikov suba al escenario estará justo donde lo queremos."
+		}
+	}
+}

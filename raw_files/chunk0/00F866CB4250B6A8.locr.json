@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00F866CB4250B6A8",
+	"languages": {
+		"xx": {
+			"CHALLENGEPACK_BORON_WRAPPER_NAME": "Muffin Man",
+			"CHALLENGEPACK_BORON_WRAPPER_DESC": "Complete all the Muffin Man challenges:</li><li>Sleepy Cake</li><li>Delicious Delivery</li><li>Organic Baking</li><li>Employees Only</li><li>Sweet Recycling",
+			"CHALLENGEPACK_BORON_KILLMUFFINWORKERS_NAME": "Sleepy Cake",
+			"CHALLENGEPACK_BORON_KILLMUFFINWORKERS_DESC": "<li>Pacify all the Servers.</li><li>Do not pacify or eliminate Helen West.</li>",
+			"CHALLENGEPACK_BORON_MUFFINPACIFY_NAME": "Delicious Delivery",
+			"CHALLENGEPACK_BORON_MUFFINPACIFY_DESC": "<li>Pacify 5 people with Blueberry Muffins.</li>",
+			"CHALLENGEPACK_BORON_OVENMUFFIN_NAME": "Organic Baking",
+			"CHALLENGEPACK_BORON_OVERMUFFIN_DESC": "<li>Eliminate two agents disguised to gardeners with the incinerator while disguised as a Server</li><li>Don't let their bodies be found</li>",
+			"CHALLENGEPACK_BORON_FINDCLUES_NAME": "Employes Only",
+			"CHALLENGEPACK_BORON_FINDCLUES_DESC": "<li>Uncover three clues connected to The Providence while disguised as a Server</li>",
+			"CHALLENGEPACK_BORON_GARBAGE_NAME": "Sweet Recycling",
+			"CHALLENGEPACK_BORON_GARBAGE_DESC": "<li>Eliminate a target with the garbage truck while disguised as a Server</li>"
+		},
+		"en": {
+			"CHALLENGEPACK_BORON_WRAPPER_NAME": "Muffin Man",
+			"CHALLENGEPACK_BORON_WRAPPER_DESC": "Complete all the Muffin Man challenges:</li><li>Sleepy Cake</li><li>Delicious Delivery</li><li>Organic Baking</li><li>Employees Only</li><li>Sweet Recycling",
+			"CHALLENGEPACK_BORON_KILLMUFFINWORKERS_NAME": "Sleepy Cake",
+			"CHALLENGEPACK_BORON_KILLMUFFINWORKERS_DESC": "<li>Pacify all the Servers.</li><li>Do not pacify or eliminate Helen West.</li>",
+			"CHALLENGEPACK_BORON_MUFFINPACIFY_NAME": "Delicious Delivery",
+			"CHALLENGEPACK_BORON_MUFFINPACIFY_DESC": "<li>Pacify 5 people with blueberry muffins.</li>",
+			"CHALLENGEPACK_BORON_OVENMUFFIN_NAME": "Organic Baking",
+			"CHALLENGEPACK_BORON_OVERMUFFIN_DESC": "<li>Eliminate two agents disguised as gardeners with the incinerator while disguised as a Server.</li><li>Don't let their bodies be found.</li>",
+			"CHALLENGEPACK_BORON_FINDCLUES_NAME": "Employees Only",
+			"CHALLENGEPACK_BORON_FINDCLUES_DESC": "<li>Uncover three clues connected to Providence while disguised as a Server.</li>",
+			"CHALLENGEPACK_BORON_GARBAGE_NAME": "Sweet Recycling",
+			"CHALLENGEPACK_BORON_GARBAGE_DESC": "<li>Eliminate a target with the garbage truck while disguised as a Server.</li>"
+		},
+		"fr": {
+			"CHALLENGEPACK_BORON_WRAPPER_NAME": "Muffin Man",
+			"CHALLENGEPACK_BORON_WRAPPER_DESC": "Terminez tous les défis Muffin Man :</li><li>Hypno-gâteau</li><li>Livraison savoureuse</li><li>Cuisson bio</li><li>Réservé au personnel</li><li>Tri sélectif",
+			"CHALLENGEPACK_BORON_KILLMUFFINWORKERS_NAME": "Hypno-gâteau",
+			"CHALLENGEPACK_BORON_KILLMUFFINWORKERS_DESC": "<li>Neutralisez tous les serveurs.</li><li>Ne neutralisez ou n'éliminez pas Helen West.</li>",
+			"CHALLENGEPACK_BORON_MUFFINPACIFY_NAME": "Livraison savoureuse",
+			"CHALLENGEPACK_BORON_MUFFINPACIFY_DESC": "<li>Neutralisez 5 personnes avec des muffins à la myrtille.</li>",
+			"CHALLENGEPACK_BORON_OVENMUFFIN_NAME": "Cuisson bio",
+			"CHALLENGEPACK_BORON_OVERMUFFIN_DESC": "<li>Éliminez 2 agents déguisés en jardiniers avec l'incinérateur, pendant que vous êtes déguisé en serveur.</li><li>Leurs corps ne doivent pas être retrouvés.</li>",
+			"CHALLENGEPACK_BORON_FINDCLUES_NAME": "Réservé au personnel",
+			"CHALLENGEPACK_BORON_FINDCLUES_DESC": "<li>Découvrez 3 indices liés à Providence déguisé en serveur.</li>",
+			"CHALLENGEPACK_BORON_GARBAGE_NAME": "Tri sélectif",
+			"CHALLENGEPACK_BORON_GARBAGE_DESC": "<li>Éliminez une cible avec le camion poubelle déguisé en serveur.</li>"
+		},
+		"it": {
+			"CHALLENGEPACK_BORON_WRAPPER_NAME": "L'uomo dei muffin",
+			"CHALLENGEPACK_BORON_WRAPPER_DESC": "Completa tutte le sfide L'uomo dei muffin:</li><li>Torta sonnolenta</li><li>Consegna deliziosa</li><li>Crostata organica</li><li>Riservato allo staff</li><li>Dolce riciclaggio",
+			"CHALLENGEPACK_BORON_KILLMUFFINWORKERS_NAME": "Torta sonnolenta",
+			"CHALLENGEPACK_BORON_KILLMUFFINWORKERS_DESC": "<li>Neutralizza tutti i camerieri.</li><li>Non neutralizzare o eliminare Helen West.</li>",
+			"CHALLENGEPACK_BORON_MUFFINPACIFY_NAME": "Consegna deliziosa",
+			"CHALLENGEPACK_BORON_MUFFINPACIFY_DESC": "<li>Neutralizza 5 persone con i muffin al mirtillo.</li>",
+			"CHALLENGEPACK_BORON_OVENMUFFIN_NAME": "Crostata organica",
+			"CHALLENGEPACK_BORON_OVERMUFFIN_DESC": "<li>Elimina due agenti travestiti da giardinieri con l'inceneritore mentre sei travestito da cameriere.</li><li>Fai in modo che i loro corpi non siano rinvenuti.</li>",
+			"CHALLENGEPACK_BORON_FINDCLUES_NAME": "Riservato allo staff",
+			"CHALLENGEPACK_BORON_FINDCLUES_DESC": "<li>Scopri tre indizi collegati a Providence mentre sei travestito da cameriere.</li>",
+			"CHALLENGEPACK_BORON_GARBAGE_NAME": "Dolce riciclaggio",
+			"CHALLENGEPACK_BORON_GARBAGE_DESC": "<li>Elimina un bersaglio con il camion dei rifiuti mentre sei travestito da cameriere.</li>"
+		},
+		"de": {
+			"CHALLENGEPACK_BORON_WRAPPER_NAME": "Muffinmann",
+			"CHALLENGEPACK_BORON_WRAPPER_DESC": "Schließen Sie alle „Muffinmann“-Herausforderungen ab:</li><li>Betthupferl</li><li>Köstlicher Abgang</li><li>Biologisch abbaubar</li><li>Zutritt nur für Angestellte</li><li>Biotonne und gelber Sack",
+			"CHALLENGEPACK_BORON_KILLMUFFINWORKERS_NAME": "Betthupferl",
+			"CHALLENGEPACK_BORON_KILLMUFFINWORKERS_DESC": "<li>Stellen Sie alle Kellner ruhig.</li><li>Helen West darf weder ruhiggestellt noch eliminiert werden.</li>",
+			"CHALLENGEPACK_BORON_MUFFINPACIFY_NAME": "Köstlicher Abgang",
+			"CHALLENGEPACK_BORON_MUFFINPACIFY_DESC": "<li>Stellen Sie 5 Personen mit Blaubeermuffins ruhig.</li>",
+			"CHALLENGEPACK_BORON_OVENMUFFIN_NAME": "Biologisch abbaubar",
+			"CHALLENGEPACK_BORON_OVERMUFFIN_DESC": "<li>Eliminieren Sie als Kellner verkleidet zwei als Gärtner verkleidete Agenten mit dem Verbrennungsofen.</li><li>Ihre Leichen dürfen nicht gefunden werden.</li>",
+			"CHALLENGEPACK_BORON_FINDCLUES_NAME": "Zutritt nur für Angestellte",
+			"CHALLENGEPACK_BORON_FINDCLUES_DESC": "<li>Entdecken Sie als Kellner verkleidet drei Hinweise auf Providence.</li>",
+			"CHALLENGEPACK_BORON_GARBAGE_NAME": "Biotonne und gelber Sack",
+			"CHALLENGEPACK_BORON_GARBAGE_DESC": "<li>Eliminieren Sie als Kellner verkleidet ein Ziel mit dem Müllwagen.</li>"
+		},
+		"es": {
+			"CHALLENGEPACK_BORON_WRAPPER_NAME": "El hombre del Muffin",
+			"CHALLENGEPACK_BORON_WRAPPER_DESC": "Completa todos los desafíos de El hombre del Muffin:</li><li>Tarta adormecedora</li><li>Entrega deliciosa</li><li>Bollería orgánica</li><li>Solo para empleados</li><li>Dulce reciclaje",
+			"CHALLENGEPACK_BORON_KILLMUFFINWORKERS_NAME": "Tarta adormecedora",
+			"CHALLENGEPACK_BORON_KILLMUFFINWORKERS_DESC": "<li>Deja inconscientes a todos los camareros.</li><li>No mates ni dejes inconsciente a Helen West.</li>",
+			"CHALLENGEPACK_BORON_MUFFINPACIFY_NAME": "Entrega deliciosa",
+			"CHALLENGEPACK_BORON_MUFFINPACIFY_DESC": "<li>Deja inconscientes a 5 personas con muffins de arándanos.</li>",
+			"CHALLENGEPACK_BORON_OVENMUFFIN_NAME": "Bollería orgánica",
+			"CHALLENGEPACK_BORON_OVERMUFFIN_DESC": "<li>Mientras estás disfrazado de camarero, elimina a dos agentes disfrazados de jardineros con el incinerador.</li><li>Que no encuentren sus cadáveres.</li>",
+			"CHALLENGEPACK_BORON_FINDCLUES_NAME": "Solo para empleados",
+			"CHALLENGEPACK_BORON_FINDCLUES_DESC": "<li>Encuentra tres pistas vinculadas a Providence disfrazado de camarero.</li>",
+			"CHALLENGEPACK_BORON_GARBAGE_NAME": "Dulce reciclaje",
+			"CHALLENGEPACK_BORON_GARBAGE_DESC": "<li>Elimina a un objetivo con el camión de la basura disfrazado de camarero.</li>"
+		}
+	}
+}

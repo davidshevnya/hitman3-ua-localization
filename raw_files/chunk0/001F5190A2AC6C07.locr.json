@@ -1,0 +1,78 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "001F5190A2AC6C07",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_DELPHINIUM_GROUP_TITLE": "The Arthin Occultation",
+			"UI_CONTRACT_DELPHINIUM_GROUP_DESC": "Five level escalation in Bangkok",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_5_TITLE": "The Arthin Occultation - Level 5",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_4_TITLE": "The Arthin Occultation - Level 4",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_3_TITLE": "The Arthin Occultation - Level 3",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_2_TITLE": "The Arthin Occultation - Level 2",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_1_TITLE": "The Arthin Occultation - Level 1",
+			"UI_CONTRACT_DELPHINIUM_OBJ_1": "Eliminate Jariya Chansiri with a hatchet while disguised as a groundskeeper",
+			"UI_CONTRACT_DELPHINIUM_OBJ_2": "Eliminate Rand Chiravat while disguised as a groundskeeper",
+			"UI_CONTRACT_DELPHINIUM_OBJ_3": "Eliminate Thomas Craig while disguised as a groundskeeper"
+		},
+		"en": {
+			"UI_CONTRACT_DELPHINIUM_GROUP_TITLE": "The Arthin Occultation",
+			"UI_CONTRACT_DELPHINIUM_GROUP_DESC": "Five level Escalation in Bangkok.",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_5_TITLE": "The Arthin Occultation - Level 5",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_4_TITLE": "The Arthin Occultation - Level 4",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_3_TITLE": "The Arthin Occultation - Level 3",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_2_TITLE": "The Arthin Occultation - Level 2",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_1_TITLE": "The Arthin Occultation - Level 1",
+			"UI_CONTRACT_DELPHINIUM_OBJ_1": "Eliminate Jariya Chansiri with a hatchet while disguised as a groundskeeper",
+			"UI_CONTRACT_DELPHINIUM_OBJ_2": "Eliminate Rand Chiravat while disguised as a groundskeeper",
+			"UI_CONTRACT_DELPHINIUM_OBJ_3": "Eliminate Thomas Craig while disguised as a groundskeeper"
+		},
+		"fr": {
+			"UI_CONTRACT_DELPHINIUM_GROUP_TITLE": "L'occultation d'Arthin",
+			"UI_CONTRACT_DELPHINIUM_GROUP_DESC": "Escalade en cinq niveaux à Bangkok.",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_5_TITLE": "L'occultation d'Arthin - Niveau 5",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_4_TITLE": "L'occultation d'Arthin - Niveau 4",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_3_TITLE": "L'occultation d'Arthin - Niveau 3",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_2_TITLE": "L'occultation d'Arthin - Niveau 2",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_1_TITLE": "L'occultation d'Arthin - Niveau 1",
+			"UI_CONTRACT_DELPHINIUM_OBJ_1": "Éliminez Jariya Chansiri à la hachette, déguisé en jardinier",
+			"UI_CONTRACT_DELPHINIUM_OBJ_2": "Éliminez Rand Chiravat, déguisé en jardinier",
+			"UI_CONTRACT_DELPHINIUM_OBJ_3": "Éliminez Thomas Craig, déguisé en jardinier"
+		},
+		"it": {
+			"UI_CONTRACT_DELPHINIUM_GROUP_TITLE": "L'occultamento di Arthin",
+			"UI_CONTRACT_DELPHINIUM_GROUP_DESC": "Escalation di cinque livelli a Bangkok.",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_5_TITLE": "L'occultamento di Arthin - Livello 5",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_4_TITLE": "L'occultamento di Arthin - Livello 4",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_3_TITLE": "L'occultamento di Arthin - Livello 3",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_2_TITLE": "L'occultamento di Arthin - Livello 2",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_1_TITLE": "L'occultamento di Arthin - Livello 1",
+			"UI_CONTRACT_DELPHINIUM_OBJ_1": "Elimina Jariya Chansiri con un'accetta mentre sei travestito da giardiniere",
+			"UI_CONTRACT_DELPHINIUM_OBJ_2": "Elimina Rand Chiravat mentre sei travestito da giardiniere",
+			"UI_CONTRACT_DELPHINIUM_OBJ_3": "Elimina Thomas Craig mentre sei travestito da giardiniere"
+		},
+		"de": {
+			"UI_CONTRACT_DELPHINIUM_GROUP_TITLE": "Die Arthin-Okkultation",
+			"UI_CONTRACT_DELPHINIUM_GROUP_DESC": "Fünf-Stufen-Eskalation in Bangkok.",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_5_TITLE": "Die Arthin-Okkultation - Stufe 5",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_4_TITLE": "Die Arthin-Okkultation - Stufe 4",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_3_TITLE": "Die Arthin-Okkultation - Stufe 3",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_2_TITLE": "Die Arthin-Okkultation - Stufe 2",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_1_TITLE": "Die Arthin-Okkultation - Stufe 1",
+			"UI_CONTRACT_DELPHINIUM_OBJ_1": "Eliminieren Sie Jariya Chansiri als Hausmeister mit einem Beil",
+			"UI_CONTRACT_DELPHINIUM_OBJ_2": "Eliminieren Sie Rand Chiravat als Hausmeister",
+			"UI_CONTRACT_DELPHINIUM_OBJ_3": "Eliminieren Sie Thomas Craig als Hausmeister"
+		},
+		"es": {
+			"UI_CONTRACT_DELPHINIUM_GROUP_TITLE": "La ocultación de Arthin",
+			"UI_CONTRACT_DELPHINIUM_GROUP_DESC": "Intensificación de cinco niveles en Bangkok.",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_5_TITLE": "La ocultación de Arthin - Nivel 5",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_4_TITLE": "La ocultación de Arthin - Nivel 4",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_3_TITLE": "La ocultación de Arthin - Nivel 3",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_2_TITLE": "La ocultación de Arthin - Nivel 2",
+			"UI_CONTRACT_DELPHINIUM_LEVEL_1_TITLE": "La ocultación de Arthin - Nivel 1",
+			"UI_CONTRACT_DELPHINIUM_OBJ_1": "Elimina a Jariya Chansiri con un hacha de mano disfrazado de encargado",
+			"UI_CONTRACT_DELPHINIUM_OBJ_2": "Elimina a Rand Chiravat disfrazado de encargado",
+			"UI_CONTRACT_DELPHINIUM_OBJ_3": "Elimina a Thomas Craig disfrazado de encargado"
+		}
+	}
+}

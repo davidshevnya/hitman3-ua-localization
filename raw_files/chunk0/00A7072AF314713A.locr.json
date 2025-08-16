@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00A7072AF314713A",
+	"languages": {
+		"xx": {
+			"D6968AC6": "Title",
+			"4F9FDB7C": "Summary",
+			"3898EBEA": "Briefing",
+			"A6FC7E49": "Conclusion",
+			"D1FB4EDF": "Step 1",
+			"48F21F65": "Step 2",
+			"3FF52FF3": "Step 3",
+			"AF4A3262": "Step 4",
+			"D84D02F4": "Step 5"
+		},
+		"en": {
+			"D6968AC6": "A Case Most Peculiar",
+			"4F9FDB7C": "Francesca De Santis has hired a PI. Wherever they plan to meet, they are bound to do so in private.",
+			"3898EBEA": "According to our research, Sal Falcone, a private investigator from Milan, has performed services for Silvio Caruso in the past. The question is, does Falcone still work for Caruso, or does De Santis have an agenda of her own? Only one way to find out.",
+			"A6FC7E49": "Good thinking, 47. De Santis will arrive shortly. This is one time the dame won’t fool the detective.",
+			"D1FB4EDF": "Find the detective",
+			"48F21F65": "Wake up the detective",
+			"3FF52FF3": "Eavesdrop on the detective",
+			"AF4A3262": "Disguise yourself as the Detective",
+			"D84D02F4": "Meet with De Santis on the pier"
+		},
+		"fr": {
+			"D6968AC6": "Un cas fort particulier",
+			"4F9FDB7C": "Francesca De Santis a engagé un détective privé. Il est évident qu'ils s'arrangeront pour se rencontrer en privé.",
+			"3898EBEA": "Selon nos informations, Silvio Caruso a, par le passé, fait appel aux services de Sal Falcone, un détective privé milanais. Ce dernier travaille-t-il encore pour Caruso, ou De Santis a-t-elle des intentions qui lui sont propres ? Il n'y a qu'un moyen de le savoir.",
+			"A6FC7E49": "Excellente stratégie, 47. De Santis ne va pas tarder à arriver. Pour une fois, notre détective ne se laissera pas manipuler par une femme !",
+			"D1FB4EDF": "Trouvez le détective",
+			"48F21F65": "Réveillez le détective",
+			"3FF52FF3": "Espionnez les conversations du détective",
+			"AF4A3262": "Déguisez-vous en détective",
+			"D84D02F4": "Retrouvez De Santis sur la jetée"
+		},
+		"it": {
+			"D6968AC6": "Un caso alquanto insolito",
+			"4F9FDB7C": "Francesca De Santis ha assunto un investigatore privato. Ovunque si incontrino, saranno certamente da soli.",
+			"3898EBEA": "Le nostre ricerche confermano che Sal Falcone, un investigatore privato di Milano, ha già svolto incarichi per Silvio Caruso. La domanda è: Falcone lavora ancora per Caruso o De Santis sta tramando qualcosa? C'è solo un modo per scoprirlo.",
+			"A6FC7E49": "Ottima idea, 47. De Santis arriverà a breve. Per una volta, non sarà la donzella di turno a fregare il detective.",
+			"D1FB4EDF": "Trova il detective",
+			"48F21F65": "Sveglia il detective",
+			"3FF52FF3": "Origlia la conversazione del detective",
+			"AF4A3262": "Travestiti da detective",
+			"D84D02F4": "Incontra Francesca De Santis al molo"
+		},
+		"de": {
+			"D6968AC6": "Ein heikler Fall",
+			"4F9FDB7C": "Francesca De Santis hat einen Privatdetektiv engagiert. Vermutlich wird sie unter vier Augen mit ihm sprechen.",
+			"3898EBEA": "Laut unserer Recherchen hat Sal Falcone, ein Privatdetektiv aus Mailand, in der Vergangenheit mehrmals Nachforschungen für Silvio Caruso angestellt. Die Frage ist, arbeitet Falcone noch immer für Caruso oder verfolgt De Santis eigene Ziele? Es gibt nur einen Weg, es rauszufinden.",
+			"A6FC7E49": "Gute Idee, 47. De Santis wird in Kürze eintreffen. Und dann gibt es für die Signora ein böses Erwachen.",
+			"D1FB4EDF": "Finden Sie den Detektiv",
+			"48F21F65": "Wecken Sie den Detektiv",
+			"3FF52FF3": "Belauschen Sie den Detektiv",
+			"AF4A3262": "Verkleiden Sie sich als Detektiv",
+			"D84D02F4": "Treffen Sie sich mit De Santis am Pier"
+		},
+		"es": {
+			"D6968AC6": "Un caso muy peculiar",
+			"4F9FDB7C": "Francesca De Santis ha contratado a un detective privado. Dondequiera que se reúnan, lo harán en privado.",
+			"3898EBEA": "Según nuestra investigación, Sal Falcone, un detective privado de Milán, ha trabajado para Silvio Caruso en el pasado. La cuestión es: ¿Falcone sigue trabajando para Caruso o De Santis tiene sus propios planes? Solo hay una forma de averiguarlo.",
+			"A6FC7E49": "Bien pensado, 47. De Santis llegará enseguida. Esta vez la dama no engañará al detective.",
+			"D1FB4EDF": "Encuentra al detective",
+			"48F21F65": "Despierta al detective",
+			"3FF52FF3": "Espía al detective",
+			"AF4A3262": "Disfrázate como el detective",
+			"D84D02F4": "Reúnete con De Santis en el embarcadero"
+		}
+	}
+}

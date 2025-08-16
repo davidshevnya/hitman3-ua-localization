@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/online/contracts/sniper.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_HAWK_OBJ_BODYGUARDS_DESC": "Eliminate as many bodyguards as possible",
+			"UI_CONTRACT_HAWK_OBJECTIVE_BODYGUARDS": "Eliminate Bodyguards",
+			"279B14F2": "Bodyguards remaining",
+			"UI_CONTRACT_HAWK_TITLE": "The Last Yardbird",
+			"UI_CONTRACT_HAWK_DESC": "A mansion in the Austrian mountainside",
+			"UI_CONTRACT_HAWK_OBJECTIVE_STOPEVACUATION": "Prevent Target Escaping",
+			"D6545CFD": "30 seconds remaining",
+			"49C2F064": "2 minutes remaining",
+			"34B1F63C": "5 minutes remaining",
+			"2DF7BFC5": "10 minutes remaining",
+			"UI_CONTRACT_HAWK_TIMER_TIMED_OUT": "00:00"
+		},
+		"en": {
+			"UI_CONTRACT_HAWK_OBJ_BODYGUARDS_DESC": "Eliminate as many bodyguards as possible.",
+			"UI_CONTRACT_HAWK_OBJECTIVE_BODYGUARDS": "Eliminate Bodyguards",
+			"279B14F2": "Bodyguards remaining",
+			"UI_CONTRACT_HAWK_TITLE": "The Last Yardbird",
+			"UI_CONTRACT_HAWK_DESC": "A mansion in the Austrian mountains",
+			"UI_CONTRACT_HAWK_OBJECTIVE_STOPEVACUATION": "Prevent Target From Escaping",
+			"D6545CFD": "30 seconds remaining",
+			"49C2F064": "2 minutes remaining",
+			"34B1F63C": "5 minutes remaining",
+			"2DF7BFC5": "10 minutes remaining",
+			"UI_CONTRACT_HAWK_TIMER_TIMED_OUT": "0"
+		},
+		"fr": {
+			"UI_CONTRACT_HAWK_OBJ_BODYGUARDS_DESC": "Éliminez autant de gardes du corps que possible.",
+			"UI_CONTRACT_HAWK_OBJECTIVE_BODYGUARDS": "Éliminer des gardes du corps",
+			"279B14F2": "Gardes du corps restants",
+			"UI_CONTRACT_HAWK_TITLE": "The Last Yardbird",
+			"UI_CONTRACT_HAWK_DESC": "Un manoir dans les montagnes autrichiennes",
+			"UI_CONTRACT_HAWK_OBJECTIVE_STOPEVACUATION": "Empêcher la cible de fuir",
+			"D6545CFD": "Plus que 30 secondes",
+			"49C2F064": "2 minutes restantes",
+			"34B1F63C": "Plus que 5 minutes",
+			"2DF7BFC5": "Plus que 10 minutes",
+			"UI_CONTRACT_HAWK_TIMER_TIMED_OUT": "0"
+		},
+		"it": {
+			"UI_CONTRACT_HAWK_OBJ_BODYGUARDS_DESC": "Elimina quante più guardie del corpo possibili.",
+			"UI_CONTRACT_HAWK_OBJECTIVE_BODYGUARDS": "Elimina le guardie del corpo",
+			"279B14F2": "Guardie del corpo rimaste",
+			"UI_CONTRACT_HAWK_TITLE": "The Last Yardbird",
+			"UI_CONTRACT_HAWK_DESC": "Una villa tra le montagne austriache",
+			"UI_CONTRACT_HAWK_OBJECTIVE_STOPEVACUATION": "Impedisci al bersaglio di fuggire",
+			"D6545CFD": "30 secondi rimasti",
+			"49C2F064": "2 minuti rimasti",
+			"34B1F63C": "5 minuti rimasti",
+			"2DF7BFC5": "10 minuti rimasti",
+			"UI_CONTRACT_HAWK_TIMER_TIMED_OUT": "0"
+		},
+		"de": {
+			"UI_CONTRACT_HAWK_OBJ_BODYGUARDS_DESC": "Eliminieren Sie so viele Leibwächter wie möglich.",
+			"UI_CONTRACT_HAWK_OBJECTIVE_BODYGUARDS": "Schalten Sie Leibwächter aus.",
+			"279B14F2": "Verbleibende Leibwächter",
+			"UI_CONTRACT_HAWK_TITLE": "The Last Yardbird",
+			"UI_CONTRACT_HAWK_DESC": "Ein Herrenhaus in den österreichischen Bergen",
+			"UI_CONTRACT_HAWK_OBJECTIVE_STOPEVACUATION": "Hindern Sie das Ziel an der Flucht.",
+			"D6545CFD": "Es bleiben noch 30 Sekunden.",
+			"49C2F064": "Es bleiben noch 2 Minuten.",
+			"34B1F63C": "Es bleiben noch 5 Minuten.",
+			"2DF7BFC5": "Es bleiben noch 10 Minuten.",
+			"UI_CONTRACT_HAWK_TIMER_TIMED_OUT": "0"
+		},
+		"es": {
+			"UI_CONTRACT_HAWK_OBJ_BODYGUARDS_DESC": "Elimina a tantos guardaespaldas como puedas.",
+			"UI_CONTRACT_HAWK_OBJECTIVE_BODYGUARDS": "Elimina a los guardaespaldas",
+			"279B14F2": "Guardaespaldas restantes",
+			"UI_CONTRACT_HAWK_TITLE": "The Last Yardbird",
+			"UI_CONTRACT_HAWK_DESC": "Una mansión en las montañas de Austria",
+			"UI_CONTRACT_HAWK_OBJECTIVE_STOPEVACUATION": "Evita que el objetivo huya",
+			"D6545CFD": "Quedan 30 segundos",
+			"49C2F064": "Quedan 2 minutos",
+			"34B1F63C": "Quedan 5 minutos",
+			"2DF7BFC5": "Quedan 10 minutos",
+			"UI_CONTRACT_HAWK_TIMER_TIMED_OUT": "0"
+		}
+	}
+}

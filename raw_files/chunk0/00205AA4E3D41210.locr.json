@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00205AA4E3D41210",
+	"languages": {
+		"xx": {
+			"8649F599": "WaterJetJoyRide - Placeholder",
+			"D455F821": "Placeholder",
+			"6ECC3568": "Bradley wants to go on a WAter Jet Ride but has lost his keys. Help him out and make sure he never comes back to shore - Placeholder",
+			"83CF5B57": "Bradley is going on the ride of his death - Placeholder",
+			"F9179AE4": "Retrieve the WaterJet keys - Placeholder",
+			"400DF090": "Deliver the key to Bradley - Placeholder"
+		},
+		"en": {
+			"8649F599": "The Water Horse",
+			"D455F821": "So, Steven Bradley likes to go on water scooters but is unable to go out because the SCUBA instructor confiscated his keys. Shame. Those things are very accident prone...",
+			"6ECC3568": "A Wild Ride",
+			"83CF5B57": "All right, let's see how well Mr. Bradley controls that water scooter of his.",
+			"F9179AE4": "Retrieve the Water Scooter Keys",
+			"400DF090": "Deliver the Key to Bradley"
+		},
+		"fr": {
+			"8649F599": "Le cheval des mers",
+			"D455F821": "Steven Bradley a l'air d'aimer le jetski, mais il va devoir se retenir un peu, car l'instructeur de plongée lui a confisqué ses clés. Quel dommage. Ces véhicules sont pourtant si faciles à envoyer dans le décor…",
+			"6ECC3568": "Chevauchée mouvementée",
+			"83CF5B57": "Parfait, voyons comment M. Bradley se débrouille sur son jetski.",
+			"F9179AE4": "Récupérez les clés du jetski",
+			"400DF090": "Donnez les clés à Bradley"
+		},
+		"it": {
+			"8649F599": "Destriero acquatico",
+			"D455F821": "A Steven Bradley piace andare sulla moto d'acqua, ma non può farlo perché l'istruttore di sub gli ha sequestrato le chiavi. Che peccato. Quelle cose sono decisamente predisposte agli incidenti...",
+			"6ECC3568": "Corsa selvaggia",
+			"83CF5B57": "Vediamo un po' come se la cava il signor Bradley in sella alla sua moto d'acqua.",
+			"F9179AE4": "Recupera le chiavi della moto d'acqua",
+			"400DF090": "Consegna le chiavi a Bradley"
+		},
+		"de": {
+			"8649F599": "Das Seepferd",
+			"D455F821": "Steven Bradley fährt also gern Jet-Ski, aber kann das gerade nicht, weil der Tauchlehrer seine Schlüssel beschlagnahmt hat. Wie schade … Diese Dinger neigen stark zu Unfällen …",
+			"6ECC3568": "Ein wilder Ritt",
+			"83CF5B57": "Alles klar. Wollen wir mal sehen, wie gut Mr. Bradley diesen Jet-Ski im Griff hat.",
+			"F9179AE4": "Beschaffen Sie den Jet-Ski-Schlüssel.",
+			"400DF090": "Überbringen Sie Bradley den Schlüssel."
+		},
+		"es": {
+			"8649F599": "El caballo acuático",
+			"D455F821": "Vale, así que a Steven Bradley le gusta salir a pasear con motos de agua, pero no puede hacerlo porque el instructor de submarinismo le ha confiscado las llaves. Qué pena. Con lo fácil que es tener accidentes con esas cosas...",
+			"6ECC3568": "Viaje salvaje",
+			"83CF5B57": "Vale, veamos qué tal se desenvuelve el señor Bradley con su moto de agua...",
+			"F9179AE4": "Recupera las llaves de la moto de agua",
+			"400DF090": "Dale la llave a Bradley"
+		}
+	}
+}

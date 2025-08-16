@@ -1,0 +1,78 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/online/challenges/challenges_et_negroni.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"UI_CHALLENGES_ET_NEGRONI_COMPLETED_NAME": "Contract Complete",
+			"UI_CHALLENGES_ET_NEGRONI_COMPLETED_DESC": "Contract Complete",
+			"UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_DESC": "<li>Assassinate The Brain.</li>",
+			"UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_NAME": "The Brain",
+			"1B43A179": "Target Suicide Completion",
+			"4ED5732B": "Target Suicide Completion",
+			"UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_DESC": "<li>Assassinate The Brain.</li><li>Assassinate The Brawler.</li><li>Only kill the targets.</il><li>No bodies found.</il><li>Do not get compromised.</il><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+			"UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_NAME": "Silent Assassin",
+			"UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_DESC": "<li>Assassinate The Brawler.</li>",
+			"UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_NAME": "The Brawler"
+		},
+		"en": {
+			"UI_CHALLENGES_ET_NEGRONI_COMPLETED_NAME": "Contract Complete",
+			"UI_CHALLENGES_ET_NEGRONI_COMPLETED_DESC": "Contract Complete",
+			"UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_DESC": "<li>Assassinate the Brain.</li>",
+			"UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_NAME": "The Brain",
+			"1B43A179": "Target Suicide Completion",
+			"4ED5732B": "Target Suicide Completion",
+			"UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_DESC": "<li>Assassinate the Brain.</li><li>Assassinate the Brawler.</li><li>Only eliminate the targets.</li><li>No bodies found.</li><li>Do not get spotted.</li><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+			"UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_NAME": "Silent Assassin",
+			"UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_DESC": "<li>Assassinate the Brawler.</li>",
+			"UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_NAME": "The Brawler"
+		},
+		"fr": {
+			"UI_CHALLENGES_ET_NEGRONI_COMPLETED_NAME": "Contrat réussi",
+			"UI_CHALLENGES_ET_NEGRONI_COMPLETED_DESC": "Contrat réussi",
+			"UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_DESC": "<li>Assassinez le cerveau.</li>",
+			"UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_NAME": "Le cerveau",
+			"1B43A179": "Suicide de la cible réussi",
+			"4ED5732B": "Suicide de la cible réussi",
+			"UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_DESC": "<li>Assassinez le cerveau.</li><li>Assassinez le bagarreur.</li><li>Abattez uniquement les cibles.</li><li>Aucun corps trouvé.</li><li>Ne vous faites pas repérer.</li><li>Si vous êtes repéré par les caméras, effacez ou détruisez la vidéo.</li>",
+			"UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_NAME": "Assassin silencieux",
+			"UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_DESC": "<li>Assassinez le bagarreur.</li>",
+			"UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_NAME": "Le bagarreur"
+		},
+		"it": {
+			"UI_CHALLENGES_ET_NEGRONI_COMPLETED_NAME": "Contratto completato",
+			"UI_CHALLENGES_ET_NEGRONI_COMPLETED_DESC": "Contratto completato",
+			"UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_DESC": "<li>Elimina la mente.</li>",
+			"UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_NAME": "La mente",
+			"1B43A179": "Completamento suicidio bersaglio",
+			"4ED5732B": "Completamento suicidio bersaglio",
+			"UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_DESC": "<li>Elimina la mente.</li><li>Elimina il bruto.</li><li>Elimina solo i bersagli.</li><li>Fai in modo che nessun corpo sia rinvenuto.</li><li>Non essere individuato.</li><li>Se vieni inquadrato dalle telecamere, cancella o distruggi le registrazioni.</li>",
+			"UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_NAME": "Assassino silenzioso",
+			"UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_DESC": "<li>Elimina il bruto.</li>",
+			"UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_NAME": "Il bruto"
+		},
+		"de": {
+			"UI_CHALLENGES_ET_NEGRONI_COMPLETED_NAME": "Auftrag abgeschlossen",
+			"UI_CHALLENGES_ET_NEGRONI_COMPLETED_DESC": "Auftrag abgeschlossen",
+			"UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_DESC": "<li>Eliminieren Sie das Hirn.</li>",
+			"UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_NAME": "Das Hirn",
+			"1B43A179": "Selbstmord des Ziels abgeschlossen",
+			"4ED5732B": "Selbstmord des Ziels abgeschlossen",
+			"UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_DESC": "<li>Eliminieren Sie das Hirn.</li><li>Eliminieren Sie den Rabauken.</li><li>Eliminieren Sie nur die Ziele.</li><li>Keine Körper dürfen gefunden werden.</li><li>Bleiben Sie unbemerkt.</li><li>Werden Sie von Kameras gefilmt, löschen oder zerstören Sie die Beweise.</li>",
+			"UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_NAME": "Lautloser Killer",
+			"UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_DESC": "<li>Eliminieren Sie den Rabauken.</li>",
+			"UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_NAME": "Der Rabauke"
+		},
+		"es": {
+			"UI_CHALLENGES_ET_NEGRONI_COMPLETED_NAME": "Contrato completado",
+			"UI_CHALLENGES_ET_NEGRONI_COMPLETED_DESC": "Contrato completado",
+			"UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_DESC": "<li>Asesina a la mente.</li>",
+			"UI_CHALLENGES_ET_NEGRONI_A_TARGETDOWN_NAME": "La mente",
+			"1B43A179": "Progreso de suicidio del blanco",
+			"4ED5732B": "Progreso de suicidio del blanco",
+			"UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_DESC": "<li>Asesina a la mente.</li><li>Asesina al matón.</li><li>Elimina solo a los objetivos.</li><li>Que no descubran cuerpos.</li><li>Evita que te descubran.</li><li>Si te detectan las cámaras, borra o destruye las pruebas.</li>",
+			"UI_CHALLENGES_ET_NEGRONI_SILENT_ASSASSIN_NAME": "Asesino silencioso",
+			"UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_DESC": "<li>Asesina al matón.</li>",
+			"UI_CHALLENGES_ET_NEGRONI_B_TARGETDOWN_NAME": "El matón"
+		}
+	}
+}

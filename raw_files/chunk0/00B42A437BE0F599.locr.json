@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00B42A437BE0F599",
+	"languages": {
+		"xx": {
+			"DDE871BD": "Title",
+			"44E12007": "Summary",
+			"33E61091": "Briefing",
+			"AD828532": "Conclusion",
+			"DA85B5A4": "Step 1",
+			"438CE41E": "Step 2",
+			"348BD488": "Step 3",
+			"A434C919": "Step 4"
+		},
+		"en": {
+			"DDE871BD": "Hostile Environment",
+			"44E12007": "The air inside the central lab unit is toxic. Entering requires a hazmat suit.",
+			"33E61091": "In case of an accident, the central lab unit is kept perpetually doused in chemicals to stop the virus prototype from spreading. Entering without a hazmat suit is sure to be lethal. The air purification system is able to clear the toxin, but the controls are only operated by senior lab personnel.",
+			"AD828532": "You’re all set. Time to go eliminate the competition.",
+			"DA85B5A4": "Get a Scientist disguise",
+			"438CE41E": "Get a research lab keycard",
+			"348BD488": "Get a hazmat suit",
+			"A434C919": "Enter the biolab"
+		},
+		"fr": {
+			"DDE871BD": "Environnement hostile",
+			"44E12007": "L'air de la pièce centrale du laboratoire est toxique. Personne ne peut y entrer sans combinaison de protection.",
+			"33E61091": "Des produits chimiques, destinés à empêcher la propagation du virus en cas d'accident, sont en permanence diffusés dans la pièce centrale du laboratoire. Y entrer sans combinaison de sécurité équivaudrait à un suicide. Le système de purification de l'air permet de dissiper les émanations toxiques, mais seuls les responsables du laboratoire sont habilités à le mettre en marche.",
+			"AD828532": "Vous voilà prêt. Il est temps d'éliminer la concurrence.",
+			"DA85B5A4": "Procurez-vous une tenue de scientifique",
+			"438CE41E": "Procurez-vous une carte d'accès du labo",
+			"348BD488": "Procurez-vous une combinaison de sécurité",
+			"A434C919": "Entrez dans le laboratoire"
+		},
+		"it": {
+			"DDE871BD": "Ambiente ostile",
+			"44E12007": "L'aria nell'unità centrale del laboratorio è tossica. Per entrare è necessaria una tuta anti-contagio.",
+			"33E61091": "In caso di incidenti, l'unità del laboratorio centrale viene inondata di agenti chimici per impedire la propagazione del prototipo del virus. Entrare senza una tuta anti-contagio equivale a morte certa. Il sistema di purificazione dell'aria può eliminare la tossina, ma solo il personale qualificato è in grado di attivare i comandi.",
+			"AD828532": "È tutto pronto. È ora di eliminare la concorrenza.",
+			"DA85B5A4": "Procurati un travestimento da scienziato",
+			"438CE41E": "Ottieni la chiave d'accesso del laboratorio di ricerca",
+			"348BD488": "Ottieni una tuta anti-contagio",
+			"A434C919": "Entra nel laboratorio di bioingegneria"
+		},
+		"de": {
+			"DDE871BD": "Lebensfeindliche Umgebung",
+			"44E12007": "Die Luft in der zentralen Laboreinheit ist toxisch. Sie brauchen einen Schutzanzug, um sie zu betreten.",
+			"33E61091": "Im Falle eines Unfalls werden Chemikalien in die zentrale Laboreinheit eingeleitet, um eine Ausbreitung des Virus zu verhindern. Das Betreten des Labors ohne Schutzanzug wäre zu diesem Zeitpunkt tödlich. Das Luftreinigungssystem ist in der Lage, das Toxin zu neutralisieren, darf aber nur von leitenden Labormitarbeitern bedient werden.",
+			"AD828532": "Sie sind so weit. Es ist Zeit, die Konkurrenz zu eliminieren.",
+			"DA85B5A4": "Verkleiden Sie sich als Wissenschaftler",
+			"438CE41E": "Besorgen Sie eine Codekarte für das Forschungslabor",
+			"348BD488": "Besorgen Sie einen Schutzanzug",
+			"A434C919": "Betreten Sie das Biolabor"
+		},
+		"es": {
+			"DDE871BD": "Entorno hostil",
+			"44E12007": "El aire de la unidad central del laboratorio es tóxico. Para entrar, necesitas un traje de aislamiento.",
+			"33E61091": "En caso de accidente, la unidad central del laboratorio se rocía continuamente con sustancias químicas para evitar que el prototipo del virus se propague. Entrar sin un traje de aislamiento sería letal. El sistema de purificación del aire es capaz de eliminar la toxina, pero solo el personal veterano del laboratorio puede activarlo.",
+			"AD828532": "Todo listo. Hora de ir a eliminar a la competencia.",
+			"DA85B5A4": "Consigue el disfraz de científico",
+			"438CE41E": "Consigue una tarjeta de acceso del laboratorio",
+			"348BD488": "Hazte con un traje de aislamiento",
+			"A434C919": "Entra en el laboratorio"
+		}
+	}
+}

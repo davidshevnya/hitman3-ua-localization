@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00373B3A0ADB96F8",
+	"languages": {
+		"xx": {
+			"D64BE566": "Android",
+			"F90715BC": "Flavor",
+			"2C5DEF1D": "Description",
+			"A08D427E": "Conclusion",
+			"6A3C0C29": "Get the disguise of Ted Mendez",
+			"E70D1C80": "Approach the reception",
+			"F0DF4B54": "Go to the android demonstration",
+			"72AB6762": "Get to the executive floor",
+			"2B76C74E": "Find a photo of Robert Knox"
+		},
+		"en": {
+			"D64BE566": "The New Army",
+			"F90715BC": "Ted Mendez, a defense funding consultant with the US military, is scheduled for a private demonstration of a new Kronstadt robotics project. Sounds like a way to get up close and personal with Robert Knox.",
+			"2C5DEF1D": "Robert Knox, a military contractor, and a new robotics project.",
+			"A08D427E": "Robot killers. Why, if we’re not careful, 47, they might just turn against us.",
+			"6A3C0C29": "Disguise yourself as Ted Mendez",
+			"E70D1C80": "Approach the reception",
+			"F0DF4B54": "Attend the demonstration",
+			"72AB6762": "Locate the executive floor",
+			"2B76C74E": "Find a photo of Robert Knox"
+		},
+		"fr": {
+			"D64BE566": "La nouvelle armée",
+			"F90715BC": "Ted Mendez, un conseiller au budget défense de l'armée américaine, est prévu pour une démonstration privée du nouveau projet robotique de Kronstadt. Il semblerait que ce soit une occasion de se rapprocher de Robert Knox.",
+			"2C5DEF1D": "Robert Knox, un contractuel militaire et un nouveau projet robotique.",
+			"A08D427E": "Des robots tueurs. C'est pourquoi, 47, si nous ne faisons pas attention, ils pourraient se retourner contre nous.",
+			"6A3C0C29": "Déguisez-vous en Ted Mendez",
+			"E70D1C80": "Allez à la réception",
+			"F0DF4B54": "Assistez à la démonstration",
+			"72AB6762": "Trouvez l'étage de la direction",
+			"2B76C74E": "Trouvez une photo de Robert Knox"
+		},
+		"it": {
+			"D64BE566": "Il nuovo esercito",
+			"F90715BC": "Ted Mendez, un consulente per i fondi della difesa dell'esercito americano, ha un appuntamento per una dimostrazione del nuovo progetto robotico Kronstadt. Direi che suona come un incontro ravvicinato con Robert Knox.",
+			"2C5DEF1D": "Robert Knox, un appaltatore militare a capo del nuovo progetto robotico.",
+			"A08D427E": "Robot assassini. Se non facciamo attenzione, 47, potrebbero ribellarsi  contro di noi.",
+			"6A3C0C29": "Travestiti da Ted Mendez",
+			"E70D1C80": "Avvicinati alla reception",
+			"F0DF4B54": "Partecipa alla dimostrazione",
+			"72AB6762": "Trova il piano dei dirigenti",
+			"2B76C74E": "Trova una foto di Robert Knox"
+		},
+		"de": {
+			"D64BE566": "Die Armee der Zukunft",
+			"F90715BC": "Ted Mendez, ein Berater für die Budgetplanung des US-Militärs, hat einen Termin für eine Privatvorführung des neuen Kronstadt-Robotikprojekts. Klingt nach einem Weg, um ganz nah an Robert Knox heranzukommen.",
+			"2C5DEF1D": "Robert Knox, ein Zulieferer des Militärs und ein neues Robotikprojekt.",
+			"A08D427E": "Killerroboter. Wenn wir da nicht vorsichtig sind, 47, wenden sie sich am Ende noch gegen uns.",
+			"6A3C0C29": "Verkleiden Sie sich als Ted Mendez.",
+			"E70D1C80": "Treten Sie an den Empfang heran.",
+			"F0DF4B54": "Nehmen Sie an der Vorführung teil.",
+			"72AB6762": "Suchen Sie die Führungskräfte-Etage.",
+			"2B76C74E": "Finden Sie ein Foto von Robert Knox."
+		},
+		"es": {
+			"D64BE566": "El nuevo ejército",
+			"F90715BC": "Ted Méndez, un asesor financiero de la defensa del ejército de los EE. UU., está citado hoy para una demostración privada de un nuevo proyecto robótico de Kronstadt. Parece la mejor forma de acercarse a Robert Knox.",
+			"2C5DEF1D": "Robert Knox, un contratista militar y un nuevo proyecto robótico.",
+			"A08D427E": "Robots asesinos. Si no somos cuidadosos, 47, podrían volverse contra nosotros.",
+			"6A3C0C29": "Disfrázate de Ted Méndez",
+			"E70D1C80": "Acércate a recepción",
+			"F0DF4B54": "Asiste a la demostración",
+			"72AB6762": "Encuentra la planta de ejecutivos",
+			"2B76C74E": "Encuentra una foto de Robert Knox"
+		}
+	}
+}

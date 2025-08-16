@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "005DF6794629293A",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_JASMINE_LEVEL_1_TITLE": "The Lyndon Gyration - Level 1",
+			"UI_CONTRACT_JASMINE_LEVEL_2_TITLE": "The Lyndon Gyration - Level 2",
+			"UI_CONTRACT_JASMINE_LEVEL_3_TITLE": "The Lyndon Gyration - Level 3",
+			"UI_CONTRACT_JASMINE_LEVEL_4_TITLE": "The Lyndon Gyration - Level 4",
+			"UI_CONTRACT_JASMINE_LEVEL_5_TITLE": "The Lyndon Gyration - Level 5",
+			"UI_CONTRACT_JASMINE_OBJ_1": "Eliminate Sal Falcone in an accident while wearing a Suit",
+			"UI_CONTRACT_JASMINE_OBJ_2": "Eliminate Renardo Camerini in an accident",
+			"UI_CONTRACT_JASMINE_GROUP_TITLE": "The Lyndon Gyration",
+			"UI_CONTRACT_JASMINE_GROUP_DESC": "Five level escalation in Sapienza",
+			"UI_CONTRACT_JASMINE_OBJ_3": "Eliminate Mads S. Jorgensen in an accident",
+			"UI_CONTRACT_JASMINE_OBJ_3_2": "Eliminate Mads S. Jorgensen in an accident while disguised as a bodyguard",
+			"UI_CONTRACT_JASMINE_OBJ_2_2": "Eliminate Renardo Camerini in an accident while disguised as a bodyguard"
+		},
+		"en": {
+			"UI_CONTRACT_JASMINE_LEVEL_1_TITLE": "The Lyndon Gyration - Level 1",
+			"UI_CONTRACT_JASMINE_LEVEL_2_TITLE": "The Lyndon Gyration - Level 2",
+			"UI_CONTRACT_JASMINE_LEVEL_3_TITLE": "The Lyndon Gyration - Level 3",
+			"UI_CONTRACT_JASMINE_LEVEL_4_TITLE": "The Lyndon Gyration - Level 4",
+			"UI_CONTRACT_JASMINE_LEVEL_5_TITLE": "The Lyndon Gyration - Level 5",
+			"UI_CONTRACT_JASMINE_OBJ_1": "Eliminate Sal Falcone in an accident while wearing a 47 suit",
+			"UI_CONTRACT_JASMINE_OBJ_2": "Eliminate Renardo Camerini in an accident",
+			"UI_CONTRACT_JASMINE_GROUP_TITLE": "The Lyndon Gyration",
+			"UI_CONTRACT_JASMINE_GROUP_DESC": "Five level Escalation in Sapienza.",
+			"UI_CONTRACT_JASMINE_OBJ_3": "Eliminate Mads S. Jorgensen in an accident",
+			"UI_CONTRACT_JASMINE_OBJ_3_2": "Eliminate Mads S. Jorgensen in an accident while disguised as a bodyguard",
+			"UI_CONTRACT_JASMINE_OBJ_2_2": "Eliminate Renardo Camerini in an accident while disguised as a bodyguard"
+		},
+		"fr": {
+			"UI_CONTRACT_JASMINE_LEVEL_1_TITLE": "La giration de Lyndon - Niveau 1",
+			"UI_CONTRACT_JASMINE_LEVEL_2_TITLE": "La giration de Lyndon - Niveau 2",
+			"UI_CONTRACT_JASMINE_LEVEL_3_TITLE": "La giration de Lyndon - Niveau 3",
+			"UI_CONTRACT_JASMINE_LEVEL_4_TITLE": "La giration de Lyndon - Niveau 4",
+			"UI_CONTRACT_JASMINE_LEVEL_5_TITLE": "La giration de Lyndon - Niveau 5",
+			"UI_CONTRACT_JASMINE_OBJ_1": "Éliminez Sal Falcone dans un accident en costume",
+			"UI_CONTRACT_JASMINE_OBJ_2": "Éliminez Renardo Camerini dans un accident",
+			"UI_CONTRACT_JASMINE_GROUP_TITLE": "La giration de Lyndon",
+			"UI_CONTRACT_JASMINE_GROUP_DESC": "Escalade en cinq niveaux à Sapienza.",
+			"UI_CONTRACT_JASMINE_OBJ_3": "Éliminez Mads S. Jorgensen dans un accident",
+			"UI_CONTRACT_JASMINE_OBJ_3_2": "Éliminez Mads S. Jorgensen dans un accident, déguisé en garde du corps",
+			"UI_CONTRACT_JASMINE_OBJ_2_2": "Éliminez Renardo Camerini dans un accident, déguisé en garde du corps"
+		},
+		"it": {
+			"UI_CONTRACT_JASMINE_LEVEL_1_TITLE": "La spirale di Lyndon - Livello 1",
+			"UI_CONTRACT_JASMINE_LEVEL_2_TITLE": "La spirale di Lyndon - Livello 2",
+			"UI_CONTRACT_JASMINE_LEVEL_3_TITLE": "La spirale di Lyndon - Livello 3",
+			"UI_CONTRACT_JASMINE_LEVEL_4_TITLE": "La spirale di Lyndon - Livello 4",
+			"UI_CONTRACT_JASMINE_LEVEL_5_TITLE": "La spirale di Lyndon - Livello 5",
+			"UI_CONTRACT_JASMINE_OBJ_1": "Elimina Sal Falcone con un incidente mentre indossi un abito di 47",
+			"UI_CONTRACT_JASMINE_OBJ_2": "Elimina Renardo Camerini con un incidente",
+			"UI_CONTRACT_JASMINE_GROUP_TITLE": "La spirale di Lyndon",
+			"UI_CONTRACT_JASMINE_GROUP_DESC": "Escalation di cinque livelli a Sapienza.",
+			"UI_CONTRACT_JASMINE_OBJ_3": "Elimina Mads S. Jorgensen con un incidente",
+			"UI_CONTRACT_JASMINE_OBJ_3_2": "Elimina Mads S. Jorgensen con un incidente mentre sei travestito da guardia del corpo",
+			"UI_CONTRACT_JASMINE_OBJ_2_2": "Elimina Renardo Camerini con un incidente mentre sei travestito da guardia del corpo"
+		},
+		"de": {
+			"UI_CONTRACT_JASMINE_LEVEL_1_TITLE": "Die Lyndon-Rotation - Stufe 1",
+			"UI_CONTRACT_JASMINE_LEVEL_2_TITLE": "Die Lyndon-Rotation - Stufe 2",
+			"UI_CONTRACT_JASMINE_LEVEL_3_TITLE": "Die Lyndon-Rotation - Stufe 3",
+			"UI_CONTRACT_JASMINE_LEVEL_4_TITLE": "Die Lyndon-Rotation - Stufe 4",
+			"UI_CONTRACT_JASMINE_LEVEL_5_TITLE": "Die Lyndon-Rotation - Stufe 5",
+			"UI_CONTRACT_JASMINE_OBJ_1": "Eliminieren Sie Sal Falcone durch einen Unfall, während Sie einen 47-Anzug tragen",
+			"UI_CONTRACT_JASMINE_OBJ_2": "Eliminieren Sie Renardo Camerini durch einen Unfall",
+			"UI_CONTRACT_JASMINE_GROUP_TITLE": "Die Lyndon-Rotation",
+			"UI_CONTRACT_JASMINE_GROUP_DESC": "Fünf-Stufen-Eskalation in Sapienza.",
+			"UI_CONTRACT_JASMINE_OBJ_3": "Eliminieren Sie Mads S. Jorgensen durch einen Unfall",
+			"UI_CONTRACT_JASMINE_OBJ_3_2": "Eliminieren Sie Mads S. Jorgensen als Leibwächter verkleidet in einem Unfall",
+			"UI_CONTRACT_JASMINE_OBJ_2_2": "Eliminieren Sie Renardo Camerini als Leibwächter verkleidet in einem Unfall"
+		},
+		"es": {
+			"UI_CONTRACT_JASMINE_LEVEL_1_TITLE": "El giro de Lyndon - Nivel 1",
+			"UI_CONTRACT_JASMINE_LEVEL_2_TITLE": "El giro de Lyndon - Nivel 2",
+			"UI_CONTRACT_JASMINE_LEVEL_3_TITLE": "El giro de Lyndon - Nivel 3",
+			"UI_CONTRACT_JASMINE_LEVEL_4_TITLE": "El giro de Lyndon - Nivel 4",
+			"UI_CONTRACT_JASMINE_LEVEL_5_TITLE": "El giro de Lyndon - Nivel 5",
+			"UI_CONTRACT_JASMINE_OBJ_1": "Elimina a Sal Falcone en un accidente con un traje de 47",
+			"UI_CONTRACT_JASMINE_OBJ_2": "Elimina a Renardo Camerini en un accidente",
+			"UI_CONTRACT_JASMINE_GROUP_TITLE": "El giro de Lyndon",
+			"UI_CONTRACT_JASMINE_GROUP_DESC": "Intensificación de cinco niveles en Sapienza.",
+			"UI_CONTRACT_JASMINE_OBJ_3": "Elimina a Mads S. Jorgensen en un accidente",
+			"UI_CONTRACT_JASMINE_OBJ_3_2": "Elimina a Mads S. Jorgensen en un accidente disfrazado de guardaespaldas",
+			"UI_CONTRACT_JASMINE_OBJ_2_2": "Elimina a Renardo Camerini en un accidente disfrazado de guardaespaldas"
+		}
+	}
+}

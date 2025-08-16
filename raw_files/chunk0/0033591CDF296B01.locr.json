@@ -1,0 +1,78 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0033591CDF296B01",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_ARRAYAN_GROUP_TITLE": "The Turms Infatuation",
+			"UI_CONTRACT_ARRAYAN_GROUP_DESC": "Three Level Escalation in Colombia",
+			"UI_CONTRACT_ARRAYAN_LEVEL_1_TITLE": "The Turms Infatuation - Level 1",
+			"UI_CONTRACT_ARRAYAN_LEVEL_2_TITLE": "The Turms Infatuation - Level 2",
+			"UI_CONTRACT_ARRAYAN_LEVEL_3_TITLE": "The Turms Infatuation - Level 3",
+			"UI_CONTRACT_ARRAYAN_RETRIEVE_LETTERBOMB_NAME": "Retrieve",
+			"UI_CONTRACT_ARRAYAN_RETRIEVE_LETTERBOMB_OBJ": "Retrieve the letterbomb parcel",
+			"UI_CONTRACT_ARRAYAN_OBJ_2": "Kill Héctor Delgado with the letterbomb parcel",
+			"UI_CONTRACT_ARRAYAN_ARRAYAN_LETTERBOMBGONE": "The letterbomb parcel has been destroyed",
+			"UI_CONTRACT_ARRAYAN_ARRAYAN_LETTERBOMBOUTOFREACH": "The letterbomb parcel is out of reach"
+		},
+		"en": {
+			"UI_CONTRACT_ARRAYAN_GROUP_TITLE": "The Turms Infatuation",
+			"UI_CONTRACT_ARRAYAN_GROUP_DESC": "Three Level Escalation in Colombia.",
+			"UI_CONTRACT_ARRAYAN_LEVEL_1_TITLE": "The Turms Infatuation - Level 1",
+			"UI_CONTRACT_ARRAYAN_LEVEL_2_TITLE": "The Turms Infatuation - Level 2",
+			"UI_CONTRACT_ARRAYAN_LEVEL_3_TITLE": "The Turms Infatuation - Level 3",
+			"UI_CONTRACT_ARRAYAN_RETRIEVE_LETTERBOMB_NAME": "Retrieve",
+			"UI_CONTRACT_ARRAYAN_RETRIEVE_LETTERBOMB_OBJ": "Retrieve the letterbomb parcel",
+			"UI_CONTRACT_ARRAYAN_OBJ_2": "Eliminate Héctor Delgado with the letterbomb parcel",
+			"UI_CONTRACT_ARRAYAN_ARRAYAN_LETTERBOMBGONE": "The letterbomb parcel has been destroyed",
+			"UI_CONTRACT_ARRAYAN_ARRAYAN_LETTERBOMBOUTOFREACH": "The letterbomb parcel is out of reach"
+		},
+		"fr": {
+			"UI_CONTRACT_ARRAYAN_GROUP_TITLE": "L'amourette des Turm",
+			"UI_CONTRACT_ARRAYAN_GROUP_DESC": "Escalade en trois niveaux en Colombie",
+			"UI_CONTRACT_ARRAYAN_LEVEL_1_TITLE": "L'amourette des Turm - Niveau 1",
+			"UI_CONTRACT_ARRAYAN_LEVEL_2_TITLE": "L'amourette des Turm - Niveau 2",
+			"UI_CONTRACT_ARRAYAN_LEVEL_3_TITLE": "L'amourette des Turm - Niveau 3",
+			"UI_CONTRACT_ARRAYAN_RETRIEVE_LETTERBOMB_NAME": "Récupérez",
+			"UI_CONTRACT_ARRAYAN_RETRIEVE_LETTERBOMB_OBJ": "Récupérez le colis piégé",
+			"UI_CONTRACT_ARRAYAN_OBJ_2": "Éliminez Hector Delgado avec le colis piégé",
+			"UI_CONTRACT_ARRAYAN_ARRAYAN_LETTERBOMBGONE": "Le colis piégé a été détruit",
+			"UI_CONTRACT_ARRAYAN_ARRAYAN_LETTERBOMBOUTOFREACH": "Le colis piégé est hors de portée"
+		},
+		"it": {
+			"UI_CONTRACT_ARRAYAN_GROUP_TITLE": "L'infatuazione di Turms",
+			"UI_CONTRACT_ARRAYAN_GROUP_DESC": "Escalation di tre livelli in Colombia.",
+			"UI_CONTRACT_ARRAYAN_LEVEL_1_TITLE": "L'infatuazione di Turms - Livello 1",
+			"UI_CONTRACT_ARRAYAN_LEVEL_2_TITLE": "L'infatuazione di Turms - Livello 2",
+			"UI_CONTRACT_ARRAYAN_LEVEL_3_TITLE": "L'infatuazione di Turms - Livello 3",
+			"UI_CONTRACT_ARRAYAN_RETRIEVE_LETTERBOMB_NAME": "Recupera",
+			"UI_CONTRACT_ARRAYAN_RETRIEVE_LETTERBOMB_OBJ": "Recupera il pacco bomba",
+			"UI_CONTRACT_ARRAYAN_OBJ_2": "Elimina Héctor Delgado con il pacco bomba",
+			"UI_CONTRACT_ARRAYAN_ARRAYAN_LETTERBOMBGONE": "Il pacco bomba è stato distrutto",
+			"UI_CONTRACT_ARRAYAN_ARRAYAN_LETTERBOMBOUTOFREACH": "Il pacco bomba è fuori portata"
+		},
+		"de": {
+			"UI_CONTRACT_ARRAYAN_GROUP_TITLE": "Die Turms-Verblendung",
+			"UI_CONTRACT_ARRAYAN_GROUP_DESC": "Drei-Stufen-Eskalation in Kolumbien.",
+			"UI_CONTRACT_ARRAYAN_LEVEL_1_TITLE": "Die Turms-Verblendung – Stufe 1",
+			"UI_CONTRACT_ARRAYAN_LEVEL_2_TITLE": "Die Turms-Verblendung – Stufe 2",
+			"UI_CONTRACT_ARRAYAN_LEVEL_3_TITLE": "Die Turms-Verblendung – Stufe 3",
+			"UI_CONTRACT_ARRAYAN_RETRIEVE_LETTERBOMB_NAME": "Beschaffen",
+			"UI_CONTRACT_ARRAYAN_RETRIEVE_LETTERBOMB_OBJ": "Bergen Sie das Briefbombenpaket.",
+			"UI_CONTRACT_ARRAYAN_OBJ_2": "Töten Sie Héctor Delgado mit dem Briefbombenpaket.",
+			"UI_CONTRACT_ARRAYAN_ARRAYAN_LETTERBOMBGONE": "Das Briefbombenpaket wurde zerstört.",
+			"UI_CONTRACT_ARRAYAN_ARRAYAN_LETTERBOMBOUTOFREACH": "Das Briefbombenpaket ist außer Reichweite."
+		},
+		"es": {
+			"UI_CONTRACT_ARRAYAN_GROUP_TITLE": "El capricho de Turms",
+			"UI_CONTRACT_ARRAYAN_GROUP_DESC": "Intensificación de tres niveles en Colombia.",
+			"UI_CONTRACT_ARRAYAN_LEVEL_1_TITLE": "El capricho de Turms - Nivel 1",
+			"UI_CONTRACT_ARRAYAN_LEVEL_2_TITLE": "El capricho de Turms - Nivel 2",
+			"UI_CONTRACT_ARRAYAN_LEVEL_3_TITLE": "El capricho de Turms - Nivel 3",
+			"UI_CONTRACT_ARRAYAN_RETRIEVE_LETTERBOMB_NAME": "Recuperar",
+			"UI_CONTRACT_ARRAYAN_RETRIEVE_LETTERBOMB_OBJ": "Recupera el paquete bomba",
+			"UI_CONTRACT_ARRAYAN_OBJ_2": "Mata a Héctor Delgado con el paquete bomba",
+			"UI_CONTRACT_ARRAYAN_ARRAYAN_LETTERBOMBGONE": "El paquete bomba ha sido destruido.",
+			"UI_CONTRACT_ARRAYAN_ARRAYAN_LETTERBOMBOUTOFREACH": "El paquete bomba está fuera de alcance."
+		}
+	}
+}

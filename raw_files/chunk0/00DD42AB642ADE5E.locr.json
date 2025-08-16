@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00DD42AB642ADE5E",
+	"languages": {
+		"xx": {
+			"CHALLENGEPACK_HELIUM_WRAPPER_NAME": "Fishy Business",
+			"CHALLENGEPACK_HELIUM_WRAPPER_DESC": "Complete all the Fishy Business challenges:</li><li>Bigger Fish</li><li>Shark From Above</li><li>Fish Attack!</li><li>Aquatic Saviour</li><li>The Little Merman",
+			"CHALLENGEPACK_HELIUM_BIGGERFISH_NAME": "Bigger Fish",
+			"CHALLENGEPACK_HELIUM_SHARKFROMABOVE_DESC": "<li>Eliminate the two aquarium guards with a shark.</li>",
+			"CHALLENGEPACK_HELIUM_SHARKFROMABOVE_NAME": "Shark From Above",
+			"CHALLENGEPACK_HELIUM_SLEEPWITHFISH_NAME": "The Little Merman",
+			"CHALLENGEPACK_HELIUM_SLEEPWITHFISH_DESC": "<li>Dump Robert Knox into an aquarium.</li>",
+			"CHALLENGEPACK_HELIUM_MOVEFISH_DESC": "<li>Throw 3 fish into the aquariums under the floor.</li>",
+			"CHALLENGEPACK_HELIUM_MOVEFISH_NAME": "Aquatic Saviour",
+			"CHALLENGEPACK_HELIUM_BIGGERFISH_DESC": "<li>Eliminate Florida Man with the bigger fish.</li>",
+			"CHALLENGEPACK_HELIUM_FISHATTACK_NAME": "Fish Attack!",
+			"CHALLENGEPACK_HELIUM_FISHATTACK_DESC": "<li>Knock out Robert Knox with a fish.</li><li>Knock out Sierra Knox with a fish.</li>"
+		},
+		"en": {
+			"CHALLENGEPACK_HELIUM_WRAPPER_NAME": "Fishy Business",
+			"CHALLENGEPACK_HELIUM_WRAPPER_DESC": "Complete all the Fishy Business challenges:<li>Bigger Fish</li><li>Shark from Above</li><li>Fish Attack!</li><li>Aquatic Savior</li><li>The Little Merman</li>",
+			"CHALLENGEPACK_HELIUM_BIGGERFISH_NAME": "Bigger Fish",
+			"CHALLENGEPACK_HELIUM_SHARKFROMABOVE_DESC": "<li>Eliminate the two aquarium guards with a shark.</li>",
+			"CHALLENGEPACK_HELIUM_SHARKFROMABOVE_NAME": "Shark from Above",
+			"CHALLENGEPACK_HELIUM_SLEEPWITHFISH_NAME": "The Little Merman",
+			"CHALLENGEPACK_HELIUM_SLEEPWITHFISH_DESC": "<li>Dump Robert Knox into an aquarium.</li>",
+			"CHALLENGEPACK_HELIUM_MOVEFISH_DESC": "<li>Throw 3 fish into the aquariums under the floor.</li>",
+			"CHALLENGEPACK_HELIUM_MOVEFISH_NAME": "Aquatic Savior",
+			"CHALLENGEPACK_HELIUM_BIGGERFISH_DESC": "<li>Eliminate Florida Man with the bigger fish.</li>",
+			"CHALLENGEPACK_HELIUM_FISHATTACK_NAME": "Fish Attack!",
+			"CHALLENGEPACK_HELIUM_FISHATTACK_DESC": "<li>Knock out Robert Knox with a fish.</li><li>Knock out Sierra Knox with a fish.</li>"
+		},
+		"fr": {
+			"CHALLENGEPACK_HELIUM_WRAPPER_NAME": "Gang de requins",
+			"CHALLENGEPACK_HELIUM_WRAPPER_DESC": "Terminez tous les défis de Gang de requins :<li>Plus gros poisson</li><li>Le requin venu d'en haut</li><li>Attaque de poisson !</li><li>Sauveur aquatique</li><li>Le petit triton</li>",
+			"CHALLENGEPACK_HELIUM_BIGGERFISH_NAME": "Plus gros poisson",
+			"CHALLENGEPACK_HELIUM_SHARKFROMABOVE_DESC": "<li>Éliminez les deux gardes de l'aquarium avec un requin.</li>",
+			"CHALLENGEPACK_HELIUM_SHARKFROMABOVE_NAME": "Le requin venu d'en haut",
+			"CHALLENGEPACK_HELIUM_SLEEPWITHFISH_NAME": "Le petit triton",
+			"CHALLENGEPACK_HELIUM_SLEEPWITHFISH_DESC": "<li>Jetez Robert Knox dans un aquarium.</li>",
+			"CHALLENGEPACK_HELIUM_MOVEFISH_DESC": "<li>Lancez 3 poissons dans les aquariums sous le sol.</li>",
+			"CHALLENGEPACK_HELIUM_MOVEFISH_NAME": "Sauveur aquatique",
+			"CHALLENGEPACK_HELIUM_BIGGERFISH_DESC": "<li>Éliminez Florida Man avec le plus gros poisson.</li>",
+			"CHALLENGEPACK_HELIUM_FISHATTACK_NAME": "Attaque de poisson !",
+			"CHALLENGEPACK_HELIUM_FISHATTACK_DESC": "<li>Assommez Robert Knox avec un poisson.</li><li>Assommez Sierra Knox avec un poisson.</li>"
+		},
+		"it": {
+			"CHALLENGEPACK_HELIUM_WRAPPER_NAME": "Qualcosa che puzza",
+			"CHALLENGEPACK_HELIUM_WRAPPER_DESC": "Completa tutte le sfide \"Qualcosa che puzza\":<li>Il pesce più grosso</li><li>Squalo all'improvviso</li><li>Attacco dei pesci!</li><li>Salvatore acquatico</li><li>Il sirenetto</li>",
+			"CHALLENGEPACK_HELIUM_BIGGERFISH_NAME": "Il pesce più grosso",
+			"CHALLENGEPACK_HELIUM_SHARKFROMABOVE_DESC": "<li>Elimina le due guardie dell'acquario con uno squalo.</li>",
+			"CHALLENGEPACK_HELIUM_SHARKFROMABOVE_NAME": "Squalo all'improvviso",
+			"CHALLENGEPACK_HELIUM_SLEEPWITHFISH_NAME": "Il sirenetto",
+			"CHALLENGEPACK_HELIUM_SLEEPWITHFISH_DESC": "<li>Getta Robert Knox in un acquario.</li>",
+			"CHALLENGEPACK_HELIUM_MOVEFISH_DESC": "<li>Lancia 3 pesci negli acquari sotto il pavimento.</li>",
+			"CHALLENGEPACK_HELIUM_MOVEFISH_NAME": "Salvatore acquatico",
+			"CHALLENGEPACK_HELIUM_BIGGERFISH_DESC": "<li>Elimina Florida Man con il pesce più grosso.</li>",
+			"CHALLENGEPACK_HELIUM_FISHATTACK_NAME": "Attacco dei pesci!",
+			"CHALLENGEPACK_HELIUM_FISHATTACK_DESC": "<li>Metti K.O. Robert Knox con un pesce.</li><li>Metti K.O. Sierra Knox con un pesce.</li>"
+		},
+		"de": {
+			"CHALLENGEPACK_HELIUM_WRAPPER_NAME": "Das riecht nach Fisch",
+			"CHALLENGEPACK_HELIUM_WRAPPER_DESC": "Schließen Sie alle „Das riecht nach Fisch“-Herausforderungen ab:<li>Hai im Karpfenteich</li><li>Kommt ein Hai geflogen</li><li>Angriff der Fische!</li><li>Retter der Meere</li><li>Der kleine Meerjungmann</li>",
+			"CHALLENGEPACK_HELIUM_BIGGERFISH_NAME": "Hai im Karpfenteich",
+			"CHALLENGEPACK_HELIUM_SHARKFROMABOVE_DESC": "<li>Eliminieren Sie die zwei Aquariumswächter mit einem Hai.</li>",
+			"CHALLENGEPACK_HELIUM_SHARKFROMABOVE_NAME": "Kommt ein Hai geflogen",
+			"CHALLENGEPACK_HELIUM_SLEEPWITHFISH_NAME": "Der kleine Meerjungmann",
+			"CHALLENGEPACK_HELIUM_SLEEPWITHFISH_DESC": "<li>Beseitigen Sie Robert Knox in einem Aquarium.</li>",
+			"CHALLENGEPACK_HELIUM_MOVEFISH_DESC": "<li>Werfen Sie 3 Fische in die Aquarien unter dem Boden.</li>",
+			"CHALLENGEPACK_HELIUM_MOVEFISH_NAME": "Retter der Meere",
+			"CHALLENGEPACK_HELIUM_BIGGERFISH_DESC": "<li>Eliminieren Sie den Mann aus Florida mit dem größeren Fisch.</li>",
+			"CHALLENGEPACK_HELIUM_FISHATTACK_NAME": "Angriff der Fische!",
+			"CHALLENGEPACK_HELIUM_FISHATTACK_DESC": "<li>Schlagen Sie Robert Knox mit einem Fisch k. o.</li><li>Schlagen Sie Sierra Knox mit einem Fisch k. o.</li>"
+		},
+		"es": {
+			"CHALLENGEPACK_HELIUM_WRAPPER_NAME": "Entre peces anda el juego",
+			"CHALLENGEPACK_HELIUM_WRAPPER_DESC": "Completa todos los desafíos de Entre peces anda el juego:<li>El pez gordo</li><li>Tiburones vienen y van</li><li>Pez letal</li><li>Salvador acuático</li><li>El sirenito</li>",
+			"CHALLENGEPACK_HELIUM_BIGGERFISH_NAME": "El pez gordo",
+			"CHALLENGEPACK_HELIUM_SHARKFROMABOVE_DESC": "<li>Elimina a los dos guardias del acuario con un tiburón.</li>",
+			"CHALLENGEPACK_HELIUM_SHARKFROMABOVE_NAME": "Tiburones vienen y van",
+			"CHALLENGEPACK_HELIUM_SLEEPWITHFISH_NAME": "El sirenito",
+			"CHALLENGEPACK_HELIUM_SLEEPWITHFISH_DESC": "<li>Deshazte del cuerpo de Robert Knox en un acuario.</li>",
+			"CHALLENGEPACK_HELIUM_MOVEFISH_DESC": "<li>Lanza 3 peces a los acuarios que están bajo el suelo.</li>",
+			"CHALLENGEPACK_HELIUM_MOVEFISH_NAME": "Salvador acuático",
+			"CHALLENGEPACK_HELIUM_BIGGERFISH_DESC": "<li>Elimina a Florida Man con el pez más grande.</li>",
+			"CHALLENGEPACK_HELIUM_FISHATTACK_NAME": "Pez letal",
+			"CHALLENGEPACK_HELIUM_FISHATTACK_DESC": "<li>Noquea a Robert Knox con un pez.</li><li>Noquea a Sierra Knox con un pez.</li>"
+		}
+	}
+}

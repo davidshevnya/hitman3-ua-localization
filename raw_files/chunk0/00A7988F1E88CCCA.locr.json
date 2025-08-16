@@ -1,0 +1,78 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00A7988F1E88CCCA",
+	"languages": {
+		"xx": {
+			"24C574BD": "Title",
+			"3FCCFCA8": "Flavor",
+			"03046BE7": "Description",
+			"96753F42": "Conclusion",
+			"F1D56035": "Find Poison",
+			"628A589A": "Get Fugu",
+			"0F37C177": "Alternative Poison",
+			"20A63BC7": "Find a Chef's disguise",
+			"61675134": "place fugu",
+			"7D6BDB50": "Prepare Sushi"
+		},
+		"en": {
+			"24C574BD": "Thrill Seeker",
+			"3FCCFCA8": "So, Gama has banned the serving of fugu following an incident where a guest was poisoned by a poorly carved piece of the poisonous fish. It appears, however, that Yuki Yamazaki is trying to sway the chef to slice up his final specimen and serve it to her. Who are we to deny her such pleasure, 47?",
+			"03046BE7": "Poisonous fugu fish and a lawyer craving a thrill. A combination to die for.",
+			"96753F42": "All right, 47. Let's make sure this is her last meal.",
+			"F1D56035": "Locate the fugu fish in the kitchen",
+			"628A589A": "Acquire the fugu fish poison",
+			"0F37C177": "Acquire poison",
+			"20A63BC7": "Get a Chef disguise",
+			"61675134": "Poison the sushi",
+			"7D6BDB50": "Prepare sushi"
+		},
+		"fr": {
+			"24C574BD": "Le goût du risque",
+			"3FCCFCA8": "Gama interdit le fugu en cuisine, suite à une intoxication due à une portion de ce poison empoisonné mal préparée. Cependant, Yuki Yamazaki tente de convaincre le chef de découper son tout dernier spécimen et de le lui servir. Qui sommes-nous pour lui refuser un tel plaisir, 47 ?",
+			"03046BE7": "Un fugu toxique et une avocate avide de sensations fortes... Une combinaison mortelle.",
+			"96753F42": "Bien, 47. Veillons à ce que ce soit son dernier repas.",
+			"F1D56035": "Trouvez le poisson fugu se trouvant dans la cuisine",
+			"628A589A": "Obtenez le poison du poisson fugu",
+			"0F37C177": "Procurez-vous du poison",
+			"20A63BC7": "Procurez-vous une tenue de chef",
+			"61675134": "Empoisonnez les sushis",
+			"7D6BDB50": "Préparer les sushis"
+		},
+		"it": {
+			"24C574BD": "A caccia di brividi",
+			"3FCCFCA8": "La clinica Gama ha rimosso il pesce palla dal menu a seguito di un avvelenamento causato da un taglio errato del pesce. Tuttavia, sembra che Yuki Yamazaki voglia convincere lo chef a prepararle e servirle l'ultima porzione rimasta. Possiamo forse negarle questo piacere, 47?",
+			"03046BE7": "Un pesce palla velenoso e un'avvocatessa amante del brivido. Una combinazione letale.",
+			"96753F42": "Bene, 47. Assicuriamoci che sia il suo ultimo pasto.",
+			"F1D56035": "Trova il pesce palla in cucina",
+			"628A589A": "Ottieni il veleno del pesce palla",
+			"0F37C177": "Ottieni il veleno",
+			"20A63BC7": "Procurati un travestimento da chef",
+			"61675134": "Avvelena il sushi",
+			"7D6BDB50": "Prepara il sushi"
+		},
+		"de": {
+			"24C574BD": "Adrenalinjunkie",
+			"3FCCFCA8": "Gama hat Fugu verboten, nachdem ein Gast durch eine schlecht zubereitete Portion des Fisches vergiftet wurde. Yuki Yamazaki will aber offenbar den Koch überreden, sein letztes Exemplar aufzuschneiden und ihr zu servieren. Wie könnten wir ihr dieses Vergnügen versagen, 47?",
+			"03046BE7": "Giftiger Fugu-Fisch und eine Anwältin, die den Thrill sucht — eine Kombination, für die man sterben könnte.",
+			"96753F42": "Also dann, 47: Sorgen wir dafür, dass das ihre letzte Mahlzeit wird ...",
+			"F1D56035": "Finden Sie den Fugu-Fisch in der Küche",
+			"628A589A": "Beschaffen Sie das Fugu-Gift",
+			"0F37C177": "Besorgen Sie Gift",
+			"20A63BC7": "Verkleiden Sie sich als Koch",
+			"61675134": "Vergiften Sie das Sushi",
+			"7D6BDB50": "Bereiten Sie das Sushi zu"
+		},
+		"es": {
+			"24C574BD": "En busca de emociones",
+			"3FCCFCA8": "Así que Gama no permite que se sirva pez globo tras un incidente en el que un trozo mal cortado del pescado envenenó a un paciente. Sin embargo, parece que Yuki Yamazaki está intentando convencer al chef de que corte el último espécimen que le queda y se lo sirva. ¿Quiénes somos nosotros para negarle ese placer, 47?",
+			"03046BE7": "Pez globo venenoso y una abogada con ganas de emociones fuertes. Una combinación perfecta. Para morirse.",
+			"96753F42": "Vale, 47. Vamos a asegurarnos de que esta sea su última comida...",
+			"F1D56035": "Encuentra el pez globo en la cocina",
+			"628A589A": "Consigue el veneno del pez globo",
+			"0F37C177": "Consigue el veneno",
+			"20A63BC7": "Consigue el disfraz de chef",
+			"61675134": "Envenena el sushi",
+			"7D6BDB50": "Prepara sushi"
+		}
+	}
+}

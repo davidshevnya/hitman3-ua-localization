@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00B01899E70982CE",
+	"languages": {
+		"xx": {
+			"5D0C2AF5": "CARPETS title",
+			"AC7AC4C2": "DS11014_CarpetsBriefing",
+			"0A65837F": "One-line summary",
+			"16C704CA": "DS11015_CarpetsConclusion",
+			"AE4D0D96": "Locate the bodyguard on the roof of the carpet shop",
+			"AC5F8EF3": "Pacify the bodyguard",
+			"6C9028C4": "Acquire the bodyguards' key",
+			"826E6983": "Unlock the back door to the shisha cafe",
+			"6475377D": "The back door has been broken open",
+			"1492D78B": "The key has already been acquired",
+			"19BFA953": "You have already infiltrated the shisha café"
+		},
+		"en": {
+			"5D0C2AF5": "Gone Shopping",
+			"AC7AC4C2": "According to the note, one of the guards has gone carpet shopping. He will most likely be alone, and the key he bears could be of good use.",
+			"0A65837F": "Track down the missing bodyguard and steal his key to the shisha café staff entrance.",
+			"16C704CA": "Nice work, 47. You now have backstage access to Kong’s party.",
+			"AE4D0D96": "Locate the bodyguard on the roof of the carpet shop",
+			"AC5F8EF3": "Pacify the bodyguard",
+			"6C9028C4": "Acquire the bodyguard's key",
+			"826E6983": "Unlock the back door to the Courtyard Club",
+			"6475377D": "The back door has been broken open.",
+			"1492D78B": "The key has already been acquired.",
+			"19BFA953": "You have already infiltrated the Courtyard Club."
+		},
+		"fr": {
+			"5D0C2AF5": "Virée shopping",
+			"AC7AC4C2": "D'après la note, l'un des gardes est parti acheter des tapis. Il sera probablement seul... et la clé qu'il porte pourrait nous être utile...",
+			"0A65837F": "Retrouvez le garde du corps manquant et volez-lui sa clé ouvrant l'entrée du personnel du bar à chicha.",
+			"16C704CA": "Beau travail, 47. Vous avez maintenant accès aux \"coulisses\" de la fête de Kong.",
+			"AE4D0D96": "Trouvez le garde du corps sur le toit de la boutique de tapis",
+			"AC5F8EF3": "Neutralisez le garde du corps",
+			"6C9028C4": "Prenez la clé du garde du corps",
+			"826E6983": "Déverrouillez l'entrée de service du club",
+			"6475377D": "La porte de service a été forcée.",
+			"1492D78B": "La clé a déjà été récupérée.",
+			"19BFA953": "Vous vous êtes déjà infiltré dans le club."
+		},
+		"it": {
+			"5D0C2AF5": "A spasso per negozi",
+			"AC7AC4C2": "Stando a quanto scritto sul  biglietto, una delle guardie è in giro, molto probabilmente da sola, a comprare tappeti. La chiave che porta con sé potrebbe rivelarsi utile.",
+			"0A65837F": "Trova la guardia del corpo che manca all'appello e rubagli la chiave per l'ingresso del personale della caffetteria shisha.",
+			"16C704CA": "Bel lavoro, 47. Adesso puoi accedere alla festa di Kong passando dal retro.",
+			"AE4D0D96": "Individua la guardia del corpo sul tetto del negozio di tappeti",
+			"AC5F8EF3": "Neutralizza la guardia del corpo",
+			"6C9028C4": "Ottieni la chiave della guardia del corpo",
+			"826E6983": "Apri la porta sul retro del Club del Cortile",
+			"6475377D": "La porta sul retro è stata scassinata.",
+			"1492D78B": "La chiave è già stata recuperata.",
+			"19BFA953": "Ti sei già introdotto nel Club del Cortile."
+		},
+		"de": {
+			"5D0C2AF5": "Einkaufsbummel",
+			"AC7AC4C2": "Gemäß der Notiz ist einer der Wächter losgegangen, um einen Teppich zu kaufen. Er wird sehr wahrscheinlich alleine sein ... Und der Schlüssel, welchen er bei sich trägt, findet sicher Verwendung.",
+			"0A65837F": "Finden Sie den verschwundenen Leibwächter und stehlen Sie seinen Schlüssel zum Personaleingang  des Shisha-Cafés .",
+			"16C704CA": "Gute Arbeit, 47. Sie verfügen nun über einen Hintereingang zu Kongs Party.",
+			"AE4D0D96": "Finden Sie den Leibwächter auf dem Dach des Teppichgeschäftes",
+			"AC5F8EF3": "Stellen Sie den Leibwächter ruhig",
+			"6C9028C4": "Nehmen Sie den Schlüssel des Leibwächters",
+			"826E6983": "Öffnen Sie die Hintertür zum Courtyard Club",
+			"6475377D": "Die Hintertür wurde aufgebrochen.",
+			"1492D78B": "Sie haben den Schlüssel bereits.",
+			"19BFA953": "Sie sind bereits in den Courtyard Club eingedrungen."
+		},
+		"es": {
+			"5D0C2AF5": "De compras",
+			"AC7AC4C2": "Según la nota, uno de los guardias ha ido a comprar alfombras. Probablemente irá solo... y la llave que tiene podría sernos útil.",
+			"0A65837F": "Encuentra al guardaespaldas que falta y roba su llave de la entrada de personal de la tetería.",
+			"16C704CA": "Buen trabajo, 47. Ahora tienes acceso al backstage de la fiesta de Kong.",
+			"AE4D0D96": "Localiza al guardaespaldas en el tejado de la tienda de alfombras",
+			"AC5F8EF3": "Deja inconsciente al guardaespaldas",
+			"6C9028C4": "Obtén la llave del guardaespaldas",
+			"826E6983": "Abre la puerta trasera del Courtyard Club",
+			"6475377D": "La puerta trasera ha sido forzada.",
+			"1492D78B": "La llave ya se ha obtenido.",
+			"19BFA953": "Ya te has infiltrado en el Courtyard Club."
+		}
+	}
+}

@@ -1,0 +1,42 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/online/challenges/challenges_et_kirroyal.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"UI_CHALLENGES_ET_KIRROYAL_TARGETDOWN_DESC": "<li>Assassinate The Pharmacist.</li>",
+			"UI_CHALLENGES_ET_KIRROYAL_TARGETDOWN_NAME": "The Pharmacist",
+			"UI_CHALLENGES_ET_KIRROYAL_SILENT_ASSASSIN_DESC": "<li>Assassinate The Pharmacist.</li><li>Only kill the target.</il><li>No bodies found.</il><li>Do not get compromised.</il><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+			"UI_CHALLENGES_ET_KIRROYAL_SILENT_ASSASSIN_NAME": "Silent Assassin"
+		},
+		"en": {
+			"UI_CHALLENGES_ET_KIRROYAL_TARGETDOWN_DESC": "<li>Assassinate the Pharmacist.</li>",
+			"UI_CHALLENGES_ET_KIRROYAL_TARGETDOWN_NAME": "The Pharmacist",
+			"UI_CHALLENGES_ET_KIRROYAL_SILENT_ASSASSIN_DESC": "<li>Assassinate the Pharmacist.</li><li>Only eliminate the target.</li><li>No bodies found.</li><li>Do not get spotted.</li><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+			"UI_CHALLENGES_ET_KIRROYAL_SILENT_ASSASSIN_NAME": "Silent Assassin"
+		},
+		"fr": {
+			"UI_CHALLENGES_ET_KIRROYAL_TARGETDOWN_DESC": "<li>Assassinez la pharmacienne.</li>",
+			"UI_CHALLENGES_ET_KIRROYAL_TARGETDOWN_NAME": "La pharmacienne",
+			"UI_CHALLENGES_ET_KIRROYAL_SILENT_ASSASSIN_DESC": "<li>Assassinez la pharmacienne. </li><li>Abattez uniquement les cibles. </li><li>Aucun corps ne doit être trouvé. </li><li>Ne vous faites pas repérer. </li><li>Si vous êtes repéré par les caméras, effacez ou détruisez la vidéo.</li>",
+			"UI_CHALLENGES_ET_KIRROYAL_SILENT_ASSASSIN_NAME": "Assassin silencieux"
+		},
+		"it": {
+			"UI_CHALLENGES_ET_KIRROYAL_TARGETDOWN_DESC": "<li>Elimina la farmacologa.</li>",
+			"UI_CHALLENGES_ET_KIRROYAL_TARGETDOWN_NAME": "La farmacologa",
+			"UI_CHALLENGES_ET_KIRROYAL_SILENT_ASSASSIN_DESC": "<li>Elimina la farmacologa.</li><li>Elimina solo il bersaglio.</li><li>Fai in modo che nessun corpo sia rinvenuto.</li><li>Non essere individuato.</li><li>Se vieni inquadrato dalle telecamere, cancella o distruggi le registrazioni.</li>",
+			"UI_CHALLENGES_ET_KIRROYAL_SILENT_ASSASSIN_NAME": "Assassino silenzioso"
+		},
+		"de": {
+			"UI_CHALLENGES_ET_KIRROYAL_TARGETDOWN_DESC": "<li>Töten Sie die Pharmazeutin.</li>",
+			"UI_CHALLENGES_ET_KIRROYAL_TARGETDOWN_NAME": "Die Pharmazeutin",
+			"UI_CHALLENGES_ET_KIRROYAL_SILENT_ASSASSIN_DESC": "<li>Eliminieren Sie die Pharmazeutin.</li><li>Eliminieren Sie nur das Ziel.</li><li>Verstecken Sie alle Körper.</li><li>Bleiben Sie unbemerkt.</li><li>Werden Sie von Kameras gefilmt, löschen oder vernichten Sie die Beweise.</li>",
+			"UI_CHALLENGES_ET_KIRROYAL_SILENT_ASSASSIN_NAME": "Lautloser Killer"
+		},
+		"es": {
+			"UI_CHALLENGES_ET_KIRROYAL_TARGETDOWN_DESC": "<li>Asesina a la farmacéutica.</li>",
+			"UI_CHALLENGES_ET_KIRROYAL_TARGETDOWN_NAME": "La farmacéutica",
+			"UI_CHALLENGES_ET_KIRROYAL_SILENT_ASSASSIN_DESC": "<li>Asesina a la farmacéutica.</li><li>Elimina solo a los objetivos.</li><li>Que no descubran cuerpos.</li><li>Evita que te descubran.</li><li>Si te detectan las cámaras, borra o destruye las pruebas.</li>",
+			"UI_CHALLENGES_ET_KIRROYAL_SILENT_ASSASSIN_NAME": "Asesino silencioso"
+		}
+	}
+}

@@ -1,0 +1,42 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00D8EA3B0E0FCA72",
+	"languages": {
+		"xx": {
+			"B834671A": "PH_AIMANDSHOOT",
+			"D105C9D9": "PH_PC_AIMSHOOT",
+			"25BC0F6C": "PH_XBOX_AIMSHOOT",
+			"46AA66D0": "PH_PS4_AIMSHOOT"
+		},
+		"en": {
+			"B834671A": "Aim and Shoot",
+			"D105C9D9": "Hold {AIM} to aim, and press {SHOOT} to shoot.",
+			"25BC0F6C": "Hold {AIM} to aim, and pull {SHOOT} to shoot.",
+			"46AA66D0": "Hold {AIM} to aim, and press {SHOOT} to shoot."
+		},
+		"fr": {
+			"B834671A": "Visez et tirez",
+			"D105C9D9": "Maintenez {AIM} pour viser et appuyez sur {SHOOT} pour tirer.",
+			"25BC0F6C": "Maintenez {AIM} pour viser et appuyez sur {SHOOT} pour tirer.",
+			"46AA66D0": "Maintenez {AIM} pour viser et appuyez sur {SHOOT} pour tirer."
+		},
+		"it": {
+			"B834671A": "Mirare e sparare",
+			"D105C9D9": "Tieni premuto {AIM} per prendere la mira e premi {SHOOT} per sparare.",
+			"25BC0F6C": "Tieni premuto {AIM} per prendere la mira e premi {SHOOT} per sparare.",
+			"46AA66D0": "Tieni premuto {AIM} per prendere la mira e premi {SHOOT} per sparare."
+		},
+		"de": {
+			"B834671A": "Anvisieren und Schießen",
+			"D105C9D9": "Halten Sie {AIM} zum Zielen und drücken Sie {SHOOT}, um zu schießen.",
+			"25BC0F6C": "Halten Sie {AIM} zum Zielen und ziehen Sie {SHOOT}, um zu schießen.",
+			"46AA66D0": "Halten Sie {AIM} zum Zielen und drücken Sie {SHOOT}, um zu schießen."
+		},
+		"es": {
+			"B834671A": "Apunta y dispara",
+			"D105C9D9": "Mantén {AIM} para apuntar y pulsa {SHOOT} para disparar.",
+			"25BC0F6C": "Mantén {AIM} para apuntar y pulsa {SHOOT} para disparar.",
+			"46AA66D0": "Mantén {AIM} para apuntar y pulsa {SHOOT} para disparar."
+		}
+	}
+}

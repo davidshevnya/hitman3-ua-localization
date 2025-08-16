@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00F08EEF6EA0B527",
+	"languages": {
+		"xx": {
+			"27560E60": "Gone with the Wind",
+			"BB8ADC4B": "The production of \"Mumbai Hero\" is coming to a close but it seems there's a spot of trouble. Lead actress Karisma Haasan has refused to do a kissing scene with Rangan and has gotten rid of the script by tossing it down an elevator shaft. Shame... The scene features the use of a large industrial wind machine. Could be worth investigating.",
+			"B3756C6B": "A Missing Script and an Industrial Fan",
+			"C035B453": "",
+			"D408A583": "",
+			"CE349AB4": ""
+		},
+		"en": {
+			"27560E60": "Gone with the Wind",
+			"BB8ADC4B": "The production of \"Mumbai Hero\" is coming to a close but it seems there's a spot of trouble. Lead actress Karisma Haasan has refused to do a kissing scene with Rangan and has gotten rid of the script by tossing it down an elevator shaft. Shame... The scene features the use of a large industrial wind machine. Could be worth investigating.",
+			"B3756C6B": "A missing script and an industrial fan.",
+			"C035B453": "Disguise yourself as Bollywood crew",
+			"D408A583": "Find the missing script",
+			"CE349AB4": "Give the script to the director"
+		},
+		"fr": {
+			"27560E60": "Autant en emporte le vent",
+			"BB8ADC4B": "La production du film \"Le héros de Bombay\" arrive à son terme, mais il reste un problème : l'actrice principale, Karisma Haasan, refuse de tourner une scène de baiser avec Rangan et a carrément jeté le script dans une cage d'ascenseur. Dommage… La scène prévoit l'utilisation d'un énorme ventilateur industriel, cela pourrait être utile.",
+			"B3756C6B": "Un script manquant et un ventilateur industriel.",
+			"C035B453": "Déguisez-vous en technicien de Bollywood",
+			"D408A583": "Trouvez le script manquant",
+			"CE349AB4": "Donnez le script à la réalisatrice"
+		},
+		"it": {
+			"27560E60": "Via col vento",
+			"BB8ADC4B": "La produzione de \"L'eroe di Mumbai\" giunge al termine, ma sembra esserci qualche problema. Karisma Haasan, l'attrice protagonista, si rifiuta di girare la scena del bacio con Rangan e ha gettato il copione nella tromba dell'ascensore. Che peccato... Per quella scena avrebbero dovuto usare una gigantesca macchina del vento. Meglio indagare.",
+			"B3756C6B": "Un copione mancante e un ventilatore industriale.",
+			"C035B453": "Travestiti da staff di Bollywood",
+			"D408A583": "Trova il copione mancante",
+			"CE349AB4": "Consegna il copione al regista"
+		},
+		"de": {
+			"27560E60": "Vom Winde verweht",
+			"BB8ADC4B": "Die Produktion von „Der Held von Mumbai“ ist so gut wie abgeschlossen, doch es scheint ein paar Probleme zu geben. Karisma Haasan, die Hauptdarstellerin, hat eine Kussszene mit Rangan abgelehnt und das Drehbuch in einem Aufzugschacht entsorgt. Wirklich schade … denn in der Szene kommt eine Industrie-Windmaschine zum Einsatz. Es könnte sich lohnen, dem nachzugehen.",
+			"B3756C6B": "Ein verschwundenes Drehbuch und eine Windmaschine.",
+			"C035B453": "Verkleiden Sie sich als einer der Bollywood-Filmcrew.",
+			"D408A583": "Finden Sie das verschwundene Drehbuch.",
+			"CE349AB4": "Geben Sie dem Regisseur das Drehbuch."
+		},
+		"es": {
+			"27560E60": "Lo que el viento se llevó",
+			"BB8ADC4B": "La producción de «El héroe de Bombay» está a punto de terminar, pero parece que hay un problemilla. Karisma Haasan, la actriz principal, se ha negado a rodar una escena de beso con Rangan y ha tirado el guion por el hueco del ascensor. Qué pena... La cuestión es que la escena incluye una máquina de viento industrial. Podría ser interesante investigar el tema.",
+			"B3756C6B": "Un guion perdido y un ventilador industrial.",
+			"C035B453": "Disfrázate de miembro de técnico de Bollywood",
+			"D408A583": "Encuentra el guion perdido",
+			"CE349AB4": "Dale el guion al director"
+		}
+	}
+}

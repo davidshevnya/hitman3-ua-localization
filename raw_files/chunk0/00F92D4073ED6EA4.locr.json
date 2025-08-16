@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00F92D4073ED6EA4",
+	"languages": {
+		"xx": {
+			"UI_GAMECHANGERS_NORTHSEA_STICKY_FISH_NAME": "Sticky Fish",
+			"UI_GAMECHANGERS_NORTHSEA_STICKY_FISH_DESC": "Do not drop the Fish",
+			"UI_GAMECHANGERS_NORTHSEA_DONT_USE_STAIRS_NAME": "No Stairs",
+			"UI_GAMECHANGERS_NORTHSEA_DONT_USE_STAIRS_DESC": "Do not carry the Briefcase on the stairs",
+			"UI_GAMECHANGERS_NORTHSEA_STICKY_FISH_FAIL": "You dropped the Fish",
+			"UI_GAMECHANGERS_NORTHSEA_GUARDS_ENFORCE_CUSTODIANS_NAME": "Enhanced Enforcers",
+			"UI_GAMECHANGERS_NORTHSEA_GUARDS_ENFORCE_CUSTODIANS_DESC": "More guards in the Ark building enforce the custodian disguise",
+			"AE4750B2": "Harbour Exit",
+			"FBD182E0": "Only the harbour exit is available",
+			"UI_GAMECHANGERS_NORTHSEA_WINCH_EXIT_NAME": "Ark Winch Exit",
+			"UI_GAMECHANGERS_NORTHSEA_WINCH_EXIT_DESC": "Only the ark winch exit is available"
+		},
+		"en": {
+			"UI_GAMECHANGERS_NORTHSEA_STICKY_FISH_NAME": "Sticky Fish",
+			"UI_GAMECHANGERS_NORTHSEA_STICKY_FISH_DESC": "Do not drop the fish.",
+			"UI_GAMECHANGERS_NORTHSEA_DONT_USE_STAIRS_NAME": "No Stairs",
+			"UI_GAMECHANGERS_NORTHSEA_DONT_USE_STAIRS_DESC": "Do not carry the briefcase on the stairs.",
+			"UI_GAMECHANGERS_NORTHSEA_STICKY_FISH_FAIL": "You dropped the fish.",
+			"UI_GAMECHANGERS_NORTHSEA_GUARDS_ENFORCE_CUSTODIANS_NAME": "Enhanced Enforcers",
+			"UI_GAMECHANGERS_NORTHSEA_GUARDS_ENFORCE_CUSTODIANS_DESC": "More guards in the Ark building enforce the custodian disguise.",
+			"AE4750B2": "Harbor Exit",
+			"FBD182E0": "Only the harbor exit is available.",
+			"UI_GAMECHANGERS_NORTHSEA_WINCH_EXIT_NAME": "Ark Winch Exit",
+			"UI_GAMECHANGERS_NORTHSEA_WINCH_EXIT_DESC": "Only the ark winch exit is available."
+		},
+		"fr": {
+			"UI_GAMECHANGERS_NORTHSEA_STICKY_FISH_NAME": "Poisson collant",
+			"UI_GAMECHANGERS_NORTHSEA_STICKY_FISH_DESC": "Ne lâchez pas le poisson.",
+			"UI_GAMECHANGERS_NORTHSEA_DONT_USE_STAIRS_NAME": "Pas d'escaliers",
+			"UI_GAMECHANGERS_NORTHSEA_DONT_USE_STAIRS_DESC": "Ne portez pas la mallette dans les escaliers.",
+			"UI_GAMECHANGERS_NORTHSEA_STICKY_FISH_FAIL": "Vous avez lâché le poisson.",
+			"UI_GAMECHANGERS_NORTHSEA_GUARDS_ENFORCE_CUSTODIANS_NAME": "Agents améliorés",
+			"UI_GAMECHANGERS_NORTHSEA_GUARDS_ENFORCE_CUSTODIANS_DESC": "Des agents supplémentaires dans le bâtiment de l'Arche voient à travers le déguisement de gardien.",
+			"AE4750B2": "Sortie par le port",
+			"FBD182E0": "Seule la sortie par le port est disponible.",
+			"UI_GAMECHANGERS_NORTHSEA_WINCH_EXIT_NAME": "Sortie treuil de l'Arche",
+			"UI_GAMECHANGERS_NORTHSEA_WINCH_EXIT_DESC": "Seule la sortie par le treuil de l'Arche est disponible."
+		},
+		"it": {
+			"UI_GAMECHANGERS_NORTHSEA_STICKY_FISH_NAME": "Pesce appiccicoso",
+			"UI_GAMECHANGERS_NORTHSEA_STICKY_FISH_DESC": "Non far cadere il pesce.",
+			"UI_GAMECHANGERS_NORTHSEA_DONT_USE_STAIRS_NAME": "Non usare le scale",
+			"UI_GAMECHANGERS_NORTHSEA_DONT_USE_STAIRS_DESC": "Non portare la valigetta sulle scale.",
+			"UI_GAMECHANGERS_NORTHSEA_STICKY_FISH_FAIL": "Hai fatto cadere il pesce.",
+			"UI_GAMECHANGERS_NORTHSEA_GUARDS_ENFORCE_CUSTODIANS_NAME": "Sorveglianza potenziata",
+			"UI_GAMECHANGERS_NORTHSEA_GUARDS_ENFORCE_CUSTODIANS_DESC": "Più sorveglianti nel Palazzo dell'Ark rafforzano il tuo travestimento da custode.",
+			"AE4750B2": "Uscita per il porto",
+			"FBD182E0": "È disponibile solamente l'uscita per il porto.",
+			"UI_GAMECHANGERS_NORTHSEA_WINCH_EXIT_NAME": "Uscita con verricello dall'Ark",
+			"UI_GAMECHANGERS_NORTHSEA_WINCH_EXIT_DESC": "È disponibile solo l'uscita con verricello dall'Ark."
+		},
+		"de": {
+			"UI_GAMECHANGERS_NORTHSEA_STICKY_FISH_NAME": "Klebriger Fisch",
+			"UI_GAMECHANGERS_NORTHSEA_STICKY_FISH_DESC": "Legen Sie den Fisch nicht ab.",
+			"UI_GAMECHANGERS_NORTHSEA_DONT_USE_STAIRS_NAME": "Keine Treppen",
+			"UI_GAMECHANGERS_NORTHSEA_DONT_USE_STAIRS_DESC": "Tragen Sie den Aktenkoffer nicht auf der Treppe.",
+			"UI_GAMECHANGERS_NORTHSEA_STICKY_FISH_FAIL": "Sie haben den Fisch abgelegt.",
+			"UI_GAMECHANGERS_NORTHSEA_GUARDS_ENFORCE_CUSTODIANS_NAME": "Aufmerksame Aufpasser",
+			"UI_GAMECHANGERS_NORTHSEA_GUARDS_ENFORCE_CUSTODIANS_DESC": "Mehr Wachen im Ark-Gebäude durchschauen die Hüter-Verkleidung.",
+			"AE4750B2": "Hafenausgang",
+			"FBD182E0": "Nur der Ausgang am Hafen ist verfügbar.",
+			"UI_GAMECHANGERS_NORTHSEA_WINCH_EXIT_NAME": "Ark-Winden-Ausgang",
+			"UI_GAMECHANGERS_NORTHSEA_WINCH_EXIT_DESC": "Nur der Ark-Winden-Ausgang ist verfügbar."
+		},
+		"es": {
+			"UI_GAMECHANGERS_NORTHSEA_STICKY_FISH_NAME": "Pez pegajoso",
+			"UI_GAMECHANGERS_NORTHSEA_STICKY_FISH_DESC": "No sueltes el pez.",
+			"UI_GAMECHANGERS_NORTHSEA_DONT_USE_STAIRS_NAME": "Nada de escaleras",
+			"UI_GAMECHANGERS_NORTHSEA_DONT_USE_STAIRS_DESC": "No lleves el maletín por las escaleras.",
+			"UI_GAMECHANGERS_NORTHSEA_STICKY_FISH_FAIL": "Se te ha caído el pez",
+			"UI_GAMECHANGERS_NORTHSEA_GUARDS_ENFORCE_CUSTODIANS_NAME": "Detectores mejorados",
+			"UI_GAMECHANGERS_NORTHSEA_GUARDS_ENFORCE_CUSTODIANS_DESC": "En el edificio de la Ark habrá más guardias capaces de detectar el disfraz de custodio.",
+			"AE4750B2": "Salida del puerto",
+			"FBD182E0": "La única salida disponible es la del puerto.",
+			"UI_GAMECHANGERS_NORTHSEA_WINCH_EXIT_NAME": "Salida por el cabestrante de la Ark",
+			"UI_GAMECHANGERS_NORTHSEA_WINCH_EXIT_DESC": "La única salida disponible es la del cabestrante de la Ark"
+		}
+	}
+}

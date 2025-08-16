@@ -1,0 +1,36 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00C73E5C16AB4F12",
+	"languages": {
+		"xx": {
+			"3F1F31A8": "PH_HideBodyHeader",
+			"9E322128": "PH_HideBodyPrompt",
+			"3B6C3772": "PH_HideBody"
+		},
+		"en": {
+			"3F1F31A8": "Hiding Bodies",
+			"9E322128": "Press {DUMPBODY} to hide body in container.",
+			"3B6C3772": "Hide bodies in freezers, crates or closets to prevent them from being found."
+		},
+		"fr": {
+			"3F1F31A8": "Dissimulation des corps",
+			"9E322128": "Appuyez sur {DUMPBODY} pour cacher le corps dans le conteneur.",
+			"3B6C3772": "Cachez les corps dans les congélateurs, les boîtes ou les placards pour éviter qu'ils soient découverts."
+		},
+		"it": {
+			"3F1F31A8": "Occultamento dei corpi",
+			"9E322128": "Premi {DUMPBODY} per nascondere un corpo in un contenitore.",
+			"3B6C3772": "Nascondi i corpi in congelatori, casse o armadi per fare in modo che non siano rinvenuti."
+		},
+		"de": {
+			"3F1F31A8": "Körper verstecken",
+			"9E322128": "Drücken Sie {DUMPBODY}, um den Körper im Container zu verstecken.",
+			"3B6C3772": "Verstecken Sie Körper in Gefriertruhen, Kisten oder Schränken, damit sie nicht gefunden werden."
+		},
+		"es": {
+			"3F1F31A8": "Ocultar cuerpos",
+			"9E322128": "Pulsa {DUMPBODY} para esconder el cuerpo en el contenedor.",
+			"3B6C3772": "Esconde cuerpos en frigoríficos, cajones o armarios para evitar que alguien los encuentre."
+		}
+	}
+}

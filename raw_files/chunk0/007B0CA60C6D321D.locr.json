@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "007B0CA60C6D321D",
+	"languages": {
+		"xx": {
+			"D0DD5A96": "PH_Hint",
+			"96EC1756": "PH_CameraControl"
+		},
+		"en": {
+			"D0DD5A96": "Camera Control",
+			"96EC1756": "Use {CAMERA} to rotate the camera."
+		},
+		"fr": {
+			"D0DD5A96": "Contrôle de la caméra",
+			"96EC1756": "Orientez {CAMERA} pour faire pivoter la caméra."
+		},
+		"it": {
+			"D0DD5A96": "Comandi della visuale",
+			"96EC1756": "Usa {CAMERA} per ruotare la visuale."
+		},
+		"de": {
+			"D0DD5A96": "Kamerasteuerung",
+			"96EC1756": "Benutzen Sie {CAMERA}, um die Kamera zu schwenken."
+		},
+		"es": {
+			"D0DD5A96": "Controlar la cámara",
+			"96EC1756": "Usa {CAMERA} para girar la cámara."
+		}
+	}
+}

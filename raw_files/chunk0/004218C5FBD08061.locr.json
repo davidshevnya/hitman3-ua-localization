@@ -1,0 +1,42 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "004218C5FBD08061",
+	"languages": {
+		"xx": {
+			"UI_GAMECHANGERS_GOLDEN_PLACE_BODY_DESC": "Place the body of Naadim Yacoub in the Maintenence Storage Room",
+			"UI_GAMECHANGERS_GOLDEN_PLACE_BODY_NAME": "Body Drop",
+			"UI_GAMECHANGERS_GOLDEN_DOUBLE_WHAMMY_DESC": "Pacify and then eliminate Zana “The Vulture” Kazemi. If he is killed without being pacified first, mission will fail.",
+			"UI_GAMECHANGERS_GOLDEN_DOUBLE_WHAMMY_NAME": "Double Whammy"
+		},
+		"en": {
+			"UI_GAMECHANGERS_GOLDEN_PLACE_BODY_DESC": "Place the body of Naadim Yacoub in the Maintenence Storage Room",
+			"UI_GAMECHANGERS_GOLDEN_PLACE_BODY_NAME": "Body Drop",
+			"UI_GAMECHANGERS_GOLDEN_DOUBLE_WHAMMY_DESC": "Pacify and then eliminate Zana “The Vulture” Kazemi. If he is killed without being pacified first, mission will fail.",
+			"UI_GAMECHANGERS_GOLDEN_DOUBLE_WHAMMY_NAME": "Double Whammy"
+		},
+		"fr": {
+			"UI_GAMECHANGERS_GOLDEN_PLACE_BODY_DESC": "Placez le corps de Naadim Yacoub dans la réserve de maintenance.",
+			"UI_GAMECHANGERS_GOLDEN_PLACE_BODY_NAME": "Abandon",
+			"UI_GAMECHANGERS_GOLDEN_DOUBLE_WHAMMY_DESC": "Neutralisez puis éliminez Zana Kazem, dit \"le Vautour\". S'il est assassiné sans avoir été d'abord neutralisé, la mission échoue.",
+			"UI_GAMECHANGERS_GOLDEN_DOUBLE_WHAMMY_NAME": "Combo"
+		},
+		"it": {
+			"UI_GAMECHANGERS_GOLDEN_PLACE_BODY_DESC": "Metti il corpo di Naadim Yacoub nella sala della manutenzione",
+			"UI_GAMECHANGERS_GOLDEN_PLACE_BODY_NAME": "Lascia il corpo",
+			"UI_GAMECHANGERS_GOLDEN_DOUBLE_WHAMMY_DESC": "Neutralizza e poi elimina Zana \"l'Avvoltoio\" Kazem. Se verrà eliminato senza essere prima stato neutralizzato, la missione fallirà.",
+			"UI_GAMECHANGERS_GOLDEN_DOUBLE_WHAMMY_NAME": "Doppio colpo"
+		},
+		"de": {
+			"UI_GAMECHANGERS_GOLDEN_PLACE_BODY_DESC": "Platzieren Sie die Leiche von Naadim Yacoub im Wartungslagerraum.",
+			"UI_GAMECHANGERS_GOLDEN_PLACE_BODY_NAME": "Flachmacher",
+			"UI_GAMECHANGERS_GOLDEN_DOUBLE_WHAMMY_DESC": "Stellen Sie Zana „den Geier“ Kazemi ruhig und eliminieren Sie ihn dann. Wird er getötet, ohne ruhiggestellt zu werden, scheitert die Mission.",
+			"UI_GAMECHANGERS_GOLDEN_DOUBLE_WHAMMY_NAME": "Doppelklopper"
+		},
+		"es": {
+			"UI_GAMECHANGERS_GOLDEN_PLACE_BODY_DESC": "Mete el cuerpo de Naadim Yacoub en el almacén de mantenimiento",
+			"UI_GAMECHANGERS_GOLDEN_PLACE_BODY_NAME": "Soltar cuerpo",
+			"UI_GAMECHANGERS_GOLDEN_DOUBLE_WHAMMY_DESC": "Deja inconsciente y luego elimina a Zana Kazem, «El Buitre». Si lo matas sin dejarlo inconsciente previamente, la misión fracasará.",
+			"UI_GAMECHANGERS_GOLDEN_DOUBLE_WHAMMY_NAME": "Doble palo"
+		}
+	}
+}

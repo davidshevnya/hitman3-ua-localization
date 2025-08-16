@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00E342059BA60FDD",
+	"languages": {
+		"xx": {
+			"0106B4E2": "PH_HipsControl",
+			"DD4CD8FB": "PH_Body_Text"
+		},
+		"en": {
+			"0106B4E2": "Blending In",
+			"DD4CD8FB": "Hold {ACTIVATE_PROP} to blend in."
+		},
+		"fr": {
+			"0106B4E2": "Camouflez-vous",
+			"DD4CD8FB": "Maintenez {ACTIVATE_PROP} pour vous camoufler."
+		},
+		"it": {
+			"0106B4E2": "Mimetizzarsi",
+			"DD4CD8FB": "Tieni premuto {ACTIVATE_PROP} per mimetizzarti."
+		},
+		"de": {
+			"0106B4E2": "Untertauchen",
+			"DD4CD8FB": "Halten Sie {ACTIVATE_PROP}, um mit der Umgebung zu verschmelzen."
+		},
+		"es": {
+			"0106B4E2": "Camuflarse",
+			"DD4CD8FB": "Mantén {ACTIVATE_PROP} para pasar desapercibido."
+		}
+	}
+}

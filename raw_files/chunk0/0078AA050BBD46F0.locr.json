@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0078AA050BBD46F0",
+	"languages": {
+		"xx": {
+			"917C613B": "Overflow",
+			"C002B93B": "It seems that the Fermentation tanks on the production floor are quite accident prone. If the central pump would have malfunction, the tanks will overflow. Not for the first time.",
+			"EC9A0F71": "*flavor placeholder",
+			"53F32A60": "Follow the Senior worker",
+			"CAFA7BDA": "Get a Worker Disguise",
+			"BDFD4B4C": "Find a Screwdriver",
+			"2399DEEF": "Find a Wrench",
+			"549EEE79": "Expose the Electric Wire",
+			"CD97BFC3": "Sabotage the Wine Pump"
+		},
+		"en": {
+			"917C613B": "Over The Top",
+			"C002B93B": "The large fermentation tanks are accident prone. Apparently, if the central pump malfunctions, the tanks will overflow.",
+			"EC9A0F71": "Sabotaging the pump is sure to draw Yates's attention.",
+			"53F32A60": "Follow the senior worker",
+			"CAFA7BDA": "Disguise yourself as a worker",
+			"BDFD4B4C": "Find a screwdriver",
+			"2399DEEF": "Find a wrench",
+			"549EEE79": "Expose the electrical wire",
+			"CD97BFC3": "Sabotage the wine pump"
+		},
+		"fr": {
+			"917C613B": "Débordement",
+			"C002B93B": "Les cuves de fermentation présentent un risque. Au moindre raté de la pompe centrale, elles déborderont.",
+			"EC9A0F71": "Saboter la pompe attirera l'attention de Yates à coup sûr.",
+			"53F32A60": "Suivez l'ouvrier en chef",
+			"CAFA7BDA": "Procurez-vous une tenue d'ouvrier",
+			"BDFD4B4C": "Trouvez un tournevis",
+			"2399DEEF": "Trouvez une clé",
+			"549EEE79": "Endommagez le fil électrique",
+			"CD97BFC3": "Sabotez la pompe des cuves"
+		},
+		"it": {
+			"917C613B": "Straripamento",
+			"C002B93B": "Le grandi cisterne di fermentazione sono predisposte a incidenti. Pare che, se la pompa centrale subisse un malfunzionamento, le cisterne traboccherebbero.",
+			"EC9A0F71": "Sabotare la pompa attirerà di sicuro l'attenzione di Yates.",
+			"53F32A60": "Segui il dipendente anziano",
+			"CAFA7BDA": "Procurati un travestimento da dipendente",
+			"BDFD4B4C": "Trova un cacciavite",
+			"2399DEEF": "Trova una chiave inglese",
+			"549EEE79": "Danneggia i cavi elettrici",
+			"CD97BFC3": "Sabota la pompa del vino"
+		},
+		"de": {
+			"917C613B": "Überfluss",
+			"C002B93B": "Die großen Gärtanks sind anfällig für Unfälle. Wenn die zentrale Pumpe eine Fehlfunktion hat, laufen die Tanks über.",
+			"EC9A0F71": "Die Pumpe zu sabotieren, wird Yates’ Aufmerksamkeit erregen.",
+			"53F32A60": "Folgen Sie dem erfahrenen Arbeiter",
+			"CAFA7BDA": "Beschaffen Sie eine Arbeiterkluft",
+			"BDFD4B4C": "Finden Sie einen Schraubendreher",
+			"2399DEEF": "Finden Sie einen Schraubenschlüssel",
+			"549EEE79": "Legen Sie die elektrische Leitung frei",
+			"CD97BFC3": "Sabotieren Sie die Weinpumpe"
+		},
+		"es": {
+			"917C613B": "Desbordamiento",
+			"C002B93B": "Estas cubas de fermentación son propensas a los accidentes. Si se avería la bomba, las cubas se desbordan.",
+			"EC9A0F71": "Ya ha pasado antes… lo cual provocó la aparición de Don Yates. Es probable que vuelva a suceder.",
+			"53F32A60": "Sigue al trabajador veterano",
+			"CAFA7BDA": "Consigue un disfraz de trabajador de la bodega",
+			"BDFD4B4C": "Busca un destornillador",
+			"2399DEEF": "Busca una llave inglesa",
+			"549EEE79": "Saca el cable eléctrico",
+			"CD97BFC3": "Sabotea la bomba de vino"
+		}
+	}
+}

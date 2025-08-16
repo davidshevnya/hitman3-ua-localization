@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0090EC76E5D791A2",
+	"languages": {
+		"xx": {
+			"DA60E6FD": "Name",
+			"B88547C4": "Flavor",
+			"1B53977D": "Description",
+			"1C1E1FF7": "Conclusion",
+			"4DEDFCFF": "Step 1",
+			"0E577D6A": "Step 2",
+			"493368C0": "Step 3",
+			"27D75CB3": "",
+			"20DA53D0": ""
+		},
+		"en": {
+			"DA60E6FD": "Bad Blood",
+			"B88547C4": "The prisoner was Zaydan’s friend and confidant. He might make a private visit.",
+			"1B53977D": "According to the soldiers, the condemned prisoner in the cell was a close friend of Zaydan. However, when his brother, a Marrakesh police officer, was eliminated during Strandberg’s breakout, the prisoner decided to betray Zaydan and go public. Alas, he was caught before he could thwart the coup d’etat.",
+			"1C1E1FF7": "Good plan. Zaydan won’t expect resistance from a tied up prisoner.",
+			"4DEDFCFF": "Find the prisoner's cell",
+			"0E577D6A": "Get a Military Officer's disguise",
+			"493368C0": "Dismiss the guard on watch in the prisoner's cell",
+			"27D75CB3": "",
+			"20DA53D0": "Disguise yourself as the Prisoner and sit on the chair"
+		},
+		"fr": {
+			"DA60E6FD": "Animosité",
+			"B88547C4": "Le prisonnier était l'ami et le confident de Zaydan. Ce dernier pourrait bien lui rendre visite.",
+			"1B53977D": "D'après les soldats, le prisonnier qui se trouvait dans la cellule était un ami proche de Zaydan dont le frère, policier à Marrakech, est décédé lors de l'évasion de Strandberg. L'homme a alors décidé de trahir le général en révélant ses intentions au public, mais s'est malheureusement fait prendre avant d'avoir pu empêcher le coup d'état.",
+			"1C1E1FF7": "Excellent plan. Zaydan ne s'attendra pas à ce qu'un prisonnier entravé oppose une quelconque résistance.",
+			"4DEDFCFF": "Trouvez la cellule du prisonnier",
+			"0E577D6A": "Procurez-vous une tenue d'officier militaire",
+			"493368C0": "Congédiez le garde surveillant la cellule du prisonnier",
+			"27D75CB3": "",
+			"20DA53D0": "Déguisez-vous en prisonnier et prenez sa place"
+		},
+		"it": {
+			"DA60E6FD": "Sangue cattivo",
+			"B88547C4": "Il prigioniero era un amico e confidente di Zaydan. Potrebbe fargli visita in privato.",
+			"1B53977D": "Secondo i soldati, il prigioniero rinchiuso nella cella era un caro amico di Zaydan. Ma quando suo fratello, un poliziotto di Marrakech, è stato assassinato durante l'evasione di Strandberg, il prigioniero ha deciso di tradire Zaydan e di vuotare il sacco. Purtroppo è stato catturato prima che potesse denunciare il colpo di stato.",
+			"1C1E1FF7": "Un ottimo piano. Zaydan non sospetterà di un prigioniero ammanettato.",
+			"4DEDFCFF": "Trova la cella del prigioniero",
+			"0E577D6A": "Procurati un travestimento da ufficiale dell'esercito",
+			"493368C0": "Manda in pausa la guardia di turno nella cella del prigioniero",
+			"27D75CB3": "",
+			"20DA53D0": "Travestiti da prigioniero e siediti al suo posto"
+		},
+		"de": {
+			"DA60E6FD": "Böses Blut",
+			"B88547C4": "Der Gefangene war Zaydans Freund und Vertrauter. Vielleicht besucht er ihn ja.",
+			"1B53977D": "Laut den Soldaten war der verurteilte Gefangene in der Zelle ein enger Freund Zaydans. Als jedoch sein Bruder, ein marokkanischer Polizist, bei Strandbergs Flucht eliminiert wurde, beschloss er, Zaydan zu verraten und an die Öffentlichkeit zu treten. Dummerweise wurde er gefasst, bevor er den geplanten Putsch aufdecken konnte.",
+			"1C1E1FF7": "Guter Plan. Zaydan wird von einem gefesselten Gefangenen keine Gegenwehr erwarten.",
+			"4DEDFCFF": "Finden Sie die Zelle des Gefangenen",
+			"0E577D6A": "Verkleiden Sie sich als Offizier",
+			"493368C0": "Übernehmen Sie die Wache in der Zelle des Gefangenen",
+			"27D75CB3": "",
+			"20DA53D0": "Verkleiden Sie sich als Gefangener und setzen Sie sich auf den Stuhl"
+		},
+		"es": {
+			"DA60E6FD": "Mala sangre",
+			"B88547C4": "El prisionero era amigo y confidente de Zaydan. Este último puede que le haga una visita.",
+			"1B53977D": "Según los soldados, el prisionero condenado en la celda era un amigo íntimo de Zaydan. Aun así, cuando su hermano, un policía de Marrakech, fue asesinado durante la fuga de Strandberg, el prisionero decidió traicionar a Zaydan y hacerlo público. Sin embargo, lo capturaron antes de que pudiera frustrar el golpe de estado.",
+			"1C1E1FF7": "Buen plan. Zaydan no esperará que un prisionero atado se resista.",
+			"4DEDFCFF": "Encuentra la celda del prisionero",
+			"0E577D6A": "Consigue el disfraz de oficial militar",
+			"493368C0": "Haz que el guardia que vigila la celda del prisionero se vaya",
+			"27D75CB3": "",
+			"20DA53D0": "Disfrázate como el prisionero y siéntate en la silla"
+		}
+	}
+}

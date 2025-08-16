@@ -1,0 +1,78 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00EE376A9F395BA1",
+	"languages": {
+		"xx": {
+			"43155CD6": "Title",
+			"32F3F889": "Flavor",
+			"FB4A9487": "Description",
+			"BA24369F": "Conclusion",
+			"77A2E43B": "Become Shaman",
+			"DF02B54E": "TalkToMartinez",
+			"B74EC816": "Go to Construction site",
+			"BDB33FDA": "Wait for Instructions from Martínez",
+			"17D018CB": "Perform the ritual",
+			"320B5050": "Meet with Foreman"
+		},
+		"en": {
+			"43155CD6": "Hallowed Ground",
+			"32F3F889": "So. Andrea Martínez wants the local shaman to do a spirit cleanse at the construction site and she has ordered her sicarios to summon him, against his will, if necessary. I suggest you get involved, 47. After all, getting rid of bad influences is what you do best.",
+			"FB4A9487": "The local construction site needs a spiritual cleansing...",
+			"BA24369F": "Very impressive, 47. This should get the workers to disperse.",
+			"77A2E43B": "Disguise yourself as the shaman",
+			"DF02B54E": "Talk to Andrea Martínez",
+			"B74EC816": "Locate the construction site",
+			"BDB33FDA": "Wait for instructions from Martínez",
+			"17D018CB": "Perform the cleansing ritual",
+			"320B5050": "Talk to the foreman at the construction site"
+		},
+		"fr": {
+			"43155CD6": "Terre sacrée",
+			"32F3F889": "Andrea Martínez souhaite que le chaman du coin exorcise le chantier de construction, et elle a envoyé ses hommes le chercher, par la force si nécessaire. Vous devriez agir, 47. Après tout, rétablir l'ordre et la paix, c'est votre spécialité.",
+			"FB4A9487": "Le site de construction local a besoin d'une purification spirituelle…",
+			"BA24369F": "Impressionnant, 47. Voilà qui devrait calmer les ouvriers.",
+			"77A2E43B": "Déguisez-vous en chaman",
+			"DF02B54E": "Parlez à Andrea Martínez",
+			"B74EC816": "Allez sur le chantier",
+			"BDB33FDA": "Attendez les instructions de Martínez",
+			"17D018CB": "Procédez à l'exorcisme des lieux",
+			"320B5050": "Parlez au contremaître sur le chantier"
+		},
+		"it": {
+			"43155CD6": "Terreno sacro",
+			"32F3F889": "Dunque, Andrea Martínez vuole che lo sciamano locale si liberi degli spiriti presso il cantiere, quindi ha ordinato ai propri sicari di andarlo a prendere, anche contro la sua volontà se necessario. Ti consiglio di immischiarti in questa faccenda, 47. Dopotutto, liberarsi delle pessime influenze è ciò che sai fare meglio.",
+			"FB4A9487": "Il sito di costruzioni locale ha bisogno di una pulizia spirituale…",
+			"BA24369F": "Davvero incredibile, 47. Questo dovrebbe spingere i lavoratori ad allontanarsi.",
+			"77A2E43B": "Travestiti da sciamano",
+			"DF02B54E": "Parla con Andrea Martínez",
+			"B74EC816": "Trova il cantiere",
+			"BDB33FDA": "Attendi istruzioni da Martínez",
+			"17D018CB": "Esegui il rituale di purificazione",
+			"320B5050": "Parla con il caposquadra al cantiere"
+		},
+		"de": {
+			"43155CD6": "Heiliger Boden",
+			"32F3F889": "So. Andrea Martínez will, dass der örtliche Schamane alle etwaigen Geister von der Baustelle vertreibt. Deshalb hat sie ihren Sicarios befohlen, ihn herzuschaffen – nötigenfalls mit Gewalt. Ich würde vorschlagen, dass Sie sich einmischen, 47. Sie sind schließlich Spezialist für das Beseitigen schlechter Einflüsse.",
+			"FB4A9487": "Die Baustelle vor Ort benötigt eine spirituelle Reinigung …",
+			"BA24369F": "Sehr eindrucksvoll, 47. Dadurch sollten sich die Arbeiter zerstreuen.",
+			"77A2E43B": "Verkleiden Sie sich als Schamane.",
+			"DF02B54E": "Sprechen Sie mit Andrea Martínez.",
+			"B74EC816": "Finden Sie die Baustelle.",
+			"BDB33FDA": "Warten Sie auf Martínez' Anweisungen.",
+			"17D018CB": "Führen Sie das Läuterungsritual durch.",
+			"320B5050": "Sprechen Sie mit dem Vorarbeiter auf der Baustelle."
+		},
+		"es": {
+			"43155CD6": "Terreno sagrado",
+			"32F3F889": "Andrea Martínez quiere que el chamán local acabe con los espíritus de la obra, así que les ha ordenado a sus sicarios que lo traigan, aunque sea contra su voluntad. Te sugiero que te entrometas, 47. Precisamente, nadie mejor que tú para acabar con espíritus malvados.",
+			"FB4A9487": "El sitio de construcción local necesita una limpieza espiritual…",
+			"BA24369F": "Impresionante, 47. Esto hará que los obreros se dispersen.",
+			"77A2E43B": "Disfrázate del chamán",
+			"DF02B54E": "Habla con Andrea Martínez",
+			"B74EC816": "Encuentra la obra",
+			"BDB33FDA": "Espera instrucciones de Martínez",
+			"17D018CB": "Lleva a cabo el ritual purificador",
+			"320B5050": "Habla con el capataz en la obra"
+		}
+	}
+}

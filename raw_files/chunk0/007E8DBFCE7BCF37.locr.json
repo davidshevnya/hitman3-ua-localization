@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "007E8DBFCE7BCF37",
+	"languages": {
+		"xx": {
+			"SETPIECES_WOLVERINE_PLACE_VALVE": "Place Valve",
+			"SETPIECES_WOLVERINE_CRAFT_SILENCED_PISTOL": "Craft Silenced Pistol",
+			"SETPIECES_WOLVERINE_CONFRONT": "Confront Arthur Edwards",
+			"B952335B": "Alt.",
+			"34CDFBF6": "Detach",
+			"D44BF344": "Train Cars",
+			"SETPIECES_WOLVERINE_TRIGGER_CAR_EXPLOSIVE": "Prompt text for detonating a car bomb in the graveyard dream",
+			"7C0D0129": "Detach Train Cars to Proceed",
+			"DBC5B49C": "Prompt text for exiting the level by pulling the emergency brake lever",
+			"A5D56BA2": "Alt.",
+			"B258E384": "Overload Lights"
+		},
+		"en": {
+			"SETPIECES_WOLVERINE_PLACE_VALVE": "Place Valve",
+			"SETPIECES_WOLVERINE_CRAFT_SILENCED_PISTOL": "Craft Silenced Pistol",
+			"SETPIECES_WOLVERINE_CONFRONT": "Confront Arthur Edwards",
+			"B952335B": "Serum",
+			"34CDFBF6": "Detach",
+			"D44BF344": "Train Cars",
+			"SETPIECES_WOLVERINE_TRIGGER_CAR_EXPLOSIVE": "Trigger Car Explosive",
+			"7C0D0129": "Detach Train Cars to Proceed",
+			"DBC5B49C": "Stop Train",
+			"A5D56BA2": "Leave Train",
+			"B258E384": "Overload Lights"
+		},
+		"fr": {
+			"SETPIECES_WOLVERINE_PLACE_VALVE": "Placer la valve",
+			"SETPIECES_WOLVERINE_CRAFT_SILENCED_PISTOL": "Fabriquer un pistolet silencieux",
+			"SETPIECES_WOLVERINE_CONFRONT": "Affronter Arthur Edwards",
+			"B952335B": "Sérum",
+			"34CDFBF6": "Détacher",
+			"D44BF344": "Voitures du train",
+			"SETPIECES_WOLVERINE_TRIGGER_CAR_EXPLOSIVE": "Déclencher l'explosif de la voiture",
+			"7C0D0129": "Détacher les voitures du train pour continuer",
+			"DBC5B49C": "Arrêter le train",
+			"A5D56BA2": "Quitter le train",
+			"B258E384": "Survolter les lumières"
+		},
+		"it": {
+			"SETPIECES_WOLVERINE_PLACE_VALVE": "Posiziona la valvola",
+			"SETPIECES_WOLVERINE_CRAFT_SILENCED_PISTOL": "Crea una pistola silenziata",
+			"SETPIECES_WOLVERINE_CONFRONT": "Affronta Arthur Edwards",
+			"B952335B": "Siero",
+			"34CDFBF6": "Stacca",
+			"D44BF344": "Vagoni del treno",
+			"SETPIECES_WOLVERINE_TRIGGER_CAR_EXPLOSIVE": "Innesca l'ordigno esplosivo per auto",
+			"7C0D0129": "Stacca i vagoni del treno per procedere",
+			"DBC5B49C": "Ferma il treno",
+			"A5D56BA2": "Scendi dal treno",
+			"B258E384": "Sovraccarica le luci"
+		},
+		"de": {
+			"SETPIECES_WOLVERINE_PLACE_VALVE": "Ventil platzieren",
+			"SETPIECES_WOLVERINE_CRAFT_SILENCED_PISTOL": "Schallgedämpfte Pistole herstellen",
+			"SETPIECES_WOLVERINE_CONFRONT": "Arthur Edwards stellen",
+			"B952335B": "Serum",
+			"34CDFBF6": "Lösen",
+			"D44BF344": "Bahnwaggons",
+			"SETPIECES_WOLVERINE_TRIGGER_CAR_EXPLOSIVE": "Autobombe zünden",
+			"7C0D0129": "Waggon lösen, um fortzufahren",
+			"DBC5B49C": "Zug anhalten",
+			"A5D56BA2": "Zug verlassen",
+			"B258E384": "Lichter überladen"
+		},
+		"es": {
+			"SETPIECES_WOLVERINE_PLACE_VALVE": "Poner la válvula",
+			"SETPIECES_WOLVERINE_CRAFT_SILENCED_PISTOL": "Preparar pistola con silenciador",
+			"SETPIECES_WOLVERINE_CONFRONT": "Enfrentarse a Arthur Edwards",
+			"B952335B": "Suero",
+			"34CDFBF6": "Desenganchar",
+			"D44BF344": "Vagones de tren",
+			"SETPIECES_WOLVERINE_TRIGGER_CAR_EXPLOSIVE": "Activar explosivo del coche",
+			"7C0D0129": "Desenganchar vagones de tren para continuar",
+			"DBC5B49C": "Detener el tren",
+			"A5D56BA2": "Abandonar el tren",
+			"B258E384": "Sobrecargar las luces"
+		}
+	}
+}

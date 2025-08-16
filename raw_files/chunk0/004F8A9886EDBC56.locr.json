@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "004F8A9886EDBC56",
+	"languages": {
+		"xx": {
+			"CHALLENGEPACK_NEON_WRAPPER_NAME": "I'm With The Band",
+			"CHALLENGEPACK_NEON_WRAPPER_DESC": "Complete all of the I'm With The Band challenges:</li><li>More Bass in the Monitors</li><li>Strung Out</li><li>Feel Good Hit Of The Stunner</li><li>The After-Party</li><li>Impromptu Jam Session",
+			"CHALLENGEPACK_NEON_EXPLOSIVE_NAME": "More Bass in the Monitors",
+			"CHALLENGEPACK_NEON_EXPLOSIVE_DESC": "<li>While disguised as a Musician, cause an explosion on stage as the band plays.</li>",
+			"CHALLENGEPACK_NEON_STRUNG_OUT_NAME": "Strung Out",
+			"CHALLENGEPACK_NEON_STRUNG_OUT_DESC": "<li>Use the Cello in the mansion while disguised as a Musician.</li>",
+			"CHALLENGEPACK_NEON_DROP_NAME": "Feel Good Hit Of The Stunner",
+			"CHALLENGEPACK_NEON_DROP_DESC": "<li>Pacify each Band Member with a Cocaine Brick, while disguised as a Musician.</li>",
+			"CHALLENGEPACK_NEON_AFTERPARTY_NAME": "The After-Party",
+			"CHALLENGEPACK_NEON_AFTERPARTY_DESC": "<li>Join the band in the bar after the gig for a drink, while disguised as a Musician.</li>",
+			"CHALLENGEPACK_NEON_JAM_SESSION_NAME": "Impromptu Jam Session",
+			"CHALLENGEPACK_NEON_JAM_SESSION_DESC": "<li>Gather all the band back to the party house alive, while disguised as a Musician.</li>"
+		},
+		"en": {
+			"CHALLENGEPACK_NEON_WRAPPER_NAME": "I'm With The Band",
+			"CHALLENGEPACK_NEON_WRAPPER_DESC": "Complete all of the I'm With The Band challenges:</li><li>More Bass in the Monitors</li><li>Strung Out</li><li>Feel Good Hit of the Stunner</li><li>The After-Party</li><li>Impromptu Jam Session",
+			"CHALLENGEPACK_NEON_EXPLOSIVE_NAME": "More Bass in the Monitors",
+			"CHALLENGEPACK_NEON_EXPLOSIVE_DESC": "<li>While disguised as a Musician, cause an explosion on stage as the band plays.</li>",
+			"CHALLENGEPACK_NEON_STRUNG_OUT_NAME": "Strung Out",
+			"CHALLENGEPACK_NEON_STRUNG_OUT_DESC": "<li>Use the cello in the mansion while disguised as a Musician.</li>",
+			"CHALLENGEPACK_NEON_DROP_NAME": "Feel Good Hit of the Stunner",
+			"CHALLENGEPACK_NEON_DROP_DESC": "<li>Pacify each Band Member with a Cocaine Brick, while disguised as a Musician.</li>",
+			"CHALLENGEPACK_NEON_AFTERPARTY_NAME": "The After-Party",
+			"CHALLENGEPACK_NEON_AFTERPARTY_DESC": "<li>Join the band in the bar after the gig for a drink, while disguised as a Musician.</li>",
+			"CHALLENGEPACK_NEON_JAM_SESSION_NAME": "Impromptu Jam Session",
+			"CHALLENGEPACK_NEON_JAM_SESSION_DESC": "<li>Bring all the band members back to the party house alive, while disguised as a Musician.</li>"
+		},
+		"fr": {
+			"CHALLENGEPACK_NEON_WRAPPER_NAME": "J'fais partie du groupe",
+			"CHALLENGEPACK_NEON_WRAPPER_DESC": "Terminez tous les défis de J'fais partie du groupe :</li><li>Plus de basse !</li><li>Sur la corde</li><li>De la musique qui défonce</li><li>L'after</li><li>Bœuf improvisée",
+			"CHALLENGEPACK_NEON_EXPLOSIVE_NAME": "Plus de basse !",
+			"CHALLENGEPACK_NEON_EXPLOSIVE_DESC": "<li>Provoquez une explosion sur scène pendant que le groupe joue, déguisé en musicien.</li>",
+			"CHALLENGEPACK_NEON_STRUNG_OUT_NAME": "Sur la corde",
+			"CHALLENGEPACK_NEON_STRUNG_OUT_DESC": "<li>Jouez du violoncelle dans le manoir, déguisé en musicien.</li>",
+			"CHALLENGEPACK_NEON_DROP_NAME": "De la musique qui défonce",
+			"CHALLENGEPACK_NEON_DROP_DESC": "<li>Neutralisez chacun des membres du groupe avec une brique de cocaïne, déguisé en musicien.</li>",
+			"CHALLENGEPACK_NEON_AFTERPARTY_NAME": "L'after",
+			"CHALLENGEPACK_NEON_AFTERPARTY_DESC": "<li>Rejoignez le groupe au bar après le concert pour boire un verre, déguisé en musicien.</li>",
+			"CHALLENGEPACK_NEON_JAM_SESSION_NAME": "Bœuf improvisé",
+			"CHALLENGEPACK_NEON_JAM_SESSION_DESC": "<li>Rassemblez tous les membres du groupe à la maison pour la soirée, vivants, déguisé en musicien.</li>"
+		},
+		"it": {
+			"CHALLENGEPACK_NEON_WRAPPER_NAME": "Io sto con la band",
+			"CHALLENGEPACK_NEON_WRAPPER_DESC": "Completa tutte le sfide di \"Io sto con la band\":</li><li>Più bassi nei monitor.</li><li>Strafatto.</li><li>Senti come picchia duro.</li><li>L'after party.</li><li>Una Jam Session improvvisata.</li>",
+			"CHALLENGEPACK_NEON_EXPLOSIVE_NAME": "Più bassi nei monitor",
+			"CHALLENGEPACK_NEON_EXPLOSIVE_DESC": "<li>Mentre sei travestito da musicista, fai esplodere il palco mentre la band suona.</li>",
+			"CHALLENGEPACK_NEON_STRUNG_OUT_NAME": "Strafatto",
+			"CHALLENGEPACK_NEON_STRUNG_OUT_DESC": "<li>Usa il violoncello nella villa mentre sei travestito da musicista.</li>",
+			"CHALLENGEPACK_NEON_DROP_NAME": "Senti come picchia duro",
+			"CHALLENGEPACK_NEON_DROP_DESC": "<li>Neutralizza i componenti della band con un panetto di cocaina mentre sei travestito da musicista.</li>",
+			"CHALLENGEPACK_NEON_AFTERPARTY_NAME": "L'after party",
+			"CHALLENGEPACK_NEON_AFTERPARTY_DESC": "<li>Unisciti alla band per un drink dopo il concerto mentre sei travestito da musicista.</li>",
+			"CHALLENGEPACK_NEON_JAM_SESSION_NAME": "Una Jam Session improvvisata",
+			"CHALLENGEPACK_NEON_JAM_SESSION_DESC": "<li>Recupera tutti i componenti della band vivi alla festa, mentre sei travestito da musicista.</li>"
+		},
+		"de": {
+			"CHALLENGEPACK_NEON_WRAPPER_NAME": "Ich gehöre zur Band",
+			"CHALLENGEPACK_NEON_WRAPPER_DESC": "Schließen Sie alle „Ich gehöre zur Band“-Herausforderungen ab:</li><li>Mehr Bass auf der Bühne</li><li>Abgespannt</li><li>„Feel Good Hit“-Hammer</li><li>Die Aftershow-Party</li><li>Spontane Jam-Session",
+			"CHALLENGEPACK_NEON_EXPLOSIVE_NAME": "Mehr Bass auf der Bühne",
+			"CHALLENGEPACK_NEON_EXPLOSIVE_DESC": "<li>Verursachen Sie als Musiker verkleidet, eine Explosion auf der Bühne auszulösen, während die Band spielt.</li>",
+			"CHALLENGEPACK_NEON_STRUNG_OUT_NAME": "Abgespannt",
+			"CHALLENGEPACK_NEON_STRUNG_OUT_DESC": "<li>Verwenden Sie als Musiker verkleidet das Cello im Herrenhaus.</li>",
+			"CHALLENGEPACK_NEON_DROP_NAME": "„Feel Good Hit“-Hammer",
+			"CHALLENGEPACK_NEON_DROP_DESC": "<li>Stellen Sie als Musiker verkleidet alle Bandmitglieder mit einem Kokain-Brick ruhig.</li>",
+			"CHALLENGEPACK_NEON_AFTERPARTY_NAME": "Die Aftershow-Party",
+			"CHALLENGEPACK_NEON_AFTERPARTY_DESC": "<li>Schließen Sie sich als Musiker verkleidet der Band nach deren Auftritt an und gehen Sie was trinken.</li>",
+			"CHALLENGEPACK_NEON_JAM_SESSION_NAME": "Spontane Jam-Session",
+			"CHALLENGEPACK_NEON_JAM_SESSION_DESC": "<li>Versammeln Sie als Musiker verkleidet alle Mitglieder der Band lebend im Party-Haus.</li>"
+		},
+		"es": {
+			"CHALLENGEPACK_NEON_WRAPPER_NAME": "Estoy con la banda",
+			"CHALLENGEPACK_NEON_WRAPPER_DESC": "Completa todos los desafíos de Estoy con la banda:</li><li>Metal explosivo</li><li>Acordonado</li><li>La música amansa a las fieras</li><li>After-party</li><li>Sesión improvisada",
+			"CHALLENGEPACK_NEON_EXPLOSIVE_NAME": "Metal explosivo",
+			"CHALLENGEPACK_NEON_EXPLOSIVE_DESC": "<li>Disfrazado de músico, provoca una explosión en el escenario mientras toca la banda.</li>",
+			"CHALLENGEPACK_NEON_STRUNG_OUT_NAME": "Acordonado",
+			"CHALLENGEPACK_NEON_STRUNG_OUT_DESC": "<li>Usa el chelo en la mansión mientras vas disfrazado de músico.</li>",
+			"CHALLENGEPACK_NEON_DROP_NAME": "La música amansa a las fieras",
+			"CHALLENGEPACK_NEON_DROP_DESC": "<li>Deja inconsciente a todos los miembros de la banda con un ladrillo de cocaína mientras vas disfrazado de músico.</li>",
+			"CHALLENGEPACK_NEON_AFTERPARTY_NAME": "After-party",
+			"CHALLENGEPACK_NEON_AFTERPARTY_DESC": "<li>Disfrazado de músico, únete a la banda en un bar después de la actuación para tomar unas copas.</li>",
+			"CHALLENGEPACK_NEON_JAM_SESSION_NAME": "Sesión improvisada",
+			"CHALLENGEPACK_NEON_JAM_SESSION_DESC": "<li>Disfrazado de músico, lleva de vuelta a la casa a todos los miembros de la banda, vivos.</li>"
+		}
+	}
+}

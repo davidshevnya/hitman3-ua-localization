@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "009F6357A8795328",
+	"languages": {
+		"xx": {
+			"5C806DA6": "A Close Shave",
+			"62E91C84": "This barber is tangled up in some shady business, 47. But even more interesting, he may have seen a picture of the Maelstrom in the hideout of the street gang known as the Crows. That picture would be very helpful to our cause.",
+			"F1CDFDAB": "The Barber and the Maelstrom...",
+			"6377B67E": "",
+			"ABB871BD": "",
+			"A422AEB2": "",
+			"B143048C": "",
+			"69F3CE6D": ""
+		},
+		"en": {
+			"5C806DA6": "A Close Shave",
+			"62E91C84": "This barber is tangled up in some shady business, 47. But even more interesting, he may have seen a picture of The Maelstrom in the hideout of the street gang known as the Crows. That picture would be very helpful to our cause.",
+			"F1CDFDAB": "The Barber and The Maelstrom...",
+			"6377B67E": "Locate The Crows' hideout",
+			"ABB871BD": "Find a picture of The Maelstrom",
+			"A422AEB2": "Find the barber shop key",
+			"B143048C": "Disguise yourself as the barber",
+			"69F3CE6D": "Open the barber shop"
+		},
+		"fr": {
+			"5C806DA6": "Rasage de près",
+			"62E91C84": "Ce barbier baigne dans des affaires douteuses, 47. Plus intéressant encore, il pourrait bien avoir vu une photo du Maelström dans le repaire d'un gang qu'on appelle les Crows. Cela pourrait nous être particulièrement utile.",
+			"F1CDFDAB": "Le barbier et le Maelström…",
+			"6377B67E": "Localisez le repaire des Crows",
+			"ABB871BD": "Trouvez une photo du Maelström",
+			"A422AEB2": "Trouvez la clé du salon du barbier",
+			"B143048C": "Déguisez-vous en barbier",
+			"69F3CE6D": "Ouvrez le salon du barbier"
+		},
+		"it": {
+			"5C806DA6": "Una rasatura perfetta",
+			"62E91C84": "Il barbiere è coinvolto in qualche giro losco, 47. Ma la cosa più interessante è che potrebbe aver visto una foto di Maelstrom nel rifugio della gang di strada dei Corvi. Quella foto potrebbe esserci molto, molto utile.",
+			"F1CDFDAB": "Il barbiere e Maelstrom...",
+			"6377B67E": "Localizza il nascondiglio dei Corvi",
+			"ABB871BD": "Trova una foto di Maelstrom",
+			"A422AEB2": "Trova la chiave del negozio del barbiere",
+			"B143048C": "Travestiti da barbiere",
+			"69F3CE6D": "Apri il negozio del barbiere"
+		},
+		"de": {
+			"5C806DA6": "Eine gründliche Rasur",
+			"62E91C84": "Dieser Barbier hat sich in zwielichtige Machenschaften verwickeln lassen, 47. Doch was noch interessanter ist: Er könnte im Versteck der Straßenbande, die man die „Crows“ nennt, ein Foto des Maelstroms gesehen haben. Das Bild wäre sehr hilfreich für unsere Sache.",
+			"F1CDFDAB": "Der Barbier und der Maelstrom …",
+			"6377B67E": "Finden Sie das Versteck der Crows.",
+			"ABB871BD": "Finden Sie ein Bild des Maelstroms.",
+			"A422AEB2": "Finden Sie den Schlüssel zum Barbierladen.",
+			"B143048C": "Verkleiden Sie sich als der Barbier.",
+			"69F3CE6D": "Öffnen Sie den Barbierladen."
+		},
+		"es": {
+			"5C806DA6": "Un buen apurado",
+			"62E91C84": "Ese barbero está metido en negocios muy turbios, 47. Lo que nos interesa es que podría haber visto una foto del Torbellino en el escondite de esa banda callejera conocida como «los Cuervos». Esa foto podría sernos muy útil para nuestra causa.",
+			"F1CDFDAB": "El barbero y el Torbellino...",
+			"6377B67E": "Encuentra la guarida de los Cuervos",
+			"ABB871BD": "Busca una foto del Torbellino",
+			"A422AEB2": "Encuentra la llave de la barbería",
+			"B143048C": "Disfrázate de barbero",
+			"69F3CE6D": "Abre la barbería"
+		}
+	}
+}

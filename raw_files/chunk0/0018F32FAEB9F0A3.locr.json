@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0018F32FAEB9F0A3",
+	"languages": {
+		"xx": {
+			"UI_GEFORCE_HIGHLIGHT_TYPE_TARGET_KILLED": "Target Killed"
+		},
+		"en": {
+			"UI_GEFORCE_HIGHLIGHT_TYPE_TARGET_KILLED": "Target Killed"
+		},
+		"fr": {
+			"UI_GEFORCE_HIGHLIGHT_TYPE_TARGET_KILLED": "Cibles tuées"
+		},
+		"it": {
+			"UI_GEFORCE_HIGHLIGHT_TYPE_TARGET_KILLED": "Bersaglio ucciso"
+		},
+		"de": {
+			"UI_GEFORCE_HIGHLIGHT_TYPE_TARGET_KILLED": "Ziel getötet"
+		},
+		"es": {
+			"UI_GEFORCE_HIGHLIGHT_TYPE_TARGET_KILLED": "Objetivo asesinado"
+		}
+	}
+}

@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00DE0396D456613C",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_CARDINAL_GROUP_TITLE": "The Unpalatable Termination",
+			"UI_CONTRACT_CARDINAL_GROUP_DESC": "Three level escalation in Miami",
+			"UI_CONTRACT_CARDINAL_LEVEL_1_NAME": "The Unpalatable Termination - Level 1",
+			"UI_CONTRACT_CARDINAL_LEVEL_2_NAME": "The Unpalatable Termination - Level 2",
+			"UI_CONTRACT_CARDINAL_LEVEL_3_NAME": "The Unpalatable Termination - Level 3",
+			"UI_CONTRACT_CARDINAL_OBJ_1": "Eliminate Dennis Delaney with a non-silenced shotgun as a food vendor",
+			"UI_CONTRACT_CARDINAL_OBJ_2": "Eliminate Benjamin Smith with a non-silenced shotgun as a food vendor",
+			"UI_CONTRACT_CARDINAL_OBJ_3": "Eliminate Kanye Belmonte with a non-silenced shotgun as a food vendor",
+			"UI_CONTRACT_CARDINAL_OBJ_4": "Eliminate Richard Nimeth with a non-silenced shotgun as a food vendor"
+		},
+		"en": {
+			"UI_CONTRACT_CARDINAL_GROUP_TITLE": "The Unpalatable Termination",
+			"UI_CONTRACT_CARDINAL_GROUP_DESC": "Three Level Escalation in Miami.",
+			"UI_CONTRACT_CARDINAL_LEVEL_1_NAME": "The Unpalatable Termination - Level 1",
+			"UI_CONTRACT_CARDINAL_LEVEL_2_NAME": "The Unpalatable Termination - Level 2",
+			"UI_CONTRACT_CARDINAL_LEVEL_3_NAME": "The Unpalatable Termination - Level 3",
+			"UI_CONTRACT_CARDINAL_OBJ_1": "Eliminate Dennis Delaney with a non-silenced shotgun as a food vendor",
+			"UI_CONTRACT_CARDINAL_OBJ_2": "Eliminate Benjamin Smith with a non-silenced shotgun as a food vendor",
+			"UI_CONTRACT_CARDINAL_OBJ_3": "Eliminate Kanye Belmonte with a non-silenced shotgun as a food vendor",
+			"UI_CONTRACT_CARDINAL_OBJ_4": "Eliminate Richard Nimeth with a non-silenced shotgun as a food vendor"
+		},
+		"fr": {
+			"UI_CONTRACT_CARDINAL_GROUP_TITLE": "Le meurtre dérangeant",
+			"UI_CONTRACT_CARDINAL_GROUP_DESC": "Escalade en trois niveaux à Miami",
+			"UI_CONTRACT_CARDINAL_LEVEL_1_NAME": "Le meurtre dérangeant - Niveau 1",
+			"UI_CONTRACT_CARDINAL_LEVEL_2_NAME": "Le meurtre dérangeant - Niveau 2",
+			"UI_CONTRACT_CARDINAL_LEVEL_3_NAME": "Le meurtre dérangeant - Niveau 3",
+			"UI_CONTRACT_CARDINAL_OBJ_1": "Éliminez Dennis Delaney avec un fusil à pompe sans silencieux déguisé en vendeur de nourriture",
+			"UI_CONTRACT_CARDINAL_OBJ_2": "Éliminez Benjamin Smith avec un fusil à pompe sans silencieux déguisé en vendeur de nourriture",
+			"UI_CONTRACT_CARDINAL_OBJ_3": "Éliminez Kanye Belmonte avec un fusil à pompe sans silencieux déguisé en vendeur de nourriture",
+			"UI_CONTRACT_CARDINAL_OBJ_4": "Éliminez Richard Nimeth avec un fusil à pompe sans silencieux déguisé en vendeur de nourriture"
+		},
+		"it": {
+			"UI_CONTRACT_CARDINAL_GROUP_TITLE": "La conclusione sgradita",
+			"UI_CONTRACT_CARDINAL_GROUP_DESC": "Escalation di tre livelli a Miami",
+			"UI_CONTRACT_CARDINAL_LEVEL_1_NAME": "La conclusione sgradita - Livello 1",
+			"UI_CONTRACT_CARDINAL_LEVEL_2_NAME": "La conclusione sgradita - Livello 2",
+			"UI_CONTRACT_CARDINAL_LEVEL_3_NAME": "La conclusione sgradita - Livello 3",
+			"UI_CONTRACT_CARDINAL_OBJ_1": "Elimina Dennis Delaney con un fucile a pompa non silenziato travestendoti da venditore di cibo",
+			"UI_CONTRACT_CARDINAL_OBJ_2": "Elimina Benjamin Smith con un fucile a pompa non silenziato travestendoti da venditore di cibo",
+			"UI_CONTRACT_CARDINAL_OBJ_3": "Elimina Kanye Belmonte con un fucile a pompa non silenziato travestendoti da venditore di cibo",
+			"UI_CONTRACT_CARDINAL_OBJ_4": "Elimina Richard Nimeth con un fucile a pompa non silenziato travestendoti da venditore di cibo"
+		},
+		"de": {
+			"UI_CONTRACT_CARDINAL_GROUP_TITLE": "Die unverträgliche Terminierung",
+			"UI_CONTRACT_CARDINAL_GROUP_DESC": "Drei-Stufen-Eskalation in Miami.",
+			"UI_CONTRACT_CARDINAL_LEVEL_1_NAME": "Die unverträgliche Terminierung – Stufe 1",
+			"UI_CONTRACT_CARDINAL_LEVEL_2_NAME": "Die unverträgliche Terminierung – Stufe 2",
+			"UI_CONTRACT_CARDINAL_LEVEL_3_NAME": "Die unverträgliche Terminierung – Stufe 3",
+			"UI_CONTRACT_CARDINAL_OBJ_1": "Eliminieren Sie als Imbissverkäufer verkleidet Dennis Delaney mit einer nicht schallgedämpften Schrotflinte.",
+			"UI_CONTRACT_CARDINAL_OBJ_2": "Eliminieren Sie als Imbissverkäufer verkleidet Benjamin Smith mit einer nicht schallgedämpften Schrotflinte.",
+			"UI_CONTRACT_CARDINAL_OBJ_3": "Eliminieren Sie als Imbissverkäufer verkleidet Kanye Belmonte mit einer nicht schallgedämpften Schrotflinte.",
+			"UI_CONTRACT_CARDINAL_OBJ_4": "Eliminieren Sie als Imbissverkäufer verkleidet Richard Nimeth mit einer nicht schallgedämpften Schrotflinte."
+		},
+		"es": {
+			"UI_CONTRACT_CARDINAL_GROUP_TITLE": "Asesinato intragable",
+			"UI_CONTRACT_CARDINAL_GROUP_DESC": "Intensificación de tres niveles en Miami",
+			"UI_CONTRACT_CARDINAL_LEVEL_1_NAME": "Asesinato intragable - Nivel 1",
+			"UI_CONTRACT_CARDINAL_LEVEL_2_NAME": "Asesinato intragable - Nivel 2",
+			"UI_CONTRACT_CARDINAL_LEVEL_3_NAME": "Asesinato intragable - Nivel 3",
+			"UI_CONTRACT_CARDINAL_OBJ_1": "Disfrazado de vendedor de comida, elimina a Dennis Delaney con una escopeta no silenciada",
+			"UI_CONTRACT_CARDINAL_OBJ_2": "Disfrazado de vendedor de comida, elimina a Benjamin Smith con una escopeta no silenciada",
+			"UI_CONTRACT_CARDINAL_OBJ_3": "Disfrazado de vendedor de comida, elimina a Kanye Belmonte con una escopeta no silenciada",
+			"UI_CONTRACT_CARDINAL_OBJ_4": "Disfrazado de vendedor de comida, elimina a Richard Nimeth con una escopeta no silenciada"
+		}
+	}
+}

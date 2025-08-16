@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "002A214E08DDE472",
+	"languages": {
+		"xx": {
+			"4A13D248": "Title",
+			"3091CFD6": "Briefing",
+			"F84A8914": "Description",
+			"0CDBA91D": "Conclusion",
+			"7D8CD873": "Get Necklace",
+			"28AF1E14": "Become Blake",
+			"F22B3228": "Find Phone",
+			"B2DB371F": "Send Picture",
+			"E11E0CCF": "Wait response",
+			"F1289A4F": "Meet Sophia",
+			"9B1C0180": "Follow Sophia"
+		},
+		"en": {
+			"4A13D248": "It Belongs In A Museum",
+			"3091CFD6": "The Ark Society collects priceless art and historical artifacts in case of a global disaster, and this year, world-famous treasure hunter, Blake Nathaniel, has donated an Aztec necklace called the Cloud Serpent to the Ark Society's growing collection. However, Blake fears that Sophia Washington – his former lover and rival, who has hunted the Cloud Serpent for years - will attempt to steal it for herself before it goes into storage. Could be just the bait we need.",
+			"F84A8914": "An Aztec necklace. A lover's quarrel. Sounds intriguing.",
+			"0CDBA91D": "Excellent, 47. Let’s give Sophia her heart’s desire, shall we?",
+			"7D8CD873": "Steal the necklace",
+			"28AF1E14": "Disguise yourself as Blake Nathaniel",
+			"F22B3228": "Find Blake Nathaniel's phone",
+			"B2DB371F": "Send a picture to Sophia Washington",
+			"E11E0CCF": "Wait for a response",
+			"F1289A4F": "Talk to Sophia Washington",
+			"9B1C0180": "Follow Sophia Washington"
+		},
+		"fr": {
+			"4A13D248": "Sa place est dans un musée",
+			"3091CFD6": "D'après cette charte, la société de l'Arche rassemble des objets d'art et des vestiges historiques de très grande valeur, en cas de désastre planétaire. Cette année, Blake Nathaniel, le célèbre chasseur de trésors, a fait don d'un collier aztèque nommé le \"Serpent des nuées\" à la collection de la société de l'Arche. Cependant, il redoute que Sophia Washington, sa rivale et ancienne amante, qui a cherché le Serpent des nuées pendant des années,  tente de le dérober avant qu'il soit à l'abri. C'est peut-être l'appât dont nous avons besoin.",
+			"F84A8914": "Une querelle d'amoureux autour d'un collier aztèque. À creuser.",
+			"0CDBA91D": "Excellent, 47. Donnons à Sophia ce que son cœur désire.",
+			"7D8CD873": "Volez le collier",
+			"28AF1E14": "Déguisez-vous en Blake Nathaniel",
+			"F22B3228": "Trouvez le téléphone de Blake Nathaniel",
+			"B2DB371F": "Envoyez une photo à Sophia Washington",
+			"E11E0CCF": "Attendez une réponse",
+			"F1289A4F": "Parlez à Sophia Washington",
+			"9B1C0180": "Suivez Sophia Washington"
+		},
+		"it": {
+			"4A13D248": "Dovrebbe stare in un museo",
+			"3091CFD6": "A quanto si legge nello statuto, la Ark Society raduna opere d'arte e manufatti antichi dal valore inestimabile in caso si verificasse una catastrofe mondiale; quest'anno, il celebre cacciatore di tesori Blake Nathaniel ha donato all'immensa collezione della Ark Society una collana azteca chiamata Serpente delle nubi. Tuttavia, Blake teme che Sophia Washington, sua acerrima nemica ed ex fidanzata, dopo aver cercato il Serpente per anni, tenti di rubarlo prima che venga portato al deposito. Mmm. Potrebbe essere l'esca che fa al caso nostro.",
+			"F84A8914": "Una collana azteca. Un litigio amoroso. Sembra interessante.",
+			"0CDBA91D": "Ottimo, 47. Che ne dici di dare a Sophia ciò che tanto desidera?",
+			"7D8CD873": "Ruba la collana",
+			"28AF1E14": "Travestiti da Blake Nathaniel",
+			"F22B3228": "Trova il cellulare di Blake Nathaniel",
+			"B2DB371F": "Invia una fotografia a Sophia Washington",
+			"E11E0CCF": "Attendi la risposta",
+			"F1289A4F": "Parla con Sophia Washington",
+			"9B1C0180": "Segui Sophia Washington"
+		},
+		"de": {
+			"4A13D248": "Das gehört in ein Museum",
+			"3091CFD6": "Die Ark-Gesellschaft sammelt Kunstwerke und historische Artefakte von unschätzbarem Wert, um sie vor möglichen globalen Katastrophen zu schützen. Dieses Jahr hat Blake Nathaniel, ein weltberühmter Schatzjäger, eine aztekische Halskette gespendet. Die sogenannte „Wolkenschlange“ geht in die wachsende Sammlung der Ark-Gesellschaft ein. Nun befürchtet Blake jedoch, dass Sophia Washington – als ehemalige Geliebte, Rivalin und selbst jahrelange Jägerin der Wolkenschlange – versuchen wird, sie für ihre eigene Sammlung zu stehlen, bevor sie eingelagert werden kann. Das könnte der Köder sein, den wir brauchen.",
+			"F84A8914": "Eine aztekische Halskette. Ein Streit unter Liebenden. Klingt spannend.",
+			"0CDBA91D": "Hervorragend, 47. Dann wollen wir Sophia mal geben, was sie sich von ganzem Herzen wünscht, oder?",
+			"7D8CD873": "Stehlen Sie die Halskette.",
+			"28AF1E14": "Verkleiden Sie sich als Blake Nathaniel.",
+			"F22B3228": "Finden Sie Blake Nathaniels Telefon.",
+			"B2DB371F": "Schicken Sie Sophia Washington ein Bild.",
+			"E11E0CCF": "Warten Sie auf eine Reaktion.",
+			"F1289A4F": "Sprechen Sie mit Sophia Washington.",
+			"9B1C0180": "Folgen Sie Sophia Washington."
+		},
+		"es": {
+			"4A13D248": "Digno de un museo",
+			"3091CFD6": "La Ark Society reúne artefactos históricos y obras de arte valiosas para protegerlas en caso de desastre mundial. Este año, el famoso buscador de tesoros Blake Nathaniel ha donado a la colección de la Ark Society un collar azteca llamado Serpiente de las Nubes. Sin embargo, Blake teme que Sophia Washington, su antigua amante y rival, intente robarlo antes de que se almacene para quedárselo, puesto que se pasó años intentando hacerse con él. Podría ser justo el cebo que necesitamos.",
+			"F84A8914": "Un collar azteca y una riña entre amantes. Interesante...",
+			"0CDBA91D": "Excelente, 47. Concedámosle a Sophia aquello que tanto desea, ¿vale?",
+			"7D8CD873": "Roba el collar",
+			"28AF1E14": "Disfrázate de Blake Nathaniel",
+			"F22B3228": "Encuentra el teléfono de Blake Nathaniel",
+			"B2DB371F": "Envíale una imagen a Sophia Washington",
+			"E11E0CCF": "Espera su respuesta",
+			"F1289A4F": "Habla con Sophia Washington",
+			"9B1C0180": "Sigue a Sophia Washington"
+		}
+	}
+}

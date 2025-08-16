@@ -1,0 +1,60 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00651BFC0CD41B90",
+	"languages": {
+		"xx": {
+			"C957B01C": "Title",
+			"7BA28D6B": "Headline",
+			"7D5EC595": "Briefing",
+			"375A110A": "Conclusion",
+			"FB85638F": "",
+			"9500964D": "",
+			"4A9506B6": ""
+		},
+		"en": {
+			"C957B01C": "The Audition",
+			"7BA28D6B": "Sean Rose is out to perform a small test on Penelope Graves. Hmm. Maybe you can assist, 47.",
+			"7D5EC595": "Penelope Graves is still new to this outfit, and it looks like Rose is going to test her dedication to the cause. He's arranged for one of the communications technicians to act as an outside agent. The tech is supposed to show her an Interpol badge and escort her to the slurry pit, asking her to betray the militia. Might I suggest a last minute recasting, 47?",
+			"375A110A": "Good work, 47. This should give her something to think about.",
+			"FB85638F": "Steal the Interpol badge",
+			"9500964D": "Talk to Penelope Graves",
+			"4A9506B6": "Meet Penelope Graves by the slurry pit"
+		},
+		"fr": {
+			"C957B01C": "L'entretien",
+			"7BA28D6B": "Sean Rose est parti tester Penelope Graves. Vous pouvez l'aider, 47 ?",
+			"7D5EC595": "Penelope Graves est encore novice et on dirait que Rose va tester sa loyauté. Il a demandé à un technicien de la communication de jouer les agents externes. Il doit lui montrer un insigne d'Interpol, l'emmener à la fosse à lisier et lui demander de trahir la milice. Que diriez-vous de le remplacer, 47 ?",
+			"375A110A": "Bien joué, 47. Ça devrait la faire réfléchir.",
+			"FB85638F": "Volez le badge d'Interpol",
+			"9500964D": "Parlez à Penelope Graves",
+			"4A9506B6": "Retrouvez Penelope Graves à la fosse à lisier"
+		},
+		"it": {
+			"C957B01C": "L'audizione",
+			"7BA28D6B": "Sean Rose vuole mettere alla prova Penelope Graves. Perché non dai una mano, 47?",
+			"7D5EC595": "Penelope Graves si è unita di recente all'organizzazione, e sembra che Rose voglia mettere alla prova la sua dedizione alla causa. Ha chiesto a un tecnico delle comunicazioni di spacciarsi per un agente esterno. L'uomo dovrà mostrarle un distintivo dell'Interpol, scortarla alla fossa dei liquami e chiederle di tradire la milizia. Posso suggerire un cambio d'attore dell'ultimo minuto, 47?",
+			"375A110A": "Ottimo lavoro, 47. Questo le darà qualcosa su cui riflettere.",
+			"FB85638F": "Ruba il distintivo dell'Interpol",
+			"9500964D": "Parla con Peneloper Graves",
+			"4A9506B6": "Incontra Penelope Graves vicino la fossa dei liquami"
+		},
+		"de": {
+			"C957B01C": "Die Audition",
+			"7BA28D6B": "Sean Rose will Penelope Graves einem kleinen Test unterziehen. Vielleicht können Sie ihm ja dabei helfen, 47?",
+			"7D5EC595": "Penelope Graves ist noch neu in dieser Zelle und wie es aussieht, will Rose ihre Loyalität auf die Probe stellen. Er hat einen seiner Kommunikationstechniker gebeten, sich als Interpol-Agent auszugeben, um Graves zum Absetzbecken zu bringen und dort zum Überlaufen zu bewegen. Wäre das nicht ein Job für Sie, 47?",
+			"375A110A": "Gute Arbeit, 47. Jetzt hat sie etwas, worüber sie nachdenken kann.",
+			"FB85638F": "Stehlen Sie die Interpol-Marke",
+			"9500964D": "Sprechen Sie mit Penelope Graves",
+			"4A9506B6": "Treffen Sie Penelope Graves am Absetzbecken"
+		},
+		"es": {
+			"C957B01C": "La audición",
+			"7BA28D6B": "Sean Rose va a llevar a cabo una prueba con Penelope Graves. ¿Le echas una mano, 47?",
+			"7D5EC595": "Penelope Graves es nueva en el grupo y parece ser que Rose va a poner a prueba su dedicación a la causa. Le ha encargado a uno de los técnicos de comunicaciones que haga de agente externo. El técnico debe enseñarle la placa de la Interpol y llevarla al foso de lodo para que traicione a la milicia. ¿Listo para un cambio de reparto de última hora, 47?",
+			"375A110A": "Buen trabajo, 47. Esto debería hacer que se lo pensara dos veces.",
+			"FB85638F": "Roba la placa de la Interpol",
+			"9500964D": "Habla con Penelope Graves",
+			"4A9506B6": "Reúnete con Penelope Graves en el foso de lodo"
+		}
+	}
+}

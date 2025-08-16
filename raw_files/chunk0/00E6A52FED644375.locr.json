@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00E6A52FED644375",
+	"languages": {
+		"xx": {
+			"926122A8": "Title",
+			"8A7158D9": "Flavor",
+			"E496CE54": "Description",
+			"BCFD8B4C": "Conclusion",
+			"183FC8A9": "Get the facial Patient disguise",
+			"DF5F31CD": "Go to check up",
+			"F17B902B": "Meet with the doctor",
+			"BEEC9EA1": "Follow Doc",
+			"B02882D6": "Good luck"
+		},
+		"en": {
+			"926122A8": "Makeover",
+			"8A7158D9": "Well, this is quite fascinating. The bandaged patient is Jason Portman, former CEO of Quantum Leap. According to my intel, he has undergone full facial reconstruction and  is scheduled for bandage removal today. And, get this - he's going for the full Helmut Kruger look.",
+			"E496CE54": "I have intel about that bandaged patient",
+			"BCFD8B4C": "Smart way to get inside, 47. Well done.",
+			"183FC8A9": "Disguise yourself as Jason Portman",
+			"DF5F31CD": "Wait for Jason Portman's PA announcement",
+			"F17B902B": "Meet with the doctor",
+			"BEEC9EA1": "Follow the doctor",
+			"B02882D6": "Get to the appointment on your own"
+		},
+		"fr": {
+			"926122A8": "Nouveau visage",
+			"8A7158D9": "Ah, voilà qui est fascinant. Le patient aux bandages est Jason Portman, ancien PDG de Quantum Leap. D'après nos infos, il a subi une reconstruction faciale complète et a rendez-vous aujourd'hui pour se faire enlever ses pansements. Et devinez-quoi ? Il a choisi comme modèle Helmut Kruger.",
+			"E496CE54": "J'ai des informations à propos de l'homme aux bandages.",
+			"BCFD8B4C": "Belle façon d'entrer, 47. Bien joué.",
+			"183FC8A9": "Déguisez-vous en Jason Portman",
+			"DF5F31CD": "Attendez l'annonce du checkup",
+			"F17B902B": "Rencontrez le docteur",
+			"BEEC9EA1": "Suivez le docteur",
+			"B02882D6": "Allez seul au rendez-vous"
+		},
+		"it": {
+			"926122A8": "Un volto nuovo",
+			"8A7158D9": "Ah, molto interessante. Il paziente fasciato è Jason Portman, l'ex amministratore di Quantum Leap. Stando alle mie informazioni, è stato sottoposto a una ricostruzione facciale completa e la rimozione delle bende è prevista per oggi. E senti questa: vuole assomigliare il più possibile a Helmut Kruger.",
+			"E496CE54": "Ho delle informazioni sul cliente bendato.",
+			"BCFD8B4C": "Sei entrato con l'astuzia, 47. Complimenti.",
+			"183FC8A9": "Travestiti da Jason Portman",
+			"DF5F31CD": "Aspetta che Jason Portman sia chiamato per il check-up",
+			"F17B902B": "Incontra il medico",
+			"BEEC9EA1": "Segui il medico",
+			"B02882D6": "Vai da solo all'appuntamento"
+		},
+		"de": {
+			"926122A8": "Umstyling",
+			"8A7158D9": "Also, das ist ziemlich faszinierend. Der bandagierte Patient ist Jason Portman, der ehemalige CEO von Quantum Leap. Meinen Informationen zufolge hat er sich einer kompletten Gesichtsrekonstruktion unterzogen, und heute sollen die Bandagen entfernt werden. Und jetzt kommt's – er will so aussehen wie Helmut Kruger.",
+			"E496CE54": "Ich habe Informationen über den bandagierten Patienten.",
+			"BCFD8B4C": "Clevere Methode, um reinzukommen, 47. Gut gemacht.",
+			"183FC8A9": "Verkleiden Sie sich als Jason Portman",
+			"DF5F31CD": "Warten Sie auf Jason Portmans Durchsage",
+			"F17B902B": "Treffen Sie die Ärztin",
+			"BEEC9EA1": "Folgen Sie der Ärztin",
+			"B02882D6": "Gehen Sie alleine zum Termin"
+		},
+		"es": {
+			"926122A8": "Renovado",
+			"8A7158D9": "Bueno, esto es fascinante. El paciente vendado es Jason Portman, antiguo CEO de Quantum Leap. Según mi información, se le ha practicado una reconstrucción facial completa y hoy tiene cita para quitarse los vendajes. Además, pretende conseguir parecerse a Helmut Kruger.",
+			"E496CE54": "Tengo información sobre el paciente vendado, 47.",
+			"BCFD8B4C": "Buena forma de entrar, 47. Bien hecho.",
+			"183FC8A9": "Disfrázate de Jason Portman",
+			"DF5F31CD": "Espera a que te llamen por megafonía para la revisión",
+			"F17B902B": "Reúnete con el médico",
+			"BEEC9EA1": "Sigue al médico",
+			"B02882D6": "Ve a la revisión por tu cuenta"
+		}
+	}
+}

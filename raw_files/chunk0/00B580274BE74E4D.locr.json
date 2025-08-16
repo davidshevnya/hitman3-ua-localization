@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00B580274BE74E4D",
+	"languages": {
+		"xx": {
+			"E3F37B90": "The Good Son",
+			"7AFA2A2A": "The flower van was making a delivery at Villa Caruso. Shame about the accident.",
+			"0DFD1ABC": "Today is the anniversary of Isabella Caruso’s death. Silvio Caruso will be visiting her grave and has ordered a fresh bouquet of flowers. His visit would be a good time to catch Caruso alone. That is, provided the flowers ever arrive.",
+			"93998F1F": "Good work, 47. This should keep Caruso distracted for a while.",
+			"E49EBF89": "Get the delivery man disguise",
+			"7D97EE33": "Get the flowers",
+			"0A90DEA5": "Talk to the mansion's butler",
+			"9A2FC334": "Follow the butler to Isabella Caruso's grave",
+			"ED28F3A2": "Place the flowers on Isabella Caruso's grave"
+		},
+		"en": {
+			"E3F37B90": "The Good Son",
+			"7AFA2A2A": "The flower van was making a delivery at Villa Caruso. Shame about the accident.",
+			"0DFD1ABC": "Today is the anniversary of Isabella Caruso’s death. Silvio Caruso will be visiting her grave and has ordered a fresh bouquet of flowers.  His visit would be a good time to catch Caruso alone. That is, provided the flowers ever arrive.",
+			"93998F1F": "Good work, 47. This should keep Caruso distracted for a while.",
+			"E49EBF89": "Get a Delivery Man disguise",
+			"7D97EE33": "Get the flowers",
+			"0A90DEA5": "Talk to the mansion's butler",
+			"9A2FC334": "Follow the butler to Isabella Caruso's grave",
+			"ED28F3A2": "Place the flowers on Isabella Caruso's grave"
+		},
+		"fr": {
+			"E3F37B90": "Fils aimant",
+			"7AFA2A2A": "La fourgonnette du fleuriste était en route pour la Villa Caruso. Comme quoi, un accident est vite arrivé...",
+			"0DFD1ABC": "C'est aujourd'hui l'anniversaire de la mort d'Isabella Caruso. Silvio Caruso se rendra sur sa tombe, sur laquelle doit être déposé un bouquet de fleurs qu'il a fait commander. Cette visite serait l'occasion rêvée de le surprendre seul. À condition que les fleurs soit livrées, bien entendu.",
+			"93998F1F": "Beau travail, 47. Voilà qui devrait occuper Caruso un moment.",
+			"E49EBF89": "Procurez-vous la tenue du livreur",
+			"7D97EE33": "Récupérez les fleurs",
+			"0A90DEA5": "Parlez au majordome du manoir",
+			"9A2FC334": "Suivez le majordome jusqu'à la tombe d'Isabella Caruso",
+			"ED28F3A2": "Déposez les fleurs sur la tombe d'Isabella Caruso"
+		},
+		"it": {
+			"E3F37B90": "Il figlio devoto",
+			"7AFA2A2A": "Il furgone dei fiori aveva una consegna per villa Caruso. Peccato per l'incidente.",
+			"0DFD1ABC": "Oggi è l'anniversario della morte di Isabella Caruso. Silvio renderà omaggio alla sua tomba e ha ordinato un mazzo di fiori freschi. Sarà un'ottima occasione per sorprenderlo in piena solitudine, ma dobbiamo assicurarci che i fiori arrivino davvero.",
+			"93998F1F": "Ottimo lavoro, 47. Questo dovrebbe distrarre Caruso per un pò.",
+			"E49EBF89": "Procurati un travestimento da fattorino",
+			"7D97EE33": "Ottieni i fiori",
+			"0A90DEA5": "Parla con il maggiordomo della villa",
+			"9A2FC334": "Segui il maggiordomo fino alla tomba di Isabella Caruso",
+			"ED28F3A2": "Sistema i fiori sulla tomba di Isabella Caruso"
+		},
+		"de": {
+			"E3F37B90": "Der gute Sohn",
+			"7AFA2A2A": "Der Blumenwagen war unterwegs zur Villa Caruso. Zu dumm, dass er einen Unfall hatte.",
+			"0DFD1ABC": "Heute ist Isabella Carusos Todestag. Silvio Caruso wird ihr Grab besuchen und hat dazu einen frischen Strauß Blumen bestellt. Das wäre eine gute Gelegenheit, ihn allein zu erwischen. Vorausgesetzt, die Blumen kommen bei ihm an.",
+			"93998F1F": "Gute Arbeit, 47. Das dürfte Caruso eine Weile ablenken.",
+			"E49EBF89": "Verkleiden Sie sich als Bote",
+			"7D97EE33": "Nehmen Sie die Blumen",
+			"0A90DEA5": "Reden Sie mit dem Butler des Anwesens",
+			"9A2FC334": "Folgen Sie dem Butler zu Isabella Carusos Grab",
+			"ED28F3A2": "Legen Sie die Blumen auf Isabella Carusos Grab"
+		},
+		"es": {
+			"E3F37B90": "El buen hijo",
+			"7AFA2A2A": "La furgoneta de la floristería iba a hacer una entrega en Villa Caruso. Una pena lo del accidente.",
+			"0DFD1ABC": "Hoy es el aniversario de la muerte de Isabella Caruso. Silvio Caruso visitará su tumba y ha pedido un ramo de flores. Esta visita puede ser una buena ocasión para sorprenderlo solo, siempre y cuando las flores sean entregadas.",
+			"93998F1F": "Buen trabajo, 47. Eso debería mantener a Caruso distraído durante un rato.",
+			"E49EBF89": "Consigue el disfraz de repartidor",
+			"7D97EE33": "Consigue las flores",
+			"0A90DEA5": "Habla con el mayordomo de la mansión",
+			"9A2FC334": "Sigue al mayordomo a la tumba de Isabella Caruso",
+			"ED28F3A2": "Pon las flores en la tumba de Isabella Caruso"
+		}
+	}
+}

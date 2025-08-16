@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "005AF40D2074E112",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_RAT_DESC": "Rat Description",
+			"UI_CONTRACT_RAT_TITLE": "Rat",
+			"UI_CONTRACT_RAT_LOCKED_REASON": "You should complete Rat before accessing this content.",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_03": "Hack Data Core",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_02": "Hack Data Core: Unavailable - Eliminate Last Target",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_01": "Hack Data Core: Unavailable - Eliminate All Targets",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_UNAVAILABLE": "Hack Data Core: Unavailable",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_OPTIONAL": "Hack Data Core [OPTIONAL]",
+			"UI_CONTRACT_RAT_OBJ_VETTING": "Security Control",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_DESC": "Data core description (what shows in the mission tab in the menu at a glance). Should specify that you need to eliminate both targets before you can do the objective.",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_BRIEFING": "Data core briefing. Longer description of the data core objective (if you click the objective in the menu). Should also specify that you need to take out both targets before it becomes available."
+		},
+		"en": {
+			"UI_CONTRACT_RAT_DESC": "The ICA site in Chongqing houses the agency’s data storage and analyst division. Needless to say, security is daunting. The state-of-the-art server vault is biometrically wired to the facility’s two overseers; Imogen Royce, behavioral analysis pioneer, and Hush, data security guru with a taste for fringe transhuman experimentation. \r\n<br>\r\nA dual authentication protocol ensures that any handling of data must be directly authorized by Hush and Royce – the proverbial human factor devised to make the system impenetrable. Luckily, I found a loophole. If both overseers should unexpectedly die within a short space of time, the system reverts to a temporary failsafe protocol, which I can bypass. Take them off the board, and you’ll have free access to the data core. I’ll handle the rest.",
+			"UI_CONTRACT_RAT_TITLE": "End Of An Era",
+			"UI_CONTRACT_RAT_LOCKED_REASON": "You should complete End Of An Era before accessing this content.",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_03": "Hack Data Core",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_02": "Hack Data Core: Unavailable - Eliminate Last Target",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_01": "Hack Data Core: Unavailable - Eliminate All Targets",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_UNAVAILABLE": "Hack Data Core: Unavailable",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_OPTIONAL": "Hack Data Core [OPTIONAL]",
+			"UI_CONTRACT_RAT_OBJ_VETTING": "Security Control",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_DESC": "Eliminate Hush and Imogen Royce to be able to to access the files inside the ICA data core.",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_BRIEFING": "The ICA data core has an impressive security system built into it, which ensures the system is virtually impenetrable. To access the data, the two overseers, Hush and Royce, must approve the request directly. Luckily, a flaw in the failsafe system means that if both overseers die within a short period of time, Olivia Hall can bypass the biometric security and gain access to the data."
+		},
+		"fr": {
+			"UI_CONTRACT_RAT_DESC": "Les installations de l'ICA à Chongqing hébergent les archives de l'agence et le département d'analystes. Évidemment, la sécurité est impressionnante. La salle  du serveur, à la pointe de la technologie, est reliée biométriquement aux deux superviseurs de l'installation ; Imogen Royce, analyste pionière du comportement, et Hush, gourou de la cybersécurité et un amateur d'expériences transhumanistes.<br><br>Un protocole de double authentification garantit que toute manipulation des données doit être directement autorisée par Hush et Royce, un facteur humain prévu pour rendre le système impénétrable. Par chance, j'ai trouvé une faille. Si les deux superviseurs venaient à mourir inexplicablement dans un court intervalle de temps, le système enclencherait un protocole de sécurité temporaire, que je pourrais exploiter. Éliminez-les de l'équation, et vous aurez libre accès au cœur de données. Je m'occuperai du reste.",
+			"UI_CONTRACT_RAT_TITLE": "Fin d'une ère",
+			"UI_CONTRACT_RAT_LOCKED_REASON": "Il est recommandé de terminer \"Fin d'une ère\" avant d'accéder à ce contenu.",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_03": "Piratez le cœur de données",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_02": "Piratez le cœur de données - Indisponible - Éliminez la dernière cible",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_01": "Piratez le cœur de données - Indisponible - Éliminez toutes les cibles",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_UNAVAILABLE": "Piratez le cœur de données - Indisponible",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_OPTIONAL": "Piratez le cœur de données [OPTIONNEL]",
+			"UI_CONTRACT_RAT_OBJ_VETTING": "Contrôle de sécurité",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_DESC": "Éliminez Hush et Imogen Royce pour pouvoir accéder aux fichiers du cœur de données de l'ICA.",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_BRIEFING": "Le cœur de données de l'ICA possède un système de sécurité intégré impressionnant, qui le rend virtuellement impénétrable. La moindre demande d'accès aux données doit être approuvée par les deux superviseurs, Hush et Imogen Royce. Heureusement, grâce à une faille du système de sécurité, si les superviseurs meurent tous les deux dans un court intervalle, Olivia Hall pourra contourner la sécurité biométrique et accéder au cœur."
+		},
+		"it": {
+			"UI_CONTRACT_RAT_DESC": "Il sito dell'ICA a Chongqing ospita il centro dati dell'agenzia e la divisione analisi. Inutile dire che la sicurezza è quasi impenetrabile. La stanza del server all'avanguardia è dotata di un sistema biometrico collegato ai due sovrintendenti: Imogen Royce, l'analista e pioniere comportamentale, e Hush, un guru della sicurezza dati con un gusto per l'estremo.<br><br>Un protocollo a doppia autenticazione garantisce che qualsiasi utilizzo dei dati venga direttamente autorizzato da Hush e Royce, il fattore umano proverbiale ideato per rendere il sistema impenetrabile. Fortunatamente esiste una falla nel sistema. Se entrambi i sovrintendenti morissero a distanza di poco tempo, il sistema attiverà un protocollo temporaneo intrinsecamente sicuro che posso bypassare. Toglierli di mezzo ti darà accesso ai dati. Io mi occuperò del resto.",
+			"UI_CONTRACT_RAT_TITLE": "La fine di un'era",
+			"UI_CONTRACT_RAT_LOCKED_REASON": "Prima di accedere a questo contenuto dovresti completare: \"La fine di un'era\".",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_03": "Viola il sistema centrale dati",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_02": "Viola il sistema centrale dati: non disponibile - Elimina l'ultimo bersaglio",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_01": "Viola il sistema centrale dati: non disponibile - Elimina tutti i bersagli",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_UNAVAILABLE": "Viola il sistema centrale dati: non disponibile",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_OPTIONAL": "Viola il sistema centrale dati [OPZIONALE]",
+			"UI_CONTRACT_RAT_OBJ_VETTING": "Controllo di sicurezza",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_DESC": "Elimina Hush e Imogen Royce in modo da poter accedere ai file contenuti nel sistema centrale dati dell'ICA.",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_BRIEFING": "Il sistema centrale dati dell'ICA è dotato di un impressionante sistema di sicurezza integrato, che lo rende praticamente impenetrabile. Perché sia possibile accedere ai dati, i due sovrintendenti Hush e Royce devono approvare la richiesta direttamente. Fortunatamente esiste una falla nel sistema, per cui se entrambi i sovrintendenti morissero a distanza di poco tempo, Olivia Hall potrebbe bypassare il sistema di sicurezza biometrico e ottenere l'accesso ai dati."
+		},
+		"de": {
+			"UI_CONTRACT_RAT_DESC": "Im flackernden Neonlicht geschäftiger Cafés und inmitten einer Unzahl kleiner Läden und Imbisse in engen Straßen bietet Chongqing Reisenden Zuflucht vor den Anforderungen des täglichen Lebens. Diese Megastadt ist ein Transportknotenpunkt mit reichlich Geheimnissen abseits ausgetretener Pfade.",
+			"UI_CONTRACT_RAT_TITLE": "Das Ende einer Ära",
+			"UI_CONTRACT_RAT_LOCKED_REASON": "Sie sollten zuerst „Das Ende einer Ära“ abschließen, bevor Sie auf diesen Inhalt zugreifen.",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_03": "Hacken Sie den Datenkern.",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_02": "Hacken Sie den Datenkern: Nicht verfügbar – Letztes Ziel eliminieren.",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_01": "Hacken Sie den Datenkern: Nicht verfügbar – Alle Ziele eliminieren.",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_UNAVAILABLE": "Hacken Sie den Datenkern: Nicht verfügbar.",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_OPTIONAL": "Hacken Sie den Datenkern [Optional].",
+			"UI_CONTRACT_RAT_OBJ_VETTING": "Sicherheitskontrolle",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_DESC": "Eliminieren Sie Hush und Imogen Royce, um auf die Dateien im ICA-Datenkern zugreifen zu können.",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_BRIEFING": "Der ICA-Datenkern hat ein eindrucksvolles Sicherheitssystem, das dafür sorgt, dass das System komplett für Unbefugte abgeschottet bleibt. Um auf die Daten zugreifen zu können, müssen die beiden Aufseher Hush und Royce einer Anfrage direkt zustimmen. Zum Glück gibt es einen Fehler im Ausweichsystem, wenn binnen einer kurzen Zeitspanne beide Aufseher sterben: Dann kann Olivia Hall die biometrische Sicherheit umgehen und Zugriff auf die Daten erhalten."
+		},
+		"es": {
+			"UI_CONTRACT_RAT_DESC": "Las instalaciones de la Agencia en Chongqing, donde trabaja su departamento de analistas, guardan los archivos de la organización. Por supuesto, la seguridad es impresionante. La moderna sala de servidores está conectada biométricamente a los dos supervisores del edificio: Imogen Royce, pionera en análisis del comportamiento, y Hush, gurú de ciberseguridad y aficionado a los experimentos transhumanistas.\r\n<br>\r\nEl protocolo de autenticación doble obliga a que toda manipulación de los datos deba ser autorizada por Hush y Royce, creando así un factor humano imposible de trampear. Por suerte, he encontrado un fallo en el sistema. Si ambos supervisores muriesen con poco margen de diferencia temporal, el sistema activaría un protocolo de seguridad que sí sería capaz de hackear. Elimina a esos dos del tablero y tendrás vía libre al núcleo de datos. Yo me encargaré del resto.",
+			"UI_CONTRACT_RAT_TITLE": "El fin de una era",
+			"UI_CONTRACT_RAT_LOCKED_REASON": "Deberías completar «El fin de una era» antes de acceder a este contenido.",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_03": "Piratea el núcleo de datos",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_02": "Pirateo del núcleo de datos: no disponible. Elimina al último objetivo",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_01": "Pirateo del núcleo de datos: no disponible. Elimina a todos los objetivos",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_UNAVAILABLE": "Pirateo del núcleo de datos: no disponible",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_TITLE_OPTIONAL": "Piratea el núcleo de datos [OPCIONAL]",
+			"UI_CONTRACT_RAT_OBJ_VETTING": "Control de seguridad",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_DESC": "Elimina a Hush e Imogen Royce para poder acceder a los archivos que contiene el núcleo de datos de la ICA.",
+			"UI_CONTRACT_RAT_OBJ_DATACORE_BRIEFING": "El núcleo de datos de la ICA cuenta con un sistema de seguridad impresionante, que lo hace prácticamente impenetrable. Para tener acceso a los datos, los dos supervisores —Hush y Royce— deben aprobar directamente cualquier solicitud. Por suerte, en el supuesto de que los dos supervisores muriesen en un corto espacio de tiempo, se activaría un sistema de emergencia, el cual contiene un fallo que Olivia Hall podría aprovechar para eludir la seguridad biométrica y acceder a los datos."
+		}
+	}
+}

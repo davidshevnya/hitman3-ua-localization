@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00C34C8BE1A975EC",
+	"languages": {
+		"xx": {
+			"7769FA6C": "The Doctor _ Placeholder",
+			"1973DEBD": "Perform health check on Tyson - Placeholder",
+			"BDF79CCA": "Tyson has called in a doctor to check on his health, maybe you can give your medical opinion - Placeholder",
+			"6E920230": "Wait for Tsyon in his room - Placeholder",
+			"81188424": "Become the Doctor - Placeholder",
+			"68B7F322": "Get escorted to Tyson's room - Placeholder"
+		},
+		"en": {
+			"7769FA6C": "Take A Deep Breath",
+			"1973DEBD": "Tyson Williams has summoned a doctor to the island. He must be feeling under the weather. You have some experience with pain relief, 47. Maybe you can be of assistance?",
+			"BDF79CCA": "Paging Doctor Rieper",
+			"6E920230": "Excellent, 47. I hope you can offer the man some assistance...",
+			"81188424": "Disguise Yourself as the Doctor",
+			"68B7F322": "Get Escorted to Williams' Room"
+		},
+		"fr": {
+			"7769FA6C": "Inspirez profondément",
+			"1973DEBD": "Tyson Williams a fait venir un médecin sur l'île. Il ne doit pas se sentir très bien. Peut-être pourriez-vous l'aider, 47. Après tout, abréger les souffrances est votre spécialité.",
+			"BDF79CCA": "Appel pour le Docteur Rieper",
+			"6E920230": "Excellent, 47. J'espère que vous pourrez aider ce pauvre homme…",
+			"81188424": "Déguisez-vous en docteur",
+			"68B7F322": "Faites-vous escorter jusqu'à la chambre de Williams"
+		},
+		"it": {
+			"7769FA6C": "Fai un respiro profondo",
+			"1973DEBD": "Tyson Williams ha chiamato un dottore sull'isola. Deve sentirsi poco bene. Tu ne sai qualcosa su come si allieva il dolore, 47. Potresti dare il tuo contribuito.",
+			"BDF79CCA": "Chiamata per il dottor Rieper",
+			"6E920230": "Eccellente, 47. Spero che tu possa offrirgli assistenza...",
+			"81188424": "Travestiti da dottore",
+			"68B7F322": "Fatti accompagnare nella stanza di Williams"
+		},
+		"de": {
+			"7769FA6C": "Tief einatmen",
+			"1973DEBD": "Tyson Williams hat einen Arzt auf die Insel kommen lassen. Er fühlt sich wohl nicht gut. Sie haben doch Erfahrung in Sachen Schmerzlinderung, 47. Vielleicht können Sie ihm aushelfen?",
+			"BDF79CCA": "Doktor Rieper zur Behandlung bitte!",
+			"6E920230": "Ausgezeichnet, 47. Ich hoffe, Sie können ihm behilflich sein …",
+			"81188424": "Verkleiden Sie sich als der Arzt.",
+			"68B7F322": "Lassen Sie sich zu Williams’ Zimmer eskortieren."
+		},
+		"es": {
+			"7769FA6C": "Respira hondo",
+			"1973DEBD": "Tyson Williams ha pedido que un médico venga a la isla. Supongo que no se encuentra muy bien. Tú tienes experiencia haciendo que la gente deje de sufrir, 47. Quizás puedas echarle una mano.",
+			"BDF79CCA": "Llamando al doctor Rieper",
+			"6E920230": "Excelente, 47. Espero que puedas ayudar a ese pobre hombre...",
+			"81188424": "Disfrázate del doctor",
+			"68B7F322": "Que te escolten hasta la habitación de Williams"
+		}
+	}
+}

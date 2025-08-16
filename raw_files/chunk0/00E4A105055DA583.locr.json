@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00E4A105055DA583",
+	"languages": {
+		"xx": {
+			"ED590EDE": "As a Waiter",
+			"99F098B8": "As a Personal Trainer",
+			"4279C864": "As a Doctor",
+			"4E44EFB1": "As a Snorkel Instructor",
+			"FF3EB740": "As Resort Staff",
+			"BA02490D": "As Villa Staff"
+		},
+		"en": {
+			"ED590EDE": "As a Waiter",
+			"99F098B8": "As a Personal Trainer",
+			"4279C864": "As a Doctor",
+			"4E44EFB1": "As a Snorkel Instructor",
+			"FF3EB740": "As Resort Staff",
+			"BA02490D": "As Villa Staff"
+		},
+		"fr": {
+			"ED590EDE": "en serveur",
+			"99F098B8": "en coach personnel",
+			"4279C864": "en docteur",
+			"4E44EFB1": "en instructeur de plongée",
+			"FF3EB740": "en employé de l'hôtel",
+			"BA02490D": "en employé de la villa"
+		},
+		"it": {
+			"ED590EDE": "Come cameriere",
+			"99F098B8": "Come personal trainer",
+			"4279C864": "Come dottore",
+			"4E44EFB1": "Come istruttore di snorkeling",
+			"FF3EB740": "Come membro del personale del resort",
+			"BA02490D": "Come membro del personale della villa"
+		},
+		"de": {
+			"ED590EDE": "als Kellner",
+			"99F098B8": "als Personal-Trainer",
+			"4279C864": "als Arzt",
+			"4E44EFB1": "als Tauchlehrer",
+			"FF3EB740": "als Resort-Personal",
+			"BA02490D": "als Villa-Personal"
+		},
+		"es": {
+			"ED590EDE": "De camarero",
+			"99F098B8": "De entrenador personal",
+			"4279C864": "De médico",
+			"4E44EFB1": "De instructor de snorkel",
+			"FF3EB740": "De personal del complejo",
+			"BA02490D": "De personal de la villa"
+		}
+	}
+}

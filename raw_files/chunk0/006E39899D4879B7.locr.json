@@ -1,0 +1,36 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "006E39899D4879B7",
+	"languages": {
+		"xx": {
+			"UI_GAMECHANGERS_GLOBAL_RESTRICTED_LOADOUT_NAME": "Predefined Loadout",
+			"UI_GAMECHANGERS_GLOBAL_RESTRICTED_LOADOUT_DESC": "Start with a predefined loadout",
+			"UI_GAMECHANGERS_GLOBAL_WILD_CARD_LEVEL_NAME": "Wild Card"
+		},
+		"en": {
+			"UI_GAMECHANGERS_GLOBAL_RESTRICTED_LOADOUT_NAME": "Restricted Loadout",
+			"UI_GAMECHANGERS_GLOBAL_RESTRICTED_LOADOUT_DESC": "Start with restricted loadout.",
+			"UI_GAMECHANGERS_GLOBAL_WILD_CARD_LEVEL_NAME": "Wild Card"
+		},
+		"fr": {
+			"UI_GAMECHANGERS_GLOBAL_RESTRICTED_LOADOUT_NAME": "Équipement limité",
+			"UI_GAMECHANGERS_GLOBAL_RESTRICTED_LOADOUT_DESC": "Commencez avec un équipement limité.",
+			"UI_GAMECHANGERS_GLOBAL_WILD_CARD_LEVEL_NAME": "Aléatoire"
+		},
+		"it": {
+			"UI_GAMECHANGERS_GLOBAL_RESTRICTED_LOADOUT_NAME": "Equipaggiamento limitato",
+			"UI_GAMECHANGERS_GLOBAL_RESTRICTED_LOADOUT_DESC": "Inizia avendo dell'equipaggiamento limitato.",
+			"UI_GAMECHANGERS_GLOBAL_WILD_CARD_LEVEL_NAME": "Condizioni speciali"
+		},
+		"de": {
+			"UI_GAMECHANGERS_GLOBAL_RESTRICTED_LOADOUT_NAME": "Begrenzte Ausrüstung",
+			"UI_GAMECHANGERS_GLOBAL_RESTRICTED_LOADOUT_DESC": "Starten Sie mit begrenzter Ausrüstung.",
+			"UI_GAMECHANGERS_GLOBAL_WILD_CARD_LEVEL_NAME": "Joker"
+		},
+		"es": {
+			"UI_GAMECHANGERS_GLOBAL_RESTRICTED_LOADOUT_NAME": "Equipamiento limitado",
+			"UI_GAMECHANGERS_GLOBAL_RESTRICTED_LOADOUT_DESC": "Comienza con equipamiento limitado.",
+			"UI_GAMECHANGERS_GLOBAL_WILD_CARD_LEVEL_NAME": "Comodín"
+		}
+	}
+}

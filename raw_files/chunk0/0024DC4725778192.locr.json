@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/menutext_sc3.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"UI_LOCATION_PARENT_CAGED_NAME": "Siberia, Russia",
+			"UI_LOCATION_PARENT_CAGED_CITY": "Siberia",
+			"UI_LOCATION_PARENT_CAGED_COUNTRY": "Russia",
+			"UI_LOCATION_CAGED_FALCON_NAME": "Siberia, Russia",
+			"UI_LOCATION_CAGED_FALCON_TITLE": "Crime and Punishment",
+			"UI_LOCATION_CAGED_FALCON_TIMEZONE": "LocalTime: GMT+7",
+			"UI_LOCATION_CAGED_FALCON_CITY": "Siberia",
+			"UI_LOCATION_CAGED_FALCON_COUNTRY": "Russia"
+		},
+		"en": {
+			"UI_LOCATION_PARENT_CAGED_NAME": "Siberia, Russia",
+			"UI_LOCATION_PARENT_CAGED_CITY": "Siberia",
+			"UI_LOCATION_PARENT_CAGED_COUNTRY": "Russia",
+			"UI_LOCATION_CAGED_FALCON_NAME": "Siberia, Russia",
+			"UI_LOCATION_CAGED_FALCON_TITLE": "Crime and Punishment",
+			"UI_LOCATION_CAGED_FALCON_TIMEZONE": "LocalTime: GMT+7",
+			"UI_LOCATION_CAGED_FALCON_CITY": "Siberia",
+			"UI_LOCATION_CAGED_FALCON_COUNTRY": "Russia"
+		},
+		"fr": {
+			"UI_LOCATION_PARENT_CAGED_NAME": "Sibérie, Russie",
+			"UI_LOCATION_PARENT_CAGED_CITY": "Sibérie",
+			"UI_LOCATION_PARENT_CAGED_COUNTRY": "Russie",
+			"UI_LOCATION_CAGED_FALCON_NAME": "Sibérie, Russie",
+			"UI_LOCATION_CAGED_FALCON_TITLE": "Crime et châtiment",
+			"UI_LOCATION_CAGED_FALCON_TIMEZONE": "Heure locale : GMT+7",
+			"UI_LOCATION_CAGED_FALCON_CITY": "Sibérie",
+			"UI_LOCATION_CAGED_FALCON_COUNTRY": "Russie"
+		},
+		"it": {
+			"UI_LOCATION_PARENT_CAGED_NAME": "Siberia, Russia",
+			"UI_LOCATION_PARENT_CAGED_CITY": "Siberia",
+			"UI_LOCATION_PARENT_CAGED_COUNTRY": "Russia",
+			"UI_LOCATION_CAGED_FALCON_NAME": "Siberia, Russia",
+			"UI_LOCATION_CAGED_FALCON_TITLE": "Delitto e castigo",
+			"UI_LOCATION_CAGED_FALCON_TIMEZONE": "Ora locale: GMT+7",
+			"UI_LOCATION_CAGED_FALCON_CITY": "Siberia",
+			"UI_LOCATION_CAGED_FALCON_COUNTRY": "Russia"
+		},
+		"de": {
+			"UI_LOCATION_PARENT_CAGED_NAME": "Sibirien, Russland",
+			"UI_LOCATION_PARENT_CAGED_CITY": "Sibirien",
+			"UI_LOCATION_PARENT_CAGED_COUNTRY": "Russland",
+			"UI_LOCATION_CAGED_FALCON_NAME": "Sibirien, Russland",
+			"UI_LOCATION_CAGED_FALCON_TITLE": "Verbrechen und Strafe",
+			"UI_LOCATION_CAGED_FALCON_TIMEZONE": "Örtliche Zeit: GMT+7",
+			"UI_LOCATION_CAGED_FALCON_CITY": "Sibirien",
+			"UI_LOCATION_CAGED_FALCON_COUNTRY": "Russland"
+		},
+		"es": {
+			"UI_LOCATION_PARENT_CAGED_NAME": "Siberia (Rusia)",
+			"UI_LOCATION_PARENT_CAGED_CITY": "Siberia",
+			"UI_LOCATION_PARENT_CAGED_COUNTRY": "Rusia",
+			"UI_LOCATION_CAGED_FALCON_NAME": "Siberia (Rusia)",
+			"UI_LOCATION_CAGED_FALCON_TITLE": "Crimen y castigo",
+			"UI_LOCATION_CAGED_FALCON_TIMEZONE": "Hora local: GMT+7",
+			"UI_LOCATION_CAGED_FALCON_CITY": "Siberia",
+			"UI_LOCATION_CAGED_FALCON_COUNTRY": "Rusia"
+		}
+	}
+}

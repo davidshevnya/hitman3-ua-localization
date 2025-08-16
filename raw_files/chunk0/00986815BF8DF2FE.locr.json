@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00986815BF8DF2FE",
+	"languages": {
+		"xx": {
+			"4F25AD91": "Title",
+			"D62CFC2B": "Summary",
+			"A12BCCBD": "Briefing",
+			"3F4F591E": "Step 1",
+			"48486988": "Step 2",
+			"D1413832": "Conclusion"
+		},
+		"en": {
+			"4F25AD91": "Playing with Fire",
+			"D62CFC2B": "Novikov plans an elaborate fireworks display. Spare no expense, it seems.",
+			"A12BCCBD": "According to the pyrotechnician’s schedule, Novikov plans a grand fireworks display at the end of the Sanguine show. Not a bad distraction. The fireworks are set up on a barge in the Seine. However, you'll need to find the detonation remote elsewhere.",
+			"3F4F591E": "Get a Tech Crew disguise",
+			"48486988": "Find the fireworks detonation remote",
+			"D1413832": "Good work, 47. When everyone is looking at the sky, no one is looking at you."
+		},
+		"fr": {
+			"4F25AD91": "Jouer avec le feu",
+			"D62CFC2B": "Novikov a prévu un grand feu d'artifice. De toute évidence, il ne regarde pas à la dépense.",
+			"A12BCCBD": "D'après le planning du pyrotechnicien, Novikov a prévu un feu d'artifice à la fin du défilé Sanguine. Voilà un excellent moyen de détourner l'attention. Les fusées se trouvent sur une barge amarrée sur la Seine. En revanche, il vous faudra d'abord trouver la télécommande permettant de les amorcer.",
+			"3F4F591E": "Procurez-vous une tenue de technicien",
+			"48486988": "Trouvez la télécommande permettant d'amorcer les feux d'artifice",
+			"D1413832": "Beau travail, 47. Pendant que tout le monde regarde le ciel, personne ne prête attention à vous."
+		},
+		"it": {
+			"4F25AD91": "Finale col botto",
+			"D62CFC2B": "Novikov ha organizzato uno sfarzoso spettacolo pirotecnico. Non sembra aver badato a spese.",
+			"A12BCCBD": "Stando alla scaletta, Novikov vuole concludere la sfilata della Sanguine con uno sfarzoso spettacolo pirotecnico. È un diversivo niente male. I fuochi d'artificio sono a bordo di una chiatta sulla Senna. Ma prima dovrai trovare il telecomando del detonatore.",
+			"3F4F591E": "Procurati un travestimento da tecnico",
+			"48486988": "Trova il detonatore dei fuochi d'artificio",
+			"D1413832": "Complimenti, 47. Tutti gli occhi saranno rivolti al cielo e nessuno ti noterà."
+		},
+		"de": {
+			"4F25AD91": "Feuerspiel",
+			"D62CFC2B": "Novikov plant ein aufwendiges Feuerwerk. Geld scheint keine Rolle zu spielen.",
+			"A12BCCBD": "Laut des Zeitplans des Pyrotechnikers wird Novikov nach der Sanguine-Show ein prächtiges Feuerwerk abbrennen. Keine schlechte Ablenkung. Die Raketen sind auf einem Kahn in der Seine aufgebaut. Aber erst einmal müssen Sie den Fernzünder finden.",
+			"3F4F591E": "Verkleiden Sie sich als Event-Techniker",
+			"48486988": "Finden Sie den Feuerwerk-Fernzünder",
+			"D1413832": "Gute Arbeit, 47. Wenn alle nach oben sehen, achtet niemand auf Sie."
+		},
+		"es": {
+			"4F25AD91": "Jugando con fuego",
+			"D62CFC2B": "Novikov tiene preparado un gran espectáculo de fuegos artificiales. Parece que no escatima en gastos.",
+			"A12BCCBD": "Según el programa de fuegos artificiales, Novikov tiene preparado un espectáculo pirotécnico al término del desfile de Sanguine. Los fuegos artificiales se encuentran en una barcaza en el Sena. No obstante, antes tendrás que encontrar el detonador a distancia.",
+			"3F4F591E": "Consigue el disfraz de técnico",
+			"48486988": "Busca el detonador a distancia de los fuegos artificiales",
+			"D1413832": "Buen trabajo, 47. Cuando todos miren al cielo, nadie se fijará en ti."
+		}
+	}
+}

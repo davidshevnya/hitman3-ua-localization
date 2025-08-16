@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "000C0CAB6BE7C0CC",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_HAWTHORN_OBJ_1": "Eliminate Raoul Blanc with a pistol",
+			"UI_CONTRACT_HAWTHORN_OBJ_1_2": "Eliminate Raoul Blanc with a falling object",
+			"UI_CONTRACT_HAWTHORN_OBJ_2_2": "Eliminate Eric Hébert in an explosion accident",
+			"UI_CONTRACT_HAWTHORN_OBJ_2": "Eliminate Eric Hébert with a pistol",
+			"UI_CONTRACT_HAWTHORN_LEVEL_1_TITLE": "The Adrian Eclipse - Level 1",
+			"UI_CONTRACT_HAWTHORN_LEVEL_2_TITLE": "The Adrian Eclipse - Level 2",
+			"UI_CONTRACT_HAWTHORN_LEVEL_3_TITLE": "The Adrian Eclipse - Level 3",
+			"UI_CONTRACT_HAWTHORN_LEVEL_4_TITLE": "The Adrian Eclipse - Level 4",
+			"UI_CONTRACT_HAWTHORN_LEVEL_5_TITLE": "The Adrian Eclipse - Level 5",
+			"UI_CONTRACT_HAWTHORN_GROUP_DESC": "Five level Escalation in Paris.",
+			"UI_CONTRACT_HAWTHORN_GROUP_TITLE": "The Adrian Eclipse"
+		},
+		"en": {
+			"UI_CONTRACT_HAWTHORN_OBJ_1": "Eliminate Raoul Blanc with a pistol",
+			"UI_CONTRACT_HAWTHORN_OBJ_1_2": "Eliminate Raoul Blanc with a falling object",
+			"UI_CONTRACT_HAWTHORN_OBJ_2_2": "Eliminate Eric Hébert in an explosion accident",
+			"UI_CONTRACT_HAWTHORN_OBJ_2": "Eliminate Eric Hébert with a pistol",
+			"UI_CONTRACT_HAWTHORN_LEVEL_1_TITLE": "The Adrian Eclipse - Level 1",
+			"UI_CONTRACT_HAWTHORN_LEVEL_2_TITLE": "The Adrian Eclipse - Level 2",
+			"UI_CONTRACT_HAWTHORN_LEVEL_3_TITLE": "The Adrian Eclipse - Level 3",
+			"UI_CONTRACT_HAWTHORN_LEVEL_4_TITLE": "The Adrian Eclipse - Level 4",
+			"UI_CONTRACT_HAWTHORN_LEVEL_5_TITLE": "The Adrian Eclipse - Level 5",
+			"UI_CONTRACT_HAWTHORN_GROUP_DESC": "Five level Escalation in Paris.",
+			"UI_CONTRACT_HAWTHORN_GROUP_TITLE": "The Adrian Eclipse"
+		},
+		"fr": {
+			"UI_CONTRACT_HAWTHORN_OBJ_1": "Éliminez Raoul Blanc avec un pistolet",
+			"UI_CONTRACT_HAWTHORN_OBJ_1_2": "Éliminez Raoul Blanc en lui faisant tomber un objet dessus",
+			"UI_CONTRACT_HAWTHORN_OBJ_2_2": "Éliminez Eric Hébert dans une explosion accidentelle",
+			"UI_CONTRACT_HAWTHORN_OBJ_2": "Éliminez Eric Hébert avec un pistolet",
+			"UI_CONTRACT_HAWTHORN_LEVEL_1_TITLE": "L'Éclipse d'Adrien - Niveau 1",
+			"UI_CONTRACT_HAWTHORN_LEVEL_2_TITLE": "L'Éclipse d'Adrien - Niveau 2",
+			"UI_CONTRACT_HAWTHORN_LEVEL_3_TITLE": "L'Éclipse d'Adrien - Niveau 3",
+			"UI_CONTRACT_HAWTHORN_LEVEL_4_TITLE": "L'Éclipse d'Adrien - Niveau 4",
+			"UI_CONTRACT_HAWTHORN_LEVEL_5_TITLE": "L'Éclipse d'Adrien - Niveau 5",
+			"UI_CONTRACT_HAWTHORN_GROUP_DESC": "Escalade en cinq niveaux à Paris.",
+			"UI_CONTRACT_HAWTHORN_GROUP_TITLE": "L'Éclipse d'Adrien"
+		},
+		"it": {
+			"UI_CONTRACT_HAWTHORN_OBJ_1": "Elimina Raoul Blanc con una pistola",
+			"UI_CONTRACT_HAWTHORN_OBJ_1_2": "Elimina Raoul Blanc facendogli cadere qualcosa addosso",
+			"UI_CONTRACT_HAWTHORN_OBJ_2_2": "Elimina Eric Hébert con un incidente esplosivo",
+			"UI_CONTRACT_HAWTHORN_OBJ_2": "Elimina Eric Hébert con una pistola",
+			"UI_CONTRACT_HAWTHORN_LEVEL_1_TITLE": "L'eclissi di Adrian - Livello 1",
+			"UI_CONTRACT_HAWTHORN_LEVEL_2_TITLE": "L'eclissi di Adrian - Livello 2",
+			"UI_CONTRACT_HAWTHORN_LEVEL_3_TITLE": "L'eclissi di Adrian - Livello 3",
+			"UI_CONTRACT_HAWTHORN_LEVEL_4_TITLE": "L'eclissi di Adrian - Livello 4",
+			"UI_CONTRACT_HAWTHORN_LEVEL_5_TITLE": "L'eclissi di Adrian - Livello 5",
+			"UI_CONTRACT_HAWTHORN_GROUP_DESC": "Escalation di cinque livelli a Parigi.",
+			"UI_CONTRACT_HAWTHORN_GROUP_TITLE": "L'eclissi di Adrian"
+		},
+		"de": {
+			"UI_CONTRACT_HAWTHORN_OBJ_1": "Raoul Blanc mit einer Pistole eliminieren",
+			"UI_CONTRACT_HAWTHORN_OBJ_1_2": "Raoul Blanc mit einem fallenden Gegenstand eliminieren",
+			"UI_CONTRACT_HAWTHORN_OBJ_2_2": "Eric Hébert durch einen Unfall mit Explosion eliminieren",
+			"UI_CONTRACT_HAWTHORN_OBJ_2": "Eric Hébert mit einer Pistole eliminieren",
+			"UI_CONTRACT_HAWTHORN_LEVEL_1_TITLE": "Die Adrian-Eklipse – Stufe 1",
+			"UI_CONTRACT_HAWTHORN_LEVEL_2_TITLE": "Die Adrian-Eklipse – Stufe 2",
+			"UI_CONTRACT_HAWTHORN_LEVEL_3_TITLE": "Die Adrian-Eklipse – Stufe 3",
+			"UI_CONTRACT_HAWTHORN_LEVEL_4_TITLE": "Die Adrian-Eklipse – Stufe 4",
+			"UI_CONTRACT_HAWTHORN_LEVEL_5_TITLE": "Die Adrian-Eklipse – Stufe 5",
+			"UI_CONTRACT_HAWTHORN_GROUP_DESC": "5-Stufen-Eskalation in Paris",
+			"UI_CONTRACT_HAWTHORN_GROUP_TITLE": "Die Adrian-Eklipse"
+		},
+		"es": {
+			"UI_CONTRACT_HAWTHORN_OBJ_1": "Elimina a Raoul Blanc con una pistola",
+			"UI_CONTRACT_HAWTHORN_OBJ_1_2": "Elimina a Raoul Blanc haciendo que le caiga un objeto encima",
+			"UI_CONTRACT_HAWTHORN_OBJ_2_2": "Elimina a Eric Hébert en una explosión accidental",
+			"UI_CONTRACT_HAWTHORN_OBJ_2": "Elimina a Eric Hébert con una pistola",
+			"UI_CONTRACT_HAWTHORN_LEVEL_1_TITLE": "El eclipse de Adrian - Nivel 1",
+			"UI_CONTRACT_HAWTHORN_LEVEL_2_TITLE": "El eclipse de Adrian - Nivel 2",
+			"UI_CONTRACT_HAWTHORN_LEVEL_3_TITLE": "El eclipse de Adrian - Nivel 3",
+			"UI_CONTRACT_HAWTHORN_LEVEL_4_TITLE": "El eclipse de Adrian - Nivel 4",
+			"UI_CONTRACT_HAWTHORN_LEVEL_5_TITLE": "El eclipse de Adrian - Nivel 5",
+			"UI_CONTRACT_HAWTHORN_GROUP_DESC": "Intensificación de cinco niveles en París.",
+			"UI_CONTRACT_HAWTHORN_GROUP_TITLE": "El eclipse de Adrian"
+		}
+	}
+}

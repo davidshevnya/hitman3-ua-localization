@@ -1,0 +1,48 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00C2F3A5088A51B2",
+	"languages": {
+		"xx": {
+			"CAE09FD2": "Prologue_Investigate",
+			"5F1EC596": "Jasper Knight",
+			"2755AEF3": "Cilas Netske",
+			"AED905DD": "Bert Mullins",
+			"EE03C825": "Kalvin Ritter"
+		},
+		"en": {
+			"CAE09FD2": "Jet Safety Protocol",
+			"5F1EC596": "Jasper Knight",
+			"2755AEF3": "Cilas Netzke",
+			"AED905DD": "Bert Mullins",
+			"EE03C825": "Kalvin Ritter"
+		},
+		"fr": {
+			"CAE09FD2": "Protocole de sécurité de l'avion de chasse",
+			"5F1EC596": "Jasper Knight",
+			"2755AEF3": "Cilas Netzke",
+			"AED905DD": "Bert Mullins",
+			"EE03C825": "Kalvin Ritter"
+		},
+		"it": {
+			"CAE09FD2": "Procedura di sicurezza del jet",
+			"5F1EC596": "Jasper Knight",
+			"2755AEF3": "Cilas Netske",
+			"AED905DD": "Bert Mullins",
+			"EE03C825": "Kalvin Ritter"
+		},
+		"de": {
+			"CAE09FD2": "Sicherheitsprotokoll für Jet",
+			"5F1EC596": "Jasper Knight",
+			"2755AEF3": "Cilas Netzke",
+			"AED905DD": "Bert Mullins",
+			"EE03C825": "Kalvin Ritter"
+		},
+		"es": {
+			"CAE09FD2": "Protocolo de seguridad del jet",
+			"5F1EC596": "Jasper Knight",
+			"2755AEF3": "Cilas Netzke",
+			"AED905DD": "Bert Mullins",
+			"EE03C825": "Kalvin Ritter"
+		}
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/menutext_s3_wet.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"UI_LOCATION_WET_RAT_TITLE": "Wet Rat",
+			"UI_LOCATION_WET_RAT_CITY": "Wet",
+			"UI_LOCATION_PARENT_WET_NAME": "Wet, Wet Country",
+			"UI_LOCATION_WET_RAT_COUNTRY": "Wet Country",
+			"67EE1BD9": "Wet Country",
+			"A25118AD": "Wet"
+		},
+		"en": {
+			"UI_LOCATION_WET_RAT_TITLE": "End Of An Era",
+			"UI_LOCATION_WET_RAT_CITY": "Chongqing",
+			"UI_LOCATION_PARENT_WET_NAME": "Chongqing, China",
+			"UI_LOCATION_WET_RAT_COUNTRY": "China",
+			"67EE1BD9": "China",
+			"A25118AD": "Chongqing"
+		},
+		"fr": {
+			"UI_LOCATION_WET_RAT_TITLE": "Fin d'une ère",
+			"UI_LOCATION_WET_RAT_CITY": "Chongqing",
+			"UI_LOCATION_PARENT_WET_NAME": "Chongqing, Chine",
+			"UI_LOCATION_WET_RAT_COUNTRY": "Chine",
+			"67EE1BD9": "Chine",
+			"A25118AD": "Chongqing"
+		},
+		"it": {
+			"UI_LOCATION_WET_RAT_TITLE": "La fine di un'era",
+			"UI_LOCATION_WET_RAT_CITY": "Chongqing",
+			"UI_LOCATION_PARENT_WET_NAME": "Chongqing, Cina",
+			"UI_LOCATION_WET_RAT_COUNTRY": "Cina",
+			"67EE1BD9": "Cina",
+			"A25118AD": "Chongqing"
+		},
+		"de": {
+			"UI_LOCATION_WET_RAT_TITLE": "Das Ende einer Ära",
+			"UI_LOCATION_WET_RAT_CITY": "Chongqing",
+			"UI_LOCATION_PARENT_WET_NAME": "Chongqing, China",
+			"UI_LOCATION_WET_RAT_COUNTRY": "China",
+			"67EE1BD9": "China",
+			"A25118AD": "Chongqing"
+		},
+		"es": {
+			"UI_LOCATION_WET_RAT_TITLE": "El fin de una era",
+			"UI_LOCATION_WET_RAT_CITY": "Chongqing",
+			"UI_LOCATION_PARENT_WET_NAME": "Chongqing, China",
+			"UI_LOCATION_WET_RAT_COUNTRY": "China",
+			"67EE1BD9": "China",
+			"A25118AD": "Chongqing"
+		}
+	}
+}

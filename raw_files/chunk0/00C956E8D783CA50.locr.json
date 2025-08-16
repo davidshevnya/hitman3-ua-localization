@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00C956E8D783CA50",
+	"languages": {
+		"xx": {
+			"0029BC58": "Title",
+			"11C5F377": "Briefing",
+			"3F055270": "Description",
+			"94A87966": "Conclusion",
+			"CAEE26A0": "Sabotage Effigy",
+			"2DE792C0": "Disguise yourself as the Master of Ceremonies",
+			"C879AEBC": "Light Pit",
+			"43923FE0": "Wait for Zoe",
+			"D19D1EF9": "Locate the Escape Door Hydraulics",
+			"231FC119": "Locate the Master of Ceremonies",
+			"D2493919": "Begin the Ceremony",
+			"AADBEB2E": "Summon Zoe Washington"
+		},
+		"en": {
+			"0029BC58": "A Phoenix From The Ashes",
+			"11C5F377": "Interesting. Zoe Washington is going to partake in a ceremony, symbolizing the downfall of civilization from which the Ark Society will emerge unscathed. Apparently, a giant phoenix-shaped effigy is lit on fire... with Zoe inside it.  Well. I suggest you locate this \"Master of Ceremonies,\" who lights the torch, 47. If this doesn't sound like an accident waiting to happen, I don't know what does.",
+			"3F055270": "A burning effigy. Sound like an accident waiting to happen.",
+			"94A87966": "Excellent work, 47. Enjoy the spot light.",
+			"CAEE26A0": "Sabotage the escape door hydraulics",
+			"2DE792C0": "Disguise yourself as the Master of Ceremonies",
+			"C879AEBC": "Light the money pit",
+			"43923FE0": "Wait for Zoe Washington",
+			"D19D1EF9": "Locate the escape door hydraulics",
+			"231FC119": "Locate the Master of Ceremonies",
+			"D2493919": "Begin the ceremony",
+			"AADBEB2E": "Summon Zoe Washington"
+		},
+		"fr": {
+			"0029BC58": "Le Phœnix renaît de ses cendres",
+			"11C5F377": "Intéressant. Zoe Washington va participer à la cérémonie symbolisant la chute de la civilisation dont la société de l'Arche émergera intacte. Apparemment, une effigie géante en forme de phœnix sera embrasée… et Zoe sera dedans. Je vous suggère de trouver le \"maître de cérémonie\" qui allumera le feu, 47. Si ce n'est pas un accident qui attend d'arriver, je ne sais ce que sais.",
+			"3F055270": "Une effigie à brûler. Un accident est si vite arrivé...",
+			"94A87966": "Excellent travail, 47. Profitez des feux de la rampe.",
+			"CAEE26A0": "Sabotez le circuit électrique de la trappe de sortie",
+			"2DE792C0": "Déguisez-vous en maître de cérémonie",
+			"C879AEBC": "Embrasez le Bûcher des vanités",
+			"43923FE0": "Attendez Zoe Washington",
+			"D19D1EF9": "Trouvez le circuit électrique de la trappe de sortie",
+			"231FC119": "Trouvez le maître de cérémonie",
+			"D2493919": "Commencez la cérémonie",
+			"AADBEB2E": "Appelez Zoe Washington"
+		},
+		"it": {
+			"0029BC58": "Una fenice risorta dalla ceneri",
+			"11C5F377": "Interessante. Zoe Washington parteciperà a una cerimonia che simboleggia il crollo della civiltà, da cui la Ark Society emergerà illesa. A quanto pare, verrà appiccato il fuoco a una gigantesca effigie a forma di fenice... con Zoe all'interno. Bene, 47, ti consiglio di individuare il \"Maestro delle cerimonie\" che accenderà la torcia. Un incidente servito sul piatto d'argento.",
+			"3F055270": "Un effigie in fiamme. Potrebbe causare un incidente da un momento all'altro.",
+			"94A87966": "Ottimo lavoro, 47. Goditi il successo.",
+			"CAEE26A0": "Sabota i componenti idraulici della porta di emergenza",
+			"2DE792C0": "Travestiti da Maestro delle cerimonie",
+			"C879AEBC": "Incendia la buca del denaro",
+			"43923FE0": "Aspetta Zoe Washington",
+			"D19D1EF9": "Individua i componenti idraulici della porta di emergenza",
+			"231FC119": "Individua il Maestro delle cerimonie",
+			"D2493919": "Dai inizio alla cerimonia",
+			"AADBEB2E": "Chiama Zoe Washington"
+		},
+		"de": {
+			"0029BC58": "Ein Phönix aus der Asche",
+			"11C5F377": "Interessant. Zoe Washington wird an einer Zeremonie teilnehmen, die den Niedergang der Zivilisation darstellt, aus der die Ark-Gesellschaft aber unbeschadet hervorgeht. Anscheinend wird ein riesiger Götze in Form eines Phönix entzündet … mit Zoe im Innern. Tja, ich würde vorschlagen, Sie finden diesen „Zeremonienmeister“, der die Fackel anzündet und finden Sie heraus, wie Zoe aus der Vorrichtung unverletzt entkommen will.",
+			"3F055270": "Ein brennender Götze. Wenn es da mal keinen Unfall geben könnte.",
+			"94A87966": "Hervorragende Arbeit, 47. Genießen Sie Ihren Auftritt.",
+			"CAEE26A0": "Sabotieren Sie die Fluchttürhydraulik.",
+			"2DE792C0": "Verkleiden Sie sich als Zeremonienmeister.",
+			"C879AEBC": "Zünden Sie die Geldgrube an.",
+			"43923FE0": "Warten Sie auf Zoe Washington.",
+			"D19D1EF9": "Finden Sie die Fluchttürhydraulik.",
+			"231FC119": "Finden Sie den Zeremonienmeister.",
+			"D2493919": "Beginnen Sie die Zeremonie.",
+			"AADBEB2E": "Rufen Sie Zoe Washington."
+		},
+		"es": {
+			"0029BC58": "El fénix se alza de las cenizas",
+			"11C5F377": "Qué interesante. Zoe Washington va a participar en una ceremonia que simbolizará la caída de la civilización y el alzamiento de la Ark Society indemne. Según parece, van a prenderle fuego a una gigantesca efigie de un fénix... con Zoe dentro. Te sugiero que localices al «maestro de ceremonias» que va a prenderle fuego a la figura y descubras cómo pretende salir Zoe ilesa de ese chisme.",
+			"3F055270": "Una efigie en llamas. Eso suena a accidente garantizado.",
+			"94A87966": "Un trabajo excelente, 47. Disfruta del momento.",
+			"CAEE26A0": "Sabotea el sistema hidráulico de la puerta de huida",
+			"2DE792C0": "Disfrázate de maestro de ceremonias",
+			"C879AEBC": "Prende fuego al foso de dinero",
+			"43923FE0": "Espera a Zoe Washington",
+			"D19D1EF9": "Localiza el sistema hidráulico de la puerta de huida",
+			"231FC119": "Localiza al maestro de ceremonias",
+			"D2493919": "Empieza la ceremonia",
+			"AADBEB2E": "Invoca a Zoe Washington"
+		}
+	}
+}

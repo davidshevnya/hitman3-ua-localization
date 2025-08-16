@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/online/challenges/challenges_et_tamagosake.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"UI_CHALLENGES_ET_TAMAGOSAKE_COMPLETED_NAME": "Contract Complete",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_COMPLETED_DESC": "Contract Complete",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_TARGETDOWN_DESC": "<li>Assassinate The Doomsayer.</li>",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_TARGETDOWN_NAME": "The Doomsayer",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_SUICIDE_DESC": "Target Suicide Completion",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_SUICIDE_NAME": "Target Suicide Completion",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_SILENT_ASSASSIN_DESC": "<li>Assassinate The Doomsayer and his followers.</li><li>Only kill the targets.</il><li>No bodies found.</il><li>Do not get compromised.</il><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_SILENT_ASSASSIN_NAME": "Silent Assassin"
+		},
+		"en": {
+			"UI_CHALLENGES_ET_TAMAGOSAKE_COMPLETED_NAME": "Contract Complete",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_COMPLETED_DESC": "Contract Complete",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_TARGETDOWN_DESC": "<li>Assassinate the Doomsayer.</li>",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_TARGETDOWN_NAME": "The Doomsayer",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_SUICIDE_DESC": "Target Suicide Completion",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_SUICIDE_NAME": "Target Suicide Completion",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_SILENT_ASSASSIN_DESC": "<li>Assassinate the Doomsayer and his followers.</li><li>Only eliminate the targets.</li><li>No bodies found.</li><li>Do not get spotted.</li><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_SILENT_ASSASSIN_NAME": "Silent Assassin"
+		},
+		"fr": {
+			"UI_CHALLENGES_ET_TAMAGOSAKE_COMPLETED_NAME": "Contrat réussi",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_COMPLETED_DESC": "Contrat réussi",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_TARGETDOWN_DESC": "<li>Assassinez le prophète de malheur.</li>",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_TARGETDOWN_NAME": "Le prophète de malheur",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_SUICIDE_DESC": "Suicide de la cible réussi",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_SUICIDE_NAME": "Suicide de la cible réussi",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_SILENT_ASSASSIN_DESC": "<li>Assassinez le prophète de malheur et ses adeptes.</li><li>Abattez uniquement les cibles.</li><li>Aucun corps trouvé.</li><li>Ne vous faites pas repérer.</li><li>Si vous êtes repéré par les caméras, effacez ou détruisez la vidéo.</li>",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_SILENT_ASSASSIN_NAME": "Assassin silencieux"
+		},
+		"it": {
+			"UI_CHALLENGES_ET_TAMAGOSAKE_COMPLETED_NAME": "Contratto completato",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_COMPLETED_DESC": "Contratto completato",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_TARGETDOWN_DESC": "<li>Elimina il profeta di sciagure.</li>",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_TARGETDOWN_NAME": "Il profeta di sciagure",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_SUICIDE_DESC": "Completamento suicidio bersaglio",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_SUICIDE_NAME": "Completamento suicidio bersaglio",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_SILENT_ASSASSIN_DESC": "<li>Elimina il profeta di sciagure e i suoi seguaci.</li><li>Elimina solo i bersagli.</li><li>Fai in modo che nessun corpo sia rinvenuto.</li><li>Non essere individuato.</li><li>Se vieni inquadrato dalle telecamere, cancella o distruggi le registrazioni.</li>",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_SILENT_ASSASSIN_NAME": "Assassino silenzioso"
+		},
+		"de": {
+			"UI_CHALLENGES_ET_TAMAGOSAKE_COMPLETED_NAME": "Auftrag abgeschlossen",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_COMPLETED_DESC": "Auftrag abgeschlossen",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_TARGETDOWN_DESC": "<li>Eliminieren Sie den Schwarzmaler.</li>",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_TARGETDOWN_NAME": "Der Schwarzmaler",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_SUICIDE_DESC": "Selbstmord des Ziels abgeschlossen",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_SUICIDE_NAME": "Selbstmord des Ziels abgeschlossen",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_SILENT_ASSASSIN_DESC": "<li>Eliminieren Sie den Schwarzmaler und seine Gefolgschaft.</li><li>Eliminieren Sie nur das Ziel.</li><li>Keine Körper dürfen gefunden werden.</li><li>Bleiben Sie unbemerkt.</li><li>Werden Sie von Kameras gefilmt, löschen oder zerstören Sie die Beweise.</li>",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_SILENT_ASSASSIN_NAME": "Lautloser Killer"
+		},
+		"es": {
+			"UI_CHALLENGES_ET_TAMAGOSAKE_COMPLETED_NAME": "Contrato completado",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_COMPLETED_DESC": "Contrato completado",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_TARGETDOWN_DESC": "<li>Asesina al agorero.</li>",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_TARGETDOWN_NAME": "El agorero",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_SUICIDE_DESC": "Progreso de suicidio del blanco",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_SUICIDE_NAME": "Progreso de suicidio del blanco",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_SILENT_ASSASSIN_DESC": "<li>Asesina al agorero y a sus acólitos.</li><li>Elimina solo a los objetivos.</li><li>Que no descubran cuerpos.</li><li>Evita que te descubran.</li><li>Si te detectan las cámaras, borra o destruye las pruebas.</li>",
+			"UI_CHALLENGES_ET_TAMAGOSAKE_SILENT_ASSASSIN_NAME": "Asesino silencioso"
+		}
+	}
+}

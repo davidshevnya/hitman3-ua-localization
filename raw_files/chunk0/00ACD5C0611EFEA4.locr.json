@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00ACD5C0611EFEA4",
+	"languages": {
+		"xx": {
+			"CHALLENGEPACK_CARBON_WRAPPER_NAME": "Mumbai Master",
+			"CHALLENGEPACK_CARBON_WRAPPER_DESC": "Complete all the Mumbai Master challenges:</li><li>Taste of Your Own Cure</li><li>High Thinker</li><li>Bird of Prey</li><li>Divine Misfortune</li><li>Roaring Virtue",
+			"CHALLENGEPACK_CARBON_SNIPEKASHMIRIAN_NAME": "Taste of Your Own Cure",
+			"CHALLENGEPACK_CARBON_SNIPEKASHMIRIAN_DESC": "<li>Eliminate The Kashmirian with a sniper rifle from the Studio in Dawood Rangan's apartment while disguised as the Holy Man.</li>",
+			"CHALLENGEPACK_CARBON_POISONMAELSTROM_NAME": "High Thinker",
+			"CHALLENGEPACK_CARBON_POISONMAELSTROM_DESC": "<li>Eliminate The Maelstrom by him falling to his death while disguised as the Holy Man.</li>",
+			"CHALLENGEPACK_CARBON_BEAKSTAFFKILL_NAME": "Bird of Prey",
+			"CHALLENGEPACK_CARBON_BEAKSTAFFKILL_DESC": "<li>Eliminate a target with a beak staff while disguised as the Holy Man. </li>",
+			"CHALLENGEPACK_CARBON_ACCIDENTKILL_NAME": "Divine Misfortune",
+			"CHALLENGEPACK_CARBON_ACCIDENTKILL_DESC": "<li>Eliminate a target in  an accident while disguised as the Holy Man.</li>",
+			"CHALLENGEPACK_CARBON_LOUDKILLING_NAME": "Roaring Virtue",
+			"CHALLENGEPACK_CARBON_LOUDKILLING_DESC": "<li>Eliminate 10 guards with a non-silent weapon in the underground hideout while disguised as the Holy Man.</li>"
+		},
+		"en": {
+			"CHALLENGEPACK_CARBON_WRAPPER_NAME": "Mumbai Master",
+			"CHALLENGEPACK_CARBON_WRAPPER_DESC": "Complete all the Mumbai Master challenges:<li>Taste of Your Own Cure</li><li>High Thinker</li><li>Bird of Prey</li><li>Divine Misfortune</li><li>Roaring Virtue</li>",
+			"CHALLENGEPACK_CARBON_SNIPEKASHMIRIAN_NAME": "Taste of Your Own Cure",
+			"CHALLENGEPACK_CARBON_SNIPEKASHMIRIAN_DESC": "<li>Eliminate the Kashmirian with a sniper rifle from the Studio in Dawood Rangan's apartment while disguised as the Holy Man.</li>",
+			"CHALLENGEPACK_CARBON_POISONMAELSTROM_NAME": "High Thinker",
+			"CHALLENGEPACK_CARBON_POISONMAELSTROM_DESC": "<li>Eliminate the Maelstrom by him falling to his death while disguised as the Holy Man.</li>",
+			"CHALLENGEPACK_CARBON_BEAKSTAFFKILL_NAME": "Bird of Prey",
+			"CHALLENGEPACK_CARBON_BEAKSTAFFKILL_DESC": "<li>Eliminate a target with a beak staff while disguised as the Holy Man. </li>",
+			"CHALLENGEPACK_CARBON_ACCIDENTKILL_NAME": "Divine Misfortune",
+			"CHALLENGEPACK_CARBON_ACCIDENTKILL_DESC": "<li>Eliminate a target in an accident while disguised as the Holy Man.</li>",
+			"CHALLENGEPACK_CARBON_LOUDKILLING_NAME": "Roaring Virtue",
+			"CHALLENGEPACK_CARBON_LOUDKILLING_DESC": "<li>Eliminate 10 guards with a non-silent weapon in the underground hideout while disguised as the Holy Man.</li>"
+		},
+		"fr": {
+			"CHALLENGEPACK_CARBON_WRAPPER_NAME": "Maître de Bombay",
+			"CHALLENGEPACK_CARBON_WRAPPER_DESC": "Terminez tous les défis Maître de Bombay :<li>L'arroseur arrosé</li><li>Haut penseur</li><li>Oiseau de proie</li><li>Infortune divine</li><li>Vacarme vertueux</li>",
+			"CHALLENGEPACK_CARBON_SNIPEKASHMIRIAN_NAME": "L'arroseur arrosé",
+			"CHALLENGEPACK_CARBON_SNIPEKASHMIRIAN_DESC": "<li>Éliminez le Cachemiri avec un fusil de précision depuis le studio de l'appartement de Dawood Rangan déguisé en homme saint.</li>",
+			"CHALLENGEPACK_CARBON_POISONMAELSTROM_NAME": "Haut penseur",
+			"CHALLENGEPACK_CARBON_POISONMAELSTROM_DESC": "<li>Éliminez le Maelström en le poussant dans le vide déguisé en homme saint.</li>",
+			"CHALLENGEPACK_CARBON_BEAKSTAFFKILL_NAME": "Oiseau de proie",
+			"CHALLENGEPACK_CARBON_BEAKSTAFFKILL_DESC": "<li>Éliminez une cible avec un bâton à bec déguisé en homme saint.</li>",
+			"CHALLENGEPACK_CARBON_ACCIDENTKILL_NAME": "Infortune divine",
+			"CHALLENGEPACK_CARBON_ACCIDENTKILL_DESC": "<li>Éliminez une cible dans un accident déguisé en homme saint.</li>",
+			"CHALLENGEPACK_CARBON_LOUDKILLING_NAME": "Vacarme vertueux",
+			"CHALLENGEPACK_CARBON_LOUDKILLING_DESC": "<li>Éliminez 10 gardes avec une arme sans silencieux dans le repaire souterrain déguisé en homme saint.</li>"
+		},
+		"it": {
+			"CHALLENGEPACK_CARBON_WRAPPER_NAME": "Maestro di Mumbai",
+			"CHALLENGEPACK_CARBON_WRAPPER_DESC": "Completa tutte le sfide \"Maestro di Mumbai\":<li>Pan per focaccia</li><li>Sommo pensatore</li><li>Uccello predatore</li><li>Sventura divina</li><li>Virtù ruggente</li>",
+			"CHALLENGEPACK_CARBON_SNIPEKASHMIRIAN_NAME": "Pan per focaccia",
+			"CHALLENGEPACK_CARBON_SNIPEKASHMIRIAN_DESC": "<li>Elimina il Kashmiro con un fucile da cecchino dallo studio nell'appartamento di Dawood Rangan travestito da Santone.</li>",
+			"CHALLENGEPACK_CARBON_POISONMAELSTROM_NAME": "Sommo pensatore",
+			"CHALLENGEPACK_CARBON_POISONMAELSTROM_DESC": "<li>Elimina Maelstrom spingendolo verso la morte travestito da Santone. </li>",
+			"CHALLENGEPACK_CARBON_BEAKSTAFFKILL_NAME": "Uccello predatore",
+			"CHALLENGEPACK_CARBON_BEAKSTAFFKILL_DESC": "<li>Elimina un bersaglio con un bastone a becco travestito da Santone. </li>",
+			"CHALLENGEPACK_CARBON_ACCIDENTKILL_NAME": "Sventura divina",
+			"CHALLENGEPACK_CARBON_ACCIDENTKILL_DESC": "<li>Elimina un bersaglio in un incidente travestito da Santone.</li>",
+			"CHALLENGEPACK_CARBON_LOUDKILLING_NAME": "Virtù ruggente",
+			"CHALLENGEPACK_CARBON_LOUDKILLING_DESC": "<li>Elimina 10 guardie con un'arma non silenziata nel nascondiglio sotterraneo travestito da Santone.</li>"
+		},
+		"de": {
+			"CHALLENGEPACK_CARBON_WRAPPER_NAME": "Mumbai-Meister",
+			"CHALLENGEPACK_CARBON_WRAPPER_DESC": "Schließen Sie alle „Mumbai-Meister“-Herausforderungen ab:<li>Die eigene Medizin</li><li>Hochgedacht</li><li>Raubvogel</li><li>Göttlicher Richtspruch</li><li>Brüllende Tugend</li>",
+			"CHALLENGEPACK_CARBON_SNIPEKASHMIRIAN_NAME": "Die eigene Medizin",
+			"CHALLENGEPACK_CARBON_SNIPEKASHMIRIAN_DESC": "<li>Eliminieren Sie als der Heilige Mann verkleidet den Kaschmiri mit einem Scharfschützengewehr vom Studio in Dawood Rangans Apartment aus.</li>",
+			"CHALLENGEPACK_CARBON_POISONMAELSTROM_NAME": "Hochgedacht",
+			"CHALLENGEPACK_CARBON_POISONMAELSTROM_DESC": "<li>Eliminieren Sie als der Heilige Mann verkleidet den Maelstrom, indem Sie ihn in den Tod stoßen.</li>",
+			"CHALLENGEPACK_CARBON_BEAKSTAFFKILL_NAME": "Raubvogel",
+			"CHALLENGEPACK_CARBON_BEAKSTAFFKILL_DESC": "<li>Eliminieren Sie als der Heilige Mann verkleidet ein Ziel mit dem Schnabelstab.</li>",
+			"CHALLENGEPACK_CARBON_ACCIDENTKILL_NAME": "Göttlicher Richtspruch",
+			"CHALLENGEPACK_CARBON_ACCIDENTKILL_DESC": "<li>Eliminieren Sie als der Heilige Mann verkleidet ein Ziel mit einem Unfall.</li>",
+			"CHALLENGEPACK_CARBON_LOUDKILLING_NAME": "Brüllende Tugend",
+			"CHALLENGEPACK_CARBON_LOUDKILLING_DESC": "<li>Eliminieren Sie als der Heilige Mann verkleidet 10 Wachen im unterirdischen Versteck mit einer nicht lautlosen Waffe.</li>"
+		},
+		"es": {
+			"CHALLENGEPACK_CARBON_WRAPPER_NAME": "Maestro de Bombay",
+			"CHALLENGEPACK_CARBON_WRAPPER_DESC": "Completa todos los desafíos de Maestro de Bombay:<li>Prueba tu propia medicina</li><li>Pensamientos sagrados</li><li>Ave de presa</li><li>Desgracia divina</li><li>Virtud ardiente</li>",
+			"CHALLENGEPACK_CARBON_SNIPEKASHMIRIAN_NAME": "Prueba tu propia medicina",
+			"CHALLENGEPACK_CARBON_SNIPEKASHMIRIAN_DESC": "<li>Disfrazado de hombre santo, elimina al Cachemir con un fusil de francotirador desde el estudio del apartamento de Dawood Rangan.</li>",
+			"CHALLENGEPACK_CARBON_POISONMAELSTROM_NAME": "Pensamientos sagrados",
+			"CHALLENGEPACK_CARBON_POISONMAELSTROM_DESC": "<li>Elimina al Torbellino empujándolo a la muerte disfrazado de hombre santo.</li>",
+			"CHALLENGEPACK_CARBON_BEAKSTAFFKILL_NAME": "Ave de presa",
+			"CHALLENGEPACK_CARBON_BEAKSTAFFKILL_DESC": "<li>Elimina a un objetivo con un bastón de cabeza de ave disfrazado de hombre santo.</li>",
+			"CHALLENGEPACK_CARBON_ACCIDENTKILL_NAME": "Desgracia divina",
+			"CHALLENGEPACK_CARBON_ACCIDENTKILL_DESC": "<li>Elimina a un objetivo en un accidente disfrazado de hombre santo.</li>",
+			"CHALLENGEPACK_CARBON_LOUDKILLING_NAME": "Virtud ardiente",
+			"CHALLENGEPACK_CARBON_LOUDKILLING_DESC": "<li>Disfrazado de hombre santo, elimina a 10 guardias del escondite subterráneo con un arma no silenciosa.</li>"
+		}
+	}
+}

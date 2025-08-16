@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0049D2C29E4D3641",
+	"languages": {
+		"xx": {
+			"NEWZEALAND_QUESTITEMS_PASSWORD_DONGLE_TITLE": "Password Dongle",
+			"NEWZEALAND_QUESTITEMS_PASSWORD_DONGLE_DESCRIPTION": "A password dongle allowing acces to the upstairs computer",
+			"NEWZEALAND_QUESTINTEL_PROFILE_TITLE": "Profile_Title",
+			"NEWZEALAND_QUESTINTEL_PROFILE_DESCRIPTION": "Profile_Description",
+			"NEWZEALAND_QUESTINTEL_REPORT_TITLE": "Report_Title",
+			"NEWZEALAND_QUESTINTEL_REPORT_DESCRIPTION": "Report_Description",
+			"31AFED07": "Message_Title",
+			"2A356869": "Message_Description"
+		},
+		"en": {
+			"NEWZEALAND_QUESTITEMS_PASSWORD_DONGLE_TITLE": "Password Dongle",
+			"NEWZEALAND_QUESTITEMS_PASSWORD_DONGLE_DESCRIPTION": "A password dongle allowing acces to the upstairs computer.",
+			"NEWZEALAND_QUESTINTEL_PROFILE_TITLE": "File on Dynasty Global",
+			"NEWZEALAND_QUESTINTEL_PROFILE_DESCRIPTION": "A file on Rupert Pierce, founder of Dynasty Global; the world’s largest internet retailer. If Pierce is a Providence operative, he undoubtedly ranks high on the militia’s hit list. Pierce is based in London, so he cannot be Reynard's immediate target. However, his VP Lance Donovan is from nearby Wellington and his brother is the New Zealand Prime Minister.",
+			"NEWZEALAND_QUESTINTEL_REPORT_TITLE": "Militia Operations Reports",
+			"NEWZEALAND_QUESTINTEL_REPORT_DESCRIPTION": "Operations reports on every major militia strike going back to Thomas Cross' kidnapping. Berlin. Shanghai. The murder of shipping mogul Rex Larsson in Montreal just a few days ago. Looks like Reynard had a hand in all of them.",
+			"31AFED07": "Phone Message",
+			"2A356869": "According to a message from the local repairman, the house's air filtration system is not functioning properly. Sounds like a bad time to do fumigation."
+		},
+		"fr": {
+			"NEWZEALAND_QUESTITEMS_PASSWORD_DONGLE_TITLE": "Clé de sécurité",
+			"NEWZEALAND_QUESTITEMS_PASSWORD_DONGLE_DESCRIPTION": "Une clé de sécurité contenant un mot de passe permettant d'accéder à l'ordinateur à l'étage.",
+			"NEWZEALAND_QUESTINTEL_PROFILE_TITLE": "Dossier sur Dynasty Global",
+			"NEWZEALAND_QUESTINTEL_PROFILE_DESCRIPTION": "Un dossier sur Rupert Pierce, fondateur de Dynasty Global, leader mondial de la vente en ligne. Si Pierce est un agent de Providence, il est certainement dans le viseur de la milice. Il vit à Londres, et ne peut donc pas être la cible directe de Reynard. Cependant, son vice-président, Lance Donovan, vit à Wellington, juste à côté, et son frère n'est autre que le premier ministre de Nouvelle-Zélande.",
+			"NEWZEALAND_QUESTINTEL_REPORT_TITLE": "Rapports d'opérations de la milice",
+			"NEWZEALAND_QUESTINTEL_REPORT_DESCRIPTION": "Des rapports d'opérations sur toutes les grandes attaques de la milice, jusqu'au kidnapping de Thomas Cross. Berlin. Shanghai. Le meurtre de Rex Larsson, le magnat de l'import-export, il y a quelques jours, à Montréal. On dirait que Reynard a joué un rôle dans chacune de ces opérations.",
+			"31AFED07": "Message vocal",
+			"2A356869": "D'après un message laissé par le réparateur local, il y a un problème avec le système de filtration d'air de la maison. On dirait que le moment est mal choisi pour une fumigation."
+		},
+		"it": {
+			"NEWZEALAND_QUESTITEMS_PASSWORD_DONGLE_TITLE": "Chiave di sicurezza",
+			"NEWZEALAND_QUESTITEMS_PASSWORD_DONGLE_DESCRIPTION": "Una chiave di sicurezza per accedere al computer del piano di sopra.",
+			"NEWZEALAND_QUESTINTEL_PROFILE_TITLE": "Fascicolo su Dynasty Global",
+			"NEWZEALAND_QUESTINTEL_PROFILE_DESCRIPTION": "Un fascicolo su Rupert Pierce, fondatore di Dynasty Global, il più grande rivenditore online esistente al mondo. Se Pierce è un agente di Providence, senza dubbio si colloca piuttosto in alto nella lista nera della milizia. Pierce si trova a Londra, quindi non può essere un bersaglio immediato per Reynard. Tuttavia, il suo vicepresidente - Lance Donovan - è originario di una zona non lontana da Wellington e suo fratello è il Primo Ministro neozelandese.",
+			"NEWZEALAND_QUESTINTEL_REPORT_TITLE": "Rapporti sulle operazioni della milizia",
+			"NEWZEALAND_QUESTINTEL_REPORT_DESCRIPTION": "I rapporti su tutti i colpi più importanti della milizia sin dal rapimento di Thomas Cross. Berlino, Shanghai. L'omicidio di Rex Larsson, magnate dei trasporti marittimi, a Montreal pochi giorni fa. Pare che ci sia lo zampino di Reynard ovunque.",
+			"31AFED07": "SMS",
+			"2A356869": "Secondo un messaggio di testo di un tecnico della zona, il sistema di filtraggio d'aria della casa non funziona come dovrebbe. Non sembra il momento giusto per la disinfestazione."
+		},
+		"de": {
+			"NEWZEALAND_QUESTITEMS_PASSWORD_DONGLE_TITLE": "Passwortdongle",
+			"NEWZEALAND_QUESTITEMS_PASSWORD_DONGLE_DESCRIPTION": "Ein Passwortdongle, mit dem man auf die Computer oben zugreifen kann.",
+			"NEWZEALAND_QUESTINTEL_PROFILE_TITLE": "Akte über Dynasty Global",
+			"NEWZEALAND_QUESTINTEL_PROFILE_DESCRIPTION": "Eine Akte über Rupert Pierce, den Gründer des weltweit größten Internethändlers Dynasty Global. Falls Pierce ein Agent von Providence ist, steht er zweifelsohne weit oben auf der Abschussliste der Miliz. Pierce sitzt in London, weswegen er nicht Reynards direktes Ziel sein kann. Doch sein Vizepräsident Lance Donovan ist aus Wellington, das ganz in der Nähe liegt, und sein Bruder ist der Premierminister von Neuseeland.",
+			"NEWZEALAND_QUESTINTEL_REPORT_TITLE": "Einsatzberichte der Miliz",
+			"NEWZEALAND_QUESTINTEL_REPORT_DESCRIPTION": "Einsatzberichte zu allen größeren Milizangriffen seit der Entführung von Thomas Cross. Berlin. Schanghai. Der Mord an Rex Larsson, dem Speditionsmagnaten, in Montreal vor ein paar Tagen. Offenbar hatte bei allen Reynard die Finger im Spiel.",
+			"31AFED07": "Telefonnachricht",
+			"2A356869": "Laut der Nachricht des örtlichen Handwerkers funktioniert der Luftfilter des Hauses nicht ordentlich. Es dürfte keine gute Idee sein, gerade jetzt eine Begasung durchzuführen."
+		},
+		"es": {
+			"NEWZEALAND_QUESTITEMS_PASSWORD_DONGLE_TITLE": "Llave electrónica",
+			"NEWZEALAND_QUESTITEMS_PASSWORD_DONGLE_DESCRIPTION": "Una llave electrónica que permite acceder al ordenador del piso de arriba.",
+			"NEWZEALAND_QUESTINTEL_PROFILE_TITLE": "Archivo sobre Dynasty Global",
+			"NEWZEALAND_QUESTINTEL_PROFILE_DESCRIPTION": "Un archivo sobre Rupert Pierce, fundador de Dynasty Global, la tienda de Internet más grande del mundo. Si Pierce es un agente de Providence, estaría de los primeros en la lista de objetivos de la milicia. Pierce está afincado en Londres, así que no puede ser el objetivo inmediato de Reynard. Sin embargo, su vicepresidente, Lance Donovan, es oriundo de un lugar cercano a Wellington y su hermano es el primer ministro neozelandés.",
+			"NEWZEALAND_QUESTINTEL_REPORT_TITLE": "Informes sobre operaciones de la milicia",
+			"NEWZEALAND_QUESTINTEL_REPORT_DESCRIPTION": "Informes de operaciones sobre cada golpe importante de la milicia desde el secuestro de Thomas Cross. Berlín. Shanghái. El asesinato del magnate de los transportes, Rex Larsson, hace unos días. Por lo visto, Reynard tuvo algo que ver en todos ellos.",
+			"31AFED07": "Mensaje telefónico",
+			"2A356869": "Según un mensaje del técnico local, el sistema de filtración del aire de la casa no funciona bien. Parece mal momento para fumigar."
+		}
+	}
+}

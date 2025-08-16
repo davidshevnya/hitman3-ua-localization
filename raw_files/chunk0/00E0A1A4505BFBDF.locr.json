@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00E0A1A4505BFBDF",
+	"languages": {
+		"xx": {
+			"B52A175D": "PH_Headline",
+			"A2B8856A": "PH_Text"
+		},
+		"en": {
+			"B52A175D": "Enforcer: Ritter",
+			"A2B8856A": "Ritter knows his crew. You can hide in plain sight by blending in behind the bar."
+		},
+		"fr": {
+			"B52A175D": "Agent : Ritter",
+			"A2B8856A": "Ritter connaît son équipage. Dissimulez-vous dans la masse en vous glissant derrière le bar."
+		},
+		"it": {
+			"B52A175D": "Sorvegliante: Ritter",
+			"A2B8856A": "Ritter conosce il suo equipaggio. Non attirare l'attenzione e mimetizzati lavorando al bar."
+		},
+		"de": {
+			"B52A175D": "Aufpasser: Ritter",
+			"A2B8856A": "Ritter kennt seine Crew. Sie können hinter der Bar untertauchen."
+		},
+		"es": {
+			"B52A175D": "Detector: Ritter",
+			"A2B8856A": "Ritter conoce a su tripulación. Pasa desapercibido camuflándote en el bar."
+		}
+	}
+}

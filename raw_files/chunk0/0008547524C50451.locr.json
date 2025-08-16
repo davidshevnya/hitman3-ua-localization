@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0008547524C50451",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_SHEEPSSORREL_GROUP_TITLE": "Sheep's Surrel group title",
+			"UI_CONTRACT_SHEEPSSORREL_GROUP_DESC": "Sheep's Surrel group desc",
+			"UI_CONTRACT_SHEEPSSORREL_LEVEL_1_NAME": "Sheep's Surrel level 1",
+			"UI_CONTRACT_SHEEPSSORREL_LEVEL_2_NAME": "Sheep's Surrel level 2",
+			"UI_CONTRACT_SHEEPSSORREL_LEVEL_3_NAME": "Sheep's Surrel level 3",
+			"UI_CONTRACT_SHEEPSSORREL_BOXHIT": "Hit Five Targets with a Kitchen Knife",
+			"UI_CONTRACT_SHEEPSSORREL_HIT_HEAD": "Boxes Hit",
+			"UI_CONTRACT_SHEEPSSORREL_KILL_MARCUS": "Kill Marcus Stuyvesant with a Kitchen Knife",
+			"UI_CONTRACT_SHEEPSSORREL_BOXHITGUN": "Hit Five Targets"
+		},
+		"en": {
+			"UI_CONTRACT_SHEEPSSORREL_GROUP_TITLE": "The Sinbad Stringent",
+			"UI_CONTRACT_SHEEPSSORREL_GROUP_DESC": "Three Level Escalation in Dubai",
+			"UI_CONTRACT_SHEEPSSORREL_LEVEL_1_NAME": "The Sinbad Stringent - Level 1",
+			"UI_CONTRACT_SHEEPSSORREL_LEVEL_2_NAME": "The Sinbad Stringent - Level 2",
+			"UI_CONTRACT_SHEEPSSORREL_LEVEL_3_NAME": "The Sinbad Stringent - Level 3",
+			"UI_CONTRACT_SHEEPSSORREL_BOXHIT": "Hit five targets with a kitchen knife",
+			"UI_CONTRACT_SHEEPSSORREL_HIT_HEAD": "Boxes hit",
+			"UI_CONTRACT_SHEEPSSORREL_KILL_MARCUS": "Kill Marcus Stuyvesant with a kitchen knife",
+			"UI_CONTRACT_SHEEPSSORREL_BOXHITGUN": "Hit five targets"
+		},
+		"fr": {
+			"UI_CONTRACT_SHEEPSSORREL_GROUP_TITLE": "Le Sinbad rigoureux",
+			"UI_CONTRACT_SHEEPSSORREL_GROUP_DESC": "Escalade en trois niveaux à Dubaï.",
+			"UI_CONTRACT_SHEEPSSORREL_LEVEL_1_NAME": "Le Sinbad rigoureux - Niveau 1",
+			"UI_CONTRACT_SHEEPSSORREL_LEVEL_2_NAME": "Le Sinbad rigoureux - Niveau 2",
+			"UI_CONTRACT_SHEEPSSORREL_LEVEL_3_NAME": "Le Sinbad rigoureux - Niveau 3",
+			"UI_CONTRACT_SHEEPSSORREL_BOXHIT": "Touchez 5 cibles avec un couteau de cuisine",
+			"UI_CONTRACT_SHEEPSSORREL_HIT_HEAD": "Boîtes touchées",
+			"UI_CONTRACT_SHEEPSSORREL_KILL_MARCUS": "Éliminez Marcus Stuyvesant avec un couteau de cuisine",
+			"UI_CONTRACT_SHEEPSSORREL_BOXHITGUN": "Touchez 5 cibles"
+		},
+		"it": {
+			"UI_CONTRACT_SHEEPSSORREL_GROUP_TITLE": "Il severo Sinbad",
+			"UI_CONTRACT_SHEEPSSORREL_GROUP_DESC": "Escalation di tre livelli a Dubai.",
+			"UI_CONTRACT_SHEEPSSORREL_LEVEL_1_NAME": "Il severo Sinbad - Livello 1",
+			"UI_CONTRACT_SHEEPSSORREL_LEVEL_2_NAME": "Il severo Sinbad - Livello 2",
+			"UI_CONTRACT_SHEEPSSORREL_LEVEL_3_NAME": "Il severo Sinbad - Livello 3",
+			"UI_CONTRACT_SHEEPSSORREL_BOXHIT": "Colpisci cinque bersagli con un coltello da cucina",
+			"UI_CONTRACT_SHEEPSSORREL_HIT_HEAD": "Scatole colpite",
+			"UI_CONTRACT_SHEEPSSORREL_KILL_MARCUS": "Elimina Marcus Stuyvesant con un coltello da cucina",
+			"UI_CONTRACT_SHEEPSSORREL_BOXHITGUN": "Colpisci cinque bersagli"
+		},
+		"de": {
+			"UI_CONTRACT_SHEEPSSORREL_GROUP_TITLE": "Die Sindbad-Stringenz",
+			"UI_CONTRACT_SHEEPSSORREL_GROUP_DESC": "Drei-Stufen-Eskalation in Dubai.",
+			"UI_CONTRACT_SHEEPSSORREL_LEVEL_1_NAME": "Die Sindbad-Stringenz – Stufe 1",
+			"UI_CONTRACT_SHEEPSSORREL_LEVEL_2_NAME": "Die Sindbad-Stringenz – Stufe 2",
+			"UI_CONTRACT_SHEEPSSORREL_LEVEL_3_NAME": "Die Sindbad-Stringenz – Stufe 3",
+			"UI_CONTRACT_SHEEPSSORREL_BOXHIT": "Treffen Sie fünf Ziele mit einem Küchenmesser.",
+			"UI_CONTRACT_SHEEPSSORREL_HIT_HEAD": "Boxen getroffen",
+			"UI_CONTRACT_SHEEPSSORREL_KILL_MARCUS": "Eliminieren Sie Marcus Stuyvesant mit einem Küchenmesser.",
+			"UI_CONTRACT_SHEEPSSORREL_BOXHITGUN": "Treffen Sie fünf Ziele."
+		},
+		"es": {
+			"UI_CONTRACT_SHEEPSSORREL_GROUP_TITLE": "Sinbad el severo",
+			"UI_CONTRACT_SHEEPSSORREL_GROUP_DESC": "Intensificación de tres niveles en Dubái.",
+			"UI_CONTRACT_SHEEPSSORREL_LEVEL_1_NAME": "Sinbad el severo - Nivel 1",
+			"UI_CONTRACT_SHEEPSSORREL_LEVEL_2_NAME": "Sinbad el severo - Nivel 2",
+			"UI_CONTRACT_SHEEPSSORREL_LEVEL_3_NAME": "Sinbad el severo - Nivel 3",
+			"UI_CONTRACT_SHEEPSSORREL_BOXHIT": "Alcanza a cinco objetivos con un cuchillo de cocina",
+			"UI_CONTRACT_SHEEPSSORREL_HIT_HEAD": "Cajas alcanzadas",
+			"UI_CONTRACT_SHEEPSSORREL_KILL_MARCUS": "Elimina a Marcus Stuyvesant con un cuchillo de cocina",
+			"UI_CONTRACT_SHEEPSSORREL_BOXHITGUN": "Alcanza a cinco objetivos"
+		}
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0061D269B0BAA1AF",
+	"languages": {
+		"xx": {
+			"UI_GAMECHANGERS_GLOBAL_KILL_STREAK_60_SEC_5_TARGETS_NAME": "Rapid Elimination Streak",
+			"UI_GAMECHANGERS_GLOBAL_KILL_STREAK_60_SEC_5_TARGETS_DESC": "When you eliminate your first target, you must eliminate another target within 60 seconds, or you will fail the mission. The countdown will stop when all targets are eliminated."
+		},
+		"en": {
+			"UI_GAMECHANGERS_GLOBAL_KILL_STREAK_60_SEC_5_TARGETS_NAME": "Rapid Elimination Streak",
+			"UI_GAMECHANGERS_GLOBAL_KILL_STREAK_60_SEC_5_TARGETS_DESC": "When you eliminate your first target, you must eliminate another target within 60 seconds, or you will fail the mission. The countdown will stop when all targets are eliminated."
+		},
+		"fr": {
+			"UI_GAMECHANGERS_GLOBAL_KILL_STREAK_60_SEC_5_TARGETS_NAME": "Série d'éliminations rapides",
+			"UI_GAMECHANGERS_GLOBAL_KILL_STREAK_60_SEC_5_TARGETS_DESC": "Après avoir éliminé votre première cible, la suivante doit tomber moins de 60 secondes après ou la mission échouera. Le compte à rebours s'arrêtera quand toutes les cibles auront été éliminées."
+		},
+		"it": {
+			"UI_GAMECHANGERS_GLOBAL_KILL_STREAK_60_SEC_5_TARGETS_NAME": "Serie di uccisioni rapida",
+			"UI_GAMECHANGERS_GLOBAL_KILL_STREAK_60_SEC_5_TARGETS_DESC": "Dopo aver eliminato un bersaglio, dovrai eliminarne un altro entro 60 secondi o la missione fallirà. Il conto alla rovescia terminerà con la morte dell'ultimo bersaglio."
+		},
+		"de": {
+			"UI_GAMECHANGERS_GLOBAL_KILL_STREAK_60_SEC_5_TARGETS_NAME": "Schnelle Liquidierungsserie",
+			"UI_GAMECHANGERS_GLOBAL_KILL_STREAK_60_SEC_5_TARGETS_DESC": "Nach der Eliminierung Ihres ersten Ziels haben Sie 60 Sekunden Zeit, um das nächste Ziel auszuschalten, sonst scheitert die Mission. Der Countdown stoppt, wenn alle Ziele eliminiert wurden."
+		},
+		"es": {
+			"UI_GAMECHANGERS_GLOBAL_KILL_STREAK_60_SEC_5_TARGETS_NAME": "Racha de bajas veloz",
+			"UI_GAMECHANGERS_GLOBAL_KILL_STREAK_60_SEC_5_TARGETS_DESC": "Tras eliminar a tu primer objetivo deberás eliminar a otro objetivo en un plazo máximo de 60 segundos o la misión será fallida. La cuenta atrás se detendrá una vez todos los objetivos hayan sido eliminados."
+		}
+	}
+}

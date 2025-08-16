@@ -1,0 +1,78 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00B75EF86B2E7807",
+	"languages": {
+		"xx": {
+			"2587DF3E": "Working Man",
+			"EFAA6B57": "Complete all the Working Man challenges:</li><li>Mechanical Failure</li><li>One More Drink</li><li>Commited To The Role</li><li>I Quit!",
+			"BC01E10C": "Mechanical Failure",
+			"E997335E": "<li>Eliminate Sierra Knox with a car lift.</li>",
+			"93CB8E74": "One More Drink",
+			"C65D5C26": "<li>Poison Moses Lee as a bartender.</li>",
+			"B77AED29": "Committed To The Role",
+			"E2EC3F7B": "Blend in as a Flamingo for 5 min (Blending Spot)",
+			"C7FD1E50": "I Quit!",
+			"926BCC02": "<li>Knock out Robert Knox with your fists while dressed as a Kronstadt engineer.</li>"
+		},
+		"en": {
+			"2587DF3E": "Working Man",
+			"EFAA6B57": "Complete all the Working Man challenges:</li><li>Mechanical Failure</li><li>One More Drink</li><li>Committed to the Role</li><li>I Quit!",
+			"BC01E10C": "Mechanical Failure",
+			"E997335E": "<li>Eliminate Sierra Knox with a car lift.</li>",
+			"93CB8E74": "One More Drink",
+			"C65D5C26": "<li>Poison Moses Lee as a Bartender.</li>",
+			"B77AED29": "Committed to the Role",
+			"E2EC3F7B": "<li>[REDACTED]</li>",
+			"C7FD1E50": "I Quit!",
+			"926BCC02": "<li>Knock out Robert Knox with your fists while dressed as a Kronstadt Engineer.</li>"
+		},
+		"fr": {
+			"2587DF3E": "Ouvrier",
+			"EFAA6B57": "Terminez tous les défis d'Ouvrier :</li><li>Problème technique</li><li>Un dernier pour la route</li><li>À fond dans le rôle</li><li>Je rends mon tablier !",
+			"BC01E10C": "Problème technique",
+			"E997335E": "<li>Éliminez Sierra Knox avec un monte-voiture.</li>",
+			"93CB8E74": "Un dernier pour la route",
+			"C65D5C26": "<li>Empoisonnez Moses Lee déguisé en barman.</li>",
+			"B77AED29": "À fond dans le rôle",
+			"E2EC3F7B": "<li>[CENSURÉ]</li>",
+			"C7FD1E50": "Je rends mon tablier !",
+			"926BCC02": "<li>Assommez Robert Knox avec vos poings déguisé en ingénieur de Kronstadt.</li>"
+		},
+		"it": {
+			"2587DF3E": "Stacanovista",
+			"EFAA6B57": "Completa tutte le sfide di \"Stacanovista\":</li><li>Guasto meccanico</li><li>Solo un altro drink</li><li>Dedito al ruolo</li><li>Me ne vado!",
+			"BC01E10C": "Guasto meccanico",
+			"E997335E": "<li>Elimina Sierra Knox con un sollevatore per auto.</li>",
+			"93CB8E74": "Solo un altro drink",
+			"C65D5C26": "<li>Avvelena Moses Lee vestito da barman.</li>",
+			"B77AED29": "Dedito al ruolo",
+			"E2EC3F7B": "<li>[OSCURATO]</li>",
+			"C7FD1E50": "Me ne vado!",
+			"926BCC02": "<li>Stendi Robert Knox a mani nude mentre sei travestito da ingegnere della Kronstadt.</li>"
+		},
+		"de": {
+			"2587DF3E": "Arbeiter",
+			"EFAA6B57": "Schließen Sie alle „Arbeiter“-Herausforderungen ab:</li><li>Mechanisches Versagen</li><li>Einer geht noch</li><li>Voll in Rolle</li><li>Ich kündige!",
+			"BC01E10C": "Mechanisches Versagen",
+			"E997335E": "<li>Eliminieren Sie Sierra Knox mit einer Hebebühne.</li>",
+			"93CB8E74": "Einer geht noch",
+			"C65D5C26": "<li>Vergiften Sie Moses Lee als Barkeeper verkleidet.</li>",
+			"B77AED29": "Voll in Rolle",
+			"E2EC3F7B": "<li>[GESCHWÄRZT]</li>",
+			"C7FD1E50": "Ich kündige!",
+			"926BCC02": "<li>Schlagen Sie als Kronstadt-Ingenieur verkleidet Robert Knox mit bloßen Fäusten k. o.</li>"
+		},
+		"es": {
+			"2587DF3E": "Trabajador",
+			"EFAA6B57": "Completa todos los desafíos de Trabajador:</li><li>Fallo mecánico</li><li>Una copa más</li><li>Entregado al trabajo</li><li>¡Lo dejo!",
+			"BC01E10C": "Fallo mecánico",
+			"E997335E": "<li>Elimina a Sierra Knox con un elevador.</li>",
+			"93CB8E74": "Una copa más",
+			"C65D5C26": "<li>Disfrázate de camarero y envenena a Moses Lee.</li>",
+			"B77AED29": "Entregado al trabajo",
+			"E2EC3F7B": "<li>[CLASIFICADO]</li>",
+			"C7FD1E50": "¡Lo dejo!",
+			"926BCC02": "<li>Disfrázate de ingeniero de Kronstadt y noquea a Robert Knox a puñetazos.</li>"
+		}
+	}
+}

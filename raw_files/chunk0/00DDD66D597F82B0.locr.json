@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/online/repository/actor_hero.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"ACTOR_HERO_CHARACTER_KNIGHT": "Knight",
+			"ACTOR_HERO_CHARACTER_KNIGHT_DESCRIPTION": "Rough around the edges and militant in her approach to things, Knight is a master sniper with a strong eye for improvisation and will do whatever it takes to get the job done.<br><br>Always prepared for the worst and quick with a witty remark at the expense of a fellow operative, Knight is easy to like and hard to kill.<br><br>The ICA has Knight on one of their special watchlists but has yet to approach her with an offer, mostly due to her young age and short track record.",
+			"ACTOR_HERO_CHARACTER_STONE": "Stone",
+			"ACTOR_HERO_CHARACTER_STONE_DESCRIPTION": "A focused professional, determined to deliver the best possible result in any mission, Stone’s approach is structured and perfectionistic, though a few years spent behind bars has taught him to improvise when needed.<br><br>The ICA has kept a close eye on Stone since his release from prison and while he looks to hold serious potential as a possible agent, he has not yet been recruited by the agency.",
+			"ACTOR_HERO_CHARACTER_47": "Agent 47",
+			"ACTOR_HERO_CHARACTER_47_DESCRIPTION": "Agent 47 is the world’s top assassin, a legendary figure in the shadowy trade of assassination. An expert strategist, master of disguises and social chameleon who is always two moves ahead, he is an apex predator; discrete, precise and endlessly inventive.<br><br>A man comfortable in his own skin and in total control of his environment, 47 deals exclusively in disappearances, ‘tragic accidents’ and natural causes with no collateral damage. He is a ghost, rarely noticed and never remembered."
+		},
+		"en": {
+			"ACTOR_HERO_CHARACTER_KNIGHT": "Knight",
+			"ACTOR_HERO_CHARACTER_KNIGHT_DESCRIPTION": "Rough around the edges and militant in her approach to things, Knight is a master sniper with a strong eye for improvisation who will do whatever it takes to get the job done.<br><br>Always prepared for the worst and quick with a witty remark at the expense of a fellow operative, Knight is easy to like and hard to kill.<br><br>The ICA has Knight on one of their special watchlists but has yet to approach her with an offer, mostly due to her young age and short track record.",
+			"ACTOR_HERO_CHARACTER_STONE": "Stone",
+			"ACTOR_HERO_CHARACTER_STONE_DESCRIPTION": "A focused professional determined to deliver the best possible result on any mission, Stone’s approach is structured and methodical, though a few years spent behind bars has taught him to improvise when needed.<br><br>The ICA has kept a close eye on Stone since his release from prison, and, while he appears to have serious potential as agent, he has yet to be recruited by the agency.",
+			"ACTOR_HERO_CHARACTER_47": "Agent 47",
+			"ACTOR_HERO_CHARACTER_47_DESCRIPTION": "Agent 47 is the world’s top assassin, a legendary figure in the shadowy trade of assassination. An expert strategist, master of disguises and social chameleon who is always two steps ahead, he is a skilled predator: discrete, precise and endlessly inventive.<br><br>A man comfortable in his own skin and in total control of his environment, 47 deals exclusively in disappearances, \"tragic accidents\" and deaths of natural causes with no collateral damage. He is a ghost: rarely noticed and never remembered."
+		},
+		"fr": {
+			"ACTOR_HERO_CHARACTER_KNIGHT": "Knight",
+			"ACTOR_HERO_CHARACTER_KNIGHT_DESCRIPTION": "Dotée d'un caractère bien trempé, d'un grand sens de l'improvisation et de méthodes \"actives\", Knight est une tireuse d'élite experte qui est prête à tout pour mener à bien sa mission.<br><br>Toujours préparée au pire et jamais à court de remarques cinglantes à l'attention de son partenaire, Knight est aussi adorable qu'elle est redoutable.<br><br>L'ICA a placé Knight sur l'une de ses listes de surveillances spéciales, mais l'agence ne l'a pas encore contactée, en raison notamment de son jeune âge et de son manque d'expérience.",
+			"ACTOR_HERO_CHARACTER_STONE": "Stone",
+			"ACTOR_HERO_CHARACTER_STONE_DESCRIPTION": "Professionnel diligent et déterminé à donner le meilleur de lui-même à chaque mission, Stone opère généralement de façon structurée et méthodique, mais ses quelques années passées derrière les barreaux lui ont aussi appris à improviser quand la situation l'exige.<br><br>L'ICA a gardé un œil sur lui depuis sa sortie de prison et, bien qu'il présente toutes les qualités requises, l'agence ne s'est pas encore décidée à le recruter.",
+			"ACTOR_HERO_CHARACTER_47": "Agent 47",
+			"ACTOR_HERO_CHARACTER_47_DESCRIPTION": "L'agent 47 est l'assassin ultime, une figure légendaire dans le milieu obscur de l'assassinat. Stratège expert, maître du déguisement et véritable caméléon social, il a toujours deux coups d'avance et représente le prédateur parfait alliant discrétion, précision et inventivité.<br><br>À l'aise dans toutes les situations et toujours en contrôle de son environnement, 47 est spécialiste des disparitions, \"accidents tragiques\" et causes naturelles sans dommages collatéraux. C'est un vrai fantôme : rarement vu, on ne vit jamais assez longtemps pour s'en souvenir."
+		},
+		"it": {
+			"ACTOR_HERO_CHARACTER_KNIGHT": "Knight",
+			"ACTOR_HERO_CHARACTER_KNIGHT_DESCRIPTION": "Brusca e con un atteggiamento attivo nei confronti delle cose, Knight è una tiratrice abilissima, con un grande senso dell'improvvisazione, e pronta a qualsiasi cosa per completare il lavoro.<br><br>È sempre pronta al peggio, e non risparmia battute taglienti verso i propri colleghi, è facile da amare e difficile da uccidere.<br><br>La ICA sta tenendo d'occhio Knight da un po', ma non l'ha ancora contattata con un'offerta, principalmente a causa della sua giovane età e della carriera ancora breve.",
+			"ACTOR_HERO_CHARACTER_STONE": "Stone",
+			"ACTOR_HERO_CHARACTER_STONE_DESCRIPTION": "Stone è un professionista determinato ad ottenere il migliore risultato possibile in ogni missione: il suo approccio è strutturale e metodico, anche se alcuni anni passati dietro le sbarre gli hanno anche insegnato il dono dell'improvvisazione, quando necessario.<br><br>L'ICA ha tenuto d'occhio Stone sin dalla sua uscita di prigione e, sebbene abbia un grande potenziale come agente, non è ancora stato reclutato dall'agenzia.",
+			"ACTOR_HERO_CHARACTER_47": "Agente 47",
+			"ACTOR_HERO_CHARACTER_47_DESCRIPTION": "Agente 47 è il migliore assassino del mondo, una figura leggendaria nell'oscuro mondo degli assassini a pagamento. È uno stratega esperto, un maestro del camuffamento e un vero camaleonte, sempre due passi avanti rispetto alla propria preda: discreto, preciso e ricco di inventiva.<br><br>È un uomo perfettamente a proprio agio nel proprio corpo, e con il massimo controllo dell'ambiente in cui si trova. 47 si occupa solo di scomparse, \"tragici incidenti\" e cause naturali prive di danni collaterali. È un fantasma difficile da notare e ancora più difficile da ricordare."
+		},
+		"de": {
+			"ACTOR_HERO_CHARACTER_KNIGHT": "Knight",
+			"ACTOR_HERO_CHARACTER_KNIGHT_DESCRIPTION": "Knight ist eine Meisterscharfschützin, die ein Talent fürs kluge Improvisieren hat. Sie ist im Umgang meist eher grob und scheut keinen Streit, aber sie tut alles, um den Auftrag zu erledigen.<br><br>Sie ist stets auf das Schlimmste vorbereitet und hat rasch einen bissigen Kommentar zulasten ihrer Agentenkollegen parat, aber trotzdem ist es leicht, Knight zu mögen, und schwer, sie umzubringen.<br><br>Bei der ICA steht Knight auf der speziellen Beobachtungsliste. Man hat ihr allerdings noch kein Angebot gemacht, vor allem aufgrund ihres jungen Alters und ihrer geringen Erfahrung im Feld.",
+			"ACTOR_HERO_CHARACTER_STONE": "Stone",
+			"ACTOR_HERO_CHARACTER_STONE_DESCRIPTION": "Stone ist ein zielstrebiger Profi, der sich ganz darauf konzentriert, bei jeder Mission das bestmögliche Ergebnis zu erzielen. Seine Vorgehensweise ist strukturiert und methodisch, wobei ihn seine Zeit hinter Gittern jedoch auch gelehrt hat, bei Bedarf zu improvisieren.<br><br>Die ICA behält Stone seit seiner Entlassung aus dem Gefängnis genau im Auge. Obwohl er großes Potenzial als Agent besitzt, wurde er von der Agentur noch nicht angeworben.",
+			"ACTOR_HERO_CHARACTER_47": "Agent 47",
+			"ACTOR_HERO_CHARACTER_47_DESCRIPTION": "Agent 47 ist der weltbeste Auftragskiller, eine legendäre Gestalt in der schattenhaften Welt käuflicher Attentate. Er ist ein strategisches Genie, ein Meister der Verkleidungen und ein soziales Chamäleon, das allen immer zwei Schritte voraus zu sein scheint. Dieses erfahrene Raubtier ist diskret, präzise und unglaublich einfallsreich.<br><br>Als jemand, der sich in seiner Haut sehr wohlfühlt und seine Umgebung stets komplett kontrolliert, kümmert sich 47 ausschließlich um „rätselhaftes Verschwinden“, „tragische Unfälle“ und „natürliche Tode“ ohne Kollateralschäden. Er ist wie ein Geist, den man nur selten bemerkt und an den sich nie jemand erinnert."
+		},
+		"es": {
+			"ACTOR_HERO_CHARACTER_KNIGHT": "Knight",
+			"ACTOR_HERO_CHARACTER_KNIGHT_DESCRIPTION": "Ligeramente tosca y de las que disparan primero y preguntan después, Knight es una francotiradora avezada que domina el arte de la improvisación y haría cualquier cosa por terminar el trabajo.<br><br>Siempre está preparada para lo peor y dispuesta a soltar la gracia de turno, incluso a costa de sus compañeros. Knight se hace querer y es dura de matar.<br><br>La Agencia tiene a Knight en su lista de francotiradores potenciales, pero todavía no le ha hecho una oferta, especialmente por su juventud y lo limitado de su historial.",
+			"ACTOR_HERO_CHARACTER_STONE": "Stone",
+			"ACTOR_HERO_CHARACTER_STONE_DESCRIPTION": "Un profesional centrado y dispuesto a conseguir el mejor de los resultados en cualquier misión. Stone es metódico y estructurado, aunque los pocos años que pasó entre rejas le han enseñado a improvisar cuando es necesario.<br><br>La Agencia le tiene echado el ojo desde que salió de la cárcel y, aunque tiene un gran potencial como agente, todavía no lo han reclutado.",
+			"ACTOR_HERO_CHARACTER_47": "Agente 47",
+			"ACTOR_HERO_CHARACTER_47_DESCRIPTION": "El Agente 47 es el asesino más preciso del mundo, una figura legendaria en los oscuros pasillos del negocio de la eliminación. Experto estratega y maestro del disfraz, es todo un camaleón social que siempre va dos pasos por delante. Como buen depredador, es también discreto y su inventiva no tiene límites.<br><br>Un hombre con nervios de hierro y un dominio total de su entorno, el Agente 47 se encarga exclusivamente de desapariciones, «trágicos accidentes» y muertes por causas naturales sin daños colaterales. Es un verdadero fantasma: rara vez es detectado y nunca se le recuerda."
+		}
+	}
+}

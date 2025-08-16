@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/online/challenges/challenges_et_spritzer.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"UI_CHALLENGES_ET_SPRITZER_COMPLETED_NAME": "Contract Complete",
+			"UI_CHALLENGES_ET_SPRITZER_COMPLETED_DESC": "Contract Complete",
+			"UI_CHALLENGES_ET_SPRITZER_TARGETDOWN_DESC": "<li>Assassinate The Gambler.</li>",
+			"UI_CHALLENGES_ET_SPRITZER_TARGETDOWN_NAME": "The Gambler",
+			"UI_CHALLENGES_ET_SPRITZER_SUICIDE_DESC": "Target Suicide Completion",
+			"UI_CHALLENGES_ET_SPRITZER_SUICIDE_NAME": "Target Suicide Completion",
+			"UI_CHALLENGES_ET_SPRITZER_SILENT_ASSASSIN_DESC": "<li>Assassinate The Gambler.</li><li>Only kill Targets.</il><li>No bodies found.</il><li>Do not get compromised.</il>",
+			"UI_CHALLENGES_ET_SPRITZER_SILENT_ASSASSIN_NAME": "Silent Assassin"
+		},
+		"en": {
+			"UI_CHALLENGES_ET_SPRITZER_COMPLETED_NAME": "Contract Complete",
+			"UI_CHALLENGES_ET_SPRITZER_COMPLETED_DESC": "Contract Complete",
+			"UI_CHALLENGES_ET_SPRITZER_TARGETDOWN_DESC": "<li>Assassinate the Gambler.</li>",
+			"UI_CHALLENGES_ET_SPRITZER_TARGETDOWN_NAME": "The Gambler",
+			"UI_CHALLENGES_ET_SPRITZER_SUICIDE_DESC": "Target Suicide Completion",
+			"UI_CHALLENGES_ET_SPRITZER_SUICIDE_NAME": "Target Suicide Completion",
+			"UI_CHALLENGES_ET_SPRITZER_SILENT_ASSASSIN_DESC": "<li>Assassinate the Gambler.</li><li>Only eliminate targets.</li><li>No bodies found.</li><li>Do not get spotted.</li>",
+			"UI_CHALLENGES_ET_SPRITZER_SILENT_ASSASSIN_NAME": "Silent Assassin"
+		},
+		"fr": {
+			"UI_CHALLENGES_ET_SPRITZER_COMPLETED_NAME": "Contrat réussi",
+			"UI_CHALLENGES_ET_SPRITZER_COMPLETED_DESC": "Contrat réussi",
+			"UI_CHALLENGES_ET_SPRITZER_TARGETDOWN_DESC": "<li>Assassinez le joueur.</li>",
+			"UI_CHALLENGES_ET_SPRITZER_TARGETDOWN_NAME": "Le joueur",
+			"UI_CHALLENGES_ET_SPRITZER_SUICIDE_DESC": "Suicide de la cible réussi",
+			"UI_CHALLENGES_ET_SPRITZER_SUICIDE_NAME": "Suicide de la cible réussi",
+			"UI_CHALLENGES_ET_SPRITZER_SILENT_ASSASSIN_DESC": "<li>Assassinez le joueur.</li><li>Abattez uniquement les cibles.</li><li>Aucun corps trouvé.</li><li>Ne vous faites pas repérer.</li>",
+			"UI_CHALLENGES_ET_SPRITZER_SILENT_ASSASSIN_NAME": "Assassin silencieux"
+		},
+		"it": {
+			"UI_CHALLENGES_ET_SPRITZER_COMPLETED_NAME": "Contratto completato",
+			"UI_CHALLENGES_ET_SPRITZER_COMPLETED_DESC": "Contratto completato",
+			"UI_CHALLENGES_ET_SPRITZER_TARGETDOWN_DESC": "<li>Elimina il giocatore d'azzardo.</li>",
+			"UI_CHALLENGES_ET_SPRITZER_TARGETDOWN_NAME": "Il giocatore d'azzardo",
+			"UI_CHALLENGES_ET_SPRITZER_SUICIDE_DESC": "Completamento suicidio bersaglio",
+			"UI_CHALLENGES_ET_SPRITZER_SUICIDE_NAME": "Completamento suicidio bersaglio",
+			"UI_CHALLENGES_ET_SPRITZER_SILENT_ASSASSIN_DESC": "<li>Elimina il giocatore d'azzardo.</li><li>Elimina solo i bersagli.</li><li>Fai in modo che nessun corpo sia rinvenuto.</li><li>Non essere individuato.</li>",
+			"UI_CHALLENGES_ET_SPRITZER_SILENT_ASSASSIN_NAME": "Assassino silenzioso"
+		},
+		"de": {
+			"UI_CHALLENGES_ET_SPRITZER_COMPLETED_NAME": "Auftrag abgeschlossen",
+			"UI_CHALLENGES_ET_SPRITZER_COMPLETED_DESC": "Auftrag abgeschlossen",
+			"UI_CHALLENGES_ET_SPRITZER_TARGETDOWN_DESC": "<li>Eliminieren Sie den Spieler.</li>",
+			"UI_CHALLENGES_ET_SPRITZER_TARGETDOWN_NAME": "Der Spieler",
+			"UI_CHALLENGES_ET_SPRITZER_SUICIDE_DESC": "Selbstmord des Ziels abgeschlossen",
+			"UI_CHALLENGES_ET_SPRITZER_SUICIDE_NAME": "Selbstmord des Ziels abgeschlossen",
+			"UI_CHALLENGES_ET_SPRITZER_SILENT_ASSASSIN_DESC": "<li>Eliminieren Sie den Spieler.</li><li>Eliminieren Sie nur die Ziele.</li><li>Keine Körper dürfen gefunden werden.</li><li>Bleiben Sie unbemerkt.</li>",
+			"UI_CHALLENGES_ET_SPRITZER_SILENT_ASSASSIN_NAME": "Lautloser Killer"
+		},
+		"es": {
+			"UI_CHALLENGES_ET_SPRITZER_COMPLETED_NAME": "Contrato completado",
+			"UI_CHALLENGES_ET_SPRITZER_COMPLETED_DESC": "Contrato completado",
+			"UI_CHALLENGES_ET_SPRITZER_TARGETDOWN_DESC": "<li>Asesina al jugador.</li>",
+			"UI_CHALLENGES_ET_SPRITZER_TARGETDOWN_NAME": "El jugador",
+			"UI_CHALLENGES_ET_SPRITZER_SUICIDE_DESC": "Progreso de suicidio del blanco",
+			"UI_CHALLENGES_ET_SPRITZER_SUICIDE_NAME": "Progreso de suicidio del blanco",
+			"UI_CHALLENGES_ET_SPRITZER_SILENT_ASSASSIN_DESC": "<li>Asesina al jugador.</li><li>Elimina solo a los objetivo.</li><li>Que no descubran cuerpos.</li><li>Evita que te descubran.</li>",
+			"UI_CHALLENGES_ET_SPRITZER_SILENT_ASSASSIN_NAME": "Asesino silencioso"
+		}
+	}
+}

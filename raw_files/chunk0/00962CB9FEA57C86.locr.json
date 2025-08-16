@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/menutext_drp.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"UI_DRP_001": "UI_DRP_001"
+		},
+		"en": {
+			"UI_DRP_001": "UI_DRP_001"
+		},
+		"fr": {
+			"UI_DRP_001": ""
+		},
+		"it": {
+			"UI_DRP_001": ""
+		},
+		"de": {
+			"UI_DRP_001": ""
+		},
+		"es": {
+			"UI_DRP_001": ""
+		}
+	}
+}

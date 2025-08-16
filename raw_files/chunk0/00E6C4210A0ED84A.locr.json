@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00E6C4210A0ED84A",
+	"languages": {
+		"xx": {
+			"97CC0641": "Broad Strokes",
+			"5C4C2734": "A local hitman known as \"The Kashmirian\" is in Mumbai on business. He has set up a sniper nest in a tower above a stairwell in the local chawl. It appears he's targeting the luxury apartment belonging to Dawood Rangan but has encountered a problem. Perhaps you can assist him?",
+			"58560EE9": "A Rival Assassin",
+			"342301E2": "Investigate The Kashmirian's sniper rifle",
+			"1E4554DB": "Adjust the scope",
+			"4E006DDB": "Infiltrate Dawood Rangan's apartment complex",
+			"A7563FF7": "Infiltrate Dawood Rangan's lounge",
+			"A0870E95": "Disguise yourself as the artist",
+			"13ADBEBB": "Meet with Dawood Rangan in his office",
+			"DA06DB5A": "Work on the potrait",
+			"026B8908": "Pick up The Kashmirian's sniper rifle",
+			"1DD08183": "Mount The Kashmirian's sniper rifle on the tripod"
+		},
+		"en": {
+			"97CC0641": "Broad Strokes",
+			"5C4C2734": "A local hitman known as \"The Kashmirian\" is in Mumbai on business. He set up a sniper nest in a tower above a stairwell in the local chawl. It appears he's targeting the luxury apartment belonging to Dawood Rangan, but has encountered a problem. Perhaps you can assist him?",
+			"58560EE9": "A rival assassin.",
+			"342301E2": "Investigate The Kashmirian's sniper rifle",
+			"1E4554DB": "Adjust the scope",
+			"4E006DDB": "Infiltrate Dawood Rangan's apartment complex",
+			"A7563FF7": "Infiltrate Dawood Rangan's lounge",
+			"A0870E95": "Disguise yourself as the painter",
+			"13ADBEBB": "Meet with Dawood Rangan in his office",
+			"DA06DB5A": "Work on the portrait",
+			"026B8908": "Pick up The Kashmirian's sniper rifle",
+			"1DD08183": "Mount The Kashmirian's sniper rifle on the tripod"
+		},
+		"fr": {
+			"97CC0641": "Pinceaux larges",
+			"5C4C2734": "Un tueur à gages local connu sous le nom du \"Cachemiri\" est à Bombay pour un contrat. Il a établi un perchoir dans une tour, au-dessus d'une cage d'escalier, dans le chawl du quartier. On dirait qu'il vise l'appartement de luxe de Dawood Rangan, mais il semble avoir un problème. Peut-être pourriez-vous l'aider ?",
+			"58560EE9": "Un assassin rival.",
+			"342301E2": "Examinez le fusil de précision du Cachemiri",
+			"1E4554DB": "Ajustez la lunette",
+			"4E006DDB": "Infiltrez l'appartement de Dawood Rangan",
+			"A7563FF7": "Infiltrez le salon de Dawood Rangan",
+			"A0870E95": "Déguisez-vous en peintre",
+			"13ADBEBB": "Retrouvez Dawood Rangan dans son bureau",
+			"DA06DB5A": "Travaillez sur le portrait",
+			"026B8908": "Ramassez le fusil de précision du Cachemiri",
+			"1DD08183": "Montez le fusil de précision du Cachemiri sur le trépied"
+		},
+		"it": {
+			"97CC0641": "A grandi linee",
+			"5C4C2734": "Un assassino del luogo, chiamato \"il Kashmiro\", si trova a Mumbai per un incarico. Ha allestito una postazione da cecchino su una torre in cima alle scale nei chawl. Sembra che il suo obiettivo sia il lussuoso appartamento di Dawood Rangan, ma a quanto pare ha un problema. Forse puoi dargli una mano.",
+			"58560EE9": "Un assassino rivale.",
+			"342301E2": "Esamina il fucile da cecchino del Kashmiro",
+			"1E4554DB": "Regola il mirino telescopico",
+			"4E006DDB": "Infiltrati nel complesso residenziale di Dawood Rangan",
+			"A7563FF7": "Infiltrati nella sala di Dawood Rangan",
+			"A0870E95": "Travestiti da pittore",
+			"13ADBEBB": "Incontra Dawood Rangan nel suo ufficio",
+			"DA06DB5A": "Lavora al ritratto",
+			"026B8908": "Raccogli il fucile da cecchino del Kashmiro",
+			"1DD08183": "Monta il fucile da cecchino del Kashmiro sul treppiede"
+		},
+		"de": {
+			"97CC0641": "Grobe Striche",
+			"5C4C2734": "Ein als \"Der Kaschmiri\" bekannter örtlicher Auftragsmörder ist geschäftlich in Mumbai. Er hat sich ein Scharfschützennest in einem Turm über einem Treppenhaus im örtlichen Chawl eingerichtet. Offenbar ist sein Ziel das Luxusapartment, das Dawood Rangan gehört, doch da gibt es ein Problem. Vielleicht können Sie ihm ja helfen?",
+			"58560EE9": "Ein anderer Auftragsmörder.",
+			"342301E2": "Untersuchen Sie das Scharfschützengewehr des Kaschmiri.",
+			"1E4554DB": "Stellen Sie das Zielfernrohr ein.",
+			"4E006DDB": "Infiltrieren Sie Dawood Rangans Apartmentkomplex.",
+			"A7563FF7": "Infiltrieren Sie Dawood Rangans Lounge.",
+			"A0870E95": "Verkleiden Sie sich als der Künstler.",
+			"13ADBEBB": "Treffen Sie Dawood Rangan in seinem Büro.",
+			"DA06DB5A": "Arbeiten Sie an dem Porträt.",
+			"026B8908": "Heben Sie das Scharfschützengewehr des Kaschmiri auf.",
+			"1DD08183": "Bringen Sie das Scharfschützengewehr des Kaschmiri auf dem Dreibein an."
+		},
+		"es": {
+			"97CC0641": "Pequeñas pinceladas",
+			"5C4C2734": "Un sicario local, conocido como «el Cachemir», está en Bombay por un trabajo. Ha montado un nido de francotirador en una torre, sobre una escalera del chawl de la zona. Por lo visto, su objetivo es el apartamento de lujo que pertenece a Dawood Rangan... aunque parece tener un problemilla. Tal vez puedas ayudarle.",
+			"58560EE9": "Un asesino rival.",
+			"342301E2": "Examina el fusil de francotirador del Cachemir",
+			"1E4554DB": "Ajusta la mira",
+			"4E006DDB": "Infíltrate en el complejo de apartamentos de Dawood Rangan",
+			"A7563FF7": "Infíltrate en la estancia de Dawood Rangan",
+			"A0870E95": "Disfrázate de pintor",
+			"13ADBEBB": "Reúnete con Dawood Rangan en su oficina",
+			"DA06DB5A": "Trabaja en el retrato",
+			"026B8908": "Recoge el fusil de francotirador del Cachemir",
+			"1DD08183": "Monta el fusil de francotirador del Cachemir en el trípode"
+		}
+	}
+}

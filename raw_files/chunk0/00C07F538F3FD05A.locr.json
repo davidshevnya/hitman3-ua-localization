@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00C07F538F3FD05A",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_PROTEA_LEVEL1_TITLE": "The Dubious Cohabitation - Level 1",
+			"UI_CONTRACT_PROTEA_LEVEL2_TITLE": "The Dubious Cohabitation - Level 2",
+			"UI_CONTRACT_PROTEA_LEVEL3_TITLE": "The Dubious Cohabitation - Level 3",
+			"UI_CONTRACT_PROTEA_GROUP_DESC": "Three Level Escalation in Mumbai",
+			"UI_CONTRACT_PROTEA_GROUP_TITLE": "The Dubious Cohabitation",
+			"UI_CONTRACT_PROTEA_OBJ_1": "Eliminate Hemant Laghari from the Chawl building using an accident or sniper rifle",
+			"UI_CONTRACT_PROTEA_OBJ_2": "Eliminate Abdul Chabra from the Chawl building using an accident or sniper rifle",
+			"UI_CONTRACT_PROTEA_OBJ_3": "Eliminate Vivaan Dhar from the Chawl building using a sniper rifle"
+		},
+		"en": {
+			"UI_CONTRACT_PROTEA_LEVEL1_TITLE": "The Dubious Cohabitation - Level 1",
+			"UI_CONTRACT_PROTEA_LEVEL2_TITLE": "The Dubious Cohabitation - Level 2",
+			"UI_CONTRACT_PROTEA_LEVEL3_TITLE": "The Dubious Cohabitation - Level 3",
+			"UI_CONTRACT_PROTEA_GROUP_DESC": "Three Level Escalation in Mumbai.",
+			"UI_CONTRACT_PROTEA_GROUP_TITLE": "The Dubious Cohabitation",
+			"UI_CONTRACT_PROTEA_OBJ_1": "Eliminate Hemant Laghari from the Chawl building in an accident or using a sniper rifle",
+			"UI_CONTRACT_PROTEA_OBJ_2": "Eliminate Abdul Chabra from the Chawl building in an accident or using a sniper rifle",
+			"UI_CONTRACT_PROTEA_OBJ_3": "Eliminate Vivaan Dhar from the Chawl building using a sniper rifle"
+		},
+		"fr": {
+			"UI_CONTRACT_PROTEA_LEVEL1_TITLE": "La cohabitation douteuse - Niveau 1",
+			"UI_CONTRACT_PROTEA_LEVEL2_TITLE": "La cohabitation douteuse - Niveau 2",
+			"UI_CONTRACT_PROTEA_LEVEL3_TITLE": "La cohabitation douteuse - Niveau 3",
+			"UI_CONTRACT_PROTEA_GROUP_DESC": "Escalade en trois niveaux à Bombay",
+			"UI_CONTRACT_PROTEA_GROUP_TITLE": "La cohabitation douteuse",
+			"UI_CONTRACT_PROTEA_OBJ_1": "Éliminez Hemant Laghari depuis le chawl, avec le fusil de précision ou par accident",
+			"UI_CONTRACT_PROTEA_OBJ_2": "Éliminez Abdul Chabra depuis le chawl, avec le fusil de précision ou par accident",
+			"UI_CONTRACT_PROTEA_OBJ_3": "Éliminez Vivaan Dhar depuis le chawl, avec le fusil de précision"
+		},
+		"it": {
+			"UI_CONTRACT_PROTEA_LEVEL1_TITLE": "L’ambigua convivenza - Livello 1",
+			"UI_CONTRACT_PROTEA_LEVEL2_TITLE": "L’ambigua convivenza - Livello 2",
+			"UI_CONTRACT_PROTEA_LEVEL3_TITLE": "L’ambigua convivenza - Livello 3",
+			"UI_CONTRACT_PROTEA_GROUP_DESC": "Escalation di tre livelli a Mumbai",
+			"UI_CONTRACT_PROTEA_GROUP_TITLE": "L’ambigua convivenza",
+			"UI_CONTRACT_PROTEA_OBJ_1": "Elimina Hemant Laghari da un palazzo dei chawl sfruttando un incidente o con un fucile da cecchino",
+			"UI_CONTRACT_PROTEA_OBJ_2": "Elimina Abdul Chabra da un palazzo dei chawl sfruttando un incidente o con un fucile da cecchino",
+			"UI_CONTRACT_PROTEA_OBJ_3": "Elimina Vivaan Dhar da un palazzo dei chawl usando un fucile da cecchino"
+		},
+		"de": {
+			"UI_CONTRACT_PROTEA_LEVEL1_TITLE": "Die zweifelhafte Mitbewohnerschaft – Stufe 1",
+			"UI_CONTRACT_PROTEA_LEVEL2_TITLE": "Die zweifelhafte Mitbewohnerschaft – Stufe 2",
+			"UI_CONTRACT_PROTEA_LEVEL3_TITLE": "Die zweifelhafte Mitbewohnerschaft – Stufe 3",
+			"UI_CONTRACT_PROTEA_GROUP_DESC": "Drei-Stufen-Eskalation in Mumbai.",
+			"UI_CONTRACT_PROTEA_GROUP_TITLE": "Die zweifelhafte Mitbewohnerschaft",
+			"UI_CONTRACT_PROTEA_OBJ_1": "Eliminieren Sie Hemant Laghari vom Chawl-Gebäude aus per Unfall oder Scharfschützengewehr.",
+			"UI_CONTRACT_PROTEA_OBJ_2": "Eliminieren Sie Abdul Chabra vom Chawl-Gebäude aus per Unfall oder Scharfschützengewehr.",
+			"UI_CONTRACT_PROTEA_OBJ_3": "Eliminieren Sie Vivaan Dhar vom Chawl-Gebäude aus per Scharfschützengewehr"
+		},
+		"es": {
+			"UI_CONTRACT_PROTEA_LEVEL1_TITLE": "La cohabitación dudosa - Nivel 1",
+			"UI_CONTRACT_PROTEA_LEVEL2_TITLE": "La cohabitación dudosa - Nivel 2",
+			"UI_CONTRACT_PROTEA_LEVEL3_TITLE": "La cohabitación dudosa - Nivel 3",
+			"UI_CONTRACT_PROTEA_GROUP_DESC": "Intensificación de tres niveles en Bombay.",
+			"UI_CONTRACT_PROTEA_GROUP_TITLE": "La cohabitación dudosa",
+			"UI_CONTRACT_PROTEA_OBJ_1": "Elimina a Hemant Laghari en el chawl mediante un accidente o un fusil de francotirador.",
+			"UI_CONTRACT_PROTEA_OBJ_2": "Elimina a Abdul Chabra en el chawl mediante un accidente o un fusil de francotirador.",
+			"UI_CONTRACT_PROTEA_OBJ_3": "Elimina a Vivaan Dhar en el chawl mediante un fusil de francotirador."
+		}
+	}
+}

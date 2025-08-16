@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "007055BCD494D94B",
+	"languages": {
+		"xx": {
+			"B057A916": "LANDLORD title",
+			"EBC9E922": "DS11010_LandlordBriefing",
+			"0B871C91": "One-line summary",
+			"16C704CA": "DS11011_LandlordConclusion",
+			"AE3295E7": "Follow the guest",
+			"4F09CA0F": "Acquire the shop owner's invitation to Kong's party",
+			"17716536": "Show the invitation to the guards at the shisha café",
+			"19BFA953": "You have already infiltrated the shisha café",
+			"125B5211": "Both guards by the entrance to the VIP section are dead",
+			"CDC5BF40": "An invitation has already been acquired",
+			"F4044796": "Put on your suit or a festive outfit"
+		},
+		"en": {
+			"B057A916": "Rent Due",
+			"EBC9E922": "According to intel, Mr. Kong is hosting a private party behind those walls. Invite only, of course. Though I’m sure one of the guests could be persuaded to part with their ticket.",
+			"0B871C91": "Follow one of Kong Tuo-Kwang's guests and steal his invitation to access the VIP section of the shisha café.",
+			"16C704CA": "Well, I suppose it’s time to mingle with the elite. Have fun, 47.",
+			"AE3295E7": "Follow the guest",
+			"4F09CA0F": "Acquire an invitation to Kong's party",
+			"17716536": "Show the invitation to the guards at the shisha café",
+			"19BFA953": "You have already infiltrated the Courtyard Club.",
+			"125B5211": "Both guards by the entrance to the Courtyard Club are dead.",
+			"CDC5BF40": "An invitation has already been acquired.",
+			"F4044796": "Put on your suit or a festive outfit"
+		},
+		"fr": {
+			"B057A916": "Payer le loyer",
+			"EBC9E922": "Selon nos sources, M. Kong organise une réception privée derrière ces murs. Sur invitation, bien entendu. Même si je suis sûre qu'un des invités se laissera persuader de se défaire de son ticket.",
+			"0B871C91": "Suivez un des invités de Kong Tuo-Kwang et volez son invitation pour la section VIP du bar à chicha.",
+			"16C704CA": "Bien, le temps est venu de se mélanger à l'élite. Amusez-vous bien, 47.",
+			"AE3295E7": "Suivez l'invité",
+			"4F09CA0F": "Récupérez l'invitation du propriétaire à la fête de Kong Tuo-Kwang",
+			"17716536": "Montrez l'invitation aux gardes du bar à chicha",
+			"19BFA953": "Vous vous êtes déjà infiltré dans le club.",
+			"125B5211": "Les deux gardes à l'entrée du club sont morts.",
+			"CDC5BF40": "Une invitation a déjà été obtenue.",
+			"F4044796": "Enfilez votre costume ou une tenue festive"
+		},
+		"it": {
+			"B057A916": "È l'ora di pagare l'affitto",
+			"EBC9E922": "Secondo le nostre fonti, il signor Kong sta dando una festa privata dietro quelle mura. Ingresso solo su invito, ovviamente. Sono sicura però che uno degli ospiti può essere persuaso a condividere il suo biglietto.",
+			"0B871C91": "Segui uno degli ospiti di Kong Tuo-Kwang e ruba il suo invito all'area VIP della caffetteria shisha.",
+			"16C704CA": "Bene, suppongo sia tempo di confondersi con l'élite. Divertiti, 47.",
+			"AE3295E7": "Segui l'ospite",
+			"4F09CA0F": "Ottieni un invito per la festa di Kong",
+			"17716536": "Mostra l'invito alle guardie della caffetteria shisha",
+			"19BFA953": "Ti sei già introdotto nel Club del Cortile.",
+			"125B5211": "Entrambe le guardie all'ingresso del Club del Cortile sono morte.",
+			"CDC5BF40": "Hai già ottenuto un invito.",
+			"F4044796": "Indossa il tuo abito o un abito da festa"
+		},
+		"de": {
+			"B057A916": "Miete fällig",
+			"EBC9E922": "Laut unseren Informationen, veranstaltet Mr Kong eine private Party hinter verschlossenen Türen. Nur mit Einladung versteht sich. Aber ich bin mir sicher, dass einer der Gäste sich dazu überreden lässt, die Karte Ihnen zu überlassen.",
+			"0B871C91": "Folgen Sie einem von Kong Tuo-Kwangs Gästen und stehlen Sie seine Einladung, um Zugang zum VIP-Bereich des Shisha-Cafés zu erlangen.",
+			"16C704CA": "Ich denke, nun ist es an der Zeit sich mit der Elite zu vermischen. Viel Spaß, 47.",
+			"AE3295E7": "Folgen Sie dem Gast",
+			"4F09CA0F": "Beschaffen Sie sich eine Einladung zu Kongs Party",
+			"17716536": "Zeigen Sie den Wachen des Shisha-Cafés die Einladung",
+			"19BFA953": "Sie sind bereits in den Courtyard Club eingedrungen.",
+			"125B5211": "Beide Wachen am Eingang des Courtyard Club sind tot.",
+			"CDC5BF40": "Sie haben sich schon eine Einladung beschafft.",
+			"F4044796": "Ziehen Sie Ihren Anzug oder festliche Kleidung an"
+		},
+		"es": {
+			"B057A916": "Alquiler debido",
+			"EBC9E922": "De acuerdo con los informes de inteligencia, el señor Kong está celebrando una fiesta privada al otro lado de esos muros. Solo para invitados, claro. Pero bueno, estoy segura de que será posible persuadir a alguno de los invitados para que se desprenda de su entrada...",
+			"0B871C91": "Sigue a uno de los invitados de Kong Tuo-Kwang y roba su invitación para acceder a la zona VIP de la tetería.",
+			"16C704CA": "Bueno, supongo que es momento de mezclarse con la élite. Disfrútalo, 47.",
+			"AE3295E7": "Sigue al invitado",
+			"4F09CA0F": "Obtén la invitación a la fiesta de Kong",
+			"17716536": "Enseña la invitación a los guardias de la tetería",
+			"19BFA953": "Ya te has infiltrado en el Courtyard Club.",
+			"125B5211": "Ambos guardias de la entrada del Courtyard Club están muertos.",
+			"CDC5BF40": "Ya se ha obtenido una invitación.",
+			"F4044796": "Ponte el traje o un disfraz de fiesta"
+		}
+	}
+}

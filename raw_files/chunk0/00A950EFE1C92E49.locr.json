@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00A950EFE1C92E49",
+	"languages": {
+		"xx": {
+			"1EE61683": "A Lucrative Opportunity",
+			"29AFAEB8": "A note from Ljudmila Vetrova? I wonder what she wants from you, 47. Regardless, it would be a shame to keep her waiting...",
+			"45FD4981": "Unexpected Correspondence",
+			"06E920ED": "Well... Let's see where this ends, shall we?",
+			"4C08D15E": "Call Ljudmila - Placeholder",
+			"8C68F89D": "Meet with Miss Vetrova at the Restaurant - Placeholder",
+			"C7ED17A9": "Infiltrate the Facility- Placeholder",
+			"6FC3AD94": "Obtain the USB - Placeholder",
+			"D02A9C70": "Contact Miss Vetrova - Placeholder",
+			"D23A81FA": "Announce your arrival to the Spa receptionist - Placeholder",
+			"C8CAB935": "Meet Miss Vetrova in the spa - Placeholder"
+		},
+		"en": {
+			"1EE61683": "A Lucrative Opportunity",
+			"29AFAEB8": "A note from Ljudmila Vetrova? I wonder what she wants from you, 47. Regardless, it would be a shame to keep her waiting...",
+			"45FD4981": "Unexpected Correspondence",
+			"06E920ED": "Well... Let's see where this ends, shall we?",
+			"4C08D15E": "Call Miss Vetrova",
+			"8C68F89D": "Meet Miss Vetrova at the Restaurant as Mr. Rieper",
+			"C7ED17A9": "Infiltrate the Villa",
+			"6FC3AD94": "Obtain the USB from the Thief",
+			"D02A9C70": "Contact Miss Vetrova",
+			"D23A81FA": "Announce your arrival at the Spa",
+			"C8CAB935": "Meet Miss Vetrova in the spa"
+		},
+		"fr": {
+			"1EE61683": "Une opportunité en or",
+			"29AFAEB8": "Un message de Ljudmila Vetrova ? Je me demande ce qu'elle vous veut, 47. Ne la faites surtout pas attendre, en tout cas.",
+			"45FD4981": "Correspondance inattendue",
+			"06E920ED": "Bon… Voyons où cela nous mène, hm ?",
+			"4C08D15E": "Appelez Mlle Vetrova",
+			"8C68F89D": "Retrouvez Mlle Vetrova au restaurant en tant que M. Rieper",
+			"C7ED17A9": "Infiltrez la villa",
+			"6FC3AD94": "Récupérez la clé USB des mains du voleur",
+			"D02A9C70": "Contactez Mlle Vetrova",
+			"D23A81FA": "Annoncez votre arrivée au spa",
+			"C8CAB935": "Retrouvez Mlle Vetrova au spa"
+		},
+		"it": {
+			"1EE61683": "Opportunità redditizia",
+			"29AFAEB8": "Un messaggio da Ljudmila Vetrova? Chissà cosa vuole da te, 47. In ogni caso, sarebbe un peccato farla aspettare...",
+			"45FD4981": "Corrispondenza inaspettata",
+			"06E920ED": "Beh... Vediamo un po' dove porterà questa storia.",
+			"4C08D15E": "Chiama la signorina Vetrova",
+			"8C68F89D": "Incontra la signorina Vetrova al ristorante travestito da signor Rieper",
+			"C7ED17A9": "Infiltrati nella villa",
+			"6FC3AD94": "Recupera la chiavetta USB dal ladro",
+			"D02A9C70": "Contatta la signorina Vetrova",
+			"D23A81FA": "Annuncia il tuo arrivo alla spa",
+			"C8CAB935": "Incontra la signorina Vetrova alla spa"
+		},
+		"de": {
+			"1EE61683": "Eine lukrative Gelegenheit",
+			"29AFAEB8": "Eine Notiz von Ljudmila Vetrova? Da fragt man sich, was sie von Ihnen will, 47. Auf jeden Fall wäre es eine Schande, sie warten zu lassen …",
+			"45FD4981": "Unerwartete Post",
+			"06E920ED": "Nun … Mal sehen, wohin Sie das führt, nicht wahr?",
+			"4C08D15E": "Rufen Sie Miss Vetrova an.",
+			"8C68F89D": "Treffen Sie als Mr. Rieper im Restaurant Miss Vetrova.",
+			"C7ED17A9": "Infiltrieren Sie die Villa.",
+			"6FC3AD94": "Beschaffen Sie den USB-Stick vom Dieb.",
+			"D02A9C70": "Kontaktieren Sie Miss Vetrova.",
+			"D23A81FA": "Geben Sie Ihre Ankunft im Wellness-Bereich bekannt.",
+			"C8CAB935": "Treffen Sie Miss Vetrova im Wellness-Bereich."
+		},
+		"es": {
+			"1EE61683": "Una oportunidad lucrativa",
+			"29AFAEB8": "¿Una nota de Ljudmila Vetrova? Me pregunto qué querrá de ti, 47. Tanto da, sería una pena hacerla esperar...",
+			"45FD4981": "Correspondencia inesperada",
+			"06E920ED": "Bueno... ¿Te parece que descubramos cómo acaba esto?",
+			"4C08D15E": "Llama a la señorita Vetrova",
+			"8C68F89D": "Hazte pasar por el señor Rieper y reúnete con la señorita Vetrova en el restaurante",
+			"C7ED17A9": "Infíltrate en la villa",
+			"6FC3AD94": "Quítale el USB al ladrón",
+			"D02A9C70": "Contacta con la señorita Vetrova",
+			"D23A81FA": "Anuncia tu llegada al spa",
+			"C8CAB935": "Reúnete con la señorita Vetrova en el spa"
+		}
+	}
+}

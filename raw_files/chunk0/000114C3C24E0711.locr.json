@@ -1,0 +1,78 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "000114C3C24E0711",
+	"languages": {
+		"xx": {
+			"C9D71219": "",
+			"BED0228F": "",
+			"3EC24274": "Title",
+			"A7CB13CE": "Summary",
+			"D0CC2358": "Briefing",
+			"4EA8B6FB": "Step 1",
+			"39AF866D": "Step 2",
+			"A0A6D7D7": "Step 3",
+			"D7A1E741": "Step 4",
+			"471EFAD0": "Conclusion"
+		},
+		"en": {
+			"C9D71219": "",
+			"BED0228F": "",
+			"3EC24274": "A Private Meeting",
+			"A7CB13CE": "Novikov and Decker appear to have business, the kind best done in secret.",
+			"D0CC2358": "Novikov is meeting Max Decker, a senior agent in the Russian FSB. Small world. The FSB has been mounting a criminal case against Novikov but Decker’s boss, FSB section chief Nicholai Kamarov, committed suicide only last night. Or perhaps not. Either way, this could be a chance to catch Novikov away from the spotlight.",
+			"4EA8B6FB": "Find out more about Decker",
+			"39AF866D": "Get a Bodyguard disguise",
+			"A0A6D7D7": "Meet up with Decker",
+			"D7A1E741": "Escort Decker to the pavilion",
+			"471EFAD0": "Well done. Novikov will be here shortly. With a little patience, I'm sure an opportunity will present itself."
+		},
+		"fr": {
+			"C9D71219": "",
+			"BED0228F": "",
+			"3EC24274": "Réunion privée",
+			"A7CB13CE": "Il semble que Novikov et Decker aient des choses à se dire. Du genre de celles qu'on préfère garder secrètes...",
+			"D0CC2358": "Novikov doit rencontrer Max Decker, un agent chevronné du FSB russe. Le monde est petit. Le FSB préparait un dossier contre Novikov, mais le chef de section de Decker, Nicholai Kamarov, s'est suicidé la nuit dernière. À moins qu'on ne l'y ait aidé. Quoi qu'il en soit, c'est peut-être l'occasion de surprendre Novikov loin des projecteurs.",
+			"4EA8B6FB": "Apprenez-en plus sur Decker",
+			"39AF866D": "Procurez-vous une tenue de garde du corps",
+			"A0A6D7D7": "Allez chercher Decker",
+			"D7A1E741": "Escortez Decker jusqu'au pavillon",
+			"471EFAD0": "Beau travail. Novikov ne va pas tarder à arriver. Soyez patient, une occasion ne devrait pas tarder à se présenter."
+		},
+		"it": {
+			"C9D71219": "",
+			"BED0228F": "",
+			"3EC24274": "Un incontro privato",
+			"A7CB13CE": "Novikov e Decker hanno in ballo un affare. E vogliono discuterne in privato.",
+			"D0CC2358": "Novikov incontrerà Max Decker, un analista del FSB russo. Com'è piccolo il mondo. Il FSB si stava occupando di un caso su Novikov, ma il capo di Decker, il comandante di sezione Nicholai Kamarov, si è suicidato proprio ieri notte. O forse no. Ad ogni modo, è un'ottima occasione per avvicinarsi a Novikov mentre è lontano dai riflettori.",
+			"4EA8B6FB": "Raccogli informazioni su Decker",
+			"39AF866D": "Procurati un travestimento da guardia del corpo",
+			"A0A6D7D7": "Incontra Decker",
+			"D7A1E741": "Accompagna Decker al padiglione",
+			"471EFAD0": "Molto bene. Novikov arriverà a breve. Se saprai attendere, sono certa che si presenterà l'occasione giusta."
+		},
+		"de": {
+			"C9D71219": "",
+			"BED0228F": "",
+			"3EC24274": "Ein geheimes Treffen",
+			"A7CB13CE": "Novikov und Decker scheinen Geschäfte miteinander zu machen. Geheime Geschäfte.",
+			"D0CC2358": "Novikov trifft sich mit Max Decker, einem leitenden Agenten des russischen FSB. Wie klein die Welt doch ist. Der FSB hat gegen Novikov ermittelt, aber Deckers Vorgesetzter – Bereichsleiter Nikolai Kamarov – hat gestern Nacht Selbstmord begangen. Oder auch nicht. So oder so. Das könnte eine Chance sein, Novikov abseits des Scheinwerferlichts zu erwischen.",
+			"4EA8B6FB": "Finden Sie mehr über Decker heraus",
+			"39AF866D": "Verkleiden Sie sich als Leibwächter",
+			"A0A6D7D7": "Treffen Sie sich mit Decker",
+			"D7A1E741": "Begleiten Sie Decker zum Pavillon",
+			"471EFAD0": "Gute Arbeit. Novikov wird in Kürze hier sein. Wenn Sie etwas Geduld haben, ergibt sich bestimmt eine Möglichkeit."
+		},
+		"es": {
+			"C9D71219": "",
+			"BED0228F": "",
+			"3EC24274": "Una reunión privada",
+			"A7CB13CE": "Novikov y Decker parecen traerse algo entre manos…  y es algo que no quieren tener a la vista.",
+			"D0CC2358": "Novikov se reunirá con Max Decker, un veterano analista del FSB ruso, en el templete de los jardines. El mundo es un pañuelo. El FSB ha estado preparando una causa criminal contra Novikov, pero el jefe de sección de Decker, Nicholai Kamarov, se suicidó anoche... o tal vez no. Aun así, esta podría ser la ocasión de alejar a Novikov de los focos. Decker ha recibido la orden de esperar en la terraza a uno de los guardias de Novikov.",
+			"4EA8B6FB": "Averigua algo más sobre Decker",
+			"39AF866D": "Consigue el disfraz de guardaespaldas",
+			"A0A6D7D7": "Reúnete con Decker",
+			"D7A1E741": "Escolta a Decker hasta el templete",
+			"471EFAD0": "Bien hecho. Novikov llegará aquí en breve. Ten algo de paciencia, seguro que se te presenta una oportunidad."
+		}
+	}
+}

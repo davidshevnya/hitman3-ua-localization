@@ -1,0 +1,78 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_npcs_newzealand.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"OUTFITS_SHEEP_GUARD_BODYGUARD_M_NAME": "Bodyguard",
+			"OUTFITS_SHEEP_GUARD_BODYGUARD_M_DESC": "Bodyguard DESC",
+			"OUTFITS_SHEEP_GUARD_BODYGUARD_LEADER_M_NAME": "Bodyguard Leader",
+			"OUTFITS_SHEEP_GUARD_BODYGUARD_LEADER_M_DESC": "Bodyguard Leader DESC",
+			"OUTFITS_SHEEP_UNIQUE_ALMA_F_NAME": "Alma Reynard",
+			"OUTFITS_SHEEP_UNIQUE_ALMA_F_DESC": "Alma Reynard DESC",
+			"OUTFITS_SHEEP_UNIQUE_ORSON_M_NAME": "Orson Mills",
+			"OUTFITS_SHEEP_UNIQUE_ORSON_M_DESC": "Orson Mills DESC",
+			"52B77AED": "Gimpsuit",
+			"0721A8BF": "Gimpsuit DESC"
+		},
+		"en": {
+			"OUTFITS_SHEEP_GUARD_BODYGUARD_M_NAME": "Bodyguard",
+			"OUTFITS_SHEEP_GUARD_BODYGUARD_M_DESC": "A Bodyguard",
+			"OUTFITS_SHEEP_GUARD_BODYGUARD_LEADER_M_NAME": "Bodyguard Leader",
+			"OUTFITS_SHEEP_GUARD_BODYGUARD_LEADER_M_DESC": "The Bodyguard Leader",
+			"OUTFITS_SHEEP_UNIQUE_ALMA_F_NAME": "Alma Reynard",
+			"OUTFITS_SHEEP_UNIQUE_ALMA_F_DESC": "Alma Reynard",
+			"OUTFITS_SHEEP_UNIQUE_ORSON_M_NAME": "Orson Mills",
+			"OUTFITS_SHEEP_UNIQUE_ORSON_M_DESC": "Orson Mills",
+			"52B77AED": "Gimpsuit",
+			"0721A8BF": "A Gimpsuit"
+		},
+		"fr": {
+			"OUTFITS_SHEEP_GUARD_BODYGUARD_M_NAME": "Garde du corps",
+			"OUTFITS_SHEEP_GUARD_BODYGUARD_M_DESC": "Un garde du corps.",
+			"OUTFITS_SHEEP_GUARD_BODYGUARD_LEADER_M_NAME": "Chef des gardes du corps",
+			"OUTFITS_SHEEP_GUARD_BODYGUARD_LEADER_M_DESC": "Le chef des gardes du corps.",
+			"OUTFITS_SHEEP_UNIQUE_ALMA_F_NAME": "Alma Reynard",
+			"OUTFITS_SHEEP_UNIQUE_ALMA_F_DESC": "Alma Reynard",
+			"OUTFITS_SHEEP_UNIQUE_ORSON_M_NAME": "Orson Mills",
+			"OUTFITS_SHEEP_UNIQUE_ORSON_M_DESC": "Orson Mills",
+			"52B77AED": "Costume intégral",
+			"0721A8BF": "Un costume intégral."
+		},
+		"it": {
+			"OUTFITS_SHEEP_GUARD_BODYGUARD_M_NAME": "Guardia del corpo",
+			"OUTFITS_SHEEP_GUARD_BODYGUARD_M_DESC": "Una guardia del corpo",
+			"OUTFITS_SHEEP_GUARD_BODYGUARD_LEADER_M_NAME": "Capo delle guardie del corpo",
+			"OUTFITS_SHEEP_GUARD_BODYGUARD_LEADER_M_DESC": "Il Capo delle guardie del corpo",
+			"OUTFITS_SHEEP_UNIQUE_ALMA_F_NAME": "Alma Reynard",
+			"OUTFITS_SHEEP_UNIQUE_ALMA_F_DESC": "Alma Reynard",
+			"OUTFITS_SHEEP_UNIQUE_ORSON_M_NAME": "Orson Mills",
+			"OUTFITS_SHEEP_UNIQUE_ORSON_M_DESC": "Orson Mills",
+			"52B77AED": "Tuta bondage",
+			"0721A8BF": "Una tuta bondage"
+		},
+		"de": {
+			"OUTFITS_SHEEP_GUARD_BODYGUARD_M_NAME": "Leibwächter",
+			"OUTFITS_SHEEP_GUARD_BODYGUARD_M_DESC": "Ein Leibwächter",
+			"OUTFITS_SHEEP_GUARD_BODYGUARD_LEADER_M_NAME": "Leibwächteranführer",
+			"OUTFITS_SHEEP_GUARD_BODYGUARD_LEADER_M_DESC": "Der Leibwächteranführer",
+			"OUTFITS_SHEEP_UNIQUE_ALMA_F_NAME": "Alma Reynard",
+			"OUTFITS_SHEEP_UNIQUE_ALMA_F_DESC": "Alma Reynard",
+			"OUTFITS_SHEEP_UNIQUE_ORSON_M_NAME": "Orson Mills",
+			"OUTFITS_SHEEP_UNIQUE_ORSON_M_DESC": "Orson Mills",
+			"52B77AED": "Latexanzug",
+			"0721A8BF": "Ein Latexanzug"
+		},
+		"es": {
+			"OUTFITS_SHEEP_GUARD_BODYGUARD_M_NAME": "Guardaespaldas",
+			"OUTFITS_SHEEP_GUARD_BODYGUARD_M_DESC": "Un guardaespaldas.",
+			"OUTFITS_SHEEP_GUARD_BODYGUARD_LEADER_M_NAME": "Jefe de guardaespaldas",
+			"OUTFITS_SHEEP_GUARD_BODYGUARD_LEADER_M_DESC": "El jefe de los guardaespaldas.",
+			"OUTFITS_SHEEP_UNIQUE_ALMA_F_NAME": "Alma Reynard",
+			"OUTFITS_SHEEP_UNIQUE_ALMA_F_DESC": "Alma Reynard",
+			"OUTFITS_SHEEP_UNIQUE_ORSON_M_NAME": "Orson Mills",
+			"OUTFITS_SHEEP_UNIQUE_ORSON_M_DESC": "Orson Mills",
+			"52B77AED": "Traje de látex",
+			"0721A8BF": "Traje de látex de sumisión."
+		}
+	}
+}

@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00C96ABFBA20A550",
+	"languages": {
+		"xx": {
+			"F89C6675": "Title_Knight's Gambit",
+			"619537CF": "Summary_Knight is blackmailing the KGB. High stakes indeed.",
+			"16920759": "Briefing_Apparently, Jasper Knight is demanding that his girlfriend accompanies him to the Soviet Union and he refuses to leave until he gets affirmation from his superiors in Moscow. The call will come through in the restricted, but otherwise unguarded radio room.",
+			"88F692FA": "Step 1_Examine note about Knight’s final demand.",
+			"FFF1A26C": "Step 2_Disguise yourself as the KGB officer.",
+			"66F8F3D6": "Step 3_Inform Jasper Knight that a call is waiting for him.",
+			"11FFC340": "Step 4_Escort Knight to the radio room.",
+			"8140DED1": "Conclusion_Good job Initiate. This should keep Knight occupied for a while.",
+			"F647EE47": "Step 5_Turn on the overhead projector"
+		},
+		"en": {
+			"F89C6675": "Final Terms",
+			"619537CF": "Knight is blackmailing the KGB. High stakes indeed.",
+			"16920759": "Apparently, Jasper Knight is demanding that his girlfriend accompanies him to the Soviet Union, and he refuses to leave until he gets affirmation from his superiors in Moscow. The call will come through in the restricted, but otherwise unguarded, radio room.",
+			"88F692FA": "Examine note about Knight’s final demand",
+			"FFF1A26C": "Disguise yourself as the KGB Officer",
+			"66F8F3D6": "Talk to Jasper Knight",
+			"11FFC340": "Escort Jasper Knight to the radio room",
+			"8140DED1": "Good thinking, Initiate. This should keep Knight’s attention for a while.",
+			"F647EE47": "Turn on the overhead projector"
+		},
+		"fr": {
+			"F89C6675": "Le dernier mot",
+			"619537CF": "Knight fait chanter le KGB. Il prend de gros risques.",
+			"16920759": "Apparemment, Jasper Knight exige que sa petite amie puisse l'accompagner en URSS et refuse de partir avant que ses supérieurs à Moscou n'acceptent sa demande. L'appel sera reçu dans la salle radio. L'accès est limité, mais elle n'est pas surveillée.",
+			"88F692FA": "Examinez la note correspondant à la demande de Knight",
+			"FFF1A26C": "Déguisez-vous en officier du KGB",
+			"66F8F3D6": "Parlez à Jasper Knight",
+			"11FFC340": "Escortez Jasper Knight jusqu'à la salle radio",
+			"8140DED1": "Bravo, Initié. Voilà qui devrait occuper Knight pendant un moment.",
+			"F647EE47": "Allumez le rétroprojecteur"
+		},
+		"it": {
+			"F89C6675": "Le condizioni di Knight",
+			"619537CF": "Sembra che Knight stia ricattando il KGB. La questione si complica.",
+			"16920759": "Jasper Knight pretende che la fidanzata lo accompagni in Unione Sovietica e si rifiuta di partire se non riceve il via libera dai superiori di Mosca. La chiamata passerà per la sala radio, che è ad accesso limitato ma priva di sorveglianza.",
+			"88F692FA": "Esamina il messaggio con la richiesta di Knight",
+			"FFF1A26C": "Travestiti da agente del KGB",
+			"66F8F3D6": "Parla con Jasper Knight",
+			"11FFC340": "Accompagna Knight alla sala radio",
+			"8140DED1": "Bel lavoro, recluta. Questo dovrebbe tenere impegnato Knight per un po'.",
+			"F647EE47": "Accendi il proiettore"
+		},
+		"de": {
+			"F89C6675": "Schachmatt",
+			"619537CF": "Knight erpresst den KGB. Der Mann spielt um hohe Einsätze.",
+			"16920759": "Jasper Knight besteht offenbar darauf, dass ihn seine Freundin in die Sowjetunion begleitet. Er wird also erst nach einer entsprechenden Bestätigung seiner Vorgesetzten in Moskau abreisen. Entgegennehmen wird er den Anruf im abgeriegelten, aber ansonsten unbewachten Funkraum.",
+			"88F692FA": "Lesen Sie die Notiz zu Knights letzter Forderung",
+			"FFF1A26C": "Verkleiden Sie sich als der KGB-Offizier",
+			"66F8F3D6": "Reden Sie mit Jasper Knight",
+			"11FFC340": "Begleiten Sie Jasper Knight in den Funkraum",
+			"8140DED1": "Gute Arbeit, Rekrut. Das dürfte Knight ein Weilchen beschäftigen.",
+			"F647EE47": "Schalten Sie den Overheadprojektor ein"
+		},
+		"es": {
+			"F89C6675": "Acuerdo final",
+			"619537CF": "Parece que Knight está chantajeando a la KGB. Se está jugando mucho.",
+			"16920759": "Al parecer, Jasper Knight exige que su novia lo acompañe a la Unión Soviética y se niega a partir hasta que no reciba el visto bueno de sus superiores de Moscú. La llamada se producirá en la restringida, aunque desprotegida, sala de radio.",
+			"88F692FA": "Examina la nota que incluye la última exigencia de Knight",
+			"FFF1A26C": "Disfrázate como el agente de la KGB",
+			"66F8F3D6": "Habla con Jasper Knight",
+			"11FFC340": "Acompaña a Knight a la sala de radio",
+			"8140DED1": "Buen trabajo, iniciado. Con esto Knight andará ocupado un tiempo.",
+			"F647EE47": "Enciende el retroproyector"
+		}
+	}
+}

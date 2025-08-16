@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00C1A20DABF3EEF6",
+	"languages": {
+		"xx": {
+			"2D40A9F6": "Title",
+			"B449F84C": "Summary",
+			"C34EC8DA": "Briefing",
+			"5D2A5D79": "Conclusion",
+			"2A2D6DEF": "Step 1",
+			"B3243C55": "Step 2",
+			"C4230CC3": "Step 3",
+			"549C1152": "Step 4",
+			"435CA821": "Step 5",
+			"345B98B7": "Step 6",
+			"A4E2DCA1": "Disable Line"
+		},
+		"en": {
+			"2D40A9F6": "Absolution",
+			"B449F84C": "Entering the lab requires a keycard and a uniform. Luckily, both are within reach.",
+			"C34EC8DA": "An accident at the Ether lab has claimed the life of a scientist. His body is currently stored at the town morgue, and a guilt-ridden colleague plans to visit there to pay her respects. Between them, these two have everything we need to infiltrate the field lab.",
+			"5D2A5D79": "The deceased is still fully clothed, I see. One man’s loss, as they say.",
+			"2A2D6DEF": "Investigate the morgue",
+			"B3243C55": "Get a Church Staff disguise",
+			"C4230CC3": "Get inside the morgue",
+			"549C1152": "Follow the lab technician into the morgue",
+			"435CA821": "Get the lab technician's keycard",
+			"345B98B7": "Find the seaside entrance to the secret lab",
+			"A4E2DCA1": "The Ether biolab has already been infiltrated"
+		},
+		"fr": {
+			"2D40A9F6": "Absolution",
+			"B449F84C": "Pour entrer dans le laboratoire, il vous faudra une carte d'accès et un uniforme. Deux choses que vous devriez pouvoir vous procurer facilement.",
+			"C34EC8DA": "Un accident de laboratoire a coûté la vie à un scientifique, dont le corps se trouve désormais à la morgue. Une de ses collègues, rongée par la culpabilité, a prévu de s'y présenter pour lui rendre un dernier hommage. L'un et l'autre présentent plusieurs possibilités d'infiltrer le laboratoire de recherches.",
+			"5D2A5D79": "Le défunt est encore habillé, je vois. Le malheur des uns fait le bonheur des autres, comme on dit.",
+			"2A2D6DEF": "Inspectez la morgue",
+			"B3243C55": "Procurez-vous une tenue de personnel d'église",
+			"C4230CC3": "Entrez dans la morgue",
+			"549C1152": "Suivez le technicien de laboratoire dans la morgue",
+			"435CA821": "Obtenez la carte d'accès du technicien de laboratoire",
+			"345B98B7": "Trouvez l'entrée en bord de mer du labo secret",
+			"A4E2DCA1": "Le laboratoire Ether a déjà été infiltré"
+		},
+		"it": {
+			"2D40A9F6": "Assoluzione",
+			"B449F84C": "Per entrare nel laboratorio servono una scheda d'accesso e un'uniforme. Per fortuna, entrambi sono nei dintorni.",
+			"C34EC8DA": "Un incidente al laboratorio della Ether è costato la vita a uno scienziato. Il suo corpo è custodito nell'obitorio cittadino e un'ex collega, mossa dai sensi di colpa, ha deciso di porgergli i suoi rispetti. Quei due, insieme, potrebbero avere tutto ciò che ci serve per entrare nel laboratorio.",
+			"5D2A5D79": "A quanto pare, il defunto ha ancora i vestiti. Ma a lui non servono più...",
+			"2A2D6DEF": "Ispeziona l'obitorio",
+			"B3243C55": "Procurati un travestimento da membro del personale della chiesa",
+			"C4230CC3": "Entra nell'obitorio",
+			"549C1152": "Segui il tecnico di laboratorio nell'obitorio",
+			"435CA821": "Ottieni la scheda d'accesso da tecnico di laboratorio",
+			"345B98B7": "Trova l'entrata del laboratorio segreto sulla costa",
+			"A4E2DCA1": "Ti sei già infiltrato nel laboratorio della Ether"
+		},
+		"de": {
+			"2D40A9F6": "Absolution",
+			"B449F84C": "Ohne Codekarte und Uniform kommen Sie nicht in das Labor. Ein Glück, dass Sie beides schnell besorgen können.",
+			"C34EC8DA": "Bei einem Unfall im Labor der Ether Corporation wurde ein Wissenschaftler getötet. Seine sterblichen Überreste wurden in die örtliche Leichenhalle gebracht, wo ihm eine Kollegin in Kürze die letzte Ehre erweisen wird. Die beiden müssten alles haben, was wir brauchen, um in das Labor einzudringen.",
+			"5D2A5D79": "Der Verstorbene ist immer noch komplett bekleidet. Wie praktisch.",
+			"2A2D6DEF": "Durchsuchen Sie die Leichenhalle",
+			"B3243C55": "Verkleiden Sie sich als Kirchenvertreter",
+			"C4230CC3": "Finden Sie einen Weg in die Leichenhalle",
+			"549C1152": "Folgen Sie der Labortechnikerin in die Leichenhalle",
+			"435CA821": "Beschaffen Sie sich die Codekarte der Labortechnikerin",
+			"345B98B7": "Finden Sie den Küsten-Eingang in das geheime Labor",
+			"A4E2DCA1": "Das Ether-Labor wurde bereits infiltriert"
+		},
+		"es": {
+			"2D40A9F6": "Absolución",
+			"B449F84C": "Para entrar al laboratorio necesitas una tarjeta de acceso y un uniforme. Por suerte, ambos están a tu alcance.",
+			"C34EC8DA": "Un accidente en el laboratorio de Ether se ha cobrado la vida de un científico. Ahora su cuerpo se encuentra en la morgue de la ciudad y una colega que se siente culpable planea ir a visitarlo para presentar sus respetos. Estos dos empleados de Ether podrían tener todo lo que necesitamos para infiltrarnos en el laboratorio de pruebas.",
+			"5D2A5D79": "Veo que el fallecido sigue vestido. Como se suele decir: desgracia ajena...",
+			"2A2D6DEF": "Investiga la morgue",
+			"B3243C55": "Consigue el disfraz de personal de la iglesia",
+			"C4230CC3": "Encuentra una forma de entrar en la morgue",
+			"549C1152": "Sigue a la técnica de laboratorio hasta la morgue",
+			"435CA821": "Consigue la tarjeta de acceso de la técnica de laboratorio",
+			"345B98B7": "Encuentra la entrada costera del laboratorio secreto",
+			"A4E2DCA1": "Ya te has infiltrado en el laboratorio de Ether"
+		}
+	}
+}

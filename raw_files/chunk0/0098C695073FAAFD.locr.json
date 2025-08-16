@@ -1,0 +1,60 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0098C695073FAAFD",
+	"languages": {
+		"xx": {
+			"5EDEA3C2": "Title",
+			"1CDB4AA2": "Headline",
+			"0FC2A72E": "Briefing",
+			"93D71491": "Conclusion",
+			"3ADF15A4": "",
+			"56DF950E": "",
+			"56B25E87": ""
+		},
+		"en": {
+			"5EDEA3C2": "Doomsday Watch",
+			"1CDB4AA2": "An exploding smartwatch. Rose is nothing if not creative.",
+			"0FC2A72E": "Fascinating. According to the blueprint, Sean Rose is building an explosive battery unit for a Link 4 smartwatch. The charge appears to be email triggered. The unassuming target checks his messages, the virus triggers the charge, and \"boom.\" Very clever, not to mention devious. The resident hackers have installed the software trigger on one of their phones. And here is the punch line: Rose himself wears a Link 4.",
+			"93D71491": "Excellent, 47. I dare say Rose is about to get a taste of his own medicine.",
+			"3ADF15A4": "Find the explosive battery",
+			"56DF950E": "Find the hacker's phone",
+			"56B25E87": "Swap the battery in Rose's watch"
+		},
+		"fr": {
+			"5EDEA3C2": "Heure funeste",
+			"1CDB4AA2": "Une montre connectée explosive. Rose a de l'imagination.",
+			"0FC2A72E": "Intéressant. Selon le schéma, Sean Rose construirait une batterie explosive pour une montre connectée Link 4. La charge semble être déclenchée par e-mail. La cible vérifie ses messages, le virus amorce la bombe et boum ! C'est malin, voire sournois. Les hackers du site ont installé le programme déclencheur sur un de leurs téléphones. Et vous savez le plus drôle ? Rose lui-même porte une Link 4.",
+			"93D71491": "Excellent, 47. Rose va pouvoir tester son invention en exclusivité.",
+			"3ADF15A4": "Trouvez la pile explosive",
+			"56DF950E": "Trouvez le téléphone du hacker",
+			"56B25E87": "Échangez la batterie de la montre de Sean Rose"
+		},
+		"it": {
+			"5EDEA3C2": "Orologio del giudizio",
+			"1CDB4AA2": "Uno smartwatch esplosivo. Rose è un tipo decisamente creativo.",
+			"0FC2A72E": "Affascinante. Secondo i progetti, Sean Rose sta costruendo una batteria esplosiva per uno smartwatch Link 4. La carica sembra attivabile via email. L'ignaro bersaglio controlla i messaggi, il virus innesca l'esplosivo e \"bum\". Astuto, anche se frutto di una mente contorta. Gli hacker del complesso hanno installato il programma di attivazione su uno dei loro telefoni. E senti questa: Rose stesso ha al polso un Link 4.",
+			"93D71491": "Perfetto, 47. Oserei dire che Rose sta per essere ripagato con la sua stessa moneta.",
+			"3ADF15A4": "Trova la batteria esplosiva",
+			"56DF950E": "Trova il telefono dell'hacker",
+			"56B25E87": "Scambia la batteria dell'orologio di Rose"
+		},
+		"de": {
+			"5EDEA3C2": "Die Uhr tickt",
+			"1CDB4AA2": "Eine explodierende Smartwatch. Rose ist wirklich kreativ.",
+			"0FC2A72E": "Faszinierend. Dem Plan nach zu urteilen, baut Sean Rose einen explosiven Akku für eine Link 4 Smartwatch.\r\nDer Sprengsatz wird offenbar per E-Mail gezündet. Das arglose Ziel checkt seine Nachrichten, das Virus zündet die Ladung und „Bumm“. Raffiniert und teuflisch. Die hiesigen Hacker haben den Software-Zünder auf einem ihrer Handys installiert. Und jetzt kommt der Knaller.\r\nRose trägt auch eine Link 4.",
+			"93D71491": "Ausgezeichnet, 47. Ich würde sagen, bald erlebt Rose eine böse Überraschung.",
+			"3ADF15A4": "Finden Sie den explosiven Akku",
+			"56DF950E": "Finden Sie das Handy des Hackers",
+			"56B25E87": "Tauschen Sie den Akku in Roses Uhr aus"
+		},
+		"es": {
+			"5EDEA3C2": "El reloj del apocalipsis",
+			"1CDB4AA2": "Un smartwatch explosivo... A Rose no le falta inspiración.",
+			"0FC2A72E": "Fascinante. Según los planos, Sean Rose está fabricando una batería explosiva para un smartwatch Link 4. La carga se activaría por correo electrónico. En cuanto el objetivo mira sus mensajes, el virus activa la carga y \"bum\". Muy inteligente y algo retorcido. Los hackers de la milicia han instalado el programa de activación en uno de sus teléfonos y aquí llega lo bueno: Rose también lleva un Link 4.",
+			"93D71491": "Excelente, 47. Yo diría que Rose está a punto de probar su propia medicina.",
+			"3ADF15A4": "Encuentra la batería explosiva",
+			"56DF950E": "Encuentra el teléfono del hacker",
+			"56B25E87": "Cambia la batería del reloj de Rose"
+		}
+	}
+}

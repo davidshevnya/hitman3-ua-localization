@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/menutext_sc2.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"UI_LOCATION_PARENT_SALTY_COUNTRY": "Singapore",
+			"UI_LOCATION_PARENT_SALTY_CITY": "Hantu Port",
+			"UI_LOCATION_PARENT_SALTY_NAME": "Hantu Port, Singapore",
+			"UI_LOCATION_SALTY_SEAGULL_CITY": "Hantu Port",
+			"UI_LOCATION_SALTY_SEAGULL_COUNTRY": "Singapore",
+			"UI_LOCATION_SALTY_SEAGULL_TIMEZONE": "LocalTime: GMT+8",
+			"UI_LOCATION_SALTY_SEAGULL_TITLE": "The Pen and the Sword",
+			"UI_LOCATION_SALTY_SEAGULL_NAME": "Hantu Port, Singapore"
+		},
+		"en": {
+			"UI_LOCATION_PARENT_SALTY_COUNTRY": "Singapore",
+			"UI_LOCATION_PARENT_SALTY_CITY": "Hantu Port",
+			"UI_LOCATION_PARENT_SALTY_NAME": "Hantu Port, Singapore",
+			"UI_LOCATION_SALTY_SEAGULL_CITY": "Hantu Port",
+			"UI_LOCATION_SALTY_SEAGULL_COUNTRY": "Singapore",
+			"UI_LOCATION_SALTY_SEAGULL_TIMEZONE": "LocalTime: GMT+8",
+			"UI_LOCATION_SALTY_SEAGULL_TITLE": "The Pen and the Sword",
+			"UI_LOCATION_SALTY_SEAGULL_NAME": "Hantu Port, Singapore"
+		},
+		"fr": {
+			"UI_LOCATION_PARENT_SALTY_COUNTRY": "Singapour",
+			"UI_LOCATION_PARENT_SALTY_CITY": "Port de Hantu",
+			"UI_LOCATION_PARENT_SALTY_NAME": "Port de Hantu, Singapour",
+			"UI_LOCATION_SALTY_SEAGULL_CITY": "Port de Hantu",
+			"UI_LOCATION_SALTY_SEAGULL_COUNTRY": "Singapour",
+			"UI_LOCATION_SALTY_SEAGULL_TIMEZONE": "Heure locale : GMT +8",
+			"UI_LOCATION_SALTY_SEAGULL_TITLE": "La plume et l'épée",
+			"UI_LOCATION_SALTY_SEAGULL_NAME": "Port de Hantu, Singapour"
+		},
+		"it": {
+			"UI_LOCATION_PARENT_SALTY_COUNTRY": "Singapore",
+			"UI_LOCATION_PARENT_SALTY_CITY": "Porto di Hantu",
+			"UI_LOCATION_PARENT_SALTY_NAME": "Porto di Hantu, Singapore",
+			"UI_LOCATION_SALTY_SEAGULL_CITY": "Porto di Hantu",
+			"UI_LOCATION_SALTY_SEAGULL_COUNTRY": "Singapore",
+			"UI_LOCATION_SALTY_SEAGULL_TIMEZONE": "OraLocale: GMT+8",
+			"UI_LOCATION_SALTY_SEAGULL_TITLE": "La penna e la spada",
+			"UI_LOCATION_SALTY_SEAGULL_NAME": "Porto di Hantu, Singapore"
+		},
+		"de": {
+			"UI_LOCATION_PARENT_SALTY_COUNTRY": "Singapur",
+			"UI_LOCATION_PARENT_SALTY_CITY": "Hantu-Hafen",
+			"UI_LOCATION_PARENT_SALTY_NAME": "Hantu-Hafen, Singapur",
+			"UI_LOCATION_SALTY_SEAGULL_CITY": "Hantu-Hafen",
+			"UI_LOCATION_SALTY_SEAGULL_COUNTRY": "Singapur",
+			"UI_LOCATION_SALTY_SEAGULL_TIMEZONE": "Örtliche Zeit: GMT+8",
+			"UI_LOCATION_SALTY_SEAGULL_TITLE": "Die Feder und das Schwert",
+			"UI_LOCATION_SALTY_SEAGULL_NAME": "Hantu-Hafen, Singapur"
+		},
+		"es": {
+			"UI_LOCATION_PARENT_SALTY_COUNTRY": "Singapur",
+			"UI_LOCATION_PARENT_SALTY_CITY": "Puerto de Hantu",
+			"UI_LOCATION_PARENT_SALTY_NAME": "Puerto de Hantu, Singapur",
+			"UI_LOCATION_SALTY_SEAGULL_CITY": "Puerto de Hantu",
+			"UI_LOCATION_SALTY_SEAGULL_COUNTRY": "Singapur",
+			"UI_LOCATION_SALTY_SEAGULL_TIMEZONE": "Hora local: GMT +8",
+			"UI_LOCATION_SALTY_SEAGULL_TITLE": "La pluma y la espada",
+			"UI_LOCATION_SALTY_SEAGULL_NAME": "Puerto de Hantu, Singapur"
+		}
+	}
+}

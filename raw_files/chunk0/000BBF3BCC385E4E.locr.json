@@ -1,0 +1,78 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "000BBF3BCC385E4E",
+	"languages": {
+		"xx": {
+			"515EAB10": "PH_Headline",
+			"B7E4ADE2": "PH_Text",
+			"916DFF93": "PH_Headline",
+			"0F096A30": "PH_Text",
+			"780E5AA6": "PH_Hint",
+			"E1070B1C": "PH_Hint",
+			"96003B8A": "PH_Hint",
+			"06BF261B": "PH_Hint_Headline",
+			"71B8168D": "PH_Sign_FinishHim",
+			"117F9F68": "PH_Sign_FinishHimHeadLine"
+		},
+		"en": {
+			"515EAB10": "Eavesdropping",
+			"B7E4ADE2": "Some conversations are more important than others. Listen closely.",
+			"916DFF93": "Tracking Mission Stories",
+			"0F096A30": "This information could lead to interesting ways of luring your target out. These are called Mission Stories. You can choose to be guided through Mission Stories, or piece the puzzle together by yourself.",
+			"780E5AA6": "Investigate the fighter jet.",
+			"E1070B1C": "Eavesdrop on the airplane mechanics.",
+			"96003B8A": "Press {NOTEBOOK} at any time to learn more about Mission Stories.",
+			"06BF261B": "Mission Stories",
+			"71B8168D": "Mission Stories will complete before the final blow. The trap is set. Now fetch Jasper Knight and guide him through the procedure.",
+			"117F9F68": "Mission Story Complete"
+		},
+		"fr": {
+			"515EAB10": "Espionnage",
+			"B7E4ADE2": "Certaines conversations sont plus importantes que d'autres. Tendez bien l'oreille.",
+			"916DFF93": "Suivre les intrigues",
+			"0F096A30": "Ces renseignements pourraient vous aider à piéger votre cible. C'est ce qu'on appelle une \"intrigue\". Vous pouvez choisir de les suivre ou de les ignorer afin de reconstituer vous-même le puzzle.",
+			"780E5AA6": "Examinez l'avion de chasse.",
+			"E1070B1C": "Espionnez les mécaniciens aéronautiques.",
+			"96003B8A": "Appuyez sur {NOTEBOOK} à tout moment pour en apprendre plus sur les intrigues.",
+			"06BF261B": "Intrigues",
+			"71B8168D": "L'intrigue sera terminée avant le bouquet final.\r\nLe piège est tendu. Maintenant, allez  trouver Jasper Knight et guidez-le à travers la procédure de sécurité.",
+			"117F9F68": "Intrigue terminée"
+		},
+		"it": {
+			"515EAB10": "Origliare",
+			"B7E4ADE2": "Alcune conversazioni sono più importanti di altre. Ascoltale attentamente.",
+			"916DFF93": "Seguire le Storie della missione",
+			"0F096A30": "Le Storie della missione sono informazioni che possono suggerirti metodi molto interessanti per fare uscire allo scoperto il tuo bersaglio. Puoi scegliere di seguirle punto per punto o puoi mettere insieme i pezzi del puzzle per conto tuo.",
+			"780E5AA6": "Esamina il jet da combattimento.",
+			"E1070B1C": "Origlia la conversazione dei meccanici.",
+			"96003B8A": "Premi {NOTEBOOK} in qualsiasi momento per maggiori informazioni sulle Storie della missione.",
+			"06BF261B": "Storie della missione",
+			"71B8168D": "Le Storie della missione vengono completate prima del colpo finale. La trappola è pronta. Adesso trova Jasper Knight e fagli seguire la procedura.",
+			"117F9F68": "Storia della missione completata"
+		},
+		"de": {
+			"515EAB10": "Belauschen",
+			"B7E4ADE2": "Einige Gespräche sind informationsreicher als andere. Hören Sie genau hin.",
+			"916DFF93": "Story-Missionen verfolgen",
+			"0F096A30": "Diese Information könnte Ihnen helfen, das Ziel auf interessante Art und Weise in eine Falle zu locken. Das sind Story-Missionen. Sie haben die Möglichkeit, Story-Missionen Schritt für Schritt zu verfolgen, oder es auf eigene Faust zu versuchen.",
+			"780E5AA6": "Untersuchen Sie den Kampfjet.",
+			"E1070B1C": "Belauschen Sie die Flugzeug-Mechaniker.",
+			"96003B8A": "Sie können jederzeit {NOTEBOOK} drücken, um mehr über Ihre Story-Missionen zu erfahren.",
+			"06BF261B": "Story-Missionen",
+			"71B8168D": "Story-Missionen enden vor dem eigentlichen Todesstoß. Die Falle ist gestellt - holen Sie jetzt Jasper Knight und leiten Sie ihn durch die Prozedur.",
+			"117F9F68": "Story-Mission genutzt"
+		},
+		"es": {
+			"515EAB10": "Espiar conversaciones",
+			"B7E4ADE2": "Algunas conversaciones son más importantes que otras. Escucha con atención.",
+			"916DFF93": "Seguir historias de la misión",
+			"0F096A30": "Esta información podría ser útil para exponer a tu objetivo de diferentes formas. Es lo que se llama «historias de la misión». Puedes elegir entre seguir los pasos de la historia de la misión o averiguar tú mismo cómo encajar las piezas del puzle.",
+			"780E5AA6": "Investiga el caza.",
+			"E1070B1C": "Espía la conversación de los mecánicos aeronáuticos.",
+			"96003B8A": "Pulsa {NOTEBOOK} cuando quieras para obtener más información sobre las historias de la misión.",
+			"06BF261B": "Historias de la misión",
+			"71B8168D": "Las historias de la misión se completarán antes de dar el golpe final. La trampa está lista. Ahora, busca a Jasper Knight y guíalo a través del proceso.",
+			"117F9F68": "Historia de la misión completada"
+		}
+	}
+}

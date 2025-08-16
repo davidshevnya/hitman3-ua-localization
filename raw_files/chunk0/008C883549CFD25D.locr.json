@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "008C883549CFD25D",
+	"languages": {
+		"xx": {
+			"BC31DE94": "Title",
+			"AADEFCB7": "Flavor",
+			"E334D096": "Description",
+			"73275048": "Conclusion",
+			"2D536931": "Disguise yourself as the fired banker",
+			"2E0A4F1D": "Gain access to CEOs Office"
+		},
+		"en": {
+			"BC31DE94": "Hostile Termination",
+			"AADEFCB7": "One of the investment bankers at Milton-Fitzpatrick is facing termination. He's got a private meeting with Director Savalas and has been told to register at the top floor reception. Well, terminations are your specialty, 47...",
+			"E334D096": "Someone is about to have a bad day.",
+			"73275048": "Excellent, 47. This should be a termination Savalas won't forget.",
+			"2D536931": "Disguise yourself as the fired banker",
+			"2E0A4F1D": "Approach the Director's assistant"
+		},
+		"fr": {
+			"BC31DE94": "Mise à pied hostile",
+			"AADEFCB7": "L'un des banquiers de l'établissement risque de se retrouver à la porte. Il a rendez-vous avec Mme Savalas, et on lui a demandé de se présenter à la réception du dernier étage. Les mises à pied sont votre spécialité, 47…",
+			"E334D096": "Quelqu'un va passer une mauvaise journée…",
+			"73275048": "Excellent, 47. Voilà un licenciement que Savalas ne risque pas d'oublier.",
+			"2D536931": "Déguisez-vous en banquier licencié",
+			"2E0A4F1D": "Parlez à l'assistant de la directrice"
+		},
+		"it": {
+			"BC31DE94": "Eliminazione ostile",
+			"AADEFCB7": "Uno degli investitori della Milton-Fitzpatrick sta per essere eliminato dal libro paga. Ha una riunione privata con la direttrice Savalas e gli è stato detto di registrarsi alla reception dell'ultimo piano. Beh, le eliminazioni sono la tua specialità, 47...",
+			"E334D096": "Qualcuno sta per avere una pessima giornata.",
+			"73275048": "Eccellente, 47. Questo è un licenziamento che Savalas non dimenticherà facilmente.",
+			"2D536931": "Travestiti da consulente licenziato",
+			"2E0A4F1D": "Dirigiti verso l'ufficio della direttrice"
+		},
+		"de": {
+			"BC31DE94": "Fristlose Kündigung",
+			"AADEFCB7": "Einer der Investmentbanker bei Milton-Fitzpatrick soll gefeuert werden. Er hat einen privaten Termin mit Direktorin Savalas. Er soll sich beim Empfang im obersten Stockwerk anmelden. Nun, Sie wissen ja, wie man Leute am besten feuert, 47 …",
+			"E334D096": "Da wird jemand einen ganz miesen Tag haben.",
+			"73275048": "Ausgezeichnet, 47. Das wird Savalas so schnell nicht vergessen.",
+			"2D536931": "Verkleiden Sie sich als der gefeuerte Banker.",
+			"2E0A4F1D": "Sprechen Sie den Assistenten der Direktorin an."
+		},
+		"es": {
+			"BC31DE94": "Finiquito hostil",
+			"AADEFCB7": "Van a darle el finiquito a uno de los banqueros de inversiones del Milton-Fitzpatrick. Se va a reunir en privado con la directora Savalas y le han dicho que se registre en la recepción de la planta superior. Bueno, eso de los finiquitos es tu especialidad, 47.",
+			"E334D096": "Alguien está a punto de tener un mal día.",
+			"73275048": "Excelente, 47. Este será un finiquito que Savalas no olvidará.",
+			"2D536931": "Disfrázate del banquero despedido",
+			"2E0A4F1D": "Establece contacto con el ayudante de la directora"
+		}
+	}
+}

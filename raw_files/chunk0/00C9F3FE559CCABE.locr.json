@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00C9F3FE559CCABE",
+	"languages": {
+		"xx": {
+			"19AFEC9F": "Title",
+			"3DA9BB0D": "Flavor",
+			"D03EC2AF": "Description",
+			"7A288C25": "Conclusion",
+			"58774CA6": "Disguise yourself as the Job Applicant",
+			"AD44E8B0": "Approach the reception"
+		},
+		"en": {
+			"19AFEC9F": "The Job Interview",
+			"3DA9BB0D": "Milton-Fitzpatrick is holding a round of job interviews. The final applicant was last seen going into the bathrooms where he's been for some time. Nerves, maybe?",
+			"D03EC2AF": "One final test?",
+			"7A288C25": "Best of luck in your interview, 47. Let's see where this will lead you to.",
+			"58774CA6": "Disguise yourself as the Job Applicant",
+			"AD44E8B0": "Approach the reception"
+		},
+		"fr": {
+			"19AFEC9F": "L'entretien",
+			"3DA9BB0D": "Milton-Fitzpatrick fait passer plusieurs entretiens d'embauche. Le dernier candidat a été aperçu en direction des toilettes, où il est depuis déjà un bon moment. Serait-il nerveux ?",
+			"D03EC2AF": "Un dernier examen ?",
+			"7A288C25": "Bonne chance pour l'entretien, 47. Voyons où cela vous mène.",
+			"58774CA6": "Déguisez-vous en candidat pour l'entretien",
+			"AD44E8B0": "Allez à la réception"
+		},
+		"it": {
+			"19AFEC9F": "Il colloquio",
+			"3DA9BB0D": "La Milton-Fitzpatrick sta tenendo una sessione di colloqui. L'ultimo candidato è stato visto dirigersi verso i bagni, dove è rimasto per un po'. Sarà agitato?",
+			"D03EC2AF": "Una prova finale?",
+			"7A288C25": "Buona fortuna per il colloquio, 47. Vediamo dove ti porterà.",
+			"58774CA6": "Travestiti da candidato per il posto di lavoro",
+			"AD44E8B0": "Avvicinati alla reception"
+		},
+		"de": {
+			"19AFEC9F": "Das Vorstellungsgespräch",
+			"3DA9BB0D": "Milton-Fitzpatrick führt im Moment Einstellungsgespräche durch. Der letzte Bewerber hat gerade die Toilette aufgesucht, wo er sich jetzt schon eine ganze Weile aufhält. Vielleicht hat er es mit den Nerven?",
+			"D03EC2AF": "Eine letzte Prüfung?",
+			"7A288C25": "Viel Glück bei Ihrem Vorstellungsgespräch, 47. Mal sehen, wohin Sie das führt.",
+			"58774CA6": "Verkleiden Sie sich als Bewerber.",
+			"AD44E8B0": "Treten Sie an den Empfang heran."
+		},
+		"es": {
+			"19AFEC9F": "La entrevista de trabajo",
+			"3DA9BB0D": "El Milton-Fitzpatrick está llevando a cabo entrevistas de trabajo. Al último aspirante lo vieron entrar en el baño, donde ya lleva un buen rato. ¿Serán los nervios?",
+			"D03EC2AF": "¿La prueba final?",
+			"7A288C25": "Mucha suerte en tu entrevista, 47. Veamos adónde te lleva todo esto.",
+			"58774CA6": "Disfrázate del aspirante al puesto de trabajo",
+			"AD44E8B0": "Acércate a recepción"
+		}
+	}
+}

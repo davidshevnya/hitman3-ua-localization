@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00F15BE56280C44D",
+	"languages": {
+		"xx": {
+			"072602B5": "Title",
+			"9E2F530F": "Summary",
+			"E9286399": "Briefing",
+			"774CF63A": "Conclusion",
+			"004BC6AC": "Step 1",
+			"99429716": "Step 2"
+		},
+		"en": {
+			"072602B5": "All Access",
+			"9E2F530F": "There’s an all-access keycard to the consulate. Sloppy, but useful.",
+			"E9286399": "The strike team in the parking garage beneath the Swedish consulate uses an all-access keycard. Fortunately for us, the soldier forgot to leave it with his team and is now heading back to the garage, through a long and lonely tunnel.",
+			"774CF63A": "There. Certainly beats climbing drainpipes.",
+			"004BC6AC": "Get the keycard",
+			"99429716": "Get to the staircase locked door"
+		},
+		"fr": {
+			"072602B5": "Passe-partout",
+			"9E2F530F": "Une carte d'accès permettant d'ouvrir toutes les portes du consulat. Pas très intelligent, mais utile.",
+			"E9286399": "L'équipe d'intervention postée dans le parking souterrain du consulat suédois utilise une carte d'accès générale. Par chance, le soldat a oublié de la laisser à ses coéquipiers et a fait demi-tour pour retourner au parking. Via un tunnel long et désert...",
+			"774CF63A": "Et voilà ! C'est quand même plus pratique que d'escalader des gouttières.",
+			"004BC6AC": "Obtenez la carte d'accès",
+			"99429716": "Dirigez-vous vers la porte fermée de l'escalier"
+		},
+		"it": {
+			"072602B5": "Passepartout",
+			"9E2F530F": "Esiste una chiave d'accesso passepartout per il consolato. Efficace, anche se non ne avrai bisogno.",
+			"E9286399": "La squadra d'assalto appostata nel parcheggio del consolato svedese dispone di una chiave d'accesso privilegiato. Per nostra fortuna, il soldato ha dimenticato di lasciarla alla squadra e ora sta tornando al parcheggio attraverso un tunnel lungo e isolato.",
+			"774CF63A": "Sempre meglio che arrampicarsi su una grondaia.",
+			"004BC6AC": "Ottieni la chiave d'accesso",
+			"99429716": "Raggiungi la porta chiusa a chiave della scalinata"
+		},
+		"de": {
+			"072602B5": "Uneingeschränkter Zugang",
+			"9E2F530F": "Es gibt eine Codekarte, die den uneingeschränkten Zugang zum Konsulat ermöglicht. Fahrlässig, aber praktisch.",
+			"E9286399": "Der Einsatztrupp im Parkhaus unter dem schwedischen Konsulat hat eine Codekarte für uneingeschränkten Zugang. Glücklicherweise hat einer der Soldaten vergessen, sie dem Team zu geben und ist jetzt unterwegs zum Parkhaus ... durch einen langen und einsamen Tunnel.",
+			"774CF63A": "So. Das ist doch besser, als an Dachrinnen herumzuklettern.",
+			"004BC6AC": "Beschaffen Sie sich die Codekarte",
+			"99429716": "Erreichen Sie die abgeschlossene Tür bei der Treppe"
+		},
+		"es": {
+			"072602B5": "Acceso total",
+			"9E2F530F": "Así que hay una tarjeta de acceso maestra del consulado. No muy bien pensado, pero útil.",
+			"E9286399": "El equipo de asalto apostado en el aparcamiento subterráneo del consulado de Suecia utiliza una tarjeta maestra de acceso. Por suerte para nosotros, el soldado olvidó dejársela a su equipo, y ahora está volviendo al aparcamiento, por un túnel largo y solitario.",
+			"774CF63A": "Eso es. Lo cierto es que es mejor que trepar por tuberías.",
+			"004BC6AC": "Consigue la tarjeta de acceso",
+			"99429716": "Dirígete a la puerta cerrada de las escaleras"
+		}
+	}
+}

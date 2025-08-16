@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00391C2A5ECC9855",
+	"languages": {
+		"xx": {
+			"1FF22DCF": "as Hotel Staff",
+			"D15A1D0B": "as Hotel Security",
+			"5ABF3C66": "as Kitchen Staff",
+			"83858E60": "as a Waiter",
+			"B607754D": "as a Bodyguard",
+			"BF6AC524": "as Abel Da Silva",
+			"423F24F4": "as an Exterminator",
+			"04E347A5": "as a Grounds Keeper",
+			"1A0F1AF2": "as Recording Crew",
+			"F12B4468": "as a Hotel Guest",
+			"2681E4D7": "as a Cult Initiate"
+		},
+		"en": {
+			"1FF22DCF": "as Hotel Staff",
+			"D15A1D0B": "as Hotel Security",
+			"5ABF3C66": "as Kitchen Staff",
+			"83858E60": "as a Waiter",
+			"B607754D": "as a Bodyguard",
+			"BF6AC524": "as Abel de Silva",
+			"423F24F4": "as an Exterminator",
+			"04E347A5": "as a Grounds Keeper",
+			"1A0F1AF2": "as Recording Crew",
+			"F12B4468": "as a Hotel Guest",
+			"2681E4D7": "as a Cult Initiate"
+		},
+		"fr": {
+			"1FF22DCF": "en personnel hôtelier",
+			"D15A1D0B": "en membre de la sécurité de l'hôtel",
+			"5ABF3C66": "en personnel de cuisine",
+			"83858E60": "en serveur",
+			"B607754D": "en garde du corps",
+			"BF6AC524": "en Abel de Silva",
+			"423F24F4": "en exterminateur",
+			"04E347A5": "en jardinier",
+			"1A0F1AF2": "en membre de l'équipe d'enregistrement",
+			"F12B4468": "en client de l'hôtel",
+			"2681E4D7": "en membre de la secte"
+		},
+		"it": {
+			"1FF22DCF": "come membro del personale dell'hotel",
+			"D15A1D0B": "come addetto alla sicurezza dell'hotel",
+			"5ABF3C66": "come membro del personale di cucina",
+			"83858E60": "come cameriere",
+			"B607754D": "come guardia del corpo",
+			"BF6AC524": "come Abel de Silva",
+			"423F24F4": "come disinfestatore",
+			"04E347A5": "come giardiniere",
+			"1A0F1AF2": "come membro dello studio di registrazione",
+			"F12B4468": "come ospite dell'hotel",
+			"2681E4D7": "come apprendista del culto"
+		},
+		"de": {
+			"1FF22DCF": "als Hotelmitarbeiter",
+			"D15A1D0B": "als Hotel-Sicherheitsmann",
+			"5ABF3C66": "als Küchenpersonal",
+			"83858E60": "als Kellner",
+			"B607754D": "als Leibwächter",
+			"BF6AC524": "als Abel de Silva",
+			"423F24F4": "als Kammerjäger",
+			"04E347A5": "als Hausmeister",
+			"1A0F1AF2": "als Mitglied der Aufnahmecrew",
+			"F12B4468": "als Hotelgast",
+			"2681E4D7": "als Kultrekrut"
+		},
+		"es": {
+			"1FF22DCF": "como personal del hotel",
+			"D15A1D0B": "como seguridad del hotel",
+			"5ABF3C66": "como personal de cocina",
+			"83858E60": "como camarero",
+			"B607754D": "como guardaespaldas",
+			"BF6AC524": "como Abel de Silva",
+			"423F24F4": "como exterminador",
+			"04E347A5": "como encargado",
+			"1A0F1AF2": "como equipo de grabación",
+			"F12B4468": "como un huésped del hotel",
+			"2681E4D7": "como iniciado de la secta"
+		}
+	}
+}

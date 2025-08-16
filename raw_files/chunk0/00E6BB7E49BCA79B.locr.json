@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00E6BB7E49BCA79B",
+	"languages": {
+		"xx": {
+			"5303DC19": "PH_HOLSTER",
+			"AD64EC02": "PH_HOLSTERBODY"
+		},
+		"en": {
+			"5303DC19": "You Are Illegally Armed",
+			"AD64EC02": "Press {HOLSTER} to holster your weapon."
+		},
+		"fr": {
+			"5303DC19": "Vous êtes armé illégalement",
+			"AD64EC02": "Appuyez sur {HOLSTER} pour rengainer votre arme."
+		},
+		"it": {
+			"5303DC19": "Non sei autorizzato a portare armi",
+			"AD64EC02": "Premi {HOLSTER} per rinfoderare l'arma."
+		},
+		"de": {
+			"5303DC19": "Sie sind widerrechtlich bewaffnet",
+			"AD64EC02": "Drücken Sie {HOLSTER}, um Ihre Waffe wegzustecken."
+		},
+		"es": {
+			"5303DC19": "Está prohibido llevar armas",
+			"AD64EC02": "Pulsa {HOLSTER} para enfundar tu arma."
+		}
+	}
+}

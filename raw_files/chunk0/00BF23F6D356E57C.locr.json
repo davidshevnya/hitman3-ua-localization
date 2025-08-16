@@ -1,0 +1,42 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00BF23F6D356E57C",
+	"languages": {
+		"xx": {
+			"9B770F2E": "Investigate",
+			"B6A2AC7D": "Laptop",
+			"34D54917": "Flood Lights",
+			"0A6C493E": "Camera Lens"
+		},
+		"en": {
+			"9B770F2E": "Investigate",
+			"B6A2AC7D": "Laptop",
+			"34D54917": "Flood Lights",
+			"0A6C493E": "Camera Lens"
+		},
+		"fr": {
+			"9B770F2E": "Enquêter",
+			"B6A2AC7D": "Ordinateur portable",
+			"34D54917": "Lumières du sol",
+			"0A6C493E": "Objectif de caméra"
+		},
+		"it": {
+			"9B770F2E": "Indaga",
+			"B6A2AC7D": "Computer portatile",
+			"34D54917": "Riflettori",
+			"0A6C493E": "Obiettivo fotografico"
+		},
+		"de": {
+			"9B770F2E": "Untersuchen",
+			"B6A2AC7D": "Laptop",
+			"34D54917": "Flutlichter",
+			"0A6C493E": "Kameraobjektiv"
+		},
+		"es": {
+			"9B770F2E": "Examinar",
+			"B6A2AC7D": "Portátil",
+			"34D54917": "Focos",
+			"0A6C493E": "Lente de cámara"
+		}
+	}
+}

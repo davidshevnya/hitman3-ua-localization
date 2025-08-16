@@ -1,0 +1,60 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00ED682E3EA61744",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_BULLDOG_OBJ_FILE_LONG": "Find Alexa Carlisle's file on Arthur Edwards.",
+			"UI_CONTRACT_BULLDOG_LOCKED_REASON": "You should complete Bulldog before accessing this content.",
+			"UI_CONTRACT_BULLDOG_OBJ_FILE_TEXT": "Find the case file",
+			"UI_CONTRACT_BULLDOG_OBJ_FILE_NAME": "Find the case file",
+			"UI_CONTRACT_BULLDOG_TITLE": "Bulldog",
+			"UI_CONTRACT_BULLDOG_DESC": "Bulldog Description",
+			"839D6FBE": "Aim {AIM} the Camera at the Body to scan it"
+		},
+		"en": {
+			"UI_CONTRACT_BULLDOG_OBJ_FILE_LONG": "Alexa Carlisle has compiled a case file on Arthur Edwards. You need to find it.",
+			"UI_CONTRACT_BULLDOG_LOCKED_REASON": "You should complete Death In The Family before accessing this content.",
+			"UI_CONTRACT_BULLDOG_OBJ_FILE_TEXT": "Find the Case File",
+			"UI_CONTRACT_BULLDOG_OBJ_FILE_NAME": "Find the Case File",
+			"UI_CONTRACT_BULLDOG_TITLE": "Death In The Family",
+			"UI_CONTRACT_BULLDOG_DESC": "Alexa Carlisle is dead. According to the funeral invitation, that is. So naturally, it caused quite a stir when the late matriarch turned up at the breakfast table alive and kicking. Carlisle, wisely sensing that her number is up, has emerged from exile to tie up loose ends and secure the Carlisle legacy. She may be a monster, but you have to admire her due diligence. Carlisle descends from an ancient line of warrior aristocrats. Her great-grandfather made a killing in the second opium war and established an empire in shipping, railroads and newspaper publishing. While largely unknown to the public, the family still asserts its quiet dominance over global transport and logistics, media and technology. Most senior of the partners, Alexa Carlisle is cold as ice, tough as nails and sharp as a razor. Incidentally, it was her late father who first brought the three families together after the end of World War 2 at this very house. Meaning that this, gentlemen… is the birthplace of Providence.\r\n\r\nOne more thing; according to our intel, Carlisle keeps a case file on the Constant. Information that may be helpful in his recapture. So don’t leave the estate without it.",
+			"839D6FBE": "Aim {AIM} the Camera at the Body to scan it"
+		},
+		"fr": {
+			"UI_CONTRACT_BULLDOG_OBJ_FILE_LONG": "Alexa Carlisle a compilé un dossier sur Arthur Edwards. Vous devez le retrouver.",
+			"UI_CONTRACT_BULLDOG_LOCKED_REASON": "Il est recommandé de terminer \"Mort dans la famille\" avant d'accéder à ce contenu.",
+			"UI_CONTRACT_BULLDOG_OBJ_FILE_TEXT": "Trouvez le dossier",
+			"UI_CONTRACT_BULLDOG_OBJ_FILE_NAME": "Trouvez le dossier",
+			"UI_CONTRACT_BULLDOG_TITLE": "Mort dans la famille",
+			"UI_CONTRACT_BULLDOG_DESC": "Alexa Carlisle est morte. Enfin, d'après le faire-part de décès, du moins… ce qui a naturellement choqué sa famille quand la défunte matriarche s'est présentée au petit-déjeuner en pleine forme. Alexa Carlisle, sentant que son heure approche, est revenue de son exil pour régler quelques derniers détails et assurer la pérennité de l'héritage familial. Elle a beau être un monstre, sa diligence est admirable. Elle descend d'une longue lignée d'aristocrates guerriers : son arrière-grand-père, par exemple, profita de la seconde guerre de l'opium et bâtit un empire de transport, de chemins de fer et de presse colossal. Bien qu'assez méconnue du grand public, la famille assoit toujours sa domination silencieuse sur les transports et la logistique, les médias et la technologie dans le monde entier. Alexa Carlisle, la plus âgée des partenaires, est froide comme la glace et tranchante comme un rasoir. Par ailleurs, c'est son père qui lia autrefois les trois familles à ce manoir après la Seconde Guerre mondiale. Ce qui fait de ce lieu le berceau de Providence.\r\n\r\nUne dernière chose : d'après nos renseignements, Alexa Carlisle possèderait un dossier sur le Constant, renfermant des informations capitales pour sa capture. Faites de la récupération de ce dossier une priorité.",
+			"839D6FBE": "Visez {AIM} le corps avec  l'appareil photo pour le scanner"
+		},
+		"it": {
+			"UI_CONTRACT_BULLDOG_OBJ_FILE_LONG": "Alexa Carlisle ha compilato un fascicolo su Arthur Edwards. Devi trovarlo.",
+			"UI_CONTRACT_BULLDOG_LOCKED_REASON": "Prima di accedere a questo contenuto dovresti completare: \"Lutto in famiglia\".",
+			"UI_CONTRACT_BULLDOG_OBJ_FILE_TEXT": "Trova il fascicolo",
+			"UI_CONTRACT_BULLDOG_OBJ_FILE_NAME": "Trova il fascicolo",
+			"UI_CONTRACT_BULLDOG_TITLE": "Lutto in famiglia",
+			"UI_CONTRACT_BULLDOG_DESC": "Alexa Carlisle è morta. Per lo meno stando all'invito per il suo funerale. Per cui non c'è da meravigliarsi che la comparsa della matriarca viva e vegeta a colazione abbia fatto tanto scalpore. Carlisle, sentendo a ragion veduta di avere un piede nella fossa, è tornata dall'esilio per ricucire i legami familiari e assicurarsi l'eredità dei Carlisle. Potrà anche essere un mostro, ma bisogna ammirare la sua diligenza. Alexa discende da un'antica stirpe di nobili guerrieri. Il suo bisnonno fece una fortuna durante la seconda guerra dell'oppio e creò un impero nelle spedizioni, nelle ferrovie e nell'editoria giornalistica. Anche se sconosciuta al grande pubblico, la famiglia gode ancora di molto potere sui trasporti, sulla logistica, sui media e sulla tecnologia di tutto il mondo. Alexa Carlisle è la più anziana dei soci ed è fredda come il ghiaccio, dura come la pietra e tagliente come un rasoio. Fu proprio suo padre a radunare le tre famiglie in questa casa dopo la Seconda guerra mondiale. E questo, signore e signori, significa che Providence è nata proprio qui.\r\n\r\nUn'ultima cosa: secondo le nostre informazioni, Carlisle ha un fascicolo sulla Costante che potrebbe essere utile per la sua cattura. Non lasciare la villa senza averlo recuperato.",
+			"839D6FBE": "Punta {AIM} la fotocamera verso il corpo per scannerizzarlo"
+		},
+		"de": {
+			"UI_CONTRACT_BULLDOG_OBJ_FILE_LONG": "Alexa Carlisle hat eine Fallakte zu Arthur Edwards zusammengestellt. Sie müssen sie finden.",
+			"UI_CONTRACT_BULLDOG_LOCKED_REASON": "Sie sollten zuerst „Todesfall in der Familie“ abschließen, ehe Sie auf diesen Inhalt zugreifen.",
+			"UI_CONTRACT_BULLDOG_OBJ_FILE_TEXT": "Finden Sie die Fallakte",
+			"UI_CONTRACT_BULLDOG_OBJ_FILE_NAME": "Finden Sie die Fallakte",
+			"UI_CONTRACT_BULLDOG_TITLE": "Todesfall in der Familie",
+			"UI_CONTRACT_BULLDOG_DESC": "Alexa Carlisle ist tot. Zumindest laut der Einladung zu ihrer Beerdigung. Es sorgte also für einiges Aufsehen, als die verstorbene Matriarchin quicklebendig am Frühstückstisch erschien. Carlisle spürte wohl, dass sie aufgeflogen ist. Also ist sie aus dem Exil gekommen, um lose Enden abzuschließen und das Vermächtnis der Carlisles zu bewahren. Sie mag ein Monster sein, doch man muss ihre angemessene Sorgfalt bewundern. Carlisle stammt aus einer langen Linie adliger Krieger. Ihr Urgroßvater machte ein Vermögen im Zweiten Opiumkrieg und baute ein Imperium im Bereich Transport, Eisenbahn und Zeitungsverlage auf. Auch wenn die Familie der Öffentlichkeit kaum bekannt ist, übt sie dennoch eine stille, weltweite Dominanz in den Bereichen Transport und Logistik sowie Medien und Technologie aus. Als älteste Partnerin ist Alexa Carlisle kalt wie Eis, zäh wie Leder und schlau wie eine Schlange. Passenderweise war es auch ihr verstorbener Vater, der die drei Familien erstmals nach dem Ende des Zweiten Weltkriegs in genau diesem Haus zusammenbrachte. Das bedeutet also, meine Herren … dass dies der Geburtsort von Providence ist.\r\n\r\nEine Sache noch: Unseren Informationen zufolge verwahrt Carlisle eine Fallakte zur Konstanten. Die Informationen darin könnten nützlich sein, um ihn erneut zu ergreifen. Also verlassen Sie das Anwesen nicht ohne sie.",
+			"839D6FBE": "Ziele {AIM} die Kamera auf den Körper, um ihn zu scannen."
+		},
+		"es": {
+			"UI_CONTRACT_BULLDOG_OBJ_FILE_LONG": "Alexa Carlisle tiene un informe sobre Arthur Edwards. Tienes que encontrarlo.",
+			"UI_CONTRACT_BULLDOG_LOCKED_REASON": "Deberías completar «Muerte en la familia» antes de acceder a este contenido.",
+			"UI_CONTRACT_BULLDOG_OBJ_FILE_TEXT": "Encuentra el informe",
+			"UI_CONTRACT_BULLDOG_OBJ_FILE_NAME": "Encuentra el informe",
+			"UI_CONTRACT_BULLDOG_TITLE": "Muerte en la familia",
+			"UI_CONTRACT_BULLDOG_DESC": "Alexa Carlisle ha muerto. O, al menos, eso pone en la invitación a su funeral. Como es lógico, se montó un buen revuelo cuando la difunta matriarca apareció a la hora de desayunar vivita y coleando. Carlisle, que sabe que está en la lista para ser asesinada, ha salido de su exilio para atar todos los cabos sueltos y asegurarse de que el legado de los Carlisle sobrevive. Puede que sea un monstruo, pero su diligencia es digna de admirar. Carlisle desciende de una antigua estirpe de aristócratas guerreros. Su bisabuelo se hizo de oro en la segunda guerra del opio y montó un imperio de transportes, líneas ferroviarias y periódicos. Aunque el gran público la desconoce, la familia sigue conservando su domino sobre las redes mundiales de transportes, logística, tecnología y medios de comunicación. Alexa Carlisle es la más antigua de los socios y destaca por ser fría como el hielo, dura como el acero y lista como ella sola. Curiosamente, fue su difunto padre quien reunió por primera vez a las tres familias, en esta misma casa, al final de la Segunda Guerra Mundial. Caballeros, eso significa... que aquí es donde nació Providence.\r\n\r\nUna última cosa: según hemos podido saber, Carlisle tiene un informe sobre el Constante. Esa información podría sernos muy útil para capturarlo, así que nada de irse de la mansión sin él.",
+			"839D6FBE": "Enfoca {AIM} el cuerpo con la cámara para escanearlo"
+		}
+	}
+}

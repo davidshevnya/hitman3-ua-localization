@@ -1,0 +1,24 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0084947D1F4FB220",
+	"languages": {
+		"xx": {
+			"F7CA4CEC": "PH_Bodytext"
+		},
+		"en": {
+			"F7CA4CEC": "Repeatedly tap {MELEE_HIT} to complete the move."
+		},
+		"fr": {
+			"F7CA4CEC": "Appuyez plusieurs fois sur {MELEE_HIT} pour compléter cette action."
+		},
+		"it": {
+			"F7CA4CEC": "Premi ripetutamente {MELEE_HIT} per completare la mossa."
+		},
+		"de": {
+			"F7CA4CEC": "Drücken Sie {MELEE_HIT} mehrmals, um die Aktion abzuschließen."
+		},
+		"es": {
+			"F7CA4CEC": "Pulsa repetidamente {MELEE_HIT} para completar el movimiento."
+		}
+	}
+}

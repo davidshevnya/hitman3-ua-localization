@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "001E07E9F4262474",
+	"languages": {
+		"xx": {
+			"41259D03": "Title_Stage Fried",
+			"1D86FF42": "Summary_Abiatti will appear on stage to promote his campain. Find a way to make his appearance unforgettable.",
+			"F4056BAF": "Briefing_Abiatti, eager to play man of the people, is throwing a political rally for Sapienza's young. Panem et circenses. Though it might seem lavish, Abiatti knows where to cut costs so no one will notice and has therefore hired his nephew’s company to set up the stage. It’s a company with a checkered past – so I’m sure safety is not the top of their list.",
+			"239DC8C7": "Conclusion_Good work, 47. Let’s see if Abiatti can talk himself out of this one.",
+			"B6224938": "Step1_Get a crew member's disguise",
+			"B6DF5708": "Sabotage stage electronics",
+			"9FEEC4E3": "Flood the stage",
+			"C1701E48": "Find a way to get Abiatti back on stage",
+			"ECD11641": "Wait for Abiatti to take the stage"
+		},
+		"en": {
+			"41259D03": "Stage Fried",
+			"1D86FF42": "Abiatti will appear on stage to promote his campaign. Find a way to make his appearance unforgettable.",
+			"F4056BAF": "Abiatti, eager to play man of the people, is throwing a political rally for Sapienza's young. Panem et circenses. Though it might seem lavish, Abiatti knows where to cut costs so no one will notice, and has therefore hired his nephew’s company to set up the stage. It’s a company with a checkered past, so I’m sure safety is not the top of their list.",
+			"239DC8C7": "Good work, 47. Let’s see if Abiatti can talk himself out of this one.",
+			"B6224938": "Get a Stage Crew disguise",
+			"B6DF5708": "Sabotage stage electronics",
+			"9FEEC4E3": "Flood the stage",
+			"C1701E48": "Find a way to get Abiatti back on stage",
+			"ECD11641": "Wait for Abiatti to take the stage"
+		},
+		"fr": {
+			"41259D03": "Le trac",
+			"1D86FF42": "Abiatti apparaîtra sur scène dans le cadre de sa campagne. Il faut trouver le moyen de rendre sa prestation mémorable...",
+			"F4056BAF": "Abiatti, désireux de se présenter comme un homme du peuple, a organisé un rassemblement politique pour la jeunesse de Sapienza. Du pain et des jeux... Ça peut sembler généreux, mais Abiatti sait comment réduire les coûts sans que personne ne le remarque. Ainsi, il a choisi la société de son neveu pour installer la scène. C'est une société au passé douteux, donc je ne suis pas sûre que la sécurité soit leur priorité.",
+			"239DC8C7": "Beau travail, 47. Voyons si Abiatti arrivera à s'en sortir.",
+			"B6224938": "Procurez-vous une tenue de technicien",
+			"B6DF5708": "Sabotez le matériel électronique de la scène",
+			"9FEEC4E3": "Recouvrez la scène d'eau",
+			"C1701E48": "Faites en sorte qu'Abiatti monte sur scène",
+			"ECD11641": "Attendez qu'Abiatti monte sur scène"
+		},
+		"it": {
+			"41259D03": "Panico da palcoscenico",
+			"1D86FF42": "Abiatti salirà sul palco per promuovere la sua campagna. Trova un modo per rendere il suo intervento memorabile.",
+			"F4056BAF": "Abiatti ama i bagni di folla e sta organizzando un evento politico dedicato ai giovani di Sapienza. \"Panem et circenses.\" Sebbene il palco sembri sfarzoso, Abiatti sa come risparmiare senza che nessuno lo noti, e ha perciò assunto la compagnia del nipote per montarlo. È una compagnia con un passato ambiguo: direi che la sicurezza non è la loro priorità.",
+			"239DC8C7": "Ottimo lavoro, 47. Vediamo se Abiatti riesce a tirarsi fuori da questo guaio.",
+			"B6224938": "Procurati un travestimento da tecnico del palco",
+			"B6DF5708": "Sabota l'attrezzatura del palco",
+			"9FEEC4E3": "Allaga il palco",
+			"C1701E48": "Trova un modo per far risalire Abiatti sul palco",
+			"ECD11641": "Aspetta che Abiatti vada sul palco"
+		},
+		"de": {
+			"41259D03": "Bühnenunfall",
+			"1D86FF42": "Abiatti wird auf der Bühne Wahlkampf machen. Sorgen Sie für einen unvergesslichen Auftritt.",
+			"F4056BAF": "Abiatti präsentiert sich gern als Mann des Volkes und hat für die Jugend von Sapienza eine Großveranstaltung organisiert. Brot und Spiele. Obwohl die Party verschwenderisch erscheinen mag, weiß Abiatti die Kosten unbemerkt in Schach zu halten und hat deshalb die Firma seines Neffen angeheuert, um die Bühne einzurichten. Die Firma hat eine zweifelhafte Vergangenheit und ich bin mir relativ sicher, dass Sicherheit nicht ihre oberste Priorität ist.",
+			"239DC8C7": "Gute Arbeit, 47. Mal sehen, ob Abiatti sich da noch rausreden kann.",
+			"B6224938": "Verkleiden Sie sich als Bühnentechniker",
+			"B6DF5708": "Sabotieren Sie das Bühnenequipment",
+			"9FEEC4E3": "Überfluten Sie die Bühne",
+			"C1701E48": "Finden Sie einen Weg, Abiatti zurück auf die Bühne zu holen",
+			"ECD11641": "Warten Sie, bis Abiatti auf die Bühne kommt"
+		},
+		"es": {
+			"41259D03": "Frito sobre el escenario",
+			"1D86FF42": "Abiatti subirá al escenario para promocionar su campaña. Haz que su actuación sea inolvidable.",
+			"F4056BAF": "Abiatti, deseoso de jugar a ser el líder del pueblo, celebrará un mitin para los jóvenes de Sapienza. \"Pan y circo\". Parece un gasto innecesario, pero Abiatti sabe como recortar gastos sin que se note, así que ha contratado a la empresa de su sobrino para montar el escenario. Es una compañía con un pasado algo turbio, así que estoy segura de que la seguridad no es su principal preocupación.",
+			"239DC8C7": "Buen trabajo, 47. Veamos si Abiatti consigue salir de esta.",
+			"B6224938": "Consigue el disfraz de miembro del equipo técnico",
+			"B6DF5708": "Sabotea el equipo electrónico del escenario",
+			"9FEEC4E3": "Inunda el escenario",
+			"C1701E48": "Consigue que Abiatti vuelva a subir al escenario",
+			"ECD11641": "Espera a que Abiatti suba al escenario"
+		}
+	}
+}

@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00021532C3DCA023",
+	"languages": {
+		"xx": {
+			"1316ADE1": "Title",
+			"8A1E5E77": "Flavor",
+			"E9685B21": "Description",
+			"2F02C0C6": "Conclusion",
+			"9D8C3926": "FindGuard",
+			"F328DF52": "GetLoveLetter",
+			"ECD03DF4": "DeliverLetter",
+			"8558967E": "Plant Letter",
+			"CBC0D40B": "Follow Hector"
+		},
+		"en": {
+			"1316ADE1": "Undying Love",
+			"8A1E5E77": "Huh. Rico Delgado’s brother Héctor is trying to win back his old flame, Andrea Martínez. Apparently, Héctor has authored a rather slushy love letter, but one of the sicarios foolhardily stole it from Héctor’s room during last night’s party. I suggest you acquire that letter, 47. From what we know about Martínez, a declaration of love from Héctor is bound to provoke a reaction.",
+			"E9685B21": "An old love affair ready to spark anew, 47?",
+			"2F02C0C6": "Well done, 47. This should be good.",
+			"9D8C3926": "Locate the guard that stole Héctor's love letter",
+			"F328DF52": "Retrieve the love letter",
+			"ECD03DF4": "Deliver the love letter to Martínez's compound",
+			"8558967E": "Plant the love letter on Martínez's desk",
+			"CBC0D40B": "Follow Héctor"
+		},
+		"fr": {
+			"1316ADE1": "Amour éternel",
+			"8A1E5E77": "Tiens… Héctor, le frère de Rico Delgado, essaie de renouer des liens avec son amour d'antan, Andrea Martínez. Il lui aurait écrit une lettre enflammée, mais l'un des sicarios s'est introduit dans sa chambre pour la voler lors de la soirée d'hier. Récupérez cette lettre, 47. De ce que l'on sait de Martínez, une telle déclaration d'Héctor la fera réagir à coup sûr.",
+			"E9685B21": "Une ancienne histoire d'amour prête à renaître de ses cendres, 47 ?",
+			"2F02C0C6": "Bien joué, 47. Ça devrait suffire.",
+			"9D8C3926": "Localisez le garde qui a volé la lettre d'amour d'Héctor",
+			"F328DF52": "Récupérez la lettre d'amour",
+			"ECD03DF4": "Livrez la lettre d'amour chez Martínez",
+			"8558967E": "Déposez la lettre d'amour sur le bureau de Martínez",
+			"CBC0D40B": "Suivez Héctor"
+		},
+		"it": {
+			"1316ADE1": "Amore immortale",
+			"8A1E5E77": "Uh? Héctor, il fratello di Rico Delgado, sta cercando di riconquistare la sua vecchia fiamma, Andrea Martínez. A quanto pare, Héctor ha scritto una sdolcinata lettera d'amore, ma sembra che uno dei sicari l'abbia rubata dalla sua stanza durante la festa di ieri notte. Ti consiglio di ottenere quella lettera, 47. Da quello che sappiamo di Martínez, una dichiarazione d'amore di Héctor provocherà di certo una reazione.",
+			"E9685B21": "Una vecchia scintilla d'amore è pronta a rinascere, 47?",
+			"2F02C0C6": "Ben fatto, 47. Andrà bene.",
+			"9D8C3926": "Trova la guardia che ha rubato la lettera d'amore di Héctor",
+			"F328DF52": "Recupera la lettera d'amore",
+			"ECD03DF4": "Consegna la lettera d'amore al complesso di Martínez",
+			"8558967E": "Lascia la lettera d'amore sulla scrivania di Martínez",
+			"CBC0D40B": "Segui Héctor"
+		},
+		"de": {
+			"1316ADE1": "Unsterbliche Liebe",
+			"8A1E5E77": "Hm. Rico Delgados Bruder Héctor will seine alte Flamme Andrea Martínez für sich zurückgewinnen. Anscheinend hat Héctor deshalb einen recht schmalzigen Liebesbrief verfasst, der aber bei der Feier gestern Abend törichterweise von einem der Sicarios aus Héctors Zimmer entwendet wurde. Ich würde vorschlagen, Sie beschaffen diesen Brief, 47. Soweit wir wissen, wird eine Liebeserklärung von Héctor ganz sicher eine Reaktion bei Martínez auslösen.",
+			"E9685B21": "Eine alte Liebesaffäre, bereit wieder entfacht zu werden, 47?",
+			"2F02C0C6": "Gut gemacht, 47. Das dürfte gut werden.",
+			"9D8C3926": "Finden Sie die Wache, die Héctors Liebesbrief gestohlen hat.",
+			"F328DF52": "Beschaffen Sie den Liebesbrief.",
+			"ECD03DF4": "Bringen Sie den Liebesbrief zu Martínez’ Anwesen.",
+			"8558967E": "Legen Sie den Liebesbrief auf Martínez’ Schreibtisch.",
+			"CBC0D40B": "Folgen Sie Héctor"
+		},
+		"es": {
+			"1316ADE1": "Amor eterno",
+			"8A1E5E77": "Vaya. El hermano de Rico Delgado, Héctor, intenta reavivar la llama con su exnovia Andrea Martínez. Por lo visto, Héctor ha escrito una carta de amor bastante moñas, pero uno de los sicarios se la ha robado de su habitación durante la fiesta de anoche. Te sugiero que consigas esa carta, 47. Por lo que sabemos de Martínez, es muy probable que reaccione ante una declaración de amor de Héctor.",
+			"E9685B21": "¿La chispa de un antiguo amor, lista para prender de nuevo, 47?",
+			"2F02C0C6": "Buen trabajo, 47. Esto promete.",
+			"9D8C3926": "Encuentra al guardia que robó la carta de amor de Héctor",
+			"F328DF52": "Recupera la carta de amor",
+			"ECD03DF4": "Lleva la carta de amor al complejo de Martínez",
+			"8558967E": "Deja la carta de amor sobre la mesa de Martínez",
+			"CBC0D40B": "Sigue a Héctor"
+		}
+	}
+}

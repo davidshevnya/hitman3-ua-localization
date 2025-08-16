@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0049B47BDBD22D59",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_GALIUM_GROUP_TITLE": "The Scarlett Deceit",
+			"UI_CONTRACT_GALIUM_GROUP_DESC": "Three Level Escalation on The Isle of Sgail.",
+			"UI_CONTRACT_GALIUM_LEVEL_1_TITLE": "The Scarlett Deceit - Level 1",
+			"UI_CONTRACT_GALIUM_LEVEL_2_TITLE": "The Scarlett Deceit - Level 2",
+			"UI_CONTRACT_GALIUM_LEVEL_3_TITLE": "The Scarlett Deceit - Level 3",
+			"UI_CONTRACT_GALIUM_LEVEL_1_OBJ_1": "Eliminate Constantin with a pistol",
+			"UI_CONTRACT_GALIUM_LEVEL_2_OBJ_1": "Eliminate Constantin with a kitchen knife",
+			"UI_CONTRACT_GALIUM_LEVEL_3_OBJ_1": "Pacify Constantin with a lead pipe",
+			"UI_CONTRACT_GALIUM_LEVEL_3_OBJ_1_NAME": "Constantin"
+		},
+		"en": {
+			"UI_CONTRACT_GALIUM_GROUP_TITLE": "The Scarlett Deceit",
+			"UI_CONTRACT_GALIUM_GROUP_DESC": "Three Level Escalation on The Isle of Sgàil.",
+			"UI_CONTRACT_GALIUM_LEVEL_1_TITLE": "The Scarlett Deceit - Level 1",
+			"UI_CONTRACT_GALIUM_LEVEL_2_TITLE": "The Scarlett Deceit - Level 2",
+			"UI_CONTRACT_GALIUM_LEVEL_3_TITLE": "The Scarlett Deceit - Level 3",
+			"UI_CONTRACT_GALIUM_LEVEL_1_OBJ_1": "Eliminate Constantin with a pistol",
+			"UI_CONTRACT_GALIUM_LEVEL_2_OBJ_1": "Eliminate Constantin with a kitchen knife",
+			"UI_CONTRACT_GALIUM_LEVEL_3_OBJ_1": "Pacify Constantin with a lead pipe",
+			"UI_CONTRACT_GALIUM_LEVEL_3_OBJ_1_NAME": "Constantin"
+		},
+		"fr": {
+			"UI_CONTRACT_GALIUM_GROUP_TITLE": "Le piège de Scarlett",
+			"UI_CONTRACT_GALIUM_GROUP_DESC": "Escalade en trois niveaux sur l'île de Sgàil",
+			"UI_CONTRACT_GALIUM_LEVEL_1_TITLE": "Le piège de Scarlett - Niveau 1",
+			"UI_CONTRACT_GALIUM_LEVEL_2_TITLE": "Le piège de Scarlett - Niveau 2",
+			"UI_CONTRACT_GALIUM_LEVEL_3_TITLE": "Le piège de Scarlett - Niveau 3",
+			"UI_CONTRACT_GALIUM_LEVEL_1_OBJ_1": "Éliminez Constantin avec un pistolet",
+			"UI_CONTRACT_GALIUM_LEVEL_2_OBJ_1": "Éliminez Constantin avec un couteau de cuisine",
+			"UI_CONTRACT_GALIUM_LEVEL_3_OBJ_1": "Neutralisez Constantin avec un tuyau en plomb",
+			"UI_CONTRACT_GALIUM_LEVEL_3_OBJ_1_NAME": "Constantin"
+		},
+		"it": {
+			"UI_CONTRACT_GALIUM_GROUP_TITLE": "L'inganno scarlatto",
+			"UI_CONTRACT_GALIUM_GROUP_DESC": "Escalation di tre livelli sull'Isola di Sgàil",
+			"UI_CONTRACT_GALIUM_LEVEL_1_TITLE": "L'inganno scarlatto - Livello 1",
+			"UI_CONTRACT_GALIUM_LEVEL_2_TITLE": "L'inganno scarlatto - Livello 2",
+			"UI_CONTRACT_GALIUM_LEVEL_3_TITLE": "L'inganno scarlatto - Livello 3",
+			"UI_CONTRACT_GALIUM_LEVEL_1_OBJ_1": "Elimina Constantin con una pistola",
+			"UI_CONTRACT_GALIUM_LEVEL_2_OBJ_1": "Elimina Constantin con un coltello da cucina",
+			"UI_CONTRACT_GALIUM_LEVEL_3_OBJ_1": "Neutralizza Constantin con un tubo di piombo",
+			"UI_CONTRACT_GALIUM_LEVEL_3_OBJ_1_NAME": "Constantin"
+		},
+		"de": {
+			"UI_CONTRACT_GALIUM_GROUP_TITLE": "Die scharlachrote Täuschung",
+			"UI_CONTRACT_GALIUM_GROUP_DESC": "Drei-Stufen-Eskalation auf der Isle of Sgàil.",
+			"UI_CONTRACT_GALIUM_LEVEL_1_TITLE": "Die scharlachrote Täuschung – Stufe 1",
+			"UI_CONTRACT_GALIUM_LEVEL_2_TITLE": "Die Scharlachrote Täuschung – Stufe 2",
+			"UI_CONTRACT_GALIUM_LEVEL_3_TITLE": "Die Scharlachrote Täuschung – Stufe 3",
+			"UI_CONTRACT_GALIUM_LEVEL_1_OBJ_1": "Eliminieren Sie Constantin mit einer Pistole.",
+			"UI_CONTRACT_GALIUM_LEVEL_2_OBJ_1": "Eliminieren Sie Constantin mit einem Küchenmesser.",
+			"UI_CONTRACT_GALIUM_LEVEL_3_OBJ_1": "Stellen Sie Constantin mit einem Bleirohr ruhig.",
+			"UI_CONTRACT_GALIUM_LEVEL_3_OBJ_1_NAME": "Constantin"
+		},
+		"es": {
+			"UI_CONTRACT_GALIUM_GROUP_TITLE": "El engaño escarlata",
+			"UI_CONTRACT_GALIUM_GROUP_DESC": "Intensificación de tres niveles en la isla de Sgàil.",
+			"UI_CONTRACT_GALIUM_LEVEL_1_TITLE": "El engaño escarlata - Nivel 1",
+			"UI_CONTRACT_GALIUM_LEVEL_2_TITLE": "El engaño escarlata - Nivel 2",
+			"UI_CONTRACT_GALIUM_LEVEL_3_TITLE": "El engaño escarlata - Nivel 3",
+			"UI_CONTRACT_GALIUM_LEVEL_1_OBJ_1": "Elimina a Constantin con una pistola",
+			"UI_CONTRACT_GALIUM_LEVEL_2_OBJ_1": "Elimina a Constantin con un cuchillo de cocina",
+			"UI_CONTRACT_GALIUM_LEVEL_3_OBJ_1": "Elimina a Constantin con una tubería de plomo",
+			"UI_CONTRACT_GALIUM_LEVEL_3_OBJ_1_NAME": "Constantin"
+		}
+	}
+}

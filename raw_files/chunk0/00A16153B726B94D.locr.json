@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00A16153B726B94D",
+	"languages": {
+		"xx": {
+			"9F93739E": "PH_Headline",
+			"36B81E09": "PH_Text"
+		},
+		"en": {
+			"9F93739E": "Vaulting",
+			"36B81E09": "Press {AGILITY_UP} to vault over cover."
+		},
+		"fr": {
+			"9F93739E": "Sauter",
+			"36B81E09": "Appuyez sur {AGILITY_UP} pour  sauter par-dessus un abri."
+		},
+		"it": {
+			"9F93739E": "Scavalcare",
+			"36B81E09": "Premi {AGILITY_UP} per scavalcare un riparo."
+		},
+		"de": {
+			"9F93739E": "Springen",
+			"36B81E09": "Drücken Sie {AGILITY_UP}, um Deckungen zu überspringen."
+		},
+		"es": {
+			"9F93739E": "Saltar",
+			"36B81E09": "Pulsa {AGILITY_UP} para saltar una cobertura."
+		}
+	}
+}

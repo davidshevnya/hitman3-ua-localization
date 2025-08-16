@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00782AE7976ACB5F",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_DAISY_GROUP_DESC": "Five level Escalation in Colorado.",
+			"UI_CONTRACT_DAISY_GROUP_TITLE": "The Farley Crescendo",
+			"UI_CONTRACT_DAISY_LEVEL_1_TITLE": "The Farley Crescendo - Level 1",
+			"UI_CONTRACT_DAISY_LEVEL_2_TITLE": "The Farley Crescendo - Level 2",
+			"UI_CONTRACT_DAISY_LEVEL_3_TITLE": "The Farley Crescendo - Level 3",
+			"UI_CONTRACT_DAISY_LEVEL_4_TITLE": "The Farley Crescendo - Level 4",
+			"UI_CONTRACT_DAISY_LEVEL_5_TITLE": "The Farley Crescendo - Level 5",
+			"UI_CONTRACT_DAISY_OBJ_1": "Eliminate Joshua Trumbo while disguised as a hacker",
+			"UI_CONTRACT_DAISY_OBJ_2": "Eliminate Greg Barnes while disguised as a hacker",
+			"UI_CONTRACT_DAISY_OBJ_3": "Hack the laptop in the farmhouse",
+			"UI_CONTRACT_DAISY_OBJ_3_2": "Hack the laptop in Sean Rose's room"
+		},
+		"en": {
+			"UI_CONTRACT_DAISY_GROUP_DESC": "Five level Escalation in Colorado.",
+			"UI_CONTRACT_DAISY_GROUP_TITLE": "The Farley Crescendo",
+			"UI_CONTRACT_DAISY_LEVEL_1_TITLE": "The Farley Crescendo - Level 1",
+			"UI_CONTRACT_DAISY_LEVEL_2_TITLE": "The Farley Crescendo - Level 2",
+			"UI_CONTRACT_DAISY_LEVEL_3_TITLE": "The Farley Crescendo - Level 3",
+			"UI_CONTRACT_DAISY_LEVEL_4_TITLE": "The Farley Crescendo - Level 4",
+			"UI_CONTRACT_DAISY_LEVEL_5_TITLE": "The Farley Crescendo - Level 5",
+			"UI_CONTRACT_DAISY_OBJ_1": "Eliminate Joshua Trumbo while disguised as a hacker",
+			"UI_CONTRACT_DAISY_OBJ_2": "Eliminate Greg Barnes while disguised as a hacker",
+			"UI_CONTRACT_DAISY_OBJ_3": "Hack the laptop in the farmhouse",
+			"UI_CONTRACT_DAISY_OBJ_3_2": "Hack the laptop in Sean Rose's room"
+		},
+		"fr": {
+			"UI_CONTRACT_DAISY_GROUP_DESC": "Escalade en cinq niveaux dans le Colorado.",
+			"UI_CONTRACT_DAISY_GROUP_TITLE": "Le crescendo Farley",
+			"UI_CONTRACT_DAISY_LEVEL_1_TITLE": "Le crescendo Farley - Niveau 1",
+			"UI_CONTRACT_DAISY_LEVEL_2_TITLE": "Le crescendo Farley - Niveau 2",
+			"UI_CONTRACT_DAISY_LEVEL_3_TITLE": "Le crescendo Farley - Niveau 3",
+			"UI_CONTRACT_DAISY_LEVEL_4_TITLE": "Le crescendo Farley - Niveau 4",
+			"UI_CONTRACT_DAISY_LEVEL_5_TITLE": "Le crescendo Farley - Niveau 5",
+			"UI_CONTRACT_DAISY_OBJ_1": "Éliminez Joshua Trumbo, déguisé en hacker",
+			"UI_CONTRACT_DAISY_OBJ_2": "Éliminez Greg Barnes, déguisé en hacker",
+			"UI_CONTRACT_DAISY_OBJ_3": "Piratez l'ordinateur dans la ferme",
+			"UI_CONTRACT_DAISY_OBJ_3_2": "Piratez l'ordinateur dans la chambre de Sean Rose"
+		},
+		"it": {
+			"UI_CONTRACT_DAISY_GROUP_DESC": "Escalation di cinque livelli in Colorado.",
+			"UI_CONTRACT_DAISY_GROUP_TITLE": "Il crescendo di Farley",
+			"UI_CONTRACT_DAISY_LEVEL_1_TITLE": "Il crescendo di Farley - Livello 1",
+			"UI_CONTRACT_DAISY_LEVEL_2_TITLE": "Il crescendo di Farley - Livello 2",
+			"UI_CONTRACT_DAISY_LEVEL_3_TITLE": "Il crescendo di Farley - Livello 3",
+			"UI_CONTRACT_DAISY_LEVEL_4_TITLE": "Il crescendo di Farley - Livello 4",
+			"UI_CONTRACT_DAISY_LEVEL_5_TITLE": "Il crescendo di Farley - Livello 5",
+			"UI_CONTRACT_DAISY_OBJ_1": "Elimina Joshua Trumbo mentre sei travestito da hacker",
+			"UI_CONTRACT_DAISY_OBJ_2": "Elimina Greg Barnes mentre sei travestito da hacker",
+			"UI_CONTRACT_DAISY_OBJ_3": "Viola il portatile nella casa",
+			"UI_CONTRACT_DAISY_OBJ_3_2": "Viola il portatile nella stanza di Sean Rose"
+		},
+		"de": {
+			"UI_CONTRACT_DAISY_GROUP_DESC": "Fünf-Stufen-Eskalation in Colorado.",
+			"UI_CONTRACT_DAISY_GROUP_TITLE": "Das Farley-Crescendo",
+			"UI_CONTRACT_DAISY_LEVEL_1_TITLE": "Das Farley-Crescendo – Stufe 1",
+			"UI_CONTRACT_DAISY_LEVEL_2_TITLE": "Das Farley-Crescendo – Stufe 2",
+			"UI_CONTRACT_DAISY_LEVEL_3_TITLE": "Das Farley-Crescendo – Stufe 3",
+			"UI_CONTRACT_DAISY_LEVEL_4_TITLE": "Das Farley-Crescendo – Stufe 4",
+			"UI_CONTRACT_DAISY_LEVEL_5_TITLE": "Das Farley-Crescendo – Stufe 5",
+			"UI_CONTRACT_DAISY_OBJ_1": "Eliminieren Sie Joshua Trumbo als Hacker",
+			"UI_CONTRACT_DAISY_OBJ_2": "Eliminieren Sie Greg Barnes als Hacker",
+			"UI_CONTRACT_DAISY_OBJ_3": "Hacken Sie den Laptop im Farmhaus",
+			"UI_CONTRACT_DAISY_OBJ_3_2": "Hacken Sie den Laptop in Sean Roses Zimmer"
+		},
+		"es": {
+			"UI_CONTRACT_DAISY_GROUP_DESC": "Intensificación de cinco niveles en Colorado.",
+			"UI_CONTRACT_DAISY_GROUP_TITLE": "El crescendo de Farley",
+			"UI_CONTRACT_DAISY_LEVEL_1_TITLE": "El crescendo de Farley - Nivel 1",
+			"UI_CONTRACT_DAISY_LEVEL_2_TITLE": "El crescendo de Farley - Nivel 2",
+			"UI_CONTRACT_DAISY_LEVEL_3_TITLE": "El crescendo de Farley - Nivel 3",
+			"UI_CONTRACT_DAISY_LEVEL_4_TITLE": "El crescendo de Farley - Nivel 4",
+			"UI_CONTRACT_DAISY_LEVEL_5_TITLE": "El crescendo de Farley - Nivel 5",
+			"UI_CONTRACT_DAISY_OBJ_1": "Elimina a Joshua Trumbo disfrazado de hacker",
+			"UI_CONTRACT_DAISY_OBJ_2": "Elimina a Greg Barnes disfrazado de hacker",
+			"UI_CONTRACT_DAISY_OBJ_3": "Piratea el portátil en la granja",
+			"UI_CONTRACT_DAISY_OBJ_3_2": "Piratea el portátil en la habitación de Sean Rose"
+		}
+	}
+}

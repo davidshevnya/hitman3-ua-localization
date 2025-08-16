@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00F134BECE972C49",
+	"languages": {
+		"xx": {
+			"276C1344": "Title",
+			"645BAE87": "Summary",
+			"2BD0BC7D": "Briefing",
+			"9BC46129": "Step 1",
+			"02CD3093": "Step 2",
+			"75CA0005": "Step 3",
+			"EBAE95A6": "Step 4",
+			"8824F7F8": "Conclusion"
+		},
+		"en": {
+			"276C1344": "Guest of Honor",
+			"645BAE87": "Sheikh al-Ghazali is staying at the palace. He is hardly here to sample next year’s colors.",
+			"2BD0BC7D": "According to the room plan, the infamous Sheikh Salman al-Ghazali resides in Suite Two. The Al-Ghazalis are known terrorist supporters, and Salman is surely one of IAGO's most prominent clients. He will no doubt have unlimited access to the auction. Better yet, he is also a notoriously private person, and apart from his family, employees and close friends, few have seen his face up close.",
+			"9BC46129": "Investigate Sheikh al-Ghazali's suite",
+			"02CD3093": "Disguise yourself as the Sheikh",
+			"75CA0005": "Enter the IAGO auction as Sheikh al-Ghazali",
+			"EBAE95A6": "Bid on an item as Sheikh al-Ghazali",
+			"8824F7F8": "They say that money makes people go blind. If that is true, you picked the perfect disguise."
+		},
+		"fr": {
+			"276C1344": "Invité d'honneur",
+			"645BAE87": "Le cheikh Salman Al-Ghazali loge au palais. Il est peu probable qu'il soit là pour découvrir les tendances de la saison prochaine.",
+			"2BD0BC7D": "Selon le plan des lieux, le tristement célèbre cheikh Salman Al-Ghazali loge dans la suite numéro 2. Il est de notoriété publique que les Al-Ghazali soutiennent le terrorisme, et Salman est l'un des clients les plus connus de IAGO. Il est probable qu'il disposera d'un accès total à la vente aux enchères. Mieux encore, il protège jalousement sa vie privée et en dehors de sa famille, de ses employés et de ses amis proches, peu de gens connaissent son visage.",
+			"9BC46129": "Fouillez la suite du cheikh Al-Ghazali",
+			"02CD3093": "Déguisez-vous en cheikh",
+			"75CA0005": "Présentez-vous à la vente aux enchère de IAGO sous l'identité du cheikh Al-Ghazali",
+			"EBAE95A6": "Placez une enchère sur un objet en tant que cheikh Al-Ghazali",
+			"8824F7F8": "On dit que l'argent rend aveugle... Si c'est le cas, votre déguisement est parfait."
+		},
+		"it": {
+			"276C1344": "Ospite d'onore",
+			"645BAE87": "Lo sceicco Al-Ghazali risiederà al palazzo. Dubito sia qui per il campionario della prossima stagione.",
+			"2BD0BC7D": "Dalla planimetria risulta che il famigerato sceicco Salman Al-Ghazali occupi la seconda suite. Gli Al-Ghazali sono noti finanziatori dei terroristi e Salman è uno dei principali clienti della IAGO. Lo sceicco avrà senz'altro libero accesso all'asta e meglio ancora, essendo una persona molto schiva, fatta eccezione per familiari, dipendenti e amici intimi, non molti hanno avuto l'onore di vederlo in faccia.",
+			"9BC46129": "Ispeziona la suite dello sceicco Al-Ghazali",
+			"02CD3093": "Travestiti da sceicco",
+			"75CA0005": "Accedi all'asta della IAGO come sceicco Al-Ghazali",
+			"EBAE95A6": "Fai un'offerta per un oggetto come sceicco Al-Ghazali",
+			"8824F7F8": "Si dice che il denaro renda ciechi. Se è vero, hai scelto il travestimento perfetto."
+		},
+		"de": {
+			"276C1344": "Ehrengast",
+			"645BAE87": "Scheich al-Ghazali ist im Palast. Vermutlich nicht, um sich Stoffproben anzusehen.",
+			"2BD0BC7D": "Laut des Belegungsplans residiert der berüchtigte Scheich Salman al-Ghazali in Suite 2. Die Al-Ghazalis unterstützen verschiedene Terrorzellen, und Salman ist einer der prominentesten Klienten von IAGO. Er hat garantiert uneingeschränkten Zugang zur Auktion. Und es kommt noch besser: Er ist extrem zurückhaltend. Außer seiner Familie, seinen Mitarbeitern und einigen engen Freunden kennt niemand sein Gesicht.",
+			"9BC46129": "Durchsuchen Sie Scheich al-Ghazalis Zimmer",
+			"02CD3093": "Verkleiden Sie sich als Scheich",
+			"75CA0005": "Nehmen Sie als Scheich al-Ghazali an der IAGO-Auktion teil",
+			"EBAE95A6": "Geben Sie als Scheich al-Ghazali ein Gebot für ein Objekt ab",
+			"8824F7F8": "Wie sagt man so schön? Geld macht blind. Wenn das stimmt, haben Sie die perfekte Verkleidung gewählt."
+		},
+		"es": {
+			"276C1344": "Invitado de honor",
+			"645BAE87": "El jeque Al-Ghazali se queda en el palacio. Dudo que esté aquí para para saber qué va a ser tendencia el año que viene.",
+			"2BD0BC7D": "Según el plano de habitaciones, el infame jeque Salman Al-Ghazali se aloja en la suite dos. Los Al-Ghazali son defensores declarados del terrorismo y Salman seguramente sea uno de los clientes más prominentes de IAGO. No cabe duda de que contará con acceso sin restricciones a la subasta. Y lo que es mejor, aboga notoriamente por la privacidad, de modo que pocos conocen su rostro aparte de su familia, empleados y amigos cercanos.",
+			"9BC46129": "Investiga la estancia del jeque Al-Ghazali",
+			"02CD3093": "Disfrázate como el jeque",
+			"75CA0005": "Accede a la subasta de IAGO como el jeque Al-Ghazali",
+			"EBAE95A6": "Puja por un artículo como el jeque Al-Ghazali",
+			"8824F7F8": "Dicen que el dinero ciega a las personas. De ser así, has elegido el disfraz perfecto."
+		}
+	}
+}

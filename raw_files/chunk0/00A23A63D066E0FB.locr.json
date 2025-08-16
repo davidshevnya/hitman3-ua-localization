@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/menutext_s3_elegant.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"615AF94B": "Elegant",
+			"1A36AC2D": "Elegant Country",
+			"UI_LOCATION_ELEGANT_LLAMA_COUNTRY": "Elegant Country",
+			"UI_LOCATION_PARENT_ELEGANT_NAME": "Elegant, Elegant Country",
+			"UI_LOCATION_ELEGANT_LLAMA_CITY": "Elegant",
+			"UI_LOCATION_ELEGANT_LLAMA_TITLE": "Elegant Llama"
+		},
+		"en": {
+			"615AF94B": "Mendoza",
+			"1A36AC2D": "Argentina",
+			"UI_LOCATION_ELEGANT_LLAMA_COUNTRY": "Argentina",
+			"UI_LOCATION_PARENT_ELEGANT_NAME": "Mendoza, Argentina",
+			"UI_LOCATION_ELEGANT_LLAMA_CITY": "Mendoza",
+			"UI_LOCATION_ELEGANT_LLAMA_TITLE": "The Farewell"
+		},
+		"fr": {
+			"615AF94B": "Mendoza",
+			"1A36AC2D": "Argentine",
+			"UI_LOCATION_ELEGANT_LLAMA_COUNTRY": "Argentine",
+			"UI_LOCATION_PARENT_ELEGANT_NAME": "Mendoza, Argentine",
+			"UI_LOCATION_ELEGANT_LLAMA_CITY": "Mendoza",
+			"UI_LOCATION_ELEGANT_LLAMA_TITLE": "L'adieu"
+		},
+		"it": {
+			"615AF94B": "Mendoza",
+			"1A36AC2D": "Argentina",
+			"UI_LOCATION_ELEGANT_LLAMA_COUNTRY": "Argentina",
+			"UI_LOCATION_PARENT_ELEGANT_NAME": "Mendoza, Argentina",
+			"UI_LOCATION_ELEGANT_LLAMA_CITY": "Mendoza",
+			"UI_LOCATION_ELEGANT_LLAMA_TITLE": "L'addio"
+		},
+		"de": {
+			"615AF94B": "Mendoza",
+			"1A36AC2D": "Argentinien",
+			"UI_LOCATION_ELEGANT_LLAMA_COUNTRY": "Argentinien",
+			"UI_LOCATION_PARENT_ELEGANT_NAME": "Mendoza, Argentinien",
+			"UI_LOCATION_ELEGANT_LLAMA_CITY": "Mendoza",
+			"UI_LOCATION_ELEGANT_LLAMA_TITLE": "Der Abschied"
+		},
+		"es": {
+			"615AF94B": "Mendoza",
+			"1A36AC2D": "Argentina",
+			"UI_LOCATION_ELEGANT_LLAMA_COUNTRY": "Argentina",
+			"UI_LOCATION_PARENT_ELEGANT_NAME": "Mendoza, Argentina",
+			"UI_LOCATION_ELEGANT_LLAMA_CITY": "Mendoza",
+			"UI_LOCATION_ELEGANT_LLAMA_TITLE": "La despedida"
+		}
+	}
+}

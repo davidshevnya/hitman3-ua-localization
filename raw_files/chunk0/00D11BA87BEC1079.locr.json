@@ -1,0 +1,36 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00D11BA87BEC1079",
+	"languages": {
+		"xx": {
+			"BCC1B727": "PH_Equip",
+			"306B0D74": "PH_Text",
+			"64C73B46": "PH_Text_PC"
+		},
+		"en": {
+			"BCC1B727": "Equip a Weapon",
+			"306B0D74": "Press {INVENTORY_SHORTRANGE} or {INVENTORY_LONGRANGE} to open your inventory.",
+			"64C73B46": "Press {INVENTORY_LONGRANGE} to open your inventory."
+		},
+		"fr": {
+			"BCC1B727": "Équipez-vous d'une arme",
+			"306B0D74": "Appuyez sur {INVENTORY_SHORTRANGE} ou {INVENTORY_LONGRANGE} pour ouvrir votre inventaire.",
+			"64C73B46": "Appuyez sur {INVENTORY_LONGRANGE} pour ouvrir votre inventaire."
+		},
+		"it": {
+			"BCC1B727": "Equipaggiare un'arma",
+			"306B0D74": "Premi {INVENTORY_SHORTRANGE} o {INVENTORY_LONGRANGE} per accedere all'inventario.",
+			"64C73B46": "Premi {INVENTORY_LONGRANGE} per accedere all'inventario."
+		},
+		"de": {
+			"BCC1B727": "Eine Waffe ausrüsten",
+			"306B0D74": "Drücken Sie {INVENTORY_SHORTRANGE} oder {INVENTORY_LONGRANGE}, um Ihr Inventar zu öffnen.",
+			"64C73B46": "Drücken Sie {INVENTORY_LONGRANGE}, um ihr Inventar zu öffnen."
+		},
+		"es": {
+			"BCC1B727": "Sacar un arma",
+			"306B0D74": "Pulsa {INVENTORY_SHORTRANGE} o {INVENTORY_LONGRANGE} para abrir el inventario.",
+			"64C73B46": "Pulsa {INVENTORY_LONGRANGE} para abrir tu inventario."
+		}
+	}
+}

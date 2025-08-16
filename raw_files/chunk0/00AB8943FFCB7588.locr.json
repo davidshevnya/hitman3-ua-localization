@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00AB8943FFCB7588",
+	"languages": {
+		"xx": {
+			"C2845A06": "Title_Safe Conduct",
+			"5B8D0BBC": "Summary_Knight’s escape plan is at the reception. He will likely want to review it in private.",
+			"2C8A3B2A": "Briefing_The slides depicting Knight’s escape route from Cuba to his new home in the Soviet Union are ready for pickup at the reception. Desk security expect a soldier to fetch the slides, whereupon the KGB officer and Knight will likely retreat to the upstairs office.",
+			"B2EEAE89": "Step 1_Overhear security guards talking about the projector slides.",
+			"C5E99E1F": "Step 2_Get a soldier disguise.",
+			"5CE0CFA5": "Step 3_Pick up the slides from reception.",
+			"2BE7FF33": "Step 4_Place the slides on the overhead projector.",
+			"BB58E2A2": "Conclusion_Good thinking Initiate. This should keep Knight’s attention for a while.",
+			"CC5FD234": "Step_5_Turn on the overhead fusebox"
+		},
+		"en": {
+			"C2845A06": "Safe Conduct",
+			"5B8D0BBC": "Knight’s escape plan is at the reception desk. He will likely want to review it in private.",
+			"2C8A3B2A": "The slides depicting Knight’s escape route from Cuba to his new home in the Soviet Union are ready for pickup at the reception. Desk security expect a soldier to fetch the slides, whereupon the KGB officer and Knight will likely retreat to the upstairs office.",
+			"B2EEAE89": "Overhear security guards talking about the projector slides",
+			"C5E99E1F": "Get a Soldier disguise",
+			"5CE0CFA5": "Pick up the slides at the reception desk",
+			"2BE7FF33": "Place the slides on the overhead projector",
+			"BB58E2A2": "Good thinking, Initiate. This should keep Knight’s attention for a while.",
+			"CC5FD234": "Turn on the fusebox for the projector"
+		},
+		"fr": {
+			"C2845A06": "Sauf-conduit",
+			"5B8D0BBC": "Le plan d'évasion de Knight est au bureau de la réception. Il voudra probablement le consulter en privé.",
+			"2C8A3B2A": "Les documents indiquant l'itinéraire de Knight depuis Cuba jusqu'en URSS ont été déposés à la réception. L'agent de sécurité qui est posté a été prévenu qu'un soldat viendrait les récupérer, après quoi l'officier du KGB et Knight se retrouveront probablement dans le bureau situé à l'étage.",
+			"B2EEAE89": "Surprenez les gardes en train de parler des documents",
+			"C5E99E1F": "Procurez-vous une tenue de soldat",
+			"5CE0CFA5": "Récupérez les diapositives au bureau de la réception",
+			"2BE7FF33": "Placez les diapositives dans le rétroprojecteur",
+			"BB58E2A2": "Excellente stratégie, Initié. Voilà qui devrait occuper Knight pendant un moment.",
+			"CC5FD234": "Allumez la boîte à fusibles du rétroprojecteur"
+		},
+		"it": {
+			"C2845A06": "Salvacondotto",
+			"5B8D0BBC": "Il piano di fuga di Knight si trova alla reception. Immagino vorrà consultarlo in privato.",
+			"2C8A3B2A": "Le diapositive che mostrano la via di fuga di Knight da Cuba fino alla sua nuova abitazione in Unione Sovietica possono essere prelevate alla reception. La guardia lì presente si aspetta che passi a prenderle un soldato, dopo di che, l'agente del KGB e Knight dovrebbero ritirarsi nell'ufficio al piano di sopra.",
+			"B2EEAE89": "Ascolta le guardie mentre parlano delle diapositive",
+			"C5E99E1F": "Procurati un travestimento da soldato",
+			"5CE0CFA5": "Recupera le diapositive dalla reception",
+			"2BE7FF33": "Inserisci le diapositive nel proiettore",
+			"BB58E2A2": "Ottima idea, recluta. Questo dovrebbe tenere impegnato Knight per un po'.",
+			"CC5FD234": "Accendi il quadro elettrico"
+		},
+		"de": {
+			"C2845A06": "Freies Geleit",
+			"5B8D0BBC": "Knights Fluchtplan liegt an der Rezeption. Er wird ihn sicherlich ungestört prüfen wollen.",
+			"2C8A3B2A": "Die Folien mit Knights Fluchtroute von Kuba in seine neue Heimat in der Sowjetunion wurden an der Rezeption hinterlegt. Nachdem ein Soldat die Folien dort abgeholt hat, werden sich Knight und der KGB-Offizier vermutlich in das Büro im Obergeschoss zurückziehen.",
+			"B2EEAE89": "Belauschen Sie die Wachen, die sich über die Folien unterhalten",
+			"C5E99E1F": "Verkleiden Sie sich als Soldat",
+			"5CE0CFA5": "Holen Sie die Folien an der Rezeption ab",
+			"2BE7FF33": "Legen Sie die Folien auf den Overheadprojektor",
+			"BB58E2A2": "Gute Idee, Rekrut. Das dürfte Knight eine Weile ablenken.",
+			"CC5FD234": "Schalten Sie den Sicherungskasten des Overheadprojektors ein"
+		},
+		"es": {
+			"C2845A06": "Salvoconducto",
+			"5B8D0BBC": "Así que el plan de fuga de Knight está en la recepción. Seguramente querrá revisarlo en privado.",
+			"2C8A3B2A": "Las transparencias que revelan la ruta de escape de Knight desde Cuba hasta su nuevo hogar, en la Unión Soviética, están listas para su recogida en la recepción. El puesto de seguridad espera que un soldado vaya a por ellas, de modo que el agente de la KGB y Knight probablemente se retiren al despacho de arriba.",
+			"B2EEAE89": "Escucha la conversación de los guardias de seguridad sobre las transparencias del retroproyector",
+			"C5E99E1F": "Consigue el disfraz de soldado",
+			"5CE0CFA5": "Recoge las transparencias que están en recepción",
+			"2BE7FF33": "Coloca las transparencias en el retroproyector",
+			"BB58E2A2": "Muy inteligente, iniciado. Esto mantendrá a Knight ocupado un tiempo.",
+			"CC5FD234": "Enciende los fusibles del retroproyector"
+		}
+	}
+}

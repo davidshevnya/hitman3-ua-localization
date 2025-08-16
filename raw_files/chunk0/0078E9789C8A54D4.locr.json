@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0078E9789C8A54D4",
+	"languages": {
+		"xx": {
+			"0487BABE": "PH_FreeTraining",
+			"9BB96462": "PH_Text"
+		},
+		"en": {
+			"0487BABE": "Freeform Training",
+			"9BB96462": "Before the final test, you are allowed more time to practice the Ritter operation.<BR><BR>You are free to choose your approach, and you can use the challenges to guide you.<BR><BR>We encourage you to complete as many challenges as possible."
+		},
+		"fr": {
+			"0487BABE": "Entraînement libre",
+			"9BB96462": "Vous pouvez, avant Le test final, prendre plus de temps pour vous entraîner sur l'opération Ritter.<BR><BR>Vous êtes libre de choisir votre approche, et pouvez utiliser les défis pour vous guider.<BR><BR> Nous vous conseillons d'en réussir le plus possible."
+		},
+		"it": {
+			"0487BABE": "Addestramento libero",
+			"9BB96462": "Prima della prova finale, hai altro tempo a disposizione per fare pratica con l'operazione di Ritter.<BR><BR>Sei libero di scegliere la tua strategia e sfruttare le \"sfide\" per orientarti. Ti incoraggiamo a completare quante più sfide possibile."
+		},
+		"de": {
+			"0487BABE": "Freies Training",
+			"9BB96462": "Vor Ihrer Abschlussprüfung dürfen Sie noch einmal den Ritter-Auftrag durchlaufen.<BR><BR>Sie können Ihre Vorgehensweise frei wählen und sich an den Herausforderungen orientieren.<BR><BR>Wir empfehlen Ihnen, so viele wie möglich zu absolvieren."
+		},
+		"es": {
+			"0487BABE": "Entrenamiento improvisado",
+			"9BB96462": "Antes de la prueba final, tendrás más tiempo para practicar la operación Ritter.<BR><BR>Puedes elegir el método que quieras, y puedes usar los desafíos para guiarte.<BR><BR>Te animamos a que completes la mayor cantidad posible de desafíos."
+		}
+	}
+}

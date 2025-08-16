@@ -1,0 +1,42 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00756B56FB00EF06",
+	"languages": {
+		"xx": {
+			"UI_CHALLENGES_ET_GOLDENDOUBLET_SILENT_ASSASSIN_NAME": "Silent Assassin",
+			"UI_CHALLENGES_ET_GOLDENDOUBLET_TARGETDOWN_DESC": "<li>Assassinate The Appraiser.</li>",
+			"UI_CHALLENGES_ET_GOLDENDOUBLET_TARGETDOWN_NAME": "The Appraiser",
+			"UI_CHALLENGES_ET_GOLDENDOUBLET_SILENT_ASSASSIN_DESC": "<li>Assassinate The Appraiser.</li><li>Only eliminate the target.</il><li>No bodies found.</il><li>Do not get spotted.</il><li>If you are detected by cameras, erase or destroy the evidence.</li>"
+		},
+		"en": {
+			"UI_CHALLENGES_ET_GOLDENDOUBLET_SILENT_ASSASSIN_NAME": "Silent Assassin",
+			"UI_CHALLENGES_ET_GOLDENDOUBLET_TARGETDOWN_DESC": "<li>Assassinate the Appraiser.</li>",
+			"UI_CHALLENGES_ET_GOLDENDOUBLET_TARGETDOWN_NAME": "The Appraiser",
+			"UI_CHALLENGES_ET_GOLDENDOUBLET_SILENT_ASSASSIN_DESC": "<li>Assassinate the Appraiser.</li><li>Only eliminate the target.</li><li>No bodies found.</li><li>Do not get spotted.</li><li>If you are detected by cameras, erase or destroy the evidence.</li>"
+		},
+		"fr": {
+			"UI_CHALLENGES_ET_GOLDENDOUBLET_SILENT_ASSASSIN_NAME": "Assassin silencieux",
+			"UI_CHALLENGES_ET_GOLDENDOUBLET_TARGETDOWN_DESC": "<li>Assassinez l'Experte.</li>",
+			"UI_CHALLENGES_ET_GOLDENDOUBLET_TARGETDOWN_NAME": "L'Experte",
+			"UI_CHALLENGES_ET_GOLDENDOUBLET_SILENT_ASSASSIN_DESC": "<li>Assassinez l'Experte.</li><li>Abattez uniquement la cible.</li><li>Aucun corps trouvé.</li><li>Ne vous faites pas repérer.</li><li>Si vous êtes repéré par les caméras, effacez ou détruisez la vidéo.</li>"
+		},
+		"it": {
+			"UI_CHALLENGES_ET_GOLDENDOUBLET_SILENT_ASSASSIN_NAME": "Assassino silenzioso",
+			"UI_CHALLENGES_ET_GOLDENDOUBLET_TARGETDOWN_DESC": "<li>Elimina il perito.</li>",
+			"UI_CHALLENGES_ET_GOLDENDOUBLET_TARGETDOWN_NAME": "Il perito",
+			"UI_CHALLENGES_ET_GOLDENDOUBLET_SILENT_ASSASSIN_DESC": "<li>Elimina il perito.</li><li>Elimina solo il bersaglio.</li><li>Fai in modo che nessun corpo sia rinvenuto.</li><li>Non essere individuato.</li><li>Se vieni inquadrato dalle telecamere, cancella o distruggi le registrazioni.</li>"
+		},
+		"de": {
+			"UI_CHALLENGES_ET_GOLDENDOUBLET_SILENT_ASSASSIN_NAME": "Lautloser Killer",
+			"UI_CHALLENGES_ET_GOLDENDOUBLET_TARGETDOWN_DESC": "<li>Eliminieren Sie die Gutachterin.</li>",
+			"UI_CHALLENGES_ET_GOLDENDOUBLET_TARGETDOWN_NAME": "Die Gutachterin",
+			"UI_CHALLENGES_ET_GOLDENDOUBLET_SILENT_ASSASSIN_DESC": "<li>Eliminieren Sie die Gutachterin.</li><li>Eliminieren Sie nur das Ziel.</li><li>Keine Körper dürfen gefunden werden.</li><li>Bleiben Sie unbemerkt.</li><li>Werden Sie von Kameras gefilmt, löschen oder vernichten Sie die Beweise.</li>"
+		},
+		"es": {
+			"UI_CHALLENGES_ET_GOLDENDOUBLET_SILENT_ASSASSIN_NAME": "Asesino silencioso",
+			"UI_CHALLENGES_ET_GOLDENDOUBLET_TARGETDOWN_DESC": "<li>Elimina a la tasadora.</li>",
+			"UI_CHALLENGES_ET_GOLDENDOUBLET_TARGETDOWN_NAME": "La tasadora",
+			"UI_CHALLENGES_ET_GOLDENDOUBLET_SILENT_ASSASSIN_DESC": "<li>Elimina a la tasadora.</li><li>Elimina solo al objetivo.</li><li>Que no descubran cuerpos.</li><li>Evita que te descubran.</li><li>Si te detectan las cámaras, borra o destruye las pruebas.</li>"
+		}
+	}
+}

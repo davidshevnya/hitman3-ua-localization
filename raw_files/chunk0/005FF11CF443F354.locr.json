@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/online/challenges/challenges_et_snakebite.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"UI_CHALLENGES_ET_SNAKEBITE_SILENT_ASSASSIN_NAME": "Silent Assassin",
+			"UI_CHALLENGES_ET_SNAKEBITE_SILENT_ASSASSIN_DESC": "<li>Assassinate The Profiler.</li><li>Only kill the targets.</il><li>No bodies found.</il><li>Do not get compromised.</il><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+			"UI_CHALLENGES_ET_SNAKEBITE_TARGETDOWN_NAME": "The Profiler",
+			"UI_CHALLENGES_ET_SNAKEBITE_TARGETDOWN_DESC": "<li>Assassinate The Profiler.</li>",
+			"UI_CHALLENGES_ET_SNAKEBITE_COMPLETED_NAME": "Contract Complete",
+			"UI_CHALLENGES_ET_SNAKEBITE_COMPLETED_DESC": "Contract Complete",
+			"UI_CHALLENGES_ET_SNAKEBITE_SUICIDE_NAME": "Target Suicide Completion",
+			"UI_CHALLENGES_ET_SNAKEBITE_SUICIDE_DESC": "Target Suicide Completion"
+		},
+		"en": {
+			"UI_CHALLENGES_ET_SNAKEBITE_SILENT_ASSASSIN_NAME": "Silent Assassin",
+			"UI_CHALLENGES_ET_SNAKEBITE_SILENT_ASSASSIN_DESC": "<li>Assassinate the Conditioner and his actual patients.</li><li>Only eliminate the targets.</li><li>No bodies found.</li><li>Do not get spotted.</li><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+			"UI_CHALLENGES_ET_SNAKEBITE_TARGETDOWN_NAME": "The Conditioner",
+			"UI_CHALLENGES_ET_SNAKEBITE_TARGETDOWN_DESC": "<li>Assassinate the Conditioner.</li>",
+			"UI_CHALLENGES_ET_SNAKEBITE_COMPLETED_NAME": "Contract Complete",
+			"UI_CHALLENGES_ET_SNAKEBITE_COMPLETED_DESC": "Contract Complete",
+			"UI_CHALLENGES_ET_SNAKEBITE_SUICIDE_NAME": "Target Suicide Completion",
+			"UI_CHALLENGES_ET_SNAKEBITE_SUICIDE_DESC": "Target Suicide Completion"
+		},
+		"fr": {
+			"UI_CHALLENGES_ET_SNAKEBITE_SILENT_ASSASSIN_NAME": "Assassin silencieux",
+			"UI_CHALLENGES_ET_SNAKEBITE_SILENT_ASSASSIN_DESC": "<li>Assassinez le préparateur et ses véritables patients.</li><li>Abattez uniquement les cibles.</li><li>Aucun corps trouvé.</li><li>Ne vous faites pas repérer.</li><li>Si vous êtes repéré par les caméras, effacez ou détruisez la vidéo.</li>",
+			"UI_CHALLENGES_ET_SNAKEBITE_TARGETDOWN_NAME": "Le préparateur",
+			"UI_CHALLENGES_ET_SNAKEBITE_TARGETDOWN_DESC": "<li>Assassinez le préparateur.</li>",
+			"UI_CHALLENGES_ET_SNAKEBITE_COMPLETED_NAME": "Contrat réussi",
+			"UI_CHALLENGES_ET_SNAKEBITE_COMPLETED_DESC": "Contrat réussi",
+			"UI_CHALLENGES_ET_SNAKEBITE_SUICIDE_NAME": "Suicide de la cible réussi",
+			"UI_CHALLENGES_ET_SNAKEBITE_SUICIDE_DESC": "Suicide de la cible réussi"
+		},
+		"it": {
+			"UI_CHALLENGES_ET_SNAKEBITE_SILENT_ASSASSIN_NAME": "Assassino silenzioso",
+			"UI_CHALLENGES_ET_SNAKEBITE_SILENT_ASSASSIN_DESC": "<li>Elimina il motivatore e i suoi pazienti effettivi.</li><li>Elimina solo i bersagli.</li><li>Fai in modo che nessun corpo sia rinvenuto.</li><li>Non essere individuato.</li><li>Se vieni inquadrato dalle telecamere, cancella o distruggi le registrazioni.</li>",
+			"UI_CHALLENGES_ET_SNAKEBITE_TARGETDOWN_NAME": "Il motivatore",
+			"UI_CHALLENGES_ET_SNAKEBITE_TARGETDOWN_DESC": "<li>Elimina il motivatore.</li>",
+			"UI_CHALLENGES_ET_SNAKEBITE_COMPLETED_NAME": "Contratto completato",
+			"UI_CHALLENGES_ET_SNAKEBITE_COMPLETED_DESC": "Contratto completato",
+			"UI_CHALLENGES_ET_SNAKEBITE_SUICIDE_NAME": "Completamento suicidio bersaglio",
+			"UI_CHALLENGES_ET_SNAKEBITE_SUICIDE_DESC": "Completamento suicidio bersaglio"
+		},
+		"de": {
+			"UI_CHALLENGES_ET_SNAKEBITE_SILENT_ASSASSIN_NAME": "Lautloser Killer",
+			"UI_CHALLENGES_ET_SNAKEBITE_SILENT_ASSASSIN_DESC": "<li>Eliminieren Sie den Weichmacher und seine tatsächlichen Patienten.</li><li>Eliminieren Sie nur die Ziele.</li><li>Verstecken Sie alle Körper.</li><li>Bleiben Sie unbemerkt.</li><li>Werden Sie von Kameras gefilmt, löschen oder vernichten Sie die Beweise.</li>",
+			"UI_CHALLENGES_ET_SNAKEBITE_TARGETDOWN_NAME": "Der Weichmacher",
+			"UI_CHALLENGES_ET_SNAKEBITE_TARGETDOWN_DESC": "<li>Eliminieren Sie den Weichmacher.</li>",
+			"UI_CHALLENGES_ET_SNAKEBITE_COMPLETED_NAME": "Auftrag abgeschlossen",
+			"UI_CHALLENGES_ET_SNAKEBITE_COMPLETED_DESC": "Auftrag abgeschlossen",
+			"UI_CHALLENGES_ET_SNAKEBITE_SUICIDE_NAME": "Selbstmord des Ziels abgeschlossen",
+			"UI_CHALLENGES_ET_SNAKEBITE_SUICIDE_DESC": "Selbstmord des Ziels abgeschlossen"
+		},
+		"es": {
+			"UI_CHALLENGES_ET_SNAKEBITE_SILENT_ASSASSIN_NAME": "Asesino silencioso",
+			"UI_CHALLENGES_ET_SNAKEBITE_SILENT_ASSASSIN_DESC": "<li>Asesina al condicionador y a sus verdaderos pacientes.</li><li>Elimina solo a los objetivos.</li><li>Que no descubran cuerpos.</li><li>Evita que te descubran.</li><li>Si te detectan las cámaras, borra o destruye las pruebas.</li>",
+			"UI_CHALLENGES_ET_SNAKEBITE_TARGETDOWN_NAME": "El condicionador",
+			"UI_CHALLENGES_ET_SNAKEBITE_TARGETDOWN_DESC": "<li>Asesina al condicionador.</li>",
+			"UI_CHALLENGES_ET_SNAKEBITE_COMPLETED_NAME": "Contrato completado",
+			"UI_CHALLENGES_ET_SNAKEBITE_COMPLETED_DESC": "Contrato completado",
+			"UI_CHALLENGES_ET_SNAKEBITE_SUICIDE_NAME": "Progreso de suicidio del blanco",
+			"UI_CHALLENGES_ET_SNAKEBITE_SUICIDE_DESC": "Progreso de suicidio del blanco"
+		}
+	}
+}

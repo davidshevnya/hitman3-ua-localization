@@ -1,0 +1,42 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0074D9723F28F919",
+	"languages": {
+		"xx": {
+			"EBOLA_QUESTITEM_VIRALWEAPON_TITLE": "Viral Weapon",
+			"EBOLA_QUESTITEM_VIRALWEAPON_DESCRIPTION": "A cannister of the weaponised Nabazov virus. Designed to aersolize and disperse the virus every efficiently. Appears to be a custom design for this purpose.",
+			"EBOLA_QUESTITEM_JEFFNOTE_TITLE": "Suicide Note",
+			"EBOLA_QUESTITEM_JEFFNOTE_DESCRIPTION": "To whoever reads this: \r\nI am a coward and I do not deserve to live anymore. \r\nI had a chance to follow the love of my life but instead I am going to jump off a cliff.Here, in the beautiful city that we always wanted to visit together.\r\n\r\nRebecka... I love you. And I will see you soon on the other side.\r\n\r\n\r\n/Jeff"
+		},
+		"en": {
+			"EBOLA_QUESTITEM_VIRALWEAPON_TITLE": "Viral Weapon",
+			"EBOLA_QUESTITEM_VIRALWEAPON_DESCRIPTION": "A canister of the weaponised Nabazov virus. Designed to aersolize and disperse the virus every efficiently. Appears to be a custom design for this purpose.",
+			"EBOLA_QUESTITEM_JEFFNOTE_TITLE": "Note",
+			"EBOLA_QUESTITEM_JEFFNOTE_DESCRIPTION": "\"To whoever reads this:<br/>I am a coward and I do not deserve to live anymore.<br/>I had a chance to follow the love of my life but instead I am going to jump off a cliff. Here, in the beautiful city that we always wanted to visit together.<br/><br/>Rebecka... I love you. And I will see you soon on the other side.<br/>/Jeff \""
+		},
+		"fr": {
+			"EBOLA_QUESTITEM_VIRALWEAPON_TITLE": "Arme biologique virale",
+			"EBOLA_QUESTITEM_VIRALWEAPON_DESCRIPTION": "Une bombe contenant le virus transformé en arme biologique de Nabazov. C'est un aérosol qui semble spécialement conçu pour disperser le virus de manière très efficace.",
+			"EBOLA_QUESTITEM_JEFFNOTE_TITLE": "Message",
+			"EBOLA_QUESTITEM_JEFFNOTE_DESCRIPTION": "\"À quiconque lira ceci :<br/>Je suis un lâche qui ne mérite plus de vivre.<br/>Je n'ai pas su saisir la chance de suivre l'amour de ma vie, alors je vais me jeter d'une falaise. Ici, dans la majestueuse ville que nous avions toujours rêvé de visiter ensemble.<br/><br/>Rebecka... Je t'aime. Et je te retrouverai bientôt de l'autre côté.<br/>/Jeff \""
+		},
+		"it": {
+			"EBOLA_QUESTITEM_VIRALWEAPON_TITLE": "Arma virale",
+			"EBOLA_QUESTITEM_VIRALWEAPON_DESCRIPTION": "Una fiala con il letale virus Nabazov. Progettata appositamente per nebulizzare l'agente patogeno e disperderlo con la massima efficacia.",
+			"EBOLA_QUESTITEM_JEFFNOTE_TITLE": "Biglietto",
+			"EBOLA_QUESTITEM_JEFFNOTE_DESCRIPTION": "\"A chiunque legga questo messaggio<br/>Sono solo un vigliacco e non merito di vivere.<br/>Avevo la possibilità di seguire l'amore della mia vita, ma finirò per gettarmi da una rupe. Qui, nella splendida città che sognavamo da sempre di visitare insieme.<br/><br/>Ti amo, Rebecka... E ti rivedrò presto dall'altra parte...<br/>/Jeff \""
+		},
+		"de": {
+			"EBOLA_QUESTITEM_VIRALWEAPON_TITLE": "Virale Waffe",
+			"EBOLA_QUESTITEM_VIRALWEAPON_DESCRIPTION": "Ein Kanister mit dem waffenfähigen Nabazov-Virus. Es wird als Aerosol sehr effektiv über die Luft verbreitet. Offenbar ein individuelles Design für genau diesen Zweck.",
+			"EBOLA_QUESTITEM_JEFFNOTE_TITLE": "Notiz",
+			"EBOLA_QUESTITEM_JEFFNOTE_DESCRIPTION": "„Wer auch immer das hier liest:<br/>Ich bin ein Feigling und verdiene es nicht, weiterzuleben.<br/>Ich hatte die Chance, der Liebe meines Lebens zu folgen, aber stattdessen werde ich mich von einer Klippe stürzen. Hier, in dieser wunderschönen Stadt, die wir immer gemeinsam besuchen wollten.<br/><br/>Rebecka ... ich liebe dich. Und ich werde dich schon bald auf der anderen Seite wiedersehen.<br/>/Jeff “"
+		},
+		"es": {
+			"EBOLA_QUESTITEM_VIRALWEAPON_TITLE": "Arma biológica",
+			"EBOLA_QUESTITEM_VIRALWEAPON_DESCRIPTION": "Un recipiente con el virus letal de Nabazov, diseñado para ser pulverizado y dispersar el virus de la forma más eficiente. Parece estar construido especialmente para este propósito.",
+			"EBOLA_QUESTITEM_JEFFNOTE_TITLE": "Nota",
+			"EBOLA_QUESTITEM_JEFFNOTE_DESCRIPTION": "\"A quien lea esta nota:<br/>Soy un cobarde y no merezco seguir viviendo.<br/>Tuve ocasión de seguir al amor de mi vida, pero en vez de hacerlo decidí saltar desde un acantilado. Aquí, en esta hermosa ciudad que siempre quisimos visitar juntos.<br/><br/>Rebecka... te quiero. Pronto nos veremos en el más allá.<br/>/Jeff \""
+		}
+	}
+}

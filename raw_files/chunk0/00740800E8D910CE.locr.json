@@ -1,0 +1,36 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00740800E8D910CE",
+	"languages": {
+		"xx": {
+			"0EC220BC": "PH_Headline",
+			"3A29CEA5": "PH_HintBody",
+			"5268D0DB": "PH_HintBody"
+		},
+		"en": {
+			"0EC220BC": "Mission Stories",
+			"3A29CEA5": "A Mission Story has been revealed. To track it click {NOTEBOOK}",
+			"5268D0DB": "A Mission Story has been revealed. To track it press {NOTEBOOK}"
+		},
+		"fr": {
+			"0EC220BC": "Intrigues",
+			"3A29CEA5": "Une intrigue s'est révélée. Cliquez sur {NOTEBOOK} pour la suivre.",
+			"5268D0DB": "Une intrigue s'est révélée. Appuyez sur {NOTEBOOK} pour la suivre."
+		},
+		"it": {
+			"0EC220BC": "Storie della missione",
+			"3A29CEA5": "Una Storia della missione è stata rivelata. Fai clic su {NOTEBOOK} per seguirla.",
+			"5268D0DB": "Una Storia della missione è stata rivelata. Premi {NOTEBOOK} per seguirla."
+		},
+		"de": {
+			"0EC220BC": "Story-Missionen",
+			"3A29CEA5": "Eine Story-Mission wurde entdeckt. Klicken Sie {NOTEBOOK}, um sie zu verfolgen.",
+			"5268D0DB": "Eine Story-Mission wurde entdeckt. Drücken Sie {NOTEBOOK}, um sie zu verfolgen."
+		},
+		"es": {
+			"0EC220BC": "Historias de la misión",
+			"3A29CEA5": "Se ha revelado una historia de la misión. Para seguirla, haz clic en {NOTEBOOK}.",
+			"5268D0DB": "Se ha revelado una historia de la misión. Para seguirla, pulsa {NOTEBOOK}."
+		}
+	}
+}

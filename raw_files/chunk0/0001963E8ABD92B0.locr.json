@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0001963E8ABD92B0",
+	"languages": {
+		"xx": {
+			"DD64CC64": "Title",
+			"446D9DDE": "Summary",
+			"336AAD48": "Briefing",
+			"AD0E38EB": "Conclusion",
+			"DA09087D": "Step 1",
+			"430059C7": "Step 2",
+			"34076951": "Step 3",
+			"A4B874C0": "Step 4"
+		},
+		"en": {
+			"DD64CC64": "First Day on the Job",
+			"446D9DDE": "Villa Caruso has a new kitchen hand. Could be useful.",
+			"336AAD48": "Chef Marcello Ray has hired a new kitchen hand by recommendation, and the two have yet to meet. Could be a convenient way to infiltrate the mansion. FYI, according to our research, Chef Marcello has been trying to replicate Isabella Caruso's famous home cooking, but Silvio Caruso is not impressed. I suggest you give him a helping hand.",
+			"AD0E38EB": "Caruso will be coming to lunch shortly. His last meal, I presume.",
+			"DA09087D": "Get a Kitchen Staff disguise",
+			"430059C7": "Meet up with the mansion's chef",
+			"34076951": "Cook Caruso's spaghetti",
+			"A4B874C0": "Ring the lunch bell"
+		},
+		"fr": {
+			"DD64CC64": "Premier jour de travail",
+			"446D9DDE": "La Villa Caruso a embauché un aide cuisinier. Voilà qui pourrait vous servir.",
+			"336AAD48": "Le chef Marcello Ray a engagé un nouvel aide cuisinier qui lui a été recommandé, mais ne l'a pas encore rencontré. Voilà qui pourrait être un excellent moyen de vous introduire dans le manoir. Sachez aussi que d'après nos recherches, Marcello s'emploie à reproduire les petits plats d'Isabella Caruso, mais Silvio Caruso n'est pas encore convaincu. N'hésitez pas à lui donner un coup de main.",
+			"AD0E38EB": "Caruso ne va pas tarder à venir déjeuner. J'imagine qu'il s'agira de son dernier repas.",
+			"DA09087D": "Procurez-vous une tenue de personnel de cuisine",
+			"430059C7": "Rencontrez le chef-cuisinier du manoir",
+			"34076951": "Préparez un plat de spaghettis pour Caruso",
+			"A4B874C0": "Sonnez la cloche du déjeuner"
+		},
+		"it": {
+			"DD64CC64": "Primo giorno di lavoro",
+			"446D9DDE": "Villa Caruso ha un nuovo aiuto cuoco. Potrebbe tornarci utile.",
+			"336AAD48": "Lo chef Marcello Ray ha assunto un nuovo aiuto-cuoco che gli è stato consigliato, ma i due non si sono mai incontrati. Potrebbe essere l'occasione ideale per infiltrarsi nella villa. Inoltre devi sapere che secondo i rapporti, lo chef Marcello ha cercato di replicare i famosi piatti di Isabella Caruso, ma Silvio Caruso non si è detto colpito. Ti suggerisco di dargli una mano.",
+			"AD0E38EB": "Caruso si siederà a tavola a momenti. Sarà il suo ultimo pasto, presumo.",
+			"DA09087D": "Procurati un travestimento da membro del personale della cucina",
+			"430059C7": "Incontra lo chef della villa",
+			"34076951": "Prepara gli spaghetti di Caruso",
+			"A4B874C0": "Suona la campanella del pranzo"
+		},
+		"de": {
+			"DD64CC64": "Erster Arbeitstag",
+			"446D9DDE": "Die Villa Caruso hat eine neue Küchenhilfe. Wie praktisch.",
+			"336AAD48": "Küchenchef Marcello Ray hat auf Empfehlung eine neue Küchenhilfe engagiert, die er in Kürze zum ersten Mal treffen wird. Das könnte Ihre Chance sein, in das Anwesen einzudringen. Laut unserer Recherchen versucht Marcello übrigens, Isabella Carusos berühmte Hausmannskost nachzukochen, konnte Silvio bis dato aber nicht überzeugen. Vielleicht sollten Sie ihm ein bisschen unter die Arme greifen.",
+			"AD0E38EB": "Caruso kommt in Kürze zum Mittagessen. Das dürfte dann wohl seine letzte Mahlzeit sein.",
+			"DA09087D": "Verkleiden Sie sich als Küchenpersonal",
+			"430059C7": "Treffen Sie sich mit dem Küchenchef des Anwesens",
+			"34076951": "Kochen Sie Carusos Spaghetti",
+			"A4B874C0": "Läuten Sie die Essensglocke"
+		},
+		"es": {
+			"DD64CC64": "Primer día de trabajo",
+			"446D9DDE": "Villa Caruso tiene un nuevo ayudante de cocina. Podría ser útil.",
+			"336AAD48": "El chef Marcello Ray ha contratado a un nuevo ayudante de cocina por recomendación y aún no se conocen. Podría venir bien para infiltrarnos en la mansión. Por cierto, según nuestra investigación, el chef Marcello ha estado intentando reproducir la famosa comida casera de Isabella Caruso, pero a Silvio Caruso no le impresiona. Te sugiero que le eches una mano.",
+			"AD0E38EB": "Caruso vendrá a comer pronto. Su última comida, supongo.",
+			"DA09087D": "Consigue el disfraz de empleado de cocina",
+			"430059C7": "Reúnete con el chef de la mansión",
+			"34076951": "Prepara los espaguetis de Caruso",
+			"A4B874C0": "Toca la campana de la comida"
+		}
+	}
+}

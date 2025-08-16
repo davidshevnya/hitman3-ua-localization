@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0028E9C71C18B298",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_BAKERIAN_OBJ_3": "Eliminate Dexter Drake with a suspended object as a Kronstadt mechanic",
+			"UI_CONTRACT_BAKERIAN_OBJ_2": "Eliminate Alonso Ricardo Villareba in an explosion accident as a Kronstadt mechanic",
+			"UI_CONTRACT_BAKERIAN_OBJ_1": "Eliminate Wu Yang in an accident as a Kronstadt mechanic",
+			"UI_CONTRACT_BAKERIAN_LEVEL_3_TITLE": "The Treasonous Mimicry - Level 3",
+			"UI_CONTRACT_BAKERIAN_LEVEL_2_TITLE": "The Treasonous Mimicry - Level 2",
+			"UI_CONTRACT_BAKERIAN_LEVEL_1_TITLE": "The Treasonous Mimicry - Level 1",
+			"UI_CONTRACT_BAKERIAN_GROUP_TITLE": "The Treasonous Mimicry",
+			"UI_CONTRACT_BAKERIAN_GROUP_DESC": "Three level escalation in Miami"
+		},
+		"en": {
+			"UI_CONTRACT_BAKERIAN_OBJ_3": "Eliminate Dexter Drake with a suspended object as a Kronstadt mechanic",
+			"UI_CONTRACT_BAKERIAN_OBJ_2": "Eliminate Alonso Ricardo Villareba in an explosion accident as a Kronstadt mechanic",
+			"UI_CONTRACT_BAKERIAN_OBJ_1": "Eliminate Wu Yang in an accident as a Kronstadt mechanic",
+			"UI_CONTRACT_BAKERIAN_LEVEL_3_TITLE": "The Treasonous Mimicry - Level 3",
+			"UI_CONTRACT_BAKERIAN_LEVEL_2_TITLE": "The Treasonous Mimicry - Level 2",
+			"UI_CONTRACT_BAKERIAN_LEVEL_1_TITLE": "The Treasonous Mimicry - Level 1",
+			"UI_CONTRACT_BAKERIAN_GROUP_TITLE": "The Treasonous Mimicry",
+			"UI_CONTRACT_BAKERIAN_GROUP_DESC": "Three Level Escalation in Miami."
+		},
+		"fr": {
+			"UI_CONTRACT_BAKERIAN_OBJ_3": "Éliminez Dexter Drake avec un objet suspendu déguisé en mécanicien de Kronstadt",
+			"UI_CONTRACT_BAKERIAN_OBJ_2": "Éliminez Alonso Ricardo Villareba dans un accident explosif déguisé en mécanicien de Kronstadt",
+			"UI_CONTRACT_BAKERIAN_OBJ_1": "Éliminez Wu Yang dans un accident déguisé en mécanicien de Kronstadt",
+			"UI_CONTRACT_BAKERIAN_LEVEL_3_TITLE": "Traître imitation - Niveau 3",
+			"UI_CONTRACT_BAKERIAN_LEVEL_2_TITLE": "Traître imitation - Niveau 2",
+			"UI_CONTRACT_BAKERIAN_LEVEL_1_TITLE": "Traître imitation - Niveau 1",
+			"UI_CONTRACT_BAKERIAN_GROUP_TITLE": "Traître imitation",
+			"UI_CONTRACT_BAKERIAN_GROUP_DESC": "Escalade en trois niveaux à Miami"
+		},
+		"it": {
+			"UI_CONTRACT_BAKERIAN_OBJ_3": "Elimina Dexter Drake con un oggetto sospeso nei panni di un meccanico della Kronstadt",
+			"UI_CONTRACT_BAKERIAN_OBJ_2": "Elimina Alonso Ricardo Villareba con un incidente esplosivo nei panni di un meccanico della Kronstadt",
+			"UI_CONTRACT_BAKERIAN_OBJ_1": "Elimina Wu Yang con un incidente nei panni di un meccanico della Kronstadt",
+			"UI_CONTRACT_BAKERIAN_LEVEL_3_TITLE": "L'imitazione a tradimento - livello 3",
+			"UI_CONTRACT_BAKERIAN_LEVEL_2_TITLE": "L'imitazione a tradimento - livello 2",
+			"UI_CONTRACT_BAKERIAN_LEVEL_1_TITLE": "L'imitazione a tradimento - livello 1",
+			"UI_CONTRACT_BAKERIAN_GROUP_TITLE": "L'imitazione a tradimento",
+			"UI_CONTRACT_BAKERIAN_GROUP_DESC": "Escalation di tre livelli a Miami."
+		},
+		"de": {
+			"UI_CONTRACT_BAKERIAN_OBJ_3": "Eliminieren Sie als Kronstadt-Mechaniker verkleidet Dexter Drake mit einem hängenden Objekt",
+			"UI_CONTRACT_BAKERIAN_OBJ_2": "Eliminieren Sie als Kronstadt-Mechaniker verkleidet Alonso Ricardo Villareba mit einem Sprengunfall",
+			"UI_CONTRACT_BAKERIAN_OBJ_1": "Eliminieren Sie als Kronstadt-Mechaniker verkleidet Wu Yang mit einem Unfall",
+			"UI_CONTRACT_BAKERIAN_LEVEL_3_TITLE": "Die Verräterische Mimikry – Stufe 3",
+			"UI_CONTRACT_BAKERIAN_LEVEL_2_TITLE": "Die Verräterische Mimikry – Stufe 2",
+			"UI_CONTRACT_BAKERIAN_LEVEL_1_TITLE": "Die Verräterische Mimikry – Stufe 1",
+			"UI_CONTRACT_BAKERIAN_GROUP_TITLE": "Die Verräterische Mimikry",
+			"UI_CONTRACT_BAKERIAN_GROUP_DESC": "Drei-Stufen-Eskalation in Miami."
+		},
+		"es": {
+			"UI_CONTRACT_BAKERIAN_OBJ_3": "Elimina a Dexter Drake con un objeto suspendido disfrazado de mecánico de Kronstadt",
+			"UI_CONTRACT_BAKERIAN_OBJ_2": "Elimina a Alonso Ricardo Villareba con un accidente explosivo disfrazado de mecánico de Kronstadt",
+			"UI_CONTRACT_BAKERIAN_OBJ_1": "Elimina a Wu Yang con un accidente disfrazado de mecánico de Kronstadt",
+			"UI_CONTRACT_BAKERIAN_LEVEL_3_TITLE": "Imitación traicionera - Nivel 3",
+			"UI_CONTRACT_BAKERIAN_LEVEL_2_TITLE": "Imitación traicionera - Nivel 2",
+			"UI_CONTRACT_BAKERIAN_LEVEL_1_TITLE": "Imitación traicionera - Nivel 1",
+			"UI_CONTRACT_BAKERIAN_GROUP_TITLE": "Imitación traicionera",
+			"UI_CONTRACT_BAKERIAN_GROUP_DESC": "Intensificación de tres niveles en Miami"
+		}
+	}
+}

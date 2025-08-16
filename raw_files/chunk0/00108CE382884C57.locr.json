@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00108CE382884C57",
+	"languages": {
+		"xx": {
+			"CHALLENGEPACK_LITHIUM_WRAPPER_NAME": "Shaman Shenanigans",
+			"CHALLENGEPACK_LITHIUM_WRAPPER_DESC": "Complete all the Shaman Shenanigans challenges:</li><li>The Divination</li><li>The Hallowed Ground</li><li>The Altar Ritual</li><li>The Healing</li><li>The New Concoction",
+			"CHALLENGEPACK_LITHIUM_POISON_NAME": "The Divination",
+			"CHALLENGEPACK_LITHIUM_POISON_DESC": "</li><li>Eliminate 5 people with Poison while disguised as the Shaman.",
+			"CHALLENGEPACK_LITHIUM_CONSTRUCTIONPIT_NAME": "The Hallowed Ground",
+			"CHALLENGEPACK_LITHIUM_CONSTRUCTIONPIT_DESC": "</li><li>Push 3 people into the Construction Site Pit while disguised as the Shaman.",
+			"CHALLENGEPACK_LITHIUM_FIBREWIRE_ALTAR_NAME": "The Altar Ritual",
+			"CHALLENGEPACK_LITHIUM_FIBREWIRE_ALTAR_DESC": "</li><li>Kill someone with Fiber Wire in the Altar Cavern, while disguised as the Shaman.",
+			"CHALLENGEPACK_LITHIUM_COCAFIELD_GUARDS_NAME": "The Healing",
+			"CHALLENGEPACK_LITHIUM_COCAFIELD_GUARDS_DESC": "</li><li>While disguised as the Shaman, eliminate 10 different Coca Field Guards, while they are among the coca field crops.",
+			"CHALLENGEPACK_LITHIUM_SHOPPING_LIST_NAME": "The New Concoction",
+			"CHALLENGEPACK_LITHIUM_SHOPPING_LIST_DESC": "While disguised as the Shaman, acquire the following:</li><li>A Poisonous Frog</li><li>Some Glue</li><li>A Can of Expired Bolognese</li><li>Rat Poison"
+		},
+		"en": {
+			"CHALLENGEPACK_LITHIUM_WRAPPER_NAME": "Shaman Shenanigans",
+			"CHALLENGEPACK_LITHIUM_WRAPPER_DESC": "Complete all the Shaman Shenanigans challenges:<li>The Divination</li><li>The Hallowed Ground</li><li>The Altar Ritual</li><li>The Healing</li><li>The New Concoction</li>",
+			"CHALLENGEPACK_LITHIUM_POISON_NAME": "The Divination",
+			"CHALLENGEPACK_LITHIUM_POISON_DESC": "</li><li>Eliminate 5 people with poison while disguised as the Shaman.",
+			"CHALLENGEPACK_LITHIUM_CONSTRUCTIONPIT_NAME": "The Hallowed Ground",
+			"CHALLENGEPACK_LITHIUM_CONSTRUCTIONPIT_DESC": "</li><li>Push 3 people into the construction site pit while disguised as the Shaman.",
+			"CHALLENGEPACK_LITHIUM_FIBREWIRE_ALTAR_NAME": "The Altar Ritual",
+			"CHALLENGEPACK_LITHIUM_FIBREWIRE_ALTAR_DESC": "</li><li>Kill someone with fiber wire in the altar cavern, while disguised as the Shaman.",
+			"CHALLENGEPACK_LITHIUM_COCAFIELD_GUARDS_NAME": "The Healing",
+			"CHALLENGEPACK_LITHIUM_COCAFIELD_GUARDS_DESC": "</li><li>While disguised as the Shaman, eliminate 10 different coca field guards, while they are among the coca field crops.",
+			"CHALLENGEPACK_LITHIUM_SHOPPING_LIST_NAME": "The New Concoction",
+			"CHALLENGEPACK_LITHIUM_SHOPPING_LIST_DESC": "While disguised as the Shaman, acquire the following:</li><li>A Poisonous Frog</li><li>Some Glue</li><li>A Can of Expired Bolognese</li><li>Rat Poison"
+		},
+		"fr": {
+			"CHALLENGEPACK_LITHIUM_WRAPPER_NAME": "Machinations chamaniques",
+			"CHALLENGEPACK_LITHIUM_WRAPPER_DESC": "Terminez tous les défis de Machinations chamaniques :<li>Divination</li><li>Terre sacrée</li><li>Rituel et autel</li><li>La guérison</li><li>Nouvelle préparation</li>",
+			"CHALLENGEPACK_LITHIUM_POISON_NAME": "Divination",
+			"CHALLENGEPACK_LITHIUM_POISON_DESC": "<li>Éliminez 5 personnes avec du poison déguisé en chaman.</li>",
+			"CHALLENGEPACK_LITHIUM_CONSTRUCTIONPIT_NAME": "Terre sacrée",
+			"CHALLENGEPACK_LITHIUM_CONSTRUCTIONPIT_DESC": "<li>Poussez 3 personnes dans la fosse du chantier déguisé en chaman.</li>",
+			"CHALLENGEPACK_LITHIUM_FIBREWIRE_ALTAR_NAME": "Rituel et autel",
+			"CHALLENGEPACK_LITHIUM_FIBREWIRE_ALTAR_DESC": "<li>Éliminez quelqu'un avec la corde de piano dans la grotte de l'autel déguisé en chaman.</li>",
+			"CHALLENGEPACK_LITHIUM_COCAFIELD_GUARDS_NAME": "La guérison",
+			"CHALLENGEPACK_LITHIUM_COCAFIELD_GUARDS_DESC": "<li>Éliminez 10 gardes de champ de coca différents pendant qu'ils se trouvent parmi les pieds de coca, déguisé en chaman.</li>",
+			"CHALLENGEPACK_LITHIUM_SHOPPING_LIST_NAME": "Nouvelle préparation",
+			"CHALLENGEPACK_LITHIUM_SHOPPING_LIST_DESC": "Récupérez les objets suivants déguisé en chaman :<li>Grenouille venimeuse.</li><li>Colle.</li><li>Boîte de sauce bolognaise périmée.</li><li>Mort aux rats.</li>"
+		},
+		"it": {
+			"CHALLENGEPACK_LITHIUM_WRAPPER_NAME": "Raggiri dello sciamano",
+			"CHALLENGEPACK_LITHIUM_WRAPPER_DESC": "Completa tutte le sfide \"Raggiri dello sciamano\":<li>La divinazione</li><li>Il terreno sacro</li><li>Il rito sull'altare</li><li>La guarigione</li><li>Il nuovo miscuglio</li>",
+			"CHALLENGEPACK_LITHIUM_POISON_NAME": "La divinazione",
+			"CHALLENGEPACK_LITHIUM_POISON_DESC": "<li>Elimina 5 persone con il veleno travestito da sciamano.</li>",
+			"CHALLENGEPACK_LITHIUM_CONSTRUCTIONPIT_NAME": "Il terreno sacro",
+			"CHALLENGEPACK_LITHIUM_CONSTRUCTIONPIT_DESC": "<li>Spingi 3 persone nel cantiere travestito da sciamano.</li>",
+			"CHALLENGEPACK_LITHIUM_FIBREWIRE_ALTAR_NAME": "Il rito sull'altare",
+			"CHALLENGEPACK_LITHIUM_FIBREWIRE_ALTAR_DESC": "<li>Elimina qualcuno con un cavo di fibra sull'altare della caverna travestito da sciamano.</li>",
+			"CHALLENGEPACK_LITHIUM_COCAFIELD_GUARDS_NAME": "La guarigione",
+			"CHALLENGEPACK_LITHIUM_COCAFIELD_GUARDS_DESC": "<li>Travestito da sciamano, elimina 10 diverse guardie dei campi di coca mentre si trovano in mezzo alle coltivazioni.</li>",
+			"CHALLENGEPACK_LITHIUM_SHOPPING_LIST_NAME": "Il nuovo miscuglio",
+			"CHALLENGEPACK_LITHIUM_SHOPPING_LIST_DESC": "Travestito da sciamano, procurati quanto segue: <li>Una rana velenosa.</li><li>Un po' di colla.</li><li>Un barattolo di ragù scaduto.</li><li>Veleno per topi.</li>"
+		},
+		"de": {
+			"CHALLENGEPACK_LITHIUM_WRAPPER_NAME": "Schamanen-Schwindel",
+			"CHALLENGEPACK_LITHIUM_WRAPPER_DESC": "Schließen Sie alle „Schamanen-Schwindel“-Herausforderungen ab:<li>Die Wahrsagung</li><li>Geweihter Boden</li><li>Altaropfer</li><li>Der hinter den Reihen geht</li><li>Der neue Zaubertrank</li>",
+			"CHALLENGEPACK_LITHIUM_POISON_NAME": "Die Wahrsagung",
+			"CHALLENGEPACK_LITHIUM_POISON_DESC": "<li>Eliminieren Sie als Schamane verkleidet 5 Personen mit Gift.</li>",
+			"CHALLENGEPACK_LITHIUM_CONSTRUCTIONPIT_NAME": "Geweihter Boden",
+			"CHALLENGEPACK_LITHIUM_CONSTRUCTIONPIT_DESC": "<li>Schubsen Sie als Schamane verkleidet 3 Personen in die Baugrube.</li>",
+			"CHALLENGEPACK_LITHIUM_FIBREWIRE_ALTAR_NAME": "Altaropfer",
+			"CHALLENGEPACK_LITHIUM_FIBREWIRE_ALTAR_DESC": "<li>Töten Sie als Schamane verkleidet jemanden mit der Klaviersaite in der Altarhöhle.</li>",
+			"CHALLENGEPACK_LITHIUM_COCAFIELD_GUARDS_NAME": "Der hinter den Reihen geht",
+			"CHALLENGEPACK_LITHIUM_COCAFIELD_GUARDS_DESC": "<li>Eliminieren Sie als Schamane verkleidet 10 verschiedene Kokafeldwachen, während diese im Kokafeld patrouillieren.</li>",
+			"CHALLENGEPACK_LITHIUM_SHOPPING_LIST_NAME": "Der neue Zaubertrank",
+			"CHALLENGEPACK_LITHIUM_SHOPPING_LIST_DESC": "Beschaffen Sie als Schamane verkleidet das Folgende:<li>Einen Pfeilgiftfrosch</li><li>Etwas Klebstoff</li><li>Eine Dose abgelaufene Bolognese</li><li>Rattengift</li>"
+		},
+		"es": {
+			"CHALLENGEPACK_LITHIUM_WRAPPER_NAME": "Chanchullos del chamán",
+			"CHALLENGEPACK_LITHIUM_WRAPPER_DESC": "Completa todos los desafíos de Chanchullos del chamán:<li>Adivinación</li><li>Terreno sagrado</li><li>Altar ritual</li><li>Sanación</li><li>El nuevo brebaje</li>",
+			"CHALLENGEPACK_LITHIUM_POISON_NAME": "Adivinación",
+			"CHALLENGEPACK_LITHIUM_POISON_DESC": "<li>Elimina a 5 personas con veneno disfrazado de chamán.</li>",
+			"CHALLENGEPACK_LITHIUM_CONSTRUCTIONPIT_NAME": "Terreno sagrado",
+			"CHALLENGEPACK_LITHIUM_CONSTRUCTIONPIT_DESC": "<li>Empuja a 3 personas al foso de la obra disfrazado de chamán.</li>",
+			"CHALLENGEPACK_LITHIUM_FIBREWIRE_ALTAR_NAME": "Altar ritual",
+			"CHALLENGEPACK_LITHIUM_FIBREWIRE_ALTAR_DESC": "<li>Asesina a alguien con el cable de fibra en la caverna del altar mientras estás disfrazado de chamán.</li>",
+			"CHALLENGEPACK_LITHIUM_COCAFIELD_GUARDS_NAME": "Sanación",
+			"CHALLENGEPACK_LITHIUM_COCAFIELD_GUARDS_DESC": "<li>Mientras estés disfrazado de chamán, elimina a 10 guardias distintos de la plantación mientras están en los cultivos de coca.</li>",
+			"CHALLENGEPACK_LITHIUM_SHOPPING_LIST_NAME": "El nuevo brebaje",
+			"CHALLENGEPACK_LITHIUM_SHOPPING_LIST_DESC": "Consigue los siguientes objetos mientras estás disfrazado de chamán:<li>Una rana venenosa.</li><li>Pegamento.</li><li>Una lata de salsa boloñesa caducada.</li><li>Raticida.</li>"
+		}
+	}
+}

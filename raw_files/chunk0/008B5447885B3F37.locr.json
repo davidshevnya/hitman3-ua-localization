@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "008B5447885B3F37",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_CATTLEYA_OBJ_1": "Eliminate Amelia Garros in explosion while disguised as Server",
+			"UI_CONTRACT_CATTLEYA_OBJ_2": "Eliminate Richard Wilson while disguised as BBQ Owner",
+			"UI_CONTRACT_CATTLEYA_OBJ_3": "Eliminate Gunther Mueller while disguised as BBQ Owner",
+			"UI_CONTRACT_CATTLEYA_LEVEL_1_TITLE": "The Mendie Madness - Level 1",
+			"UI_CONTRACT_CATTLEYA_LEVEL_2_TITLE": "The Mendie Madness - Level 2",
+			"UI_CONTRACT_CATTLEYA_LEVEL_3_TITLE": "The Mendie Madness - Level 3",
+			"UI_CONTRACT_CATTLEYA_GROUP_TITLE": "The Mendie Madness",
+			"UI_CONTRACT_CATTLEYA_GROUP_DESC": "Three Level Escalation in Whittleton Creek"
+		},
+		"en": {
+			"UI_CONTRACT_CATTLEYA_OBJ_1": "Eliminate Amelia Garros in explosion while disguised as Server",
+			"UI_CONTRACT_CATTLEYA_OBJ_2": "Eliminate Richard Wilson while disguised as BBQ Owner",
+			"UI_CONTRACT_CATTLEYA_OBJ_3": "Eliminate Gunther Mueller while disguised as BBQ Owner",
+			"UI_CONTRACT_CATTLEYA_LEVEL_1_TITLE": "The Mendie Madness - Level 1",
+			"UI_CONTRACT_CATTLEYA_LEVEL_2_TITLE": "The Mendie Madness - Level 2",
+			"UI_CONTRACT_CATTLEYA_LEVEL_3_TITLE": "The Mendie Madness - Level 3",
+			"UI_CONTRACT_CATTLEYA_GROUP_TITLE": "The Mendie Madness",
+			"UI_CONTRACT_CATTLEYA_GROUP_DESC": "Three Level Escalation in Whittleton Creek"
+		},
+		"fr": {
+			"UI_CONTRACT_CATTLEYA_OBJ_1": "",
+			"UI_CONTRACT_CATTLEYA_OBJ_2": "",
+			"UI_CONTRACT_CATTLEYA_OBJ_3": "",
+			"UI_CONTRACT_CATTLEYA_LEVEL_1_TITLE": "",
+			"UI_CONTRACT_CATTLEYA_LEVEL_2_TITLE": "",
+			"UI_CONTRACT_CATTLEYA_LEVEL_3_TITLE": "",
+			"UI_CONTRACT_CATTLEYA_GROUP_TITLE": "",
+			"UI_CONTRACT_CATTLEYA_GROUP_DESC": ""
+		},
+		"it": {
+			"UI_CONTRACT_CATTLEYA_OBJ_1": "",
+			"UI_CONTRACT_CATTLEYA_OBJ_2": "",
+			"UI_CONTRACT_CATTLEYA_OBJ_3": "",
+			"UI_CONTRACT_CATTLEYA_LEVEL_1_TITLE": "",
+			"UI_CONTRACT_CATTLEYA_LEVEL_2_TITLE": "",
+			"UI_CONTRACT_CATTLEYA_LEVEL_3_TITLE": "",
+			"UI_CONTRACT_CATTLEYA_GROUP_TITLE": "",
+			"UI_CONTRACT_CATTLEYA_GROUP_DESC": ""
+		},
+		"de": {
+			"UI_CONTRACT_CATTLEYA_OBJ_1": "",
+			"UI_CONTRACT_CATTLEYA_OBJ_2": "",
+			"UI_CONTRACT_CATTLEYA_OBJ_3": "",
+			"UI_CONTRACT_CATTLEYA_LEVEL_1_TITLE": "",
+			"UI_CONTRACT_CATTLEYA_LEVEL_2_TITLE": "",
+			"UI_CONTRACT_CATTLEYA_LEVEL_3_TITLE": "",
+			"UI_CONTRACT_CATTLEYA_GROUP_TITLE": "",
+			"UI_CONTRACT_CATTLEYA_GROUP_DESC": ""
+		},
+		"es": {
+			"UI_CONTRACT_CATTLEYA_OBJ_1": "",
+			"UI_CONTRACT_CATTLEYA_OBJ_2": "",
+			"UI_CONTRACT_CATTLEYA_OBJ_3": "",
+			"UI_CONTRACT_CATTLEYA_LEVEL_1_TITLE": "",
+			"UI_CONTRACT_CATTLEYA_LEVEL_2_TITLE": "",
+			"UI_CONTRACT_CATTLEYA_LEVEL_3_TITLE": "",
+			"UI_CONTRACT_CATTLEYA_GROUP_TITLE": "",
+			"UI_CONTRACT_CATTLEYA_GROUP_DESC": ""
+		}
+	}
+}

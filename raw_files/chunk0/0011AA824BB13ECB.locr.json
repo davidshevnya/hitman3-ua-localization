@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0011AA824BB13ECB",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_CRINUM_GROUP_TITLE": "The Riviera Restoration",
+			"UI_CONTRACT_CRINUM_GROUP_DESC": "Three level escalation in Miami",
+			"UI_CONTRACT_CRINUM_LEVEL_1_TITLE": "The Riviera Restoration - Level 1",
+			"UI_CONTRACT_CRINUM_LEVEL_2_TITLE": "The Riviera Restoration - Level 2",
+			"UI_CONTRACT_CRINUM_LEVEL_3_TITLE": "The Riviera Restoration - Level 3",
+			"UI_CONTRACT_CRINUM_OBJECTIVE_1": "Eliminate Ernesto Nedina while disguised as medic",
+			"UI_CONTRACT_CRINUM_OBJECTIVE_2": "Eliminate Fishy Joe while disguised as medic",
+			"UI_CONTRACT_CRINUM_OBJECTIVE_3": "Eliminate John Petrock while disguised as medic"
+		},
+		"en": {
+			"UI_CONTRACT_CRINUM_GROUP_TITLE": "The Riviera Restoration",
+			"UI_CONTRACT_CRINUM_GROUP_DESC": "Three Level Escalation in Miami.",
+			"UI_CONTRACT_CRINUM_LEVEL_1_TITLE": "The Riviera Restoration - Level 1",
+			"UI_CONTRACT_CRINUM_LEVEL_2_TITLE": "The Riviera Restoration - Level 2",
+			"UI_CONTRACT_CRINUM_LEVEL_3_TITLE": "The Riviera Restoration - Level 3",
+			"UI_CONTRACT_CRINUM_OBJECTIVE_1": "Eliminate Ernesto Nedina disguised as a medic",
+			"UI_CONTRACT_CRINUM_OBJECTIVE_2": "Eliminate Fishy Joe disguised as a medic",
+			"UI_CONTRACT_CRINUM_OBJECTIVE_3": "Eliminate John Petrock disguised as a medic"
+		},
+		"fr": {
+			"UI_CONTRACT_CRINUM_GROUP_TITLE": "La restauration de Riviera",
+			"UI_CONTRACT_CRINUM_GROUP_DESC": "Escalade en trois niveaux à Miami",
+			"UI_CONTRACT_CRINUM_LEVEL_1_TITLE": "La restauration de Riviera - Niveau 1",
+			"UI_CONTRACT_CRINUM_LEVEL_2_TITLE": "La restauration de Riviera - Niveau 2",
+			"UI_CONTRACT_CRINUM_LEVEL_3_TITLE": "La restauration de Riviera - Niveau 3",
+			"UI_CONTRACT_CRINUM_OBJECTIVE_1": "Éliminez Ernesto Nedina déguisé en médecin.",
+			"UI_CONTRACT_CRINUM_OBJECTIVE_2": "Éliminez Fishy Joe déguisé en médecin.",
+			"UI_CONTRACT_CRINUM_OBJECTIVE_3": "Éliminez John Petrock déguisé en médecin."
+		},
+		"it": {
+			"UI_CONTRACT_CRINUM_GROUP_TITLE": "La ricostruzione della Riviera",
+			"UI_CONTRACT_CRINUM_GROUP_DESC": "Escalation di tre livelli a Miami.",
+			"UI_CONTRACT_CRINUM_LEVEL_1_TITLE": "La ricostruzione della Riviera - Livello 1",
+			"UI_CONTRACT_CRINUM_LEVEL_2_TITLE": "La ricostruzione della Riviera - Livello 2",
+			"UI_CONTRACT_CRINUM_LEVEL_3_TITLE": "La ricostruzione della Riviera - Livello 3",
+			"UI_CONTRACT_CRINUM_OBJECTIVE_1": "Travestiti da medico ed elimina Ernesto Nedina",
+			"UI_CONTRACT_CRINUM_OBJECTIVE_2": "Travestiti da medico ed elimina Fishy Joe",
+			"UI_CONTRACT_CRINUM_OBJECTIVE_3": "Travestiti da medico ed elimina John Petrock"
+		},
+		"de": {
+			"UI_CONTRACT_CRINUM_GROUP_TITLE": "Die Riviera-Restauration",
+			"UI_CONTRACT_CRINUM_GROUP_DESC": "Drei-Stufen-Eskalation in Miami.",
+			"UI_CONTRACT_CRINUM_LEVEL_1_TITLE": "Die Riviera-Restauration – Stufe 1",
+			"UI_CONTRACT_CRINUM_LEVEL_2_TITLE": "Die Riviera-Restauration – Stufe 2",
+			"UI_CONTRACT_CRINUM_LEVEL_3_TITLE": "Die Riviera-Restauration – Stufe 3",
+			"UI_CONTRACT_CRINUM_OBJECTIVE_1": "Eliminieren Sie als Arzt verkleidet Ernesto Nedina",
+			"UI_CONTRACT_CRINUM_OBJECTIVE_2": "Eliminieren Sie als Arzt verkleidet Fishy Joe",
+			"UI_CONTRACT_CRINUM_OBJECTIVE_3": "Eliminieren Sie als Arzt verkleidet John Petrock"
+		},
+		"es": {
+			"UI_CONTRACT_CRINUM_GROUP_TITLE": "La restauración de Riviera",
+			"UI_CONTRACT_CRINUM_GROUP_DESC": "Intensificación de tres niveles en Miami",
+			"UI_CONTRACT_CRINUM_LEVEL_1_TITLE": "La restauración de Riviera - Nivel 1",
+			"UI_CONTRACT_CRINUM_LEVEL_2_TITLE": "La restauración de Riviera - Nivel 2",
+			"UI_CONTRACT_CRINUM_LEVEL_3_TITLE": "La restauración de Riviera - Nivel 3",
+			"UI_CONTRACT_CRINUM_OBJECTIVE_1": "Elimina a Ernesto Nedina disfrazado de médico",
+			"UI_CONTRACT_CRINUM_OBJECTIVE_2": "Elimina a Fishy Joe disfrazado de médico",
+			"UI_CONTRACT_CRINUM_OBJECTIVE_3": "Elimina a John Petrock disfrazado de médico"
+		}
+	}
+}

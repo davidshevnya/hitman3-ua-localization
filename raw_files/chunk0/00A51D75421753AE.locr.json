@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00A51D75421753AE",
+	"languages": {
+		"xx": {
+			"11BA8C86": "Fail_TimedOut(Window of opportunity)",
+			"B13C8495": "Key outfit is lost",
+			"88B3DD3C": "Fail_IntelLost",
+			"FFB4EDAA": "Fail_ImportantCharaterUnavailable",
+			"61D07809": "Fail_Target's loop has changed",
+			"16D7489F": "Fail_DisguiseBlown(Important character has seen through disguise)",
+			"8FDE1925": "Fail_ImportantItemDestroyed",
+			"F8D929B3": "Fail_AreaCompromised",
+			"4CBB7AE5": "Fail_AdvantageAchievedPrematurely",
+			"6543EA82": "Fail_TacticalAdvantageLost",
+			"25DAE9F5": "Fail_DisguiseCompromised"
+		},
+		"en": {
+			"11BA8C86": "Window of opportunity has passed",
+			"B13C8495": "Key outfit is lost",
+			"88B3DD3C": "Key intel was lost",
+			"FFB4EDAA": "Key character is unavailable",
+			"61D07809": "Target changed behavior",
+			"16D7489F": "Disguise was blown",
+			"8FDE1925": "Key item was destroyed",
+			"F8D929B3": "Area was compromised",
+			"4CBB7AE5": "Mission Story Objective Surpassed",
+			"6543EA82": "Tactical Advantage Lost",
+			"25DAE9F5": "Key disguise compromised"
+		},
+		"fr": {
+			"11BA8C86": "Vous avez raté votre chance",
+			"B13C8495": "Vous avez perdu la tenue clé",
+			"88B3DD3C": "Des informations essentielles ont été perdues",
+			"FFB4EDAA": "Le personnage principal n'est plus disponible",
+			"61D07809": "La cible a changé de comportement",
+			"16D7489F": "Vous avez été démasqué",
+			"8FDE1925": "L'objet principal a été détruit",
+			"F8D929B3": "La zone est compromise",
+			"4CBB7AE5": "Objectif de l'intrigue dépassé",
+			"6543EA82": "L'avantage tactique est perdu",
+			"25DAE9F5": "Le déguisement principal est compromis"
+		},
+		"it": {
+			"11BA8C86": "Il tempo a disposizione è scaduto",
+			"B13C8495": "L’abito principale è stato perduto",
+			"88B3DD3C": "L'informazione chiave è stata persa",
+			"FFB4EDAA": "Il personaggio chiave non è più disponibile",
+			"61D07809": "Il bersaglio ha cambiato comportamento",
+			"16D7489F": "Il travestimento è stato smascherato",
+			"8FDE1925": "L'oggetto chiave è stato distrutto",
+			"F8D929B3": "La zona è in stato di allerta",
+			"4CBB7AE5": "Obiettivo della Storia della missione già conseguito",
+			"6543EA82": "Vantaggio tattico perso",
+			"25DAE9F5": "Il travestimento chiave è compromesso"
+		},
+		"de": {
+			"11BA8C86": "Zeitfenster wurde verpasst",
+			"B13C8495": "Entscheidende Verkleidung verloren",
+			"88B3DD3C": "Schlüsselinformationen gingen verloren",
+			"FFB4EDAA": "Schlüsselfigur ist nicht mehr verfügbar",
+			"61D07809": "Ziel ändert sein Verhalten",
+			"16D7489F": "Verkleidung ist aufgeflogen",
+			"8FDE1925": "Schlüsselobjekt wurde zerstört",
+			"F8D929B3": "Gebiet wurde kompromittiert",
+			"4CBB7AE5": "Ziel der Story-Mission wurde bereits erreicht",
+			"6543EA82": "Taktischen Vorteil verloren",
+			"25DAE9F5": "Schlüsselverkleidung ist nicht mehr verfügbar"
+		},
+		"es": {
+			"11BA8C86": "Margen de tiempo concluído",
+			"B13C8495": "Se ha perdido un disfraz fundamental",
+			"88B3DD3C": "Informes cruciales perdidos",
+			"FFB4EDAA": "El personaje clave no está disponible",
+			"61D07809": "El objetivo ha cambiado de comportamiento",
+			"16D7489F": "El disfraz ha sido descubierto",
+			"8FDE1925": "El objeto clave ha sido destruido",
+			"F8D929B3": "El área ha sido puesta en peligro",
+			"4CBB7AE5": "Objetivo de historia de la misión ya conseguido",
+			"6543EA82": "Ventaja táctica perdida",
+			"25DAE9F5": "El disfraz clave no se puede utilizar"
+		}
+	}
+}

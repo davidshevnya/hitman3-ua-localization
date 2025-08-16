@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00DEA278D1FA7577",
+	"languages": {
+		"xx": {
+			"81CD46C8": "Title",
+			"A5538593": "Flavor",
+			"08A24CF5": "Description",
+			"200679C3": "Conclusion",
+			"F649D5F0": "Get the Pilot's disguise",
+			"ECBE30A7": "Meet with the Chief Surgeon",
+			"43A4C342": "Wait for the chief surgeon",
+			"C687C0D6": "Escort Chief Surgeon to the Stash",
+			"9BB93287": "Become the chief surgeon"
+		},
+		"en": {
+			"81CD46C8": "Malpractice",
+			"A5538593": "I managed to gather intel from the hospital's security system. The chief surgeon, Nicholas Laurent, seems to have frequent rendezvous with the helicopter pilot near the remote personnel exit. And rumor has it that the chief surgeon suffers from trembling hands.",
+			"08A24CF5": "47, I have intel about the pilot.",
+			"200679C3": "Well done, 47. This should provide you with the means to get close to Soders.",
+			"F649D5F0": "Disguise yourself as the Pilot",
+			"ECBE30A7": "Meet with the chief surgeon",
+			"43A4C342": "Wait for the chief surgeon",
+			"C687C0D6": "Escort chief surgeon to the stash",
+			"9BB93287": "Disguise yourself as the Chief Surgeon"
+		},
+		"fr": {
+			"81CD46C8": "Erreur médicale",
+			"A5538593": "J'ai récupéré des infos depuis le système de sécurité de l'hôpital. Le chirurgien en chef, Nicholas Laurent, rencontre régulièrement le pilote d'hélico près de la sortie de service. Et d'après la rumeur, le chirurgien en chef a un problème de tremblote.",
+			"08A24CF5": "47, j'ai des renseignements sur le pilote.",
+			"200679C3": "Bien joué, 47. Cela devrait vous permettre d'approcher Soders.",
+			"F649D5F0": "Déguisez-vous en pilote",
+			"ECBE30A7": "Retrouvez le chirurgien en chef",
+			"43A4C342": "Attendez le chirurgien en chef",
+			"C687C0D6": "Escortez le chirurgien en chef jusqu'à la cachette",
+			"9BB93287": "Déguisez-vous en chirurgien en chef"
+		},
+		"it": {
+			"81CD46C8": "Malasanità",
+			"A5538593": "Ho raccolto informazioni dal sistema di sicurezza della clinica. Il primario di chirurgia, Nicholas Laurent, è solito incontrarsi con il pilota dell'elicottero presso l'uscita del personale. E gira voce che il primario soffra di tremori alle mani.",
+			"08A24CF5": "47, ho informazioni sul pilota.",
+			"200679C3": "Molto bene, 47. Questo dovrebbe darti modo di avvicinarti a Soders.",
+			"F649D5F0": "Travestiti da pilota",
+			"ECBE30A7": "Incontra il primario di chirurgia",
+			"43A4C342": "Aspetta il primario di chirurgia",
+			"C687C0D6": "Accompagna il primario alla scorta di pillole nascosta",
+			"9BB93287": "Travestiti da primario di chirurgia"
+		},
+		"de": {
+			"81CD46C8": "Behandlungsfehler",
+			"A5538593": "Ich habe Informationen aus dem Sicherheitssystem des Krankenhauses beschafft. Der Chefchirurg Nicholas Laurent hat anscheinend häufige Treffen mit dem Helikopterpiloten in der Nähe des abgelegenen Personaleingangs. Und Gerüchte besagen, dass der Chefchirurg unter zitternden Händen leidet.",
+			"08A24CF5": "47, ich habe Informationen über den Piloten.",
+			"200679C3": "Gut gemacht, 47. Damit sollten Sie näher an Soders herankommen.",
+			"F649D5F0": "Verkleiden Sie sich als Pilot",
+			"ECBE30A7": "Treffen Sie den Chefchirurgen",
+			"43A4C342": "Warten Sie auf den Chefchirurgen",
+			"C687C0D6": "Begleiten Sie den Chefchirurgen zum Lager",
+			"9BB93287": "Verkleiden Sie sich als Chefchirurg"
+		},
+		"es": {
+			"81CD46C8": "Mala praxis",
+			"A5538593": "He conseguido información del sistema de seguridad del hospital. Parece ser que el cirujano jefe, Nicholas Laurent, suele encontrarse con el piloto del helicóptero cerca de la salida alejada de personal. Además, se rumorea que el cirujano jefe sufre temblores en las manos.",
+			"08A24CF5": "47, tengo información sobre el piloto.",
+			"200679C3": "Bien hecho, 47. Esto debería permitirte acercarte a Soders.",
+			"F649D5F0": "Disfrázate como el piloto",
+			"ECBE30A7": "Reúnete con el cirujano jefe",
+			"43A4C342": "Espera al cirujano jefe",
+			"C687C0D6": "Acompaña al cirujano jefe hasta el alijo",
+			"9BB93287": "Disfrázate como el cirujano jefe"
+		}
+	}
+}

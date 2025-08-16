@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00DC44E82EF6A83C",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_ASAGAO_GROUP_TITLE": "The Yuuma Tenacity",
+			"UI_CONTRACT_ASAGAO_GROUP_DESC": "Five level Escalation in Hokkaido.",
+			"UI_CONTRACT_ASAGAO_LEVEL_5_TITLE": "The Yuuma Tenacity - Level 5",
+			"UI_CONTRACT_ASAGAO_LEVEL_4_TITLE": "The Yuuma Tenacity - Level 4",
+			"UI_CONTRACT_ASAGAO_LEVEL_3_TITLE": "The Yuuma Tenacity - Level 3",
+			"UI_CONTRACT_ASAGAO_LEVEL_2_TITLE": "The Yuuma Tenacity - Level 2",
+			"UI_CONTRACT_ASAGAO_LEVEL_1_TITLE": "The Yuuma Tenacity - Level 1",
+			"UI_CONTRACT_ASAGAO_OBJ_1": "Eliminate Nails while disguised as any surgeon",
+			"UI_CONTRACT_ASAGAO_OBJ_2": "Eliminate Nicholas Laurent",
+			"UI_CONTRACT_ASAGAO_OBJ_2_2": "Eliminate Nicholas Laurent while disguised as a helicopter pilot",
+			"UI_CONTRACT_ASAGAO_OBJ_1_2": "Eliminate Nails with a non-silenced firearm while disguised as any surgeon",
+			"UI_CONTRACT_ASAGAO_OBJ_2_3": "Eliminate Nicholas Laurent with a non-silenced firearm while disguised as a helicopter pilot"
+		},
+		"en": {
+			"UI_CONTRACT_ASAGAO_GROUP_TITLE": "The Yuuma Tenacity",
+			"UI_CONTRACT_ASAGAO_GROUP_DESC": "Five level Escalation in Hokkaido.",
+			"UI_CONTRACT_ASAGAO_LEVEL_5_TITLE": "The Yuuma Tenacity - Level 5",
+			"UI_CONTRACT_ASAGAO_LEVEL_4_TITLE": "The Yuuma Tenacity - Level 4",
+			"UI_CONTRACT_ASAGAO_LEVEL_3_TITLE": "The Yuuma Tenacity - Level 3",
+			"UI_CONTRACT_ASAGAO_LEVEL_2_TITLE": "The Yuuma Tenacity - Level 2",
+			"UI_CONTRACT_ASAGAO_LEVEL_1_TITLE": "The Yuuma Tenacity - Level 1",
+			"UI_CONTRACT_ASAGAO_OBJ_1": "Eliminate Nails while disguised as any surgeon",
+			"UI_CONTRACT_ASAGAO_OBJ_2": "Eliminate Nicholas Laurent",
+			"UI_CONTRACT_ASAGAO_OBJ_2_2": "Eliminate Nicholas Laurent while disguised as a helicopter pilot",
+			"UI_CONTRACT_ASAGAO_OBJ_1_2": "Eliminate Nails with a non-silenced firearm while disguised as any surgeon",
+			"UI_CONTRACT_ASAGAO_OBJ_2_3": "Eliminate Nicholas Laurent with a non-silenced firearm while disguised as a helicopter pilot"
+		},
+		"fr": {
+			"UI_CONTRACT_ASAGAO_GROUP_TITLE": "La ténacité Yuuma",
+			"UI_CONTRACT_ASAGAO_GROUP_DESC": "Escalade en cinq niveaux à Hokkaido.",
+			"UI_CONTRACT_ASAGAO_LEVEL_5_TITLE": "La ténacité Yuuma - Niveau 5",
+			"UI_CONTRACT_ASAGAO_LEVEL_4_TITLE": "La ténacité Yuuma - Niveau 4",
+			"UI_CONTRACT_ASAGAO_LEVEL_3_TITLE": "La ténacité Yuuma - Niveau 3",
+			"UI_CONTRACT_ASAGAO_LEVEL_2_TITLE": "La ténacité Yuuma - Niveau 2",
+			"UI_CONTRACT_ASAGAO_LEVEL_1_TITLE": "La ténacité Yuuma - Niveau 1",
+			"UI_CONTRACT_ASAGAO_OBJ_1": "Éliminez Nails, déguisé en chirurgien",
+			"UI_CONTRACT_ASAGAO_OBJ_2": "Éliminez Nicholas Laurent",
+			"UI_CONTRACT_ASAGAO_OBJ_2_2": "Éliminez Nicholas Laurent, déguisé en pilote d'hélicoptère",
+			"UI_CONTRACT_ASAGAO_OBJ_1_2": "Éliminez Nails avec une arme à feu sans silencieux, déguisé en chirurgien",
+			"UI_CONTRACT_ASAGAO_OBJ_2_3": "Éliminez Nicholas Laurent avec une arme à feu sans silencieux, déguisé en pilote d'hélicoptère"
+		},
+		"it": {
+			"UI_CONTRACT_ASAGAO_GROUP_TITLE": "La tenacia di Yuuma",
+			"UI_CONTRACT_ASAGAO_GROUP_DESC": "Escalation di cinque livelli in Hokkaidō.",
+			"UI_CONTRACT_ASAGAO_LEVEL_5_TITLE": "La tenacia di Yuuma - Livello 5",
+			"UI_CONTRACT_ASAGAO_LEVEL_4_TITLE": "La tenacia di Yuuma - Livello 4",
+			"UI_CONTRACT_ASAGAO_LEVEL_3_TITLE": "La tenacia di Yuuma - Livello 3",
+			"UI_CONTRACT_ASAGAO_LEVEL_2_TITLE": "La tenacia di Yuuma - Livello 2",
+			"UI_CONTRACT_ASAGAO_LEVEL_1_TITLE": "La tenacia di Yuuma - Livello 1",
+			"UI_CONTRACT_ASAGAO_OBJ_1": "Elimina Nails mentre sei travestito da un chirurgo qualsiasi",
+			"UI_CONTRACT_ASAGAO_OBJ_2": "Elimina Nicholas Laurent",
+			"UI_CONTRACT_ASAGAO_OBJ_2_2": "Elimina Nicholas Laurent mentre sei travestito da pilota di elicottero",
+			"UI_CONTRACT_ASAGAO_OBJ_1_2": "Elimina Nails con un'arma da fuoco non silenziata mentre sei travestito da un chirurgo qualsiasi",
+			"UI_CONTRACT_ASAGAO_OBJ_2_3": "Elimina Nicholas Laurent con un'arma da fuoco non silenziata mentre sei travestito da pilota di elicottero"
+		},
+		"de": {
+			"UI_CONTRACT_ASAGAO_GROUP_TITLE": "Die Yuuma-Tenazität",
+			"UI_CONTRACT_ASAGAO_GROUP_DESC": "Fünf-Stufen-Eskalation in Hokkaido.",
+			"UI_CONTRACT_ASAGAO_LEVEL_5_TITLE": "Die Yuuma-Tenazität – Stufe 5",
+			"UI_CONTRACT_ASAGAO_LEVEL_4_TITLE": "Die Yuuma-Tenazität – Stufe 4",
+			"UI_CONTRACT_ASAGAO_LEVEL_3_TITLE": "Die Yuuma-Tenazität – Stufe 3",
+			"UI_CONTRACT_ASAGAO_LEVEL_2_TITLE": "Die Yuuma-Tenazität – Stufe 2",
+			"UI_CONTRACT_ASAGAO_LEVEL_1_TITLE": "Die Yuuma-Tenazität – Stufe 1",
+			"UI_CONTRACT_ASAGAO_OBJ_1": "Eliminieren Sie Nails als Chirurg verkleidet",
+			"UI_CONTRACT_ASAGAO_OBJ_2": "Eliminieren Sie Nicholas Laurent",
+			"UI_CONTRACT_ASAGAO_OBJ_2_2": "Eliminieren Sie Nicholas Laurent als Helikopterpilot",
+			"UI_CONTRACT_ASAGAO_OBJ_1_2": "Eliminieren Sie Nails als Chirurg verkleidet mit ballistischer Waffe ohne Schalldämpfer",
+			"UI_CONTRACT_ASAGAO_OBJ_2_3": "Eliminieren Sie Nicholas Laurent als Helikopterpilot mit ballistischer Waffe ohne Schalldämpfer"
+		},
+		"es": {
+			"UI_CONTRACT_ASAGAO_GROUP_TITLE": "La tenacidad de Yuuma",
+			"UI_CONTRACT_ASAGAO_GROUP_DESC": "Intensificación de cinco niveles en Hokkaido.",
+			"UI_CONTRACT_ASAGAO_LEVEL_5_TITLE": "La tenacidad de Yuuma - Nivel 5",
+			"UI_CONTRACT_ASAGAO_LEVEL_4_TITLE": "La tenacidad de Yuuma - Nivel 4",
+			"UI_CONTRACT_ASAGAO_LEVEL_3_TITLE": "La tenacidad de Yuuma - Nivel 3",
+			"UI_CONTRACT_ASAGAO_LEVEL_2_TITLE": "La tenacidad de Yuuma - Nivel 2",
+			"UI_CONTRACT_ASAGAO_LEVEL_1_TITLE": "La tenacidad de Yuuma - Nivel 1",
+			"UI_CONTRACT_ASAGAO_OBJ_1": "Elimina a Nails disfrazado de cualquier cirujano",
+			"UI_CONTRACT_ASAGAO_OBJ_2": "Elimina a Nicholas Laurent",
+			"UI_CONTRACT_ASAGAO_OBJ_2_2": "Elimina a Nicholas Laurent disfrazado de piloto de helicóptero",
+			"UI_CONTRACT_ASAGAO_OBJ_1_2": "Elimina a Nails con un arma de fuego sin silenciador disfrazado de cualquier cirujano",
+			"UI_CONTRACT_ASAGAO_OBJ_2_3": "Elimina a Nicholas Laurent con un arma de fuego sin silenciador disfrazado de piloto de helicóptero"
+		}
+	}
+}

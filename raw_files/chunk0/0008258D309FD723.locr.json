@@ -1,0 +1,60 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0008258D309FD723",
+	"languages": {
+		"xx": {
+			"BF01DC49": "Title",
+			"C539CAFF": "Headline",
+			"5C69F9D2": "Briefing",
+			"A70D9578": "Conclusion",
+			"DDBFF4C0": "",
+			"186B36EB": "",
+			"FD0F4027": ""
+		},
+		"en": {
+			"BF01DC49": "Unclean",
+			"C539CAFF": "Huh. Sean Rose is hypersensitive to hallucinogens. Could be useful.",
+			"5C69F9D2": "Intriguing. According to Graves' ledger on Sean Rose, he is hypersensitive to the effects of drugs, in particular, hallucinogens. Last time he tried, it triggered a nasty psychotic episode, channeling his fear of germs. Interestingly, the ledger also contains a record of his most recent OCD attacks: \"desk,\" \"grandfather clock,\" and \"faucet.\" Hmm. Rose appears to smoke cigarettes when he gets agitated. What if...?",
+			"A70D9578": "Very clever, 47. This ought to rattle his cage.",
+			"DDBFF4C0": "Find hallucinogenic drugs",
+			"186B36EB": "Lace Sean Rose's cigarettes",
+			"FD0F4027": "Trigger Sean Rose's OCD"
+		},
+		"fr": {
+			"BF01DC49": "Impur",
+			"C539CAFF": "Tiens. Sean Rose est hypersensible aux hallucinogènes. Ça peut être utile.",
+			"5C69F9D2": "Étrange. Selon le dossier de Graves, Sean Rose est hypersensible aux effets des drogues, notamment des hallucinogènes. La dernière fois qu'il a essayé, il a fait un épisode psychotique relatif à sa peur des microbes. Curieusement, le dossier contient aussi une liste de ses derniers TOC mentionnant \"bureau\", \"horloge\" et \"robinet\". Il fumerait des cigarettes quand il est nerveux. Et si... ?",
+			"A70D9578": "Très malin, 47. Ça devrait l'énerver un peu.",
+			"DDBFF4C0": "Obtenez des drogues hallucinogènes",
+			"186B36EB": "Mélangez les drogues aux cigarettes de Sean Rose",
+			"FD0F4027": "Déclenchez les TOC de Sean Rose"
+		},
+		"it": {
+			"BF01DC49": "Antigienico",
+			"C539CAFF": "Sean Rose è ipersensibile agli effetti degli allucinogeni. Buono a sapersi...",
+			"5C69F9D2": "Interessante. Stando ai resoconti di Graves, Sean Rose è ipersensibile agli effetti delle droghe, in particolare delle sostanze allucinogene. L'ultima volta che ne ha provata una è caduto in preda a una crisi psicotica, dando sfogo alla sua fobia per i germi. Inoltre, i documenti contengono un rapporto sulle sue più recenti manifestazioni compulsive. \"Scrivania\", \"orologio a pendolo\" e \"rubinetto\". A quanto pare, Rose fuma sigarette quando è agitato. E se...?",
+			"A70D9578": "Molto astuto, 47. Questo dovrebbe innervosirlo.",
+			"DDBFF4C0": "Ottieni delle sostanze allucinogene",
+			"186B36EB": "Metti le sostanze allucinogene nelle sigarette di Rose",
+			"FD0F4027": "Scatena una crisi ossessivo-compulsiva in Sean Rose"
+		},
+		"de": {
+			"BF01DC49": "Unsauber",
+			"C539CAFF": "Sean Rose reagiert überempfindlich auf Halluzinogene. Könnte nützlich sein.",
+			"5C69F9D2": "Interessant. Laut Graves' Akte über Sean Rose reagiert er überempfindlich auf Drogen, insbesondere Halluzinogene. Nach seinem letzten Drogenkonsum hatte er eine psychotische Episode basierend auf seiner Angst vor Keimen. Außerdem enthielt die Akte Einträge über seine jüngsten Zwangsneurosen: „Schreibtisch“, „Großvateruhr“ und „Wasserhahn“. Hmm. Rose scheint Zigaretten zu rauchen, wenn er aufgeregt ist. Klingelt da etwas bei Ihnen?",
+			"A70D9578": "Wirklich clever, 47. Das müsste ihn verärgern.",
+			"DDBFF4C0": "Finden Sie halluzinogene Drogen.",
+			"186B36EB": "Vergiften Sie Sean Roses Zigaretten",
+			"FD0F4027": "Lösen Sie Sean Roses Zwangsneurose aus"
+		},
+		"es": {
+			"BF01DC49": "No está limpio",
+			"C539CAFF": "Sean Rose es hipersensible a los alucinógenos. Podría ser útil.",
+			"5C69F9D2": "Curioso. Según el informe de Graves sobre Sean Rose, es hipersensible al efecto de las drogas, en especial de los alucinógenos. La última vez que los tomó, le produjeron un episodio psicótico muy feo relacionado con su miedo a los gérmenes. Qué interesante. El informe también contiene un registro de sus últimos ataques de TOC. \"Escritorio\", \"reloj de pie\" y \"llave del agua\". Mmm. Parece que Rose se pone a fumar cuando se altera. ¿Y si...?",
+			"A70D9578": "Muy inteligente, 47. Esto debería ponerlo nervioso.",
+			"DDBFF4C0": "Encuentra alucinógenos",
+			"186B36EB": "Contamina los cigarrillos de Sean Rose",
+			"FD0F4027": "Desencadena el TOC de Rose"
+		}
+	}
+}

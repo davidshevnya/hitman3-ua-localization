@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00C13BB67FBBC296",
+	"languages": {
+		"xx": {
+			"0B6F65D8": "PH_Headline",
+			"1CFDF7EF": "PH_Text"
+		},
+		"en": {
+			"0B6F65D8": "Subduing",
+			"1CFDF7EF": "Press {MELEE_HIT} to subdue when behind a person."
+		},
+		"fr": {
+			"0B6F65D8": "Neutraliser",
+			"1CFDF7EF": "Appuyez sur {MELEE_HIT} pour neutraliser une personne quand vous êtes derrière elle."
+		},
+		"it": {
+			"0B6F65D8": "Stordire",
+			"1CFDF7EF": "Premi {MELEE_HIT} per stordire qualcuno quando ti trovi alle sue spalle."
+		},
+		"de": {
+			"0B6F65D8": "Überwältigen",
+			"1CFDF7EF": "Drücken Sie {MELEE_HIT}, um eine Person von hinten zu überwältigen."
+		},
+		"es": {
+			"0B6F65D8": "Dejar inconsciente",
+			"1CFDF7EF": "Pulsa {MELEE_HIT} para dejar inconsciente a una persona cuando estés detrás de ella."
+		}
+	}
+}

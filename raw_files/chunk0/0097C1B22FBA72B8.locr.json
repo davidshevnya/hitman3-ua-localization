@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0097C1B22FBA72B8",
+	"languages": {
+		"xx": {
+			"A8DFB64A": "Title",
+			"CBA1ED0C": "Flavor",
+			"4FCDACE2": "Description",
+			"36A26463": "Conclusion",
+			"A05AE8BC": "FollowTheEngineersWife",
+			"F0BA995C": "Become engineer",
+			"E871FEA4": "FindEntrance",
+			"B4BBB2C4": "FindSub",
+			"4922675A": "DisableLimiter",
+			"A894B8B9": "Signal Rico",
+			"65CABF7F": "WaitForRico",
+			"AF55C932": "Start Engine"
+		},
+		"en": {
+			"A8DFB64A": "Submerged",
+			"CBA1ED0C": "So. An employee of the Delgado cartel was injured while working on a secret project in the caves beneath Santa Fortuna. Sounds intriguing. I suggest you locate this man’s house, 47. Could be a chance to access the heart of the Delgado cartel.",
+			"4FCDACE2": "A secret project? Surely this warrants attention.",
+			"36A26463": "Good thinking, 47. Delgado will want to see this beast in action. Up close and personal.",
+			"A05AE8BC": "Follow the submarine engineer's wife",
+			"F0BA995C": "Disguise yourself as the submarine engineer",
+			"E871FEA4": "Locate the entrance to the caves",
+			"B4BBB2C4": "Locate the submarine",
+			"4922675A": "Disable the engine limiter",
+			"A894B8B9": "Talk to the guard to signal Rico Delgado",
+			"65CABF7F": "Wait for Rico Delgado",
+			"AF55C932": "Start the submarine engine"
+		},
+		"fr": {
+			"A8DFB64A": "Submergé",
+			"CBA1ED0C": "Un employé du cartel Delgado s'est blessé en travaillant sur un projet secret dans les grottes sous Santa Fortuna… Intéressant. Vous devriez chercher où habite cet homme, 47. Il pourrait vous permettre d'accéder au cœur du cartel.",
+			"4FCDACE2": "Un projet secret ? Cela mérite d'y porter attention.",
+			"36A26463": "Bonne idée, 47. Delgado voudra certainement voir ce monstre en action. De très, très près.",
+			"A05AE8BC": "Suivez la femme de l'ingénieur de sous-marin",
+			"F0BA995C": "Déguisez-vous en ingénieur de sous-marin",
+			"E871FEA4": "Trouvez l'entrée des grottes",
+			"B4BBB2C4": "Trouvez le sous-marin",
+			"4922675A": "Désactivez le limiteur du moteur",
+			"A894B8B9": "Parlez au garde pour qu'il appelle Rico Delgado",
+			"65CABF7F": "Attendez Rico Delgado",
+			"AF55C932": "Démarrez le moteur du sous-marin"
+		},
+		"it": {
+			"A8DFB64A": "Sommerso",
+			"CBA1ED0C": "Dunque, un impiegato del cartello dei Delgado è rimasto ferito mentre lavorava a un progetto segreto nelle caverne al di sotto di Santa Fortuna. Sembra interessante. Potrebbe essere utile trovare la casa di quest'uomo, 47. Potrebbe essere la chiave per accedere al cuore del cartello dei Delgado.",
+			"4FCDACE2": "Un progetto segreto? Sicuramente merita attenzione.",
+			"36A26463": "Bella pensata, 47. Delgado vorrà vedere questa belva in azione. Da vicino.",
+			"A05AE8BC": "Segui la moglie dell'ingegnere del sottomarino",
+			"F0BA995C": "Travestiti da ingegnere del sottomarino",
+			"E871FEA4": "Trova l'ingresso per le caverne",
+			"B4BBB2C4": "Trova il sottomarino",
+			"4922675A": "Disattiva il limitatore del motore",
+			"A894B8B9": "Parla con la guardia per chiamare Rico Delgado",
+			"65CABF7F": "Aspetta Rico Delgado",
+			"AF55C932": "Avvia il motore del sottomarino"
+		},
+		"de": {
+			"A8DFB64A": "Untergetaucht",
+			"CBA1ED0C": "So. Ein Angestellter des Delgado-Kartells wurde verletzt, während er an einem Geheimprojekt in den Höhlen unter Santa Fortuna arbeitete. Klingt interessant. Ich würde vorschlagen, dass Sie das Haus des Mannes finden, 47. Das könnte Ihre Chance sein, ins Herz des Delgado-Kartells vorzudringen.",
+			"4FCDACE2": "Ein Geheimprojekt? Mit Sicherheit rechtfertigt dies Aufmerksamkeit.",
+			"36A26463": "Kluger Gedanke, 47. Delgado wird das Biest in Aktion sehen wollen – und zwar ganz aus der Nähe.",
+			"A05AE8BC": "Folgen Sie der Frau des U-Boot-Ingenieurs.",
+			"F0BA995C": "Verkleiden Sie sich als U-Boot-Ingenieur.",
+			"E871FEA4": "Finden Sie den Eingang zu den Höhlen.",
+			"B4BBB2C4": "Finden Sie das U-Boot.",
+			"4922675A": "Deaktivieren Sie den Motorabregler.",
+			"A894B8B9": "Sprechen Sie mit der Wache, um Rico Delgado ein Zeichen zu geben.",
+			"65CABF7F": "Warten Sie auf Rico Delgado.",
+			"AF55C932": "Starten Sie den U-Boot-Motor."
+		},
+		"es": {
+			"A8DFB64A": "Sumergido",
+			"CBA1ED0C": "Un empleado del cártel de Delgado se ha lesionado mientras trabajaba en un proyecto secreto en las cuevas que hay bajo Santa Fortuna. Parece interesante. Te sugiero que encuentres la casa de ese hombre, 47. Podría ser una gran ocasión para colarte en el cártel de Delgado.",
+			"4FCDACE2": "¿Un proyecto secreto? Seguro que esto merece atención.",
+			"36A26463": "Buena idea, 47. Delgado querrá ver a esta bestia en acción. Y querrá verla personalmente.",
+			"A05AE8BC": "Sigue a la esposa del ingeniero del submarino",
+			"F0BA995C": "Disfrázate del ingeniero del submarino",
+			"E871FEA4": "Encuentra la entrada a las cuevas",
+			"B4BBB2C4": "Encuentra el submarino",
+			"4922675A": "Desactiva el limitador del motor",
+			"A894B8B9": "Habla con el guardia para que llame a Rico Delgado",
+			"65CABF7F": "Espera a Rico Delgado",
+			"AF55C932": "Enciende el motor del submarino"
+		}
+	}
+}

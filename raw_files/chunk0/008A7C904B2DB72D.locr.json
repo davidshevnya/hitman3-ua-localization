@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/menutext_s3_golden.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"BA013389": "Golden",
+			"45B15960": "Golden Country",
+			"UI_LOCATION_GOLDEN_GECKO_COUNTRY": "Golden Country",
+			"UI_LOCATION_PARENT_GOLDEN_NAME": "Golden, Golden Country",
+			"UI_LOCATION_GOLDEN_GECKO_CITY": "Golden",
+			"UI_LOCATION_GOLDEN_GECKO_TITLE": "Golden Gecko"
+		},
+		"en": {
+			"BA013389": "Dubai",
+			"45B15960": "United Arab Emirates",
+			"UI_LOCATION_GOLDEN_GECKO_COUNTRY": "United Arab Emirates",
+			"UI_LOCATION_PARENT_GOLDEN_NAME": "Dubai, United Arab Emirates",
+			"UI_LOCATION_GOLDEN_GECKO_CITY": "Dubai",
+			"UI_LOCATION_GOLDEN_GECKO_TITLE": "On Top Of The World"
+		},
+		"fr": {
+			"BA013389": "Dubaï",
+			"45B15960": "Émirats arabes unis",
+			"UI_LOCATION_GOLDEN_GECKO_COUNTRY": "Émirats arabes unis",
+			"UI_LOCATION_PARENT_GOLDEN_NAME": "Dubaï, Émirats arabes unis",
+			"UI_LOCATION_GOLDEN_GECKO_CITY": "Dubaï",
+			"UI_LOCATION_GOLDEN_GECKO_TITLE": "Sur le toit du monde"
+		},
+		"it": {
+			"BA013389": "Dubai",
+			"45B15960": "Emirati Arabi Uniti",
+			"UI_LOCATION_GOLDEN_GECKO_COUNTRY": "Emirati Arabi Uniti",
+			"UI_LOCATION_PARENT_GOLDEN_NAME": "Dubai, Emirati Arabi Uniti",
+			"UI_LOCATION_GOLDEN_GECKO_CITY": "Dubai",
+			"UI_LOCATION_GOLDEN_GECKO_TITLE": "In cima al mondo"
+		},
+		"de": {
+			"BA013389": "Dubai",
+			"45B15960": "Vereinigte Arabische Emirate",
+			"UI_LOCATION_GOLDEN_GECKO_COUNTRY": "Vereinigte Arabische Emirate",
+			"UI_LOCATION_PARENT_GOLDEN_NAME": "Dubai, Vereinigte Arabische Emirate",
+			"UI_LOCATION_GOLDEN_GECKO_CITY": "Dubai",
+			"UI_LOCATION_GOLDEN_GECKO_TITLE": "An der Spitze der Welt"
+		},
+		"es": {
+			"BA013389": "Dubái",
+			"45B15960": "Emiratos Árabes Unidos",
+			"UI_LOCATION_GOLDEN_GECKO_COUNTRY": "Emiratos Árabes Unidos",
+			"UI_LOCATION_PARENT_GOLDEN_NAME": "Dubái, Emiratos Árabes Unidos",
+			"UI_LOCATION_GOLDEN_GECKO_CITY": "Dubái",
+			"UI_LOCATION_GOLDEN_GECKO_TITLE": "En la cima del mundo"
+		}
+	}
+}

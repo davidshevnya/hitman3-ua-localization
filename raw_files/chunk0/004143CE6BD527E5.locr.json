@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "004143CE6BD527E5",
+	"languages": {
+		"xx": {
+			"CD6955FF": "PH_Headline",
+			"D29A6A31": "PH_Text"
+		},
+		"en": {
+			"CD6955FF": "Unconscious",
+			"D29A6A31": "Subduing or knocking down people will render them unconscious but still alive. Eliminate the target to complete the mission objective."
+		},
+		"fr": {
+			"CD6955FF": "Inconscient",
+			"D29A6A31": "Neutraliser une personne lui fera perdre conscience, mais elle restera en vie. Éliminez la cible pour remplir l'objectif de la mission."
+		},
+		"it": {
+			"CD6955FF": "Privo di sensi",
+			"D29A6A31": "Stordisci le persone per renderle incoscienti senza ucciderle. Elimina il bersaglio per completare l'obiettivo della missione."
+		},
+		"de": {
+			"CD6955FF": "Bewusstlos",
+			"D29A6A31": "Wenn Sie Personen überwältigen oder niederschlagen, werden diese nicht getötet, sondern nur bewusstlos. Eliminieren Sie das Ziel, um die Mission abzuschließen."
+		},
+		"es": {
+			"CD6955FF": "Inconsciente",
+			"D29A6A31": "Reducir o noquear a la gente la dejará inconsciente, pero viva. Elimina al blanco para completar el objetivo de la misión."
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00CD13C8EAD564D8",
+	"languages": {
+		"xx": {
+			"7D4F68E7": "PH_Headline",
+			"629E92CF": "PH_Text",
+			"7856BABB": "PH_Old"
+		},
+		"en": {
+			"7D4F68E7": "Move the Body",
+			"629E92CF": "Hold {DRAGBODY} to drag the body.",
+			"7856BABB": "Drag the body into the restroom to avoid detection."
+		},
+		"fr": {
+			"7D4F68E7": "Déplacez le corps",
+			"629E92CF": "Maintenez {DRAGBODY} pour traîner le corps.",
+			"7856BABB": "Traînez le corps jusqu'aux toilettes pour éviter d'être repéré."
+		},
+		"it": {
+			"7D4F68E7": "Spostamento dei corpi",
+			"629E92CF": "Tieni premuto {DRAGBODY} per trascinare un corpo.",
+			"7856BABB": "Trascina il corpo nella toilette per evitare di essere scoperto."
+		},
+		"de": {
+			"7D4F68E7": "Körper wegschleifen",
+			"629E92CF": "Halten Sie {DRAGBODY}, um den Körper wegzuschleifen.",
+			"7856BABB": "Ziehen Sie den Körper in die Toilette, um nicht entdeckt zu werden."
+		},
+		"es": {
+			"7D4F68E7": "Mover el cuerpo",
+			"629E92CF": "Mantén {DRAGBODY} para arrastrar el cuerpo.",
+			"7856BABB": "Arrastra el cuerpo hasta el servicio para que no lo descubran."
+		}
+	}
+}

@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00C9E04DE9230620",
+	"languages": {
+		"xx": {
+			"3D228819": "Name",
+			"140FD942": "Flavor",
+			"8B4B0A88": "Description",
+			"2A79D9DC": "Conclusion",
+			"3F049A78": "Step 1",
+			"3E5940F4": "Step 2",
+			"5F5A7AAC": "Step 3",
+			"BC4F737F": "Step 4"
+		},
+		"en": {
+			"3D228819": "Prime Time",
+			"140FD942": "The TV crew is here to interview Strandberg. Too bad their cameraman is missing.",
+			"8B4B0A88": "Claus Strandberg has agreed to an exclusive interview with celebrity GNN reporter Pam Kingsley, no doubt to enrage the public even further. This could be a way inside the locked-down consulate. And the replacement cameraman, a local freelancer, is yet to arrive.",
+			"2A79D9DC": "Access to the consulate and first row seats for the interview. Nicely done, 47.",
+			"3F049A78": "Disguise yourself as the Cameraman",
+			"3E5940F4": "Meet up with the news crew",
+			"5F5A7AAC": "Follow the news crew",
+			"BC4F737F": "Start the camera"
+		},
+		"fr": {
+			"3D228819": "Prime time",
+			"140FD942": "L'équipe télé venue interviewer Strandberg est déjà là. Il ne manque que le caméraman.",
+			"8B4B0A88": "Claus Strandberg a accepté d'accorder une interview exclusive à Pam Kingsley, la célèbre journaliste de GNN. Son objectif est probablement d'attiser davantage la colère populaire. Ce serait l'occasion de pénétrer dans le consulat, qui est actuellement totalement interdit d'accès. Le caméraman remplaçant, un freelance trouvé sur place, n'est pas encore arrivé.",
+			"2A79D9DC": "Un accès au consulat et une place aux premières loges pour l'interview. Bravo, 47.",
+			"3F049A78": "Déguisez-vous en cameraman",
+			"3E5940F4": "Retrouvez l'équipe de journalistes",
+			"5F5A7AAC": "Suivez l'équipe de journalistes",
+			"BC4F737F": "Démarrez la caméra"
+		},
+		"it": {
+			"3D228819": "Picco d'ascolti",
+			"140FD942": "La troupe televisiva è qui per intervistare Strandberg. Peccato manchi il cameraman...",
+			"8B4B0A88": "Claus Strandberg concederà un'intervista esclusiva alla famosa giornalista della GNN Pam Kingsley, senza dubbio per fomentare ulteriormente la popolazione. Potrebbe essere un'occasione per entrare nel consolato durante la procedura di isolamento. E il sostituto del cameraman, un freelance del posto, non è ancora arrivato.",
+			"2A79D9DC": "Accesso al consolato e un posto in prima fila per l'intervista. Ben fatto, 47.",
+			"3F049A78": "Travestiti da cameraman",
+			"3E5940F4": "Incontrati con la troupe giornalistica",
+			"5F5A7AAC": "Segui la troupe giornalistica",
+			"BC4F737F": "Avvia la telecamera"
+		},
+		"de": {
+			"3D228819": "Beste Sendezeit",
+			"140FD942": "Das Fernsehteam für das Interview mit Strandberg ist eingetroffen. Allerdings ohne seinen Kameramann.",
+			"8B4B0A88": "Claus Strandberg hat sich zu einem Exklusivinterview mit der bekannten GNN-Journalistin Pam Kingsley bereit erklärt, um die Stimmung vor Ort weiter anzuheizen. So könnten Sie in das abgeriegelte Konsulat kommen, zumal der Ersatz-Kameramann, ein örtlicher Freiberufler, noch nicht da ist.",
+			"2A79D9DC": "Sie sitzen mal wieder in der ersten Reihe. Gute Arbeit, 47.",
+			"3F049A78": "Verkleiden Sie sich als Kameramann",
+			"3E5940F4": "Treffen Sie sich mit dem Fernsehteam",
+			"5F5A7AAC": "Folgen Sie dem Fernsehteam",
+			"BC4F737F": "Starten Sie die Kamera"
+		},
+		"es": {
+			"3D228819": "Horario de mayor audiencia",
+			"140FD942": "Los periodistas están aquí para entrevistar a Strandberg. Es una pena que el cámara no esté.",
+			"8B4B0A88": "Claus Strandberg ha accedido a conceder una entrevista exclusiva con la famosa reportera de la GNN, Pam Kingsley, lo que sin duda enfurecerá aún más al público. Esta podría ser la forma de entrar al consulado cerrado. Y el cámara que hará la sustitución, un trabajador free lance local, aún no ha llegado.",
+			"2A79D9DC": "Acceso al consulado y asiento en las primeras filas para la entrevista. Bien hecho, 47.",
+			"3F049A78": "Disfrázate como el cámara",
+			"3E5940F4": "Reúnete con los periodistas",
+			"5F5A7AAC": "Sigue a los periodistas",
+			"BC4F737F": "Enciende la cámara"
+		}
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "001C624FAF0C2C00",
+	"languages": {
+		"xx": {
+			"CHALLENGEPACK_PHOSPHORUS_WRAPPER_NAME": "",
+			"CHALLENGEPACK_PHOSPHORUS_WRAPPER_DESC": "",
+			"CHALLENGEPACK_PHOSPHORUS_PIER_GUARDS_NAME": "",
+			"CHALLENGEPACK_PHOSPHORUS_PIER_GUARDS_DESC": "",
+			"CHALLENGEPACK_PHOSPHORUS_MORGUE_TO_CRYPT_NAME": "",
+			"CHALLENGEPACK_PHOSPHORUS_MORGUE_TO_CRYPT_DESC": "",
+			"CHALLENGEPACK_PHOSPHORUS_BRIEFCASE SNIPER_NAME": "",
+			"CHALLENGEPACK_PHOSPHORUS_BRIEFCASE SNIPER_DESC": "",
+			"CHALLENGEPACK_PHOSPHORUS_BOMB_CASE_NAME": "",
+			"CHALLENGEPACK_PHOSPHORUS_BOMB_CASE_DESC": ""
+		},
+		"en": {
+			"CHALLENGEPACK_PHOSPHORUS_WRAPPER_NAME": "Best Case Scenario",
+			"CHALLENGEPACK_PHOSPHORUS_WRAPPER_DESC": "Complete all the Best Case Scenario challenges:<li>The Brief Case of Charles Dexter Ward</li><li>The Baggage We Carry</li><li>Another Suitcase in Another Face</li><li>The Curious Case for Sophia Washington</li>",
+			"CHALLENGEPACK_PHOSPHORUS_PIER_GUARDS_NAME": "Another Suitcase in Another Face",
+			"CHALLENGEPACK_PHOSPHORUS_PIER_GUARDS_DESC": "<li>Hide the bodies of all 6 guards on the pier, without getting spotted, after knocking them out by throwing a briefcase.</li>",
+			"CHALLENGEPACK_PHOSPHORUS_MORGUE_TO_CRYPT_NAME": "The Brief Case of Charles Dexter Ward",
+			"CHALLENGEPACK_PHOSPHORUS_MORGUE_TO_CRYPT_DESC": "<li>While wearing the Burial Robes, pick up a briefcase in the Morgue and enter the Crypt carrying it.</li>",
+			"CHALLENGEPACK_PHOSPHORUS_BRIEFCASE SNIPER_NAME": "The Baggage We Carry",
+			"CHALLENGEPACK_PHOSPHORUS_BRIEFCASE SNIPER_DESC": "<li>Carry a briefcase to the roof of the Citadel Tower.</li><li>While on the roof of the Citadel Tower, shoot and eliminate any target with a sniper rifle.</li>",
+			"CHALLENGEPACK_PHOSPHORUS_BOMB_CASE_NAME": "A Curious Case for Sophia Washington",
+			"CHALLENGEPACK_PHOSPHORUS_BOMB_CASE_DESC": "<li>Eliminate Sophia Washington with a concealed explosive device, while she is in the Security Room.</li><li>No visible explosive devices in the Security Room.</li>"
+		},
+		"fr": {
+			"CHALLENGEPACK_PHOSPHORUS_WRAPPER_NAME": "Le meilleur des cas",
+			"CHALLENGEPACK_PHOSPHORUS_WRAPPER_DESC": "Terminez tous les défis Le meilleur des cas :<li>La mallette de Charles Dexter Ward</li><li>Le fardeau que nous portons</li><li>Encore une mallette en pleine tête</li><li>L'étrange histoire de Sophia Washington</li>",
+			"CHALLENGEPACK_PHOSPHORUS_PIER_GUARDS_NAME": "Encore une mallette en pleine tête",
+			"CHALLENGEPACK_PHOSPHORUS_PIER_GUARDS_DESC": "<li>Sans vous faire repérer, cachez les corps des 6 gardes sur la jetée, après les avoir assommés en leur jetant une mallette.</li>",
+			"CHALLENGEPACK_PHOSPHORUS_MORGUE_TO_CRYPT_NAME": "La mallette de Charles Dexter Ward",
+			"CHALLENGEPACK_PHOSPHORUS_MORGUE_TO_CRYPT_DESC": "<li>Enfilez la robe funéraire, prenez une mallette dans la morgue et entrez dans la crypte.</li>",
+			"CHALLENGEPACK_PHOSPHORUS_BRIEFCASE SNIPER_NAME": "Le fardeau que nous portons",
+			"CHALLENGEPACK_PHOSPHORUS_BRIEFCASE SNIPER_DESC": "<li>Montez sur le toit du donjon avec une mallette.</li><li>Depuis cet emplacement, éliminez n'importe quelle cible avec un fusil de précision.</li>",
+			"CHALLENGEPACK_PHOSPHORUS_BOMB_CASE_NAME": "L'étrange histoire de Sophia Washington",
+			"CHALLENGEPACK_PHOSPHORUS_BOMB_CASE_DESC": "<li>Éliminez Sophia Washington avec une bombe dissimulée, lorsqu'elle se trouve dans le poste de sécurité.</li><li>Aucun explosif visible dans le poste de sécurité.</li>"
+		},
+		"it": {
+			"CHALLENGEPACK_PHOSPHORUS_WRAPPER_NAME": "Valigette letali",
+			"CHALLENGEPACK_PHOSPHORUS_WRAPPER_DESC": "Completa tutte le sfide delle Valigette letali:<li>Valigetta da morto</li><li>Ventiquattrore sul tetto</li><li>Valigette in faccia</li><li>Bagaglio esplosivo</li>",
+			"CHALLENGEPACK_PHOSPHORUS_PIER_GUARDS_NAME": "Valigette in faccia",
+			"CHALLENGEPACK_PHOSPHORUS_PIER_GUARDS_DESC": "<li>Senza farti notare, nascondi i corpi di tutte e 6 le guardie sul molo dopo averli tramortiti con una valigetta.</li>",
+			"CHALLENGEPACK_PHOSPHORUS_MORGUE_TO_CRYPT_NAME": "Valigetta da morto",
+			"CHALLENGEPACK_PHOSPHORUS_MORGUE_TO_CRYPT_DESC": "<li>Raccogli una valigetta nell'obitorio mentre indossi gli abiti da sepoltura ed entra nelle cripta portandola con te.</li>",
+			"CHALLENGEPACK_PHOSPHORUS_BRIEFCASE SNIPER_NAME": "Ventiquattrore sul tetto",
+			"CHALLENGEPACK_PHOSPHORUS_BRIEFCASE SNIPER_DESC": "<li>Porta una valigetta sul tetto della torre delle cittadella.</li><li>Mentre sei sul tetto, spara ed elimina qualsiasi bersaglio con un fucile da cecchino.</li>",
+			"CHALLENGEPACK_PHOSPHORUS_BOMB_CASE_NAME": "Bagaglio esplosivo",
+			"CHALLENGEPACK_PHOSPHORUS_BOMB_CASE_DESC": "<li>Elimina Sophia Washington con congegno esplosivo nascosto mentre si trova nella stanza di sicurezza.</li><li>Non ci sono congegni esplosivi visibili nella stanza di sicurezza.</li>"
+		},
+		"de": {
+			"CHALLENGEPACK_PHOSPHORUS_WRAPPER_NAME": "Ein Koffer für alle Fälle",
+			"CHALLENGEPACK_PHOSPHORUS_WRAPPER_DESC": "Schließen Sie alle „Ein Koffer für alle Fälle“-Herausforderungen ab:<li>Des toten Manns Koffer</li><li>Gepäckträger</li><li>Vollkontaktkoffer</li><li>Geheimgepäck</li>",
+			"CHALLENGEPACK_PHOSPHORUS_PIER_GUARDS_NAME": "Vollkontaktkoffer",
+			"CHALLENGEPACK_PHOSPHORUS_PIER_GUARDS_DESC": "<li>Verstecken Sie die Körper der 6 Wachen am Pier, ohne entdeckt zu werden, \r\nnachdem Sie sie durch das Werfen des Koffers ruhiggestellt haben.</li>",
+			"CHALLENGEPACK_PHOSPHORUS_MORGUE_TO_CRYPT_NAME": "Des toten Manns Koffer",
+			"CHALLENGEPACK_PHOSPHORUS_MORGUE_TO_CRYPT_DESC": "<li>Nehmen Sie, während Sie die Begräbnisrobe tragen, einen Koffer aus der Leichenhalle mit und betreten Sie damit die Krypta.</li>",
+			"CHALLENGEPACK_PHOSPHORUS_BRIEFCASE SNIPER_NAME": "Gepäckträger",
+			"CHALLENGEPACK_PHOSPHORUS_BRIEFCASE SNIPER_DESC": "<li>Bringen Sie eine Aktentasche zum Dach der Turmzitadelle.</li><li>Eliminieren Sie ein Ziel vom Dach der Turmzitadelle aus mit einem Scharfschützengewehr.</li>",
+			"CHALLENGEPACK_PHOSPHORUS_BOMB_CASE_NAME": "Geheimgepäck",
+			"CHALLENGEPACK_PHOSPHORUS_BOMB_CASE_DESC": "<li>Eliminieren Sie Sophia Washington mit einem versteckten Sprengkörper, während sie im Sicherheitsraum ist.</li><li>Es sind keine sichtbaren Sprengkörper im Sicherheitsraum.</li>"
+		},
+		"es": {
+			"CHALLENGEPACK_PHOSPHORUS_WRAPPER_NAME": "En el mejor de los casos",
+			"CHALLENGEPACK_PHOSPHORUS_WRAPPER_DESC": "Completa todos los desafíos de En el mejor de los casos:<li>El caso del maletín de Charles Dexter Ward.</li><li>La carga que portamos.</li><li>Maletines como panes.</li><li>El curioso caso de Sophia Washington.</li>",
+			"CHALLENGEPACK_PHOSPHORUS_PIER_GUARDS_NAME": "Maletines como panes",
+			"CHALLENGEPACK_PHOSPHORUS_PIER_GUARDS_DESC": "<li>Noquea a los 6 guardias del puerto lanzándoles un maletín y oculta los cuerpos sin que te vean.</li>",
+			"CHALLENGEPACK_PHOSPHORUS_MORGUE_TO_CRYPT_NAME": "El caso del maletín de Charles Dexter Ward",
+			"CHALLENGEPACK_PHOSPHORUS_MORGUE_TO_CRYPT_DESC": "<li>Ponte una túnica funeraria, recoge un maletín de la morgue y accede la Cripta con él.</li>",
+			"CHALLENGEPACK_PHOSPHORUS_BRIEFCASE SNIPER_NAME": "La carga que portamos",
+			"CHALLENGEPACK_PHOSPHORUS_BRIEFCASE SNIPER_DESC": "<li>Lleva un maletín a la azotea de la torre de la ciudadela.</li><li>Desde allí arriba, dispara y elimina a cualquier objetivo con un fusil de francotirador.</li>",
+			"CHALLENGEPACK_PHOSPHORUS_BOMB_CASE_NAME": "El curioso caso de Sophia Washington",
+			"CHALLENGEPACK_PHOSPHORUS_BOMB_CASE_DESC": "<li>Elimina a Sophia Washington con un dispositivo explosivo oculto mientras esté en la sala de seguridad.</li><li>Sin dispositivos explosivos visibles en la sala de seguridad.</li>"
+		}
+	}
+}

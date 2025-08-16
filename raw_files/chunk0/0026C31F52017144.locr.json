@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/menutext_s3_trapped.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"UI_LOCATION_TRAPPED_WOLVERINE_TITLE": "Trapped Wolverine",
+			"UI_LOCATION_TRAPPED_WOLVERINE_CITY": "Trapped",
+			"UI_LOCATION_PARENT_TRAPPED_NAME": "Trapped, Trapped Country",
+			"UI_LOCATION_TRAPPED_WOLVERINE_COUNTRY": "Trapped Country",
+			"C9E74D0E": "Trapped Country",
+			"7AED5F03": "Trapped"
+		},
+		"en": {
+			"UI_LOCATION_TRAPPED_WOLVERINE_TITLE": "Untouchable",
+			"UI_LOCATION_TRAPPED_WOLVERINE_CITY": "Carpathian Mountains",
+			"UI_LOCATION_PARENT_TRAPPED_NAME": "Carpathian Mountains, Romania",
+			"UI_LOCATION_TRAPPED_WOLVERINE_COUNTRY": "Romania",
+			"C9E74D0E": "Romania",
+			"7AED5F03": "Carpathian Mountains"
+		},
+		"fr": {
+			"UI_LOCATION_TRAPPED_WOLVERINE_TITLE": "Intouchable",
+			"UI_LOCATION_TRAPPED_WOLVERINE_CITY": "Carpates",
+			"UI_LOCATION_PARENT_TRAPPED_NAME": "Carpates, Roumanie",
+			"UI_LOCATION_TRAPPED_WOLVERINE_COUNTRY": "Roumanie",
+			"C9E74D0E": "Roumanie",
+			"7AED5F03": "Carpates"
+		},
+		"it": {
+			"UI_LOCATION_TRAPPED_WOLVERINE_TITLE": "Intoccabile",
+			"UI_LOCATION_TRAPPED_WOLVERINE_CITY": "Carpazi",
+			"UI_LOCATION_PARENT_TRAPPED_NAME": "Carpazi, Romania",
+			"UI_LOCATION_TRAPPED_WOLVERINE_COUNTRY": "Romania",
+			"C9E74D0E": "Romania",
+			"7AED5F03": "Carpazi"
+		},
+		"de": {
+			"UI_LOCATION_TRAPPED_WOLVERINE_TITLE": "Unantastbar",
+			"UI_LOCATION_TRAPPED_WOLVERINE_CITY": "Karpaten",
+			"UI_LOCATION_PARENT_TRAPPED_NAME": "Karpaten, Rumänien",
+			"UI_LOCATION_TRAPPED_WOLVERINE_COUNTRY": "Rumänien",
+			"C9E74D0E": "Rumänien",
+			"7AED5F03": "Karpaten"
+		},
+		"es": {
+			"UI_LOCATION_TRAPPED_WOLVERINE_TITLE": "Intocable",
+			"UI_LOCATION_TRAPPED_WOLVERINE_CITY": "Los Cárpatos",
+			"UI_LOCATION_PARENT_TRAPPED_NAME": "Los Cárpatos, Rumania",
+			"UI_LOCATION_TRAPPED_WOLVERINE_COUNTRY": "Rumania",
+			"C9E74D0E": "Rumania",
+			"7AED5F03": "Los Cárpatos"
+		}
+	}
+}

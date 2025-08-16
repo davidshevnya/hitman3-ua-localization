@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00B91BFB8BD321DB",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_KOSUMOSU_GROUP_TITLE": "The Meiko Incarnation",
+			"UI_CONTRACT_KOSUMOSU_GROUP_DESC": "Five level Escalation in Hokkaido.",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_5_TITLE": "The Meiko Incarnation - Level 5",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_4_TITLE": "The Meiko Incarnation - Level 4",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_3_TITLE": "The Meiko Incarnation - Level 3",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_2_TITLE": "The Meiko Incarnation - Level 2",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_1_TITLE": "The Meiko Incarnation - Level 1",
+			"UI_CONTRACT_KOSUMOSU_OBJ_2": "Break into the safe and steal the contents",
+			"UI_CONTRACT_KOSUMOSU_CASCADE_FAIL": "Cascade timer ran out or Nakamura was eliminated or dumped before stealing safe content.",
+			"UI_CONTRACT_KOSUMOSU_OBJ_1_1": "Eliminate Akira Nakamura",
+			"UI_CONTRACT_KOSUMOSU_OBJ_1_2": "Eliminate Akira Nakamura while disguised as ninja or motorcyclist",
+			"UI_CONTRACT_KOSUMOSU_OBJ_3_2": "Eliminate Shoudai Kurosawa while disguised as ninja or motorcyclist"
+		},
+		"en": {
+			"UI_CONTRACT_KOSUMOSU_GROUP_TITLE": "The Meiko Incarnation",
+			"UI_CONTRACT_KOSUMOSU_GROUP_DESC": "Five level Escalation in Hokkaido.",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_5_TITLE": "The Meiko Incarnation - Level 5",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_4_TITLE": "The Meiko Incarnation - Level 4",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_3_TITLE": "The Meiko Incarnation - Level 3",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_2_TITLE": "The Meiko Incarnation - Level 2",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_1_TITLE": "The Meiko Incarnation - Level 1",
+			"UI_CONTRACT_KOSUMOSU_OBJ_2": "Break into the safe and steal the contents",
+			"UI_CONTRACT_KOSUMOSU_CASCADE_FAIL": "Cascade timer ran out or Nakamura was eliminated or dumped before stealing safe content.",
+			"UI_CONTRACT_KOSUMOSU_OBJ_1_1": "Eliminate Akira Nakamura",
+			"UI_CONTRACT_KOSUMOSU_OBJ_1_2": "Eliminate Akira Nakamura while disguised as a ninja or motorcyclist",
+			"UI_CONTRACT_KOSUMOSU_OBJ_3_2": "Eliminate Shoudai Kurosawa while disguised as a ninja or motorcyclist"
+		},
+		"fr": {
+			"UI_CONTRACT_KOSUMOSU_GROUP_TITLE": "L'incarnation de Meiko",
+			"UI_CONTRACT_KOSUMOSU_GROUP_DESC": "Escalade en cinq niveaux à Hokkaidō.",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_5_TITLE": "L'incarnation de Meiko - Niveau 5",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_4_TITLE": "L'incarnation de Meiko - Niveau 4",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_3_TITLE": "L'incarnation de Meiko - Niveau 3",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_2_TITLE": "L'incarnation de Meiko - Niveau 2",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_1_TITLE": "L'incarnation de Meiko - Niveau 1",
+			"UI_CONTRACT_KOSUMOSU_OBJ_2": "Forcez le coffre et volez son contenu.",
+			"UI_CONTRACT_KOSUMOSU_CASCADE_FAIL": "Le compte à rebours s'est écoulé, ou Nakamura a été éliminé ou caché avant de voler le contenu du coffre.",
+			"UI_CONTRACT_KOSUMOSU_OBJ_1_1": "Éliminez Akira Nakamura.",
+			"UI_CONTRACT_KOSUMOSU_OBJ_1_2": "Éliminez Akira Nakamura, déguisé en ninja ou motard.",
+			"UI_CONTRACT_KOSUMOSU_OBJ_3_2": "Éliminez Shoudai Kurosawa, déguisé en ninja ou motard."
+		},
+		"it": {
+			"UI_CONTRACT_KOSUMOSU_GROUP_TITLE": "L'incarnazione di Meiko",
+			"UI_CONTRACT_KOSUMOSU_GROUP_DESC": "Escalation di cinque livelli in Hokkaidō.",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_5_TITLE": "L'incarnazione di Meiko - Livello 5",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_4_TITLE": "L'incarnazione di Meiko - Livello 4",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_3_TITLE": "L'incarnazione di Meiko - Livello 3",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_2_TITLE": "L'incarnazione di Meiko - Livello 2",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_1_TITLE": "L'incarnazione di Meiko - Livello 1",
+			"UI_CONTRACT_KOSUMOSU_OBJ_2": "Apri la cassaforte e ruba il contenuto",
+			"UI_CONTRACT_KOSUMOSU_CASCADE_FAIL": "Il timer è scaduto o Nakamura è stato eliminato o ne è stato occultato il corpo prima di aver rubato il contenuto della cassaforte.",
+			"UI_CONTRACT_KOSUMOSU_OBJ_1_1": "Elimina Akira Nakamura",
+			"UI_CONTRACT_KOSUMOSU_OBJ_1_2": "Elimina Akira Nakamura mentre sei travestito da ninja o motociclista",
+			"UI_CONTRACT_KOSUMOSU_OBJ_3_2": "Elimina Shoudai Kurosawa mentre sei travestito da ninja o motociclista"
+		},
+		"de": {
+			"UI_CONTRACT_KOSUMOSU_GROUP_TITLE": "Die Meiko-Inkarnation",
+			"UI_CONTRACT_KOSUMOSU_GROUP_DESC": "Fünf-Stufen-Eskalation in Hokkaido.",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_5_TITLE": "Die Meiko-Inkarnation - Stufe 5",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_4_TITLE": "Die Meiko-Inkarnation - Stufe 4",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_3_TITLE": "Die Meiko-Inkarnation - Stufe 3",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_2_TITLE": "Die Meiko-Inkarnation - Stufe 2",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_1_TITLE": "Die Meiko-Inkarnation - Stufe 1",
+			"UI_CONTRACT_KOSUMOSU_OBJ_2": "Knacken Sie den Safe und stehlen Sie dessen Inhalt",
+			"UI_CONTRACT_KOSUMOSU_CASCADE_FAIL": "Kaskade-Timer ist abgelaufen oder Nakamura wurde getötet bzw. sein Körper versteckt, bevor der Inhalt des Safes gestohlen wurde.",
+			"UI_CONTRACT_KOSUMOSU_OBJ_1_1": "Eliminieren Sie Akira Nakamura",
+			"UI_CONTRACT_KOSUMOSU_OBJ_1_2": "Eliminieren Sie Akira Nakamura als Ninja oder Biker",
+			"UI_CONTRACT_KOSUMOSU_OBJ_3_2": "Eliminieren Sie Shoudai Kurosawa als Ninja oder Biker"
+		},
+		"es": {
+			"UI_CONTRACT_KOSUMOSU_GROUP_TITLE": "La reencarnación de Meiko",
+			"UI_CONTRACT_KOSUMOSU_GROUP_DESC": "Intensificación de cinco niveles en Hokkaido.",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_5_TITLE": "La reencarnación de Meiko - Nivel 5",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_4_TITLE": "La reencarnación de Meiko - Nivel 4",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_3_TITLE": "La reencarnación de Meiko - Nivel 3",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_2_TITLE": "La reencarnación de Meiko - Nivel 2",
+			"UI_CONTRACT_KOSUMOSU_LEVEL_1_TITLE": "La reencarnación de Meiko - Nivel 1",
+			"UI_CONTRACT_KOSUMOSU_OBJ_2": "Abre la caja fuerte y roba su contenido",
+			"UI_CONTRACT_KOSUMOSU_CASCADE_FAIL": "El temporizador en cascada se ha agotado o Nakamura ha sido eliminado o tirado en un contenedor antes de robar el contenido de la caja fuerte.",
+			"UI_CONTRACT_KOSUMOSU_OBJ_1_1": "Elimina a Akira Nakamura",
+			"UI_CONTRACT_KOSUMOSU_OBJ_1_2": "Elimina a Akira Nakamura mientras vas disfrazado de ninja o motorista",
+			"UI_CONTRACT_KOSUMOSU_OBJ_3_2": "Elimina a Shoudai Kurosawa mientras vas disfrazado de ninja o motorista"
+		}
+	}
+}

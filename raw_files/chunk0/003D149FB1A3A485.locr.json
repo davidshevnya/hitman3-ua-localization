@@ -1,0 +1,42 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "003D149FB1A3A485",
+	"languages": {
+		"xx": {
+			"UI_CHALLENGES_ET_CORPSEREVIVER_TARGETDOWN_DESC": "<li>Eliminate The Deceivers.</li>",
+			"UI_CHALLENGES_ET_CORPSEREVIVER_TARGETDOWN_NAME": "The Deceivers",
+			"UI_CHALLENGES_ET_CORPSEREVIVER_SILENT_ASSASSIN_DESC": "<li>Eliminate The Deceivers.</li><li>Eliminate only the targets.</li><li>No bodies found.</li><li>Do not get compromised.</il><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+			"UI_CHALLENGES_ET_CORPSEREVIVER_SILENT_ASSASSIN_NAME": "Silent Assassin"
+		},
+		"en": {
+			"UI_CHALLENGES_ET_CORPSEREVIVER_TARGETDOWN_DESC": "<li>Eliminate the Deceivers.</li>",
+			"UI_CHALLENGES_ET_CORPSEREVIVER_TARGETDOWN_NAME": "The Deceivers",
+			"UI_CHALLENGES_ET_CORPSEREVIVER_SILENT_ASSASSIN_DESC": "<li>Eliminate the Deceivers.</li><li>Eliminate only the targets.</li><li>No bodies found.</li><li>Do not get spotted.</li><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+			"UI_CHALLENGES_ET_CORPSEREVIVER_SILENT_ASSASSIN_NAME": "Silent Assassin"
+		},
+		"fr": {
+			"UI_CHALLENGES_ET_CORPSEREVIVER_TARGETDOWN_DESC": "<li>Éliminez les Menteurs.</li>",
+			"UI_CHALLENGES_ET_CORPSEREVIVER_TARGETDOWN_NAME": "Les Menteurs",
+			"UI_CHALLENGES_ET_CORPSEREVIVER_SILENT_ASSASSIN_DESC": "<li>Éliminez les Menteurs.</li><li>Éliminez uniquement les cibles.</li><li>Aucun corps trouvé.</li><li>Ne vous faites pas repérer.</il><li>Si vous êtes repéré par les caméras, effacez ou détruisez la vidéo.</li>",
+			"UI_CHALLENGES_ET_CORPSEREVIVER_SILENT_ASSASSIN_NAME": "Assassin silencieux"
+		},
+		"it": {
+			"UI_CHALLENGES_ET_CORPSEREVIVER_TARGETDOWN_DESC": "<li>Elimina i Truffatori.</li>",
+			"UI_CHALLENGES_ET_CORPSEREVIVER_TARGETDOWN_NAME": "I Truffatori",
+			"UI_CHALLENGES_ET_CORPSEREVIVER_SILENT_ASSASSIN_DESC": "<li>Elimina i Truffatori.</li><li>Elimina solo i bersagli.</li><li>Fai in modo che nessun corpo sia rinvenuto.</li><li>Non essere individuato.</il><li>Se vieni inquadrato dalle telecamere, cancella o distruggi le registrazioni.</li>",
+			"UI_CHALLENGES_ET_CORPSEREVIVER_SILENT_ASSASSIN_NAME": "Assassino silenzioso"
+		},
+		"de": {
+			"UI_CHALLENGES_ET_CORPSEREVIVER_TARGETDOWN_DESC": "<li>Eliminieren Sie die Täuscher.</li>",
+			"UI_CHALLENGES_ET_CORPSEREVIVER_TARGETDOWN_NAME": "Die Täuscher",
+			"UI_CHALLENGES_ET_CORPSEREVIVER_SILENT_ASSASSIN_DESC": "<li>Eliminieren Sie die Täuscher.</li><li>Eliminieren Sie nur die Ziele.</li><li>Keine Körper dürfen gefunden werden.</li><li>Bleiben Sie unbemerkt.</il><li>Werden Sie von Kameras gefilmt, löschen oder vernichten Sie die Beweise.</li>",
+			"UI_CHALLENGES_ET_CORPSEREVIVER_SILENT_ASSASSIN_NAME": "Lautloser Killer"
+		},
+		"es": {
+			"UI_CHALLENGES_ET_CORPSEREVIVER_TARGETDOWN_DESC": "<li>Elimina a los embaucadores.</li>",
+			"UI_CHALLENGES_ET_CORPSEREVIVER_TARGETDOWN_NAME": "Los embaucadores",
+			"UI_CHALLENGES_ET_CORPSEREVIVER_SILENT_ASSASSIN_DESC": "<li>Elimina a los embaucadores.</li><li>Elimina solo a los objetivos.</li><li>Que no descubran cuerpos.</li><li>Evita que te descubran.</il><li>Si te detectan las cámaras, borra o destruye las pruebas.</li>",
+			"UI_CHALLENGES_ET_CORPSEREVIVER_SILENT_ASSASSIN_NAME": "Asesino silencioso"
+		}
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0079C65C29460CAF",
+	"languages": {
+		"xx": {
+			"CE850120": "PH_Headline",
+			"D9179317": "PH_BodyText"
+		},
+		"en": {
+			"CE850120": "Throwing Items",
+			"D9179317": "Throwing blunt items at people will knock them out and not eliminate them. If they are found, they will be woken up."
+		},
+		"fr": {
+			"CE850120": "Jeter des objets",
+			"D9179317": "Jeter un objet contondant sur une personne lui fera perdre connaissance, mais elle reprendra ses esprits si quelqu'un la trouve."
+		},
+		"it": {
+			"CE850120": "Lanciare oggetti",
+			"D9179317": "Lanciando un oggetto contundente contro una persona, la priverai di sensi senza eliminarla. Se qualcuno trova una persona svenuta, la sveglierà."
+		},
+		"de": {
+			"CE850120": "Gegenstände werfen",
+			"D9179317": "Wenn Sie Personen mit stumpfen Gegenständen bewerfen, werden diese bewusstlos fallen und nicht eliminiert. Falls sie gefunden werden, werden sie aufgeweckt."
+		},
+		"es": {
+			"CE850120": "Lanzar objetos",
+			"D9179317": "Lanzar objetos contundentes a otras personas las dejará inconscientes, pero no las eliminará. Si alguien las encuentra, las espabilará."
+		}
+	}
+}

@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00D80DBBDC1A16AE",
+	"languages": {
+		"xx": {
+			"D6B9C7C2": "Name",
+			"E46DE67C": "Flavor",
+			"0FE4A1C6": "Description",
+			"47D5A34C": "Conclusion",
+			"4134DDC0": "Step 1",
+			"C6DC8B37": "Step 2",
+			"17BE6C7F": "Step 3",
+			"DBF5D1E2": "Step 4",
+			"71E5F26F": "Step 6"
+		},
+		"en": {
+			"D6B9C7C2": "Why We Fight",
+			"E46DE67C": "The printing crew is in the streets, hanging posters. Could be a way into the school.",
+			"0FE4A1C6": "The printing crew spreads fake propaganda in the name of Crystal Dawn, the pan-African liberation movement. This encourages Moroccan citizens to rise up and take justice into their own hands. Which, of course, is exactly what Zaydan is counting on. Very clever. Now, according to the printing schedule, the crew is out hanging posters. And they are likely to wear masks.",
+			"47D5A34C": "Well done, 47. You've succesfully infiltrated the school.",
+			"4134DDC0": "Find the propaganda printing crew",
+			"C6DC8B37": "Get a Printing Crew disguise",
+			"17BE6C7F": "Talk to the printing crew",
+			"DBF5D1E2": "Follow the printing crew to the school",
+			"71E5F26F": "Listen to Zaydan's pep talk"
+		},
+		"fr": {
+			"D6B9C7C2": "Pourquoi nous combattons",
+			"E46DE67C": "Les activistes sont en train de coller des affiches dans la rue. Voilà l'occasion d'entrer dans l'école.",
+			"0FE4A1C6": "Les activistes diffusent de faux tracts de propagande au nom de Crystal Dawn, le mouvement de libération panafricain, qui exhorte les citoyens marocains à se soulever et à rendre justice eux-mêmes. Ce qui, bien évidemment, est exactement ce que recherche Zaydan. Il est malin. Selon leur planning, ils sont actuellement en train de coller des affiches. Le visage probablement dissimulé par un masque.",
+			"47D5A34C": "Beau travail, 47. Vous avez infiltré l'école.",
+			"4134DDC0": "Trouvez la propagande des activistes",
+			"C6DC8B37": "Procurez-vous la tenue d'un activiste",
+			"17BE6C7F": "Parlez aux activistes",
+			"DBF5D1E2": "Suivez les activistes jusqu'à l'école",
+			"71E5F26F": "Écoutez le discours d'encouragement de Zaydan"
+		},
+		"it": {
+			"D6B9C7C2": "Un motivo per combattere",
+			"E46DE67C": "Gli attivisti stanno affiggendo manifesti in strada. Puoi sfruttare la situazione per entrare nella scuola.",
+			"0FE4A1C6": "Gli attivisti diffondono falsa propaganda per il Crystal Dawn, il movimento di liberazione panafricano. Incoraggiano i cittadini del Marocco a ribellarsi e a farsi giustizia da sé. Esattamente ciò in cui spera Zaydan. Molto astuto... Stando al loro programma di stampa, gli attivisti sono in strada ad affiggere manifesti. E probabilmente indosseranno delle maschere.",
+			"47D5A34C": "Ben fatto, 47. Sei riuscito ad infiltrarti nella scuola.",
+			"4134DDC0": "Trova gli attivisti di propaganda",
+			"C6DC8B37": "Procurati un travestimento da attivista",
+			"17BE6C7F": "Parla con gli attivisti",
+			"DBF5D1E2": "Segui gli attivisti fino alla scuola",
+			"71E5F26F": "Ascolta il discorso d'incoraggiamento di Zaydan"
+		},
+		"de": {
+			"D6B9C7C2": "Warum wir kämpfen",
+			"E46DE67C": "Das Propagandateam klebt überall Plakate. Das könnte ein Weg in die Schule sein.",
+			"0FE4A1C6": "Das Propagandateam verbreitet falsche Informationen im Namen von Crystal Dawn, der panafrikanischen Befreiungsbewegung, um die marokkanische Bevölkerung zur Selbstjustiz anzustacheln. Und genau das will Zaydan. Wirklich clever, der Mann. Aber egal, laut des Druckplans bringt das Team gerade Plakate an. Und vermutlich tragen die Herrschaften dabei Masken.",
+			"47D5A34C": "Gute Arbeit, 47. Sie haben erfolgreich die Schule infiltriert.",
+			"4134DDC0": "Finden Sie das Propagandateam",
+			"C6DC8B37": "Verkleiden Sie sich als Mitglied des Propagandateams",
+			"17BE6C7F": "Sprechen Sie mit dem Propagandateam",
+			"DBF5D1E2": "Folgen Sie dem Propagandateam zur Schule",
+			"71E5F26F": "Hören Sie sich Zaydans Rede an"
+		},
+		"es": {
+			"D6B9C7C2": "Por qué luchamos",
+			"E46DE67C": "Los activistas están en las calles, colgando carteles. Podría ser la forma de entrar en la escuela.",
+			"0FE4A1C6": "Los activistas reparten propaganda falsa en nombre de Crystal Dawn, el movimiento de liberación panafricano. Esto anima a los ciudadanos marroquíes a rebelarse y tomarse la justicia por su mano, lo que, por supuesto, es exactamente lo que busca Zaydan. Muy listo. Bueno, según su planificación, tienen planeado estar fuera colgando carteles. Y lo más seguro es que lleven máscaras.",
+			"47D5A34C": "Bien hecho, 47. Te has infiltrado en la escuela.",
+			"4134DDC0": "Encuentra a los activistas que están repartiendo propaganda",
+			"C6DC8B37": "Consigue el disfraz de activista",
+			"17BE6C7F": "Habla con los activistas",
+			"DBF5D1E2": "Sigue a los activistas hasta el colegio",
+			"71E5F26F": "Escucha la arenga de Zaydan"
+		}
+	}
+}

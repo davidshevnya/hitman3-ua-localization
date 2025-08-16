@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00EA463AA13D2FB4",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_CLAYTONIA_GROUP_TITLE": "The O'Leary Conflagration",
+			"UI_CONTRACT_CLAYTONIA_GROUP_DESC": "Three Level Escalation in Whittleton Creek",
+			"UI_CONTRACT_CLAYTONIA_LEVEL_1_NAME": "The O'Leary Conflagration - Level 1",
+			"UI_CONTRACT_CLAYTONIA_LEVEL_2_NAME": "The O'Leary Conflagration - Level 2",
+			"UI_CONTRACT_CLAYTONIA_LEVEL_3_NAME": "The O'Leary Conflagration - Level 3",
+			"UI_CONTRACT_CLAYTONIA_OBJ_1": "Eliminate Helen West by incineration",
+			"UI_CONTRACT_CLAYTONIA_OBJ_2": "Eliminate Jae Serio by incineration",
+			"UI_CONTRACT_CLAYTONIA_OBJ_3": "Eliminate Herbert West by incineration"
+		},
+		"en": {
+			"UI_CONTRACT_CLAYTONIA_GROUP_TITLE": "The O'Leary Conflagration",
+			"UI_CONTRACT_CLAYTONIA_GROUP_DESC": "Three Level Escalation in Whittleton Creek.",
+			"UI_CONTRACT_CLAYTONIA_LEVEL_1_NAME": "The O'Leary Conflagration - Level 1",
+			"UI_CONTRACT_CLAYTONIA_LEVEL_2_NAME": "The O'Leary Conflagration - Level 2",
+			"UI_CONTRACT_CLAYTONIA_LEVEL_3_NAME": "The O'Leary Conflagration - Level 3",
+			"UI_CONTRACT_CLAYTONIA_OBJ_1": "Eliminate Helen West by incineration",
+			"UI_CONTRACT_CLAYTONIA_OBJ_2": "Eliminate Jae Serio by incineration",
+			"UI_CONTRACT_CLAYTONIA_OBJ_3": "Eliminate Herbert West by incineration"
+		},
+		"fr": {
+			"UI_CONTRACT_CLAYTONIA_GROUP_TITLE": "L'incendie d'O'Leary",
+			"UI_CONTRACT_CLAYTONIA_GROUP_DESC": "Escalade en trois niveaux dans la Crique de Whittleton",
+			"UI_CONTRACT_CLAYTONIA_LEVEL_1_NAME": "L'incendie d'O'Leary - Niveau 1",
+			"UI_CONTRACT_CLAYTONIA_LEVEL_2_NAME": "L'incendie d'O'Leary - Niveau 2",
+			"UI_CONTRACT_CLAYTONIA_LEVEL_3_NAME": "L'incendie d'O'Leary - Niveau 3",
+			"UI_CONTRACT_CLAYTONIA_OBJ_1": "Éliminez Helen West par incinération",
+			"UI_CONTRACT_CLAYTONIA_OBJ_2": "Éliminez Jae Serio par incinération",
+			"UI_CONTRACT_CLAYTONIA_OBJ_3": "Éliminez Herbert West par incinération"
+		},
+		"it": {
+			"UI_CONTRACT_CLAYTONIA_GROUP_TITLE": "La conflagrazione di O'Leary",
+			"UI_CONTRACT_CLAYTONIA_GROUP_DESC": "Escalation di tre livelli a Whittleton Creek",
+			"UI_CONTRACT_CLAYTONIA_LEVEL_1_NAME": "La conflagrazione di O'Leary - Livello 1",
+			"UI_CONTRACT_CLAYTONIA_LEVEL_2_NAME": "La conflagrazione di O'Leary - Livello 2",
+			"UI_CONTRACT_CLAYTONIA_LEVEL_3_NAME": "La conflagrazione di O'Leary - Livello 3",
+			"UI_CONTRACT_CLAYTONIA_OBJ_1": "Elimina Helen West per incenerimento",
+			"UI_CONTRACT_CLAYTONIA_OBJ_2": "Elimina Jae Serio per incenerimento",
+			"UI_CONTRACT_CLAYTONIA_OBJ_3": "Elimina Herbert West per incenerimento"
+		},
+		"de": {
+			"UI_CONTRACT_CLAYTONIA_GROUP_TITLE": "Die O’Leary-Feuersbrunst",
+			"UI_CONTRACT_CLAYTONIA_GROUP_DESC": "Drei-Stufen-Eskalation in Whittleton Creek.",
+			"UI_CONTRACT_CLAYTONIA_LEVEL_1_NAME": "Die O’Leary-Feuersbrunst – Stufe 1",
+			"UI_CONTRACT_CLAYTONIA_LEVEL_2_NAME": "Die O’Leary-Feuersbrunst – Stufe 2",
+			"UI_CONTRACT_CLAYTONIA_LEVEL_3_NAME": "Die O’Leary-Feuersbrunst – Stufe 3",
+			"UI_CONTRACT_CLAYTONIA_OBJ_1": "Eliminieren Sie Helen West durch Verbrennen.",
+			"UI_CONTRACT_CLAYTONIA_OBJ_2": "Eliminieren Sie Jae Serio durch Verbrennen.",
+			"UI_CONTRACT_CLAYTONIA_OBJ_3": "Eliminieren Sie Herbert West durch Verbrennen."
+		},
+		"es": {
+			"UI_CONTRACT_CLAYTONIA_GROUP_TITLE": "La conflagración de O'Leary",
+			"UI_CONTRACT_CLAYTONIA_GROUP_DESC": "Intensificación de tres niveles en Whittleton Creek.",
+			"UI_CONTRACT_CLAYTONIA_LEVEL_1_NAME": "La conflagración de O'Leary - Nivel 1",
+			"UI_CONTRACT_CLAYTONIA_LEVEL_2_NAME": "La conflagración de O'Leary - Nivel 2",
+			"UI_CONTRACT_CLAYTONIA_LEVEL_3_NAME": "La conflagración de O'Leary - Nivel 3",
+			"UI_CONTRACT_CLAYTONIA_OBJ_1": "Elimina a Helen West incinerándola.",
+			"UI_CONTRACT_CLAYTONIA_OBJ_2": "Elimina a Jae Serio incinerándolo.",
+			"UI_CONTRACT_CLAYTONIA_OBJ_3": "Elimina a Herbert West incinerándolo."
+		}
+	}
+}

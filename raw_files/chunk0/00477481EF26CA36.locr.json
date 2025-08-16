@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00477481EF26CA36",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_PENTAS_GROUP_TITLE": "The Sweeney Scrupulousness",
+			"UI_CONTRACT_PENTAS_GROUP_DESC": "Three level escalation in Miami",
+			"UI_CONTRACT_PENTAS_LEVEL_1_TITLE": "The Sweeney Scrupulousness - Level 1",
+			"UI_CONTRACT_PENTAS_LEVEL_2_TITLE": "The Sweeney Scrupulousness - Level 2",
+			"UI_CONTRACT_PENTAS_LEVEL_3_TITLE": "The Sweeney Scrupulousness - Level 3",
+			"UI_CONTRACT_PENTAS_OBJ_1": "Eliminate Irene Bronson with an amputation knife while disguised as medic",
+			"UI_CONTRACT_PENTAS_OBJ_2": "Eliminate Jeff Castle with an amputation knife while disguised as medic",
+			"UI_CONTRACT_PENTAS_OBJ_3": "Eliminate Tobias Cropper with an amputation knife while disguised as medic"
+		},
+		"en": {
+			"UI_CONTRACT_PENTAS_GROUP_TITLE": "The Sweeney Scrupulousness",
+			"UI_CONTRACT_PENTAS_GROUP_DESC": "Three Level Escalation in Miami.",
+			"UI_CONTRACT_PENTAS_LEVEL_1_TITLE": "The Sweeney Scrupulousness - Level 1",
+			"UI_CONTRACT_PENTAS_LEVEL_2_TITLE": "The Sweeney Scrupulousness - Level 2",
+			"UI_CONTRACT_PENTAS_LEVEL_3_TITLE": "The Sweeney Scrupulousness - Level 3",
+			"UI_CONTRACT_PENTAS_OBJ_1": "Eliminate Irene Bronson with an amputation knife while disguised as medic",
+			"UI_CONTRACT_PENTAS_OBJ_2": "Eliminate Jeff Castle with an amputation knife while disguised as medic",
+			"UI_CONTRACT_PENTAS_OBJ_3": "Eliminate Tobias Cropper with an amputation knife while disguised as medic"
+		},
+		"fr": {
+			"UI_CONTRACT_PENTAS_GROUP_TITLE": "Les scrupules de Sweeney",
+			"UI_CONTRACT_PENTAS_GROUP_DESC": "Escalade en trois niveaux à Miami",
+			"UI_CONTRACT_PENTAS_LEVEL_1_TITLE": "Les scrupules de Sweeney - Niveau 1",
+			"UI_CONTRACT_PENTAS_LEVEL_2_TITLE": "Les scrupules de Sweeney - Niveau 2",
+			"UI_CONTRACT_PENTAS_LEVEL_3_TITLE": "Les scrupules de Sweeney - Niveau 3",
+			"UI_CONTRACT_PENTAS_OBJ_1": "Éliminez Irene Bronson avec un couteau d'amputation déguisé en médecin.",
+			"UI_CONTRACT_PENTAS_OBJ_2": "Éliminez Jeff Castle avec un couteau d'amputation déguisé en médecin.",
+			"UI_CONTRACT_PENTAS_OBJ_3": "Éliminez Tobias Cropper avec un couteau d'amputation déguisé en médecin."
+		},
+		"it": {
+			"UI_CONTRACT_PENTAS_GROUP_TITLE": "La scrupolosità di Sweeney",
+			"UI_CONTRACT_PENTAS_GROUP_DESC": "Escalation di tre livelli a Miami",
+			"UI_CONTRACT_PENTAS_LEVEL_1_TITLE": "La scrupolosità di Sweeney - Livello 1",
+			"UI_CONTRACT_PENTAS_LEVEL_2_TITLE": "La scrupolosità di Sweeney - Livello 2",
+			"UI_CONTRACT_PENTAS_LEVEL_3_TITLE": "La scrupolosità di Sweeney - Livello 3",
+			"UI_CONTRACT_PENTAS_OBJ_1": "Elimina Irene Bronson con un coltello da amputazione mentre sei travestito da medico",
+			"UI_CONTRACT_PENTAS_OBJ_2": "Elimina Jeff Castle con un coltello da amputazione mentre sei travestito da medico",
+			"UI_CONTRACT_PENTAS_OBJ_3": "Elimina Tobias Cropper con un coltello da amputazione mentre sei travestito da medico"
+		},
+		"de": {
+			"UI_CONTRACT_PENTAS_GROUP_TITLE": "Die Sweeney-Skrupel",
+			"UI_CONTRACT_PENTAS_GROUP_DESC": "Drei-Stufen-Eskalation in Miami.",
+			"UI_CONTRACT_PENTAS_LEVEL_1_TITLE": "Die Sweeney-Skrupel – Stufe 1",
+			"UI_CONTRACT_PENTAS_LEVEL_2_TITLE": "Die Sweeney-Skrupel – Stufe 2",
+			"UI_CONTRACT_PENTAS_LEVEL_3_TITLE": "Die Sweeney-Skrupel – Stufe 3",
+			"UI_CONTRACT_PENTAS_OBJ_1": "Eliminieren Sie als Arzt verkleidet Irene Bronson mit einem Amputationsmesser.",
+			"UI_CONTRACT_PENTAS_OBJ_2": "Eliminieren Sie als Arzt verkleidet Jeff Castle mit einem Amputationsmesser.",
+			"UI_CONTRACT_PENTAS_OBJ_3": "Eliminieren Sie als Arzt verkleidet Tobias Cropper mit einem Amputationsmesser."
+		},
+		"es": {
+			"UI_CONTRACT_PENTAS_GROUP_TITLE": "Corte preciso",
+			"UI_CONTRACT_PENTAS_GROUP_DESC": "Intensificación de tres niveles en Miami",
+			"UI_CONTRACT_PENTAS_LEVEL_1_TITLE": "Corte preciso - Nivel 1",
+			"UI_CONTRACT_PENTAS_LEVEL_2_TITLE": "Corte preciso - Nivel 2",
+			"UI_CONTRACT_PENTAS_LEVEL_3_TITLE": "Corte preciso - Nivel 3",
+			"UI_CONTRACT_PENTAS_OBJ_1": "Elimina a Irene Bronson con un cuchillo amputador mientras vas disfrazado de médico.",
+			"UI_CONTRACT_PENTAS_OBJ_2": "Elimina a Jeff Castle con un cuchillo amputador mientras vas disfrazado de médico.",
+			"UI_CONTRACT_PENTAS_OBJ_3": "Elimina a Tobias Cropper con un cuchillo amputador mientras vas disfrazado de médico."
+		}
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00DAF71037D14DA2",
+	"languages": {
+		"xx": {
+			"E2BF1389": "Title",
+			"7BB64233": "Summary",
+			"0CB172A5": "Briefing",
+			"92D5E706": "Step 1",
+			"E5D2D790": "Step 2",
+			"7CDB862A": "Step 3",
+			"0BDCB6BC": "Step 4",
+			"9B63AB2D": "Step 5",
+			"EC649BBB": "Step 6",
+			"8CA3125E": "Conclusion"
+		},
+		"en": {
+			"E2BF1389": "15 Seconds of Fame",
+			"7BB64233": "The famous Helmut Kruger is part of the show. He has your cheekbones, 47.",
+			"0CB172A5": "According to our intel, Helmut Kruger is friendly with Dalia Margolis. I suspect that IAGO uses fashion models to infiltrate the lives of the rich and powerful, and Kruger is likely one of their spies. His face paint conveniently obscures his features, and the two of you already share a striking resemblance.",
+			"92D5E706": "Find out more about Helmut Kruger",
+			"E5D2D790": "Disguise yourself as Helmut Kruger",
+			"7CDB862A": "Call Margolis",
+			"0BDCB6BC": "Get your makeup done",
+			"9B63AB2D": "Walk the catwalk",
+			"EC649BBB": "Meet up with Margolis",
+			"8CA3125E": "Access to the auction and a private audience with Dalia Margolis. Nicely done, 47."
+		},
+		"fr": {
+			"E2BF1389": "Quinze secondes de gloire",
+			"7BB64233": "Le célèbre Helmut Kruger fera partie du défilé, et vous avez les mêmes pommettes, 47.",
+			"0CB172A5": "Selon nos informations, Helmut Kruger s'entend bien avec Dalia Margolis. Je soupçonne IAGO d'utiliser des top models pour infiltrer la vie des puissants de ce monde, et Kruger pourrait fort bien être l'un de leurs espions. Son maquillage masque justement ses traits, et il vous ressemble de façon troublante.",
+			"92D5E706": "Apprenez-en plus sur Helmut Kruger",
+			"E5D2D790": "Déguisez-vous en Helmut Kruger",
+			"7CDB862A": "Appelez Margolis",
+			"0BDCB6BC": "Faites-vous maquiller",
+			"9B63AB2D": "Défilez sur le podium",
+			"EC649BBB": "Retrouvez Margolis",
+			"8CA3125E": "Une autorisation d'accès à la vente aux enchères et un entretien privé avec Dalia Margolis... Bien joué, 47."
+		},
+		"it": {
+			"E2BF1389": "Quindici secondi di notorietà",
+			"7BB64233": "Il famoso Helmut Kruger parteciperà alla sfilata. Avete gli stessi zigomi, 47.",
+			"0CB172A5": "Stando alle nostre informazioni, Helmut Kruger ha iniziato a frequentare Dalia Margolis. Sospetto che la IAGO usi i ragazzi delle sfilate per infiltrarsi nella vita privata dei potenti e che Kruger sia una loro spia. Per tua fortuna, ha il volto truccato e i vostri lineamenti sono molto simili.",
+			"92D5E706": "Raccogli informazioni su Helmut Kruger",
+			"E5D2D790": "Travestiti da Helmut Kruger",
+			"7CDB862A": "Chiama Margolis",
+			"0BDCB6BC": "Fatti truccare",
+			"9B63AB2D": "Sfila in passerella",
+			"EC649BBB": "Incontra Margolis",
+			"8CA3125E": "Hai accesso all'asta e a un incontro privato con Dalia Margolis. Molto bene, 47."
+		},
+		"de": {
+			"E2BF1389": "15 Sekunden Ruhm",
+			"7BB64233": "Der berühmte Helmut Kruger ist Teil der Show. Er hat Ihre Wangenknochen, 47.",
+			"0CB172A5": "Laut unserer Informationen hat sich Helmut Kruger kürzlich mit Dalia Margolis getroffen. Ich vermute, dass IAGO Models einsetzt, um sich in das Leben der Reichen und Mächtigen einzuschleichen und Kruger ist einer ihrer Spione. Geschminkt kann man ihn kaum erkennen, und Sie sehen ihm so schon verblüffend ähnlich.",
+			"92D5E706": "Bringen Sie mehr über Helmut Kruger in Erfahrung",
+			"E5D2D790": "Verkleiden Sie sich als Helmut Kruger",
+			"7CDB862A": "Rufen Sie Margolis an",
+			"0BDCB6BC": "Lassen Sie Ihr Makeup auffrischen",
+			"9B63AB2D": "Betreten Sie den Laufsteg",
+			"EC649BBB": "Treffen Sie sich mit Margolis",
+			"8CA3125E": "Zugang zur Auktion und eine Privataudienz bei Dalia Margolis. Nicht schlecht, 47."
+		},
+		"es": {
+			"E2BF1389": "15 segundos de fama",
+			"7BB64233": "El famoso Helmut Kruger forma parte del espectáculo. Tiene tus mismos pómulos, 47.",
+			"0CB172A5": "Nuestras fuentes indican que Helmut Kruger y Dalia Margolis tienen buena relación. Sospecho que IAGO emplea a modelos para infiltrarse en las vidas de los ricos y poderosos, y que Kruger es uno de esos espías. También lleva una conveniente pintura facial para ocultar su rostro, y ambos guardáis un parecido asombroso.",
+			"92D5E706": "Averigua algo más sobre Helmut Kruger",
+			"E5D2D790": "Disfrázate de Helmut Kruger",
+			"7CDB862A": "Llama a Margolis",
+			"0BDCB6BC": "Haz que te maquillen",
+			"9B63AB2D": "Desfila por la pasarela",
+			"EC649BBB": "Reúnete con Margolis",
+			"8CA3125E": "Acceso a la subasta y una audiencia en privado con Dalia Margolis. Bien hecho, 47."
+		}
+	}
+}

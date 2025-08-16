@@ -1,0 +1,78 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/online/challenges/challenges_et_brassmonkey.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"UI_CHALLENGES_ET_BRASSMONKEY_COMPLETED_NAME": "Contract Complete",
+			"UI_CHALLENGES_ET_BRASSMONKEY_COMPLETED_DESC": "Contract Complete",
+			"UI_CHALLENGES_ET_BRASSMONKEY_TARGETDOWN_DESC": "<li>Assassinate The Ex-Dictator.</li>",
+			"UI_CHALLENGES_ET_BRASSMONKEY_TARGETDOWN_NAME": "The Ex-Dictator",
+			"UI_CHALLENGES_ET_BRASSMONKEY_SUICIDE_DESC": "Target Suicide Completion",
+			"UI_CHALLENGES_ET_BRASSMONKEY_SUICIDE_NAME": "Target Suicide Completion",
+			"UI_CHALLENGES_ET_BRASSMONKEY_SILENT_ASSASSIN_DESC": "<li>Assassinate The Ex-Dictator.</li><li>Assassinate The Gold Digger.</li><li>Only kill the targets.</il><li>No bodies found.</il><li>Do not get compromised.</il><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+			"UI_CHALLENGES_ET_BRASSMONKEY_SILENT_ASSASSIN_NAME": "Silent Assassin",
+			"UI_CHALLENGES_ET_BRASSMONKEY_F_TARGETDOWN_DESC": "<li>Assassinate The Gold Digger.</li>",
+			"UI_CHALLENGES_ET_BRASSMONKEY_F_TARGETDOWN_NAME": "The Gold Digger"
+		},
+		"en": {
+			"UI_CHALLENGES_ET_BRASSMONKEY_COMPLETED_NAME": "Contract Complete",
+			"UI_CHALLENGES_ET_BRASSMONKEY_COMPLETED_DESC": "Contract Complete",
+			"UI_CHALLENGES_ET_BRASSMONKEY_TARGETDOWN_DESC": "<li>Assassinate the Ex-Dictator.</li>",
+			"UI_CHALLENGES_ET_BRASSMONKEY_TARGETDOWN_NAME": "The Ex-Dictator",
+			"UI_CHALLENGES_ET_BRASSMONKEY_SUICIDE_DESC": "Target Suicide Completion",
+			"UI_CHALLENGES_ET_BRASSMONKEY_SUICIDE_NAME": "Target Suicide Completion",
+			"UI_CHALLENGES_ET_BRASSMONKEY_SILENT_ASSASSIN_DESC": "<li>Assassinate the Ex-Dictator.</li><li>Assassinate the Gold Digger.</li><li>Only eliminate the targets.</li><li>No bodies found.</li><li>Do not get spotted.</li><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+			"UI_CHALLENGES_ET_BRASSMONKEY_SILENT_ASSASSIN_NAME": "Silent Assassin",
+			"UI_CHALLENGES_ET_BRASSMONKEY_F_TARGETDOWN_DESC": "<li>Assassinate the Gold Digger.</li>",
+			"UI_CHALLENGES_ET_BRASSMONKEY_F_TARGETDOWN_NAME": "The Gold Digger"
+		},
+		"fr": {
+			"UI_CHALLENGES_ET_BRASSMONKEY_COMPLETED_NAME": "Contrat réussi",
+			"UI_CHALLENGES_ET_BRASSMONKEY_COMPLETED_DESC": "Contrat réussi",
+			"UI_CHALLENGES_ET_BRASSMONKEY_TARGETDOWN_DESC": "<li>Assassinez l'ex-dictateur.</li>",
+			"UI_CHALLENGES_ET_BRASSMONKEY_TARGETDOWN_NAME": "L'ex-dictateur",
+			"UI_CHALLENGES_ET_BRASSMONKEY_SUICIDE_DESC": "Suicide de la cible réussi",
+			"UI_CHALLENGES_ET_BRASSMONKEY_SUICIDE_NAME": "Suicide de la cible réussi",
+			"UI_CHALLENGES_ET_BRASSMONKEY_SILENT_ASSASSIN_DESC": "<li>Assassinez l'ex-dictateur.</li><li>Assassinez la croqueuse de diamants.</li><li>Abattez uniquement les cibles.</li><li>Aucun corps trouvé.</li><li>Ne vous faites pas repérer.</li><li>Si vous êtes repéré par les caméras, effacez ou détruisez la vidéo.</li>",
+			"UI_CHALLENGES_ET_BRASSMONKEY_SILENT_ASSASSIN_NAME": "Assassin silencieux",
+			"UI_CHALLENGES_ET_BRASSMONKEY_F_TARGETDOWN_DESC": "<li>Assassinez la croqueuse de diamants.</li>",
+			"UI_CHALLENGES_ET_BRASSMONKEY_F_TARGETDOWN_NAME": "La croqueuse de diamants"
+		},
+		"it": {
+			"UI_CHALLENGES_ET_BRASSMONKEY_COMPLETED_NAME": "Contratto completato",
+			"UI_CHALLENGES_ET_BRASSMONKEY_COMPLETED_DESC": "Contratto completato",
+			"UI_CHALLENGES_ET_BRASSMONKEY_TARGETDOWN_DESC": "<li>Elimina l'ex dittatore.</li>",
+			"UI_CHALLENGES_ET_BRASSMONKEY_TARGETDOWN_NAME": "L'ex dittatore",
+			"UI_CHALLENGES_ET_BRASSMONKEY_SUICIDE_DESC": "Completamento suicidio bersaglio",
+			"UI_CHALLENGES_ET_BRASSMONKEY_SUICIDE_NAME": "Completamento suicidio bersaglio",
+			"UI_CHALLENGES_ET_BRASSMONKEY_SILENT_ASSASSIN_DESC": "<li>Elimina l'ex dittatore.</li><li>Elimina la cacciatrice di dote.</li><li>Elimina solo i bersagli.</li><li>Fai in modo che nessun corpo sia rinvenuto.</li><li>Non essere individuato.</li><li>Se vieni inquadrato dalle telecamere, cancella o distruggi le registrazioni.</li>",
+			"UI_CHALLENGES_ET_BRASSMONKEY_SILENT_ASSASSIN_NAME": "Assassino silenzioso",
+			"UI_CHALLENGES_ET_BRASSMONKEY_F_TARGETDOWN_DESC": "<li>Elimina la cacciatrice di dote.</li>",
+			"UI_CHALLENGES_ET_BRASSMONKEY_F_TARGETDOWN_NAME": "La cacciatrice di dote"
+		},
+		"de": {
+			"UI_CHALLENGES_ET_BRASSMONKEY_COMPLETED_NAME": "Auftrag abgeschlossen",
+			"UI_CHALLENGES_ET_BRASSMONKEY_COMPLETED_DESC": "Auftrag abgeschlossen",
+			"UI_CHALLENGES_ET_BRASSMONKEY_TARGETDOWN_DESC": "<li>Eliminieren Sie den Ex-Diktator.</li>",
+			"UI_CHALLENGES_ET_BRASSMONKEY_TARGETDOWN_NAME": "Der Ex-Diktator",
+			"UI_CHALLENGES_ET_BRASSMONKEY_SUICIDE_DESC": "Selbstmord des Ziels abgeschlossen",
+			"UI_CHALLENGES_ET_BRASSMONKEY_SUICIDE_NAME": "Selbstmord des Ziels abgeschlossen",
+			"UI_CHALLENGES_ET_BRASSMONKEY_SILENT_ASSASSIN_DESC": "<li>Eliminieren Sie den Ex-Diktator.</li><li>Eliminieren Sie die Goldgräberin.</li><li>Eliminieren Sie nur die Ziele.</li><li>Keine Körper dürfen gefunden werden.</li><li>Bleiben Sie unbemerkt.</li><li>Werden Sie von einer Kamera gefilmt, löschen oder zerstören Sie die Beweise.</li>",
+			"UI_CHALLENGES_ET_BRASSMONKEY_SILENT_ASSASSIN_NAME": "Lautloser Killer",
+			"UI_CHALLENGES_ET_BRASSMONKEY_F_TARGETDOWN_DESC": "<li>Eliminieren Sie die Goldgräberin.</li>",
+			"UI_CHALLENGES_ET_BRASSMONKEY_F_TARGETDOWN_NAME": "Die Goldgräberin"
+		},
+		"es": {
+			"UI_CHALLENGES_ET_BRASSMONKEY_COMPLETED_NAME": "Contrato completado",
+			"UI_CHALLENGES_ET_BRASSMONKEY_COMPLETED_DESC": "Contrato completado",
+			"UI_CHALLENGES_ET_BRASSMONKEY_TARGETDOWN_DESC": "<li>Asesina al exdictador.</li>",
+			"UI_CHALLENGES_ET_BRASSMONKEY_TARGETDOWN_NAME": "El exdictador",
+			"UI_CHALLENGES_ET_BRASSMONKEY_SUICIDE_DESC": "Suicidio del objetivo conseguido",
+			"UI_CHALLENGES_ET_BRASSMONKEY_SUICIDE_NAME": "Suicidio del objetivo conseguido",
+			"UI_CHALLENGES_ET_BRASSMONKEY_SILENT_ASSASSIN_DESC": "<li>Asesina al exdictador.</li><li>Asesina a la cazafortunas.</li><li>Elimina solo a los objetivos.</li><li>Que no descubran cuerpos.</li><li>Evita que te descubran.</li><li>Si te detectan las cámaras, borra o destruye las pruebas.</li>",
+			"UI_CHALLENGES_ET_BRASSMONKEY_SILENT_ASSASSIN_NAME": "Asesino silencioso",
+			"UI_CHALLENGES_ET_BRASSMONKEY_F_TARGETDOWN_DESC": "<li>Asesina a la cazafortunas.</li>",
+			"UI_CHALLENGES_ET_BRASSMONKEY_F_TARGETDOWN_NAME": "La cazafortunas"
+		}
+	}
+}

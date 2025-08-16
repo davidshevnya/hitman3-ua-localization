@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0076133D84D2EE22",
+	"languages": {
+		"xx": {
+			"24A496F4": "Title",
+			"FADD349A": "Headline",
+			"3DC564E2": "Briefing",
+			"F6F52DDE": "Conclusion",
+			"6CBF29A2": "",
+			"02592442": "",
+			"DBE07073": "",
+			"63699F19": "",
+			"9B02624F": ""
+		},
+		"en": {
+			"24A496F4": "Tongue Tied",
+			"FADD349A": "So. The legendary Ezra Berg. Sounds like an overdose waiting to happen.",
+			"3DC564E2": "Ezra Berg, legendary Mossad operative who specializes in chemical interrogation techniques, is here at the compound to interrogate a prisoner. My notes indicate he's set up a makeshift drug lab in a garage and it looks like he's spending a lot of his time in the basement. Could be an opportunity there, 47.",
+			"F6F52DDE": "Well done, 47. With any luck, the perfectionist, Ezra Berg, will want to examine his notes closely to figure out what happened.",
+			"6CBF29A2": "Get a Militia Elite disguise",
+			"02592442": "Investigate the basement",
+			"DBE07073": "Interfere with Berg's interrogation",
+			"63699F19": "Find a key to the basement",
+			"9B02624F": "Wait for Berg"
+		},
+		"fr": {
+			"24A496F4": "Je ne parlerai pas !",
+			"FADD349A": "Ah, le légendaire Ezra Berg. On dirait que l'overdose n'est pas loin.",
+			"3DC564E2": "Ezra Berg, un célèbre agent du Mossad spécialisé dans les techniques d'interrogatoire chimique, est ici afin de faire parler un prisonnier. Mes informations me disent qu'il a établi un labo de drogues de fortune dans un garage et il semblerait qu'il passe beaucoup de temps dans sa cave. Il y a peut être là une occasion à saisir, 47.",
+			"F6F52DDE": "Beau travail, 47. Avec un peu de chance, le perfectionniste Ezra Berg, voudra examiner ses notes de près pour comprendre ce qui s'est passé.",
+			"6CBF29A2": "Procurez-vous la tenue d'un soldat d'élite de la milice",
+			"02592442": "Examinez le sous-sol",
+			"DBE07073": "Interférez avec l'interrogatoire de Berg",
+			"63699F19": "Trouvez la clé du sous-sol",
+			"9B02624F": "Attendez Berg"
+		},
+		"it": {
+			"24A496F4": "Labbra cucite",
+			"FADD349A": "Il leggendario Ezra Berg. Mi chiedo se con lui in giro qualcuno non rischi un'overdose...",
+			"3DC564E2": "Ezra Berg, leggendario agente del Mossad specializzato in tecniche di interrogatorio con sostanze chimiche, si trova nel complesso per interrogare un prigioniero. Le mie fonti indicano che ha allestito un laboratorio improvvisato nel garage e pare spenda molto del suo tempo nel seminterrato. Chissà che opportunità si nascondono là sotto, 47.",
+			"F6F52DDE": "Ottimo lavoro, 47. Con un po' di fortuna, quel perfezionista di Ezra Berg vorrà riesaminare attentamente le sue note per tentare di capire cosa sia successo...",
+			"6CBF29A2": "Procurati un travestimento da miliziano d'élite",
+			"02592442": "Ispeziona il seminterrato",
+			"DBE07073": "Interferisci con l'interrogatorio di Berg",
+			"63699F19": "Trova una chiave per il seminterrato",
+			"9B02624F": "Aspetta Berg"
+		},
+		"de": {
+			"24A496F4": "Sprachlos",
+			"FADD349A": "Der legendäre Ezra Berg. Der Mann schreit förmlich nach einer Überdosis.",
+			"3DC564E2": "Ezra Berg, der legendäre, auf chemische Verhörtechniken spezialisierte Mossad-Agent, ist offenbar hier im Hauptquartier um einen Gefangenen zu befragen. Offenbar baut er ein provisorisches Drogenlabor in einer Garage auf und verbringt viel Zeit im Keller. Dies könnte sich als gute Möglichkeit erweisen, 47.",
+			"F6F52DDE": "Gute Arbeit, 47. Ezra Berg wird mit ein bisschen Glück seine Notizen kontrollieren, um herauszufinden, was passiert ist.",
+			"6CBF29A2": "Verkleiden Sie sich als Miliz-Elitesoldat",
+			"02592442": "Untersuchen Sie den Keller",
+			"DBE07073": "Stören Sie Bergs Vernehmung",
+			"63699F19": "Finden Sie den Schlüssel zum Keller",
+			"9B02624F": "Warten Sie auf Berg"
+		},
+		"es": {
+			"24A496F4": "Labios sellados",
+			"FADD349A": "El legendario Ezra Berg... Preveo una sobredosis.",
+			"3DC564E2": "Ezra Berg, el legendario agente del Mossad especializado en técnicas de interrogatorio con químicos, se encuentra en la base para interrogar a un prisionero. Nuestra información confirma que tiene un laboratorio improvisado en un garaje y parece que pasa mucho tiempo en el sótano. Podría ser tu oportunidad, 47.",
+			"F6F52DDE": "Bien hecho, 47. Con algo de suerte, el perfeccionista Erza Berg querrá examinar sus notas detenidamente para comprender qué ha pasado.",
+			"6CBF29A2": "Consigue el disfraz de miliciano de élite",
+			"02592442": "Investiga el sótano",
+			"DBE07073": "Interfiere en la interrogación de Berg",
+			"63699F19": "Encuentra la llave del sótano",
+			"9B02624F": "Espera a Berg"
+		}
+	}
+}

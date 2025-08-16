@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00D5C5B55BA0C2C6",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_WOLVERINE_TITLE": "Wolverine",
+			"UI_CONTRACT_WOLVERINE_DESC": "Wolverine Description",
+			"UI_CONTRACT_WOLVERINE_LOCKED_REASON": "You should complete Wolverine before accessing this content.",
+			"UI_CONTRACT_WOLVERINE_OBJ_EDWARDS": "Eliminate Arthur Edwards",
+			"UI_CONTRACT_WOLVERINE_ELIMINATE_PROVIDENCE_DESC": "Any Providence member on the train is an optional target",
+			"UI_CONTRACT_WOLVERINE_ELIMINATE_PROVIDENCE_HEADER": "Providence Operatives",
+			"UI_CONTRACT_WOLVERINE_ELIMINATE_PROVIDENCE_TITLE": "(Optional) Eliminate any Providence Operative",
+			"6D8160EA": "De-escalate the situation / Return to ambient game state",
+			"22B9ACC5": "Detach the train cars"
+		},
+		"en": {
+			"UI_CONTRACT_WOLVERINE_TITLE": "Untouchable",
+			"UI_CONTRACT_WOLVERINE_DESC": "Confront the new power behind Providence.",
+			"UI_CONTRACT_WOLVERINE_LOCKED_REASON": "You should complete Untouchable before accessing this content",
+			"UI_CONTRACT_WOLVERINE_OBJ_EDWARDS": "Eliminate Arthur Edwards",
+			"UI_CONTRACT_WOLVERINE_ELIMINATE_PROVIDENCE_DESC": "It's time to end this. Any Providence member encountered is fair game and may be eliminated with no penalty.",
+			"UI_CONTRACT_WOLVERINE_ELIMINATE_PROVIDENCE_HEADER": "Providence Operatives",
+			"UI_CONTRACT_WOLVERINE_ELIMINATE_PROVIDENCE_TITLE": "Providence members may be eliminated",
+			"6D8160EA": "De-escalate the situation",
+			"22B9ACC5": "Detach the train cars"
+		},
+		"fr": {
+			"UI_CONTRACT_WOLVERINE_TITLE": "Intouchable",
+			"UI_CONTRACT_WOLVERINE_DESC": "Faites face au nouveau pouvoir derrière Providence.",
+			"UI_CONTRACT_WOLVERINE_LOCKED_REASON": "Il est recommandé de terminer \"Intouchable\" avant d'accéder à ce contenu.",
+			"UI_CONTRACT_WOLVERINE_OBJ_EDWARDS": "Éliminez Arthur Edwards",
+			"UI_CONTRACT_WOLVERINE_ELIMINATE_PROVIDENCE_DESC": "Il est temps d'en finir. Chaque membre de Providence rencontré est une cible légitime qui peut être éliminée sans risque de pénalité.",
+			"UI_CONTRACT_WOLVERINE_ELIMINATE_PROVIDENCE_HEADER": "Agents de Providence",
+			"UI_CONTRACT_WOLVERINE_ELIMINATE_PROVIDENCE_TITLE": "Les membres de Providence peuvent être éliminés",
+			"6D8160EA": "Calmer la situation",
+			"22B9ACC5": "Détacher les voitures du train"
+		},
+		"it": {
+			"UI_CONTRACT_WOLVERINE_TITLE": "Intoccabile",
+			"UI_CONTRACT_WOLVERINE_DESC": "Confrontati con il nuovo potere che si cela dietro a Providence.",
+			"UI_CONTRACT_WOLVERINE_LOCKED_REASON": "Prima di accedere a questo contenuto dovresti completare: \"Intoccabile\".",
+			"UI_CONTRACT_WOLVERINE_OBJ_EDWARDS": "Elimina Arthur Edwards",
+			"UI_CONTRACT_WOLVERINE_ELIMINATE_PROVIDENCE_DESC": "È giunta l'ora di farla finita. Ogni membro di Providence che incontri è una preda e può essere eliminato senza penalità.",
+			"UI_CONTRACT_WOLVERINE_ELIMINATE_PROVIDENCE_HEADER": "Agenti di Providence",
+			"UI_CONTRACT_WOLVERINE_ELIMINATE_PROVIDENCE_TITLE": "I membri di Providence possono essere eliminati",
+			"6D8160EA": "Calma la situazione",
+			"22B9ACC5": "Stacca i vagoni del treno"
+		},
+		"de": {
+			"UI_CONTRACT_WOLVERINE_TITLE": "Unantastbar",
+			"UI_CONTRACT_WOLVERINE_DESC": "Die letzte Mission der „Welt der Attentate“-Trilogie führt Sie in die Karpaten. Der Tod wartet schon.",
+			"UI_CONTRACT_WOLVERINE_LOCKED_REASON": "Sie sollten zuerst „Unantastbar“ abschließen, bevor Sie auf diesen Inhalt zugreifen.",
+			"UI_CONTRACT_WOLVERINE_OBJ_EDWARDS": "Eliminieren Sie Arthur Edwards.",
+			"UI_CONTRACT_WOLVERINE_ELIMINATE_PROVIDENCE_DESC": "Es wird Zeit, das zu Ende zu bringen. Alle Providence-Mitglieder, die Sie treffen, können ohne Nachteile ausgeschaltet werden.",
+			"UI_CONTRACT_WOLVERINE_ELIMINATE_PROVIDENCE_HEADER": "Providence-Agenten",
+			"UI_CONTRACT_WOLVERINE_ELIMINATE_PROVIDENCE_TITLE": "Providence-Mitglieder dürfen ausgeschaltet werden",
+			"6D8160EA": "Deeskalieren Sie die Lage",
+			"22B9ACC5": "Lösen Sie die Waggons"
+		},
+		"es": {
+			"UI_CONTRACT_WOLVERINE_TITLE": "Intocable",
+			"UI_CONTRACT_WOLVERINE_DESC": "Enfréntate al nuevo líder de Providence.",
+			"UI_CONTRACT_WOLVERINE_LOCKED_REASON": "Deberías completar «Intocable» antes de acceder a este contenido.",
+			"UI_CONTRACT_WOLVERINE_OBJ_EDWARDS": "Elimina a Arthur Edwards",
+			"UI_CONTRACT_WOLVERINE_ELIMINATE_PROVIDENCE_DESC": "Es hora de acabar con esto. Todo miembro de Providence encontrado es considerado daños colaterales y puede ser eliminado sin penalización alguna.",
+			"UI_CONTRACT_WOLVERINE_ELIMINATE_PROVIDENCE_HEADER": "Operativos de Providence",
+			"UI_CONTRACT_WOLVERINE_ELIMINATE_PROVIDENCE_TITLE": "Los miembros de Providence pueden ser eliminados",
+			"6D8160EA": "Aplaca la situación",
+			"22B9ACC5": "Desengancha los vagones de tren"
+		}
+	}
+}

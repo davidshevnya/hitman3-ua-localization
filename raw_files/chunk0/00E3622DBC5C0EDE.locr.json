@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00E3622DBC5C0EDE",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_DANDELION_GROUP_TITLE": "Dandelion Group Title Placeholder",
+			"UI_CONTRACT_DANDELION_GROUP_DESC": "Dandelion Group Desc Placeholder",
+			"UI_CONTRACT_DANDELION_LEVEL_1_NAME": "Dandelion Placeholder - Level 1",
+			"UI_CONTRACT_DANDELION_LEVEL_2_NAME": "Dandelion Placeholder - Level 2",
+			"UI_CONTRACT_DANDELION_LEVEL_3_NAME": "Dandelion Placeholder - Level 3",
+			"UI_CONTRACT_DANDELION_OBJ_0": "Eliminate Erna Seamans by electrocution",
+			"UI_CONTRACT_DANDELION_OBJ_1": "Retrieve the Burial Dagger",
+			"UI_CONTRACT_DANDELION_OBJ_2": "Eliminate Enoch Holly with the Burial Dagger",
+			"UI_CONTRACT_DANDELION_OBJ_3": "Eliminate Freeman Luoma with the Burial Dagger",
+			"UI_CONTRACT_DANDELION_OBJ_4": "Eliminate Aldo Tennison in an explosion",
+			"UI_CONTRACT_DANDELION_OBJ_5": "Eliminate Edgar Scudder in an explosion"
+		},
+		"en": {
+			"UI_CONTRACT_DANDELION_GROUP_TITLE": "The Dalton Dissection",
+			"UI_CONTRACT_DANDELION_GROUP_DESC": "Three Level Escalation in New York.",
+			"UI_CONTRACT_DANDELION_LEVEL_1_NAME": "The Dalton Dissection - Level 1",
+			"UI_CONTRACT_DANDELION_LEVEL_2_NAME": "The Dalton Dissection - Level 2",
+			"UI_CONTRACT_DANDELION_LEVEL_3_NAME": "The Dalton Dissection - Level 3",
+			"UI_CONTRACT_DANDELION_OBJ_0": "Eliminate Erna Seamans by electrocution",
+			"UI_CONTRACT_DANDELION_OBJ_1": "Retrieve the Burial Dagger",
+			"UI_CONTRACT_DANDELION_OBJ_2": "Eliminate Enoch Holly with the Burial Dagger",
+			"UI_CONTRACT_DANDELION_OBJ_3": "Eliminate Freeman Luoma with the Burial Dagger",
+			"UI_CONTRACT_DANDELION_OBJ_4": "Eliminate Aldo Tennison in an explosion",
+			"UI_CONTRACT_DANDELION_OBJ_5": "Eliminate Edgar Scudder in an explosion"
+		},
+		"fr": {
+			"UI_CONTRACT_DANDELION_GROUP_TITLE": "La dissection de Dalton",
+			"UI_CONTRACT_DANDELION_GROUP_DESC": "Escalade en trois niveaux à New York",
+			"UI_CONTRACT_DANDELION_LEVEL_1_NAME": "La dissection de Dalton - Niveau 1",
+			"UI_CONTRACT_DANDELION_LEVEL_2_NAME": "La dissection de Dalton - Niveau 2",
+			"UI_CONTRACT_DANDELION_LEVEL_3_NAME": "La dissection de Dalton - Niveau 3",
+			"UI_CONTRACT_DANDELION_OBJ_0": "Éliminez Erna Seamans par électrocution",
+			"UI_CONTRACT_DANDELION_OBJ_1": "Récupérez la dague de cérémonie",
+			"UI_CONTRACT_DANDELION_OBJ_2": "Éliminez Enoch Holly avec la dague de cérémonie",
+			"UI_CONTRACT_DANDELION_OBJ_3": "Éliminez Freeman Luoma avec la dague de cérémonie",
+			"UI_CONTRACT_DANDELION_OBJ_4": "Éliminez Aldo Tennison dans une explosion",
+			"UI_CONTRACT_DANDELION_OBJ_5": "Éliminez Edgar Scudder dans une explosion"
+		},
+		"it": {
+			"UI_CONTRACT_DANDELION_GROUP_TITLE": "La dissezione di Dalton",
+			"UI_CONTRACT_DANDELION_GROUP_DESC": "Escalation di tre livelli a New York",
+			"UI_CONTRACT_DANDELION_LEVEL_1_NAME": "La dissezione di Dalton - Livello 1",
+			"UI_CONTRACT_DANDELION_LEVEL_2_NAME": "La dissezione di Dalton - Livello 2",
+			"UI_CONTRACT_DANDELION_LEVEL_3_NAME": "La dissezione di Dalton - Livello 3",
+			"UI_CONTRACT_DANDELION_OBJ_0": "Elimina Erna Seamans tramite una scossa elettrica",
+			"UI_CONTRACT_DANDELION_OBJ_1": "Recupera il pugnale funerario",
+			"UI_CONTRACT_DANDELION_OBJ_2": "Elimina Enoch Holly con il pugnale funerario",
+			"UI_CONTRACT_DANDELION_OBJ_3": "Elimina Freeman Luoma con il pugnale funerario",
+			"UI_CONTRACT_DANDELION_OBJ_4": "Elimina Aldo Tennison con un'esplosione",
+			"UI_CONTRACT_DANDELION_OBJ_5": "Elimina Edgar Scudder con un'esplosione"
+		},
+		"de": {
+			"UI_CONTRACT_DANDELION_GROUP_TITLE": "Die Dalton-Sezierung",
+			"UI_CONTRACT_DANDELION_GROUP_DESC": "Drei-Stufen-Eskalation in New York.",
+			"UI_CONTRACT_DANDELION_LEVEL_1_NAME": "Die Dalton-Sezierung – Stufe 1",
+			"UI_CONTRACT_DANDELION_LEVEL_2_NAME": "Die Dalton-Sezierung – Stufe 2",
+			"UI_CONTRACT_DANDELION_LEVEL_3_NAME": "Die Dalton-Sezierung – Stufe 3",
+			"UI_CONTRACT_DANDELION_OBJ_0": "Eliminieren Sie Erna Seamans durch einen Stromschlag",
+			"UI_CONTRACT_DANDELION_OBJ_1": "Bergen Sie den Begräbnisdolch",
+			"UI_CONTRACT_DANDELION_OBJ_2": "Eliminieren Sie Enoch Holly mit dem Begräbnisdolch",
+			"UI_CONTRACT_DANDELION_OBJ_3": "Eliminieren Sie Freeman Luoma mit dem Begräbnisdolch",
+			"UI_CONTRACT_DANDELION_OBJ_4": "Eliminieren Sie Aldo Trentino mit einer Explosion",
+			"UI_CONTRACT_DANDELION_OBJ_5": "Eliminieren Sie Edgar Scudder mit einer Explosion"
+		},
+		"es": {
+			"UI_CONTRACT_DANDELION_GROUP_TITLE": "La disección de Dalton",
+			"UI_CONTRACT_DANDELION_GROUP_DESC": "Intensificación de tres niveles en Nueva York.",
+			"UI_CONTRACT_DANDELION_LEVEL_1_NAME": "La disección de Dalton - Nivel 1",
+			"UI_CONTRACT_DANDELION_LEVEL_2_NAME": "La disección de Dalton - Nivel 2",
+			"UI_CONTRACT_DANDELION_LEVEL_3_NAME": "La disección de Dalton - Nivel 3",
+			"UI_CONTRACT_DANDELION_OBJ_0": "Elimina a Erna Seamans electrocutándola.",
+			"UI_CONTRACT_DANDELION_OBJ_1": "Recupera la daga funeraria",
+			"UI_CONTRACT_DANDELION_OBJ_2": "Elimina a Enoch Holly con la daga funeraria.",
+			"UI_CONTRACT_DANDELION_OBJ_3": "Elimina a Freeman Luoma con la daga funeraria.",
+			"UI_CONTRACT_DANDELION_OBJ_4": "Elimina a Aldo Tennison con una explosión.",
+			"UI_CONTRACT_DANDELION_OBJ_5": "Elimina a Edgar Scudder con una explosión."
+		}
+	}
+}

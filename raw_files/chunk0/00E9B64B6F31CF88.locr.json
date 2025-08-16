@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00E9B64B6F31CF88",
+	"languages": {
+		"xx": {
+			"FA7B0575": "Contract: Vanya Shah",
+			"40B71FD2": "A Contract Fit for a Queen",
+			"7D956482": "Rangan has put out a freelance contract on Vanya Shah. All is not well in Mumbai. This could be to our advantage. After all, you are the best in the business...",
+			"CEF90BC0": "Eliminate target: Vanya Shah",
+			"7531FA9A": "Call Dawood Rangan",
+			"0251F320": "Wait for Rangan's reaction",
+			"CF1BAAFB": "Get close to the barge",
+			"55AB708C": "Observe the meeting to identify the Maelstrom"
+		},
+		"en": {
+			"FA7B0575": "Contract: Vanya Shah",
+			"40B71FD2": "A contract fit for a queen.",
+			"7D956482": "This is certainly interesting, 47. Dawood Rangan has contracted a hired killer, The Kashmirian, to eliminate Vanya Shah. Well, with Shah already eliminated, you should get in touch with Rangan through one of the city’s payphones and let him know the contract is fulfilled. Something is bound to come from it.",
+			"CEF90BC0": "Eliminate target: Vanya Shah",
+			"7531FA9A": "Call Dawood Rangan",
+			"0251F320": "Wait for Rangan's reaction",
+			"CF1BAAFB": "Get close to the barge",
+			"55AB708C": "Observe the meeting to identify The Maelstrom"
+		},
+		"fr": {
+			"FA7B0575": "Contrat : Vanya Shah",
+			"40B71FD2": "Un contrat digne d'une reine.",
+			"7D956482": "Voilà qui est très intéressant, 47. Dawood Rangan a engagé un assassin, le Cachemiri, pour se débarrasser de Vanya Shah. Vu que celle-ci est déjà morte, vous devriez contacter Rangan depuis l'une des cabines téléphoniques de la ville et le prévenir que le contrat est rempli. Nous verrons comment il réagit.",
+			"CEF90BC0": "Éliminez la cible : Vanya Shah",
+			"7531FA9A": "Appelez Dawood Rangan",
+			"0251F320": "Attendez la réaction de Rangan",
+			"CF1BAAFB": "Approchez-vous de la péniche",
+			"55AB708C": "Observez la réunion pour identifier le Maelström"
+		},
+		"it": {
+			"FA7B0575": "Incarico: Vanya Shah",
+			"40B71FD2": "Un incarico degno di una regina.",
+			"7D956482": "Questo è molto interessante, 47. Dawood Rangan ha assoldato un killer, il Kashmiro, per uccidere Vanya Shah. Beh, ora che Shah è già stata eliminata dovresti usare un telefono pubblico per metterti in contatto con Rangan e informarlo che l'incarico è stato portato a termine. Vedrai che poi succederà qualcosa.",
+			"CEF90BC0": "Elimina il bersaglio: Vanya Shah",
+			"7531FA9A": "Chiama Dawood Rangan",
+			"0251F320": "Aspetta la reazione di Rangan",
+			"CF1BAAFB": "Avvicinati alla chiatta",
+			"55AB708C": "Tieni d'occhio l'incontro per identificare Maelstrom"
+		},
+		"de": {
+			"FA7B0575": "Auftrag: Vanya Shah",
+			"40B71FD2": "Ein gar königlicher Auftrag.",
+			"7D956482": "Sieh sich das einer an … Rangan hat ein Kopfgeld auf Vanya Shah ausgesetzt. Der Haussegen hängt schief in Mumbai. Das könnte für uns von Vorteil sein, 47. Dürfte ich vorschlagen, dass Sie sich darum kümmern und danach Rangan anrufen?",
+			"CEF90BC0": "Ziel eliminieren: Vanya Shah",
+			"7531FA9A": "Rufen Sie Dawood Rangan an.",
+			"0251F320": "Warten Sie Rangans Reaktion ab.",
+			"CF1BAAFB": "Nähern Sie sich dem Kahn.",
+			"55AB708C": "Beobachten Sie das Treffen, um den Maelstrom zu identifizieren."
+		},
+		"es": {
+			"FA7B0575": "Contrato: Vanya Shah",
+			"40B71FD2": "Un contrato digno de una reina.",
+			"7D956482": "Esto es muy interesante, 47. Dawood Rangan ha contratado a un asesino, el Cachemir, para que se ocupe de Vanya Shah. Como Shah ya está fuera de la ecuación, deberías usar un teléfono público para contactar con Rangan e informarle del cumplimiento del contrato. Seguro que sale algo interesante de todo eso.",
+			"CEF90BC0": "Elimina al objetivo: Vanya Shah",
+			"7531FA9A": "Llama a Dawood Rangan",
+			"0251F320": "Espera a la reacción de Rangan",
+			"CF1BAAFB": "Acércate a la barcaza",
+			"55AB708C": "Observa el encuentro para identificar al Torbellino"
+		}
+	}
+}

@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00F5E54AF9483591",
+	"languages": {
+		"xx": {
+			"E54C2CE4": "FORTUNE title",
+			"9118EB2B": "DS11016_FortuneBriefing",
+			"B0DFBD1A": "One-line summary",
+			"16C704CA": "DS11017_FortuneConclusion",
+			"E41FEA3E": "Find the fortune teller's den",
+			"CA1A8F3C": "Acquire a fortune teller disguise",
+			"ED1518B9": "Dispose of the client",
+			"DC333776": "Approach Matthieu Mendola.",
+			"E056F6B3": "Escort Matthieu Mendola to the fortune teller's den.",
+			"7565BE4B": "Wait for Matthieu Mendola to enter.",
+			"5386ACC9": "Matthieu Mendola is dead.",
+			"9D67E0BB": "Matthieu Mendola received his reading and will not likely be returning to the fortune teller's den."
+		},
+		"en": {
+			"E54C2CE4": "The Future Foretold",
+			"9118EB2B": "Apparently, Mendola is looking for a fortune teller. Sounds promising. A man of superstition surrenders himself to fate. Well, you don't have to be clairvoyant to see his future.",
+			"B0DFBD1A": "Take the place of the local fortune teller for a chance to isolate Matthieu Mendola.",
+			"16C704CA": "Good thinking, 47. It's time to read Mendola his misfortune. Pardon the pun.",
+			"E41FEA3E": "Find the fortune teller's den",
+			"CA1A8F3C": "Disguise yourself as the Fortune Teller",
+			"ED1518B9": "Get rid of the customer",
+			"DC333776": "Approach Matthieu Mendola",
+			"E056F6B3": "Escort Matthieu Mendola to the fortune teller's den",
+			"7565BE4B": "Wait for Matthieu Mendola to enter",
+			"5386ACC9": "Matthieu Mendola is dead.",
+			"9D67E0BB": "Matthieu Mendola received his reading and will not likely be returning to the fortune teller's den."
+		},
+		"fr": {
+			"E54C2CE4": "Prédictions",
+			"9118EB2B": "Apparemment, Mendola est en train de chercher un voyant. Ça a l'air prometteur. Un homme superstitieux capitule devant le destin. Eh bien, pas besoin d'être clairvoyant pour voir son futur.",
+			"B0DFBD1A": "Prenez la place du voyant local pour avoir une chance d'être seul-à-seul avec Matthieu Mendola.",
+			"16C704CA": "Bien trouvé 47. C'est le temps de lire sa \"malchance\" à Mendola. Désolée pour la mauvaise blague.",
+			"E41FEA3E": "Trouvez le repaire du voyant",
+			"CA1A8F3C": "Déguisez-vous en  voyant",
+			"ED1518B9": "Débarrassez-vous du client",
+			"DC333776": "Approchez-vous de Matthieu Mendola",
+			"E056F6B3": "Escortez Matthieu Mendola jusqu'au repaire du voyant",
+			"7565BE4B": "Attendez que Matthieu Mendola entre dans le repaire",
+			"5386ACC9": "Matthieu Mendola est mort.",
+			"9D67E0BB": "Matthieu Mendola a obtenu sa prédiction et ne reviendra probablement pas au bureau du voyant."
+		},
+		"it": {
+			"E54C2CE4": "La profezia",
+			"9118EB2B": "A quanto pare, Mendola sta cercando qualcuno che possa predire il suo futuro. Sembra promettente. Gli uomini superstiziosi si arrendono al fato. Beh, non serve essere chiaroveggenti per sapere cosa gli riserva il futuro.",
+			"B0DFBD1A": "Sostituisci l'indovino per riuscire a incontrare da solo Matthieu Mendola.",
+			"16C704CA": "Buona idea, 47. È ora di rivelare a Mendola la sua \"malasorte\". Perdona la battuta.",
+			"E41FEA3E": "Trova la dimora dell'indovino",
+			"CA1A8F3C": "Travestiti da indovino",
+			"ED1518B9": "Sbarazzati del cliente",
+			"DC333776": "Avvicinati a Matthieu Mendola",
+			"E056F6B3": "Accompagna Matthieu Mendola alla dimora dell'indovino",
+			"7565BE4B": "Aspetta che Matthieu Mendola entri",
+			"5386ACC9": "Matthieu Mendola è morto.",
+			"9D67E0BB": "Matthieu Mendola si è già fatto predire il futuro e probabilmente non tornerà dall'indovino."
+		},
+		"de": {
+			"E54C2CE4": "Ein Blick in die Zukunft",
+			"9118EB2B": "Angeblich sucht Mendola nach einem Wahrsager. Ein Mann des Aberglaubens gibt sich dem Schicksal hin. Nun, Sie müssen kein Hellseher sein, um seine Zukunft vorauszusagen.",
+			"B0DFBD1A": "Nehmen Sie den Platz des lokalen Wahrsagers ein, um mit Matthieu Mendola unter vier Augen sein zu können.",
+			"16C704CA": "Gut mitgedacht, 47. Nun ist es Zeit, Mendola die Wahrheit über seine Zukunft mitzuteilen. Verzeihen Sie den Wortwitz.",
+			"E41FEA3E": "Finden Sie das Zelt des Wahrsagers",
+			"CA1A8F3C": "Verkleiden Sie sich als Wahrsager",
+			"ED1518B9": "Werden Sie den Kunden los",
+			"DC333776": "Sprechen Sie Matthieu Mendola an",
+			"E056F6B3": "Begleiten Sie Matthieu Mendola zum Zelt des Wahrsagers",
+			"7565BE4B": "Warten Sie, bis Matthieu Mendola eintritt",
+			"5386ACC9": "Matthieu Mendola ist tot.",
+			"9D67E0BB": "Matthieu Mendola hatte seine Sitzung und wird vermutlich nicht zum Zelt des Wahrsagers zurückkehren."
+		},
+		"es": {
+			"E54C2CE4": "El futuro predicho",
+			"9118EB2B": "Por lo visto, Mendola está buscando un adivino. Prometedor. Un hombre supersticioso se rinde al destino. Bueno, no tienes que ser vidente para ver su futuro.",
+			"B0DFBD1A": "Hazte pasar por el adivino para tener una oportunidad de quedarte a solas con Matthieu Mendola.",
+			"16C704CA": "Bien pensado, 47. Es hora de leerle a Mendola el poco futuro que le queda. Perdona el chiste.",
+			"E41FEA3E": "Encuentra el local del adivino",
+			"CA1A8F3C": "Disfrázate como el adivino",
+			"ED1518B9": "Deshazte del cliente",
+			"DC333776": "Acércate a Matthieu Mendola",
+			"E056F6B3": "Escolta a Matthieu Mendola al local del adivino",
+			"7565BE4B": "Espera a que Matthieu Mendola entre",
+			"5386ACC9": "Matthieu Mendola está muerto.",
+			"9D67E0BB": "A Matthieu Mendola le han leído el futuro y seguramente no vuelva al local del adivino."
+		}
+	}
+}

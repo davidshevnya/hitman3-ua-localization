@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00801D5825FBA105",
+	"languages": {
+		"xx": {
+			"4187AF3E": "PH_Headline",
+			"9B32DE23": "PH_Text"
+		},
+		"en": {
+			"4187AF3E": "Infiltration",
+			"9B32DE23": "You are not allowed on board in your current outfit. You will need to infiltrate the cargo area behind the fence and find a disguise."
+		},
+		"fr": {
+			"4187AF3E": "Infiltration",
+			"9B32DE23": "Vous n'êtes pas autorisé à monter à bord avec votre tenue actuelle. Infiltrez-vous dans la zone de chargement derrière la barrière et trouvez un déguisement."
+		},
+		"it": {
+			"4187AF3E": "Infiltrazione",
+			"9B32DE23": "Non puoi salire a bordo con i vestiti che indossi. Devi infiltrarti nella zona carico dietro la recinzione e trovare un travestimento."
+		},
+		"de": {
+			"4187AF3E": "Infiltration",
+			"9B32DE23": "Mit Ihrer jetzigen Kleidung dürfen Sie nicht an Bord gehen. Sie müssen den Frachtbereich hinter dem Zaun infiltrieren und eine Verkleidung finden."
+		},
+		"es": {
+			"4187AF3E": "Infiltración",
+			"9B32DE23": "No te permitirán subir a bordo con la ropa que llevas. Cuélate en la zona de carga que está detrás de la valla y busca un disfraz."
+		}
+	}
+}

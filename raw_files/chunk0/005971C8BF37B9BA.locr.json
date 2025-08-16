@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "005971C8BF37B9BA",
+	"languages": {
+		"xx": {
+			"009A9060": "Title",
+			"10B261FC": "Flavor",
+			"0B387499": "Description",
+			"2805DAEE": "Conclusion",
+			"AC75EF95": "Disguise yourself as the photographer",
+			"747BDC30": "Find a fuse cell",
+			"745DFD54": "Power up the flashes",
+			"3ABF8D5A": "Take a photo with the photographer's camera",
+			"20B67187": "Wait for the staff member to call down the family"
+		},
+		"en": {
+			"009A9060": "A Day To Remember",
+			"10B261FC": "So, Madam Carlisle wants a picture taken. If you were to assist with the missing fuse, I’m sure it would be one for the ages.",
+			"0B387499": "Take the role of the photographer",
+			"2805DAEE": "Excellent, 47. Madam Carlisle is on her way down for the family photo shoot. Let’s see if any memorable moments will play out in front of the camera.",
+			"AC75EF95": "Disguise yourself as the photographer",
+			"747BDC30": "Find a fuse cell",
+			"745DFD54": "Power up the camera flashes",
+			"3ABF8D5A": "Take a photo of the staff member with the photographer's camera",
+			"20B67187": "Wait for the staff member to text down the Carlisle family"
+		},
+		"fr": {
+			"009A9060": "Une journée mémorable",
+			"10B261FC": "Madame Carlisle veut prendre une photo, semble-t-il. Si vous pouvez régler le problème du fusible manquant, je suis sûre que le portrait sera exceptionnel.",
+			"0B387499": "Endossez le rôle du photographe.",
+			"2805DAEE": "Parfait, 47. Madame Carlisle arrive pour la photo de famille. Voyons si l'appareil photo parvient à capturer un moment familial historique.",
+			"AC75EF95": "Déguisez-vous en photographe",
+			"747BDC30": "Trouvez un fusible",
+			"745DFD54": "Alimentez les flashs de l'appareil photo",
+			"3ABF8D5A": "Prenez une photo du membre du personnel avec l'appareil du photographe",
+			"20B67187": "Attendez que le membre du personnel prévienne les Carlisle"
+		},
+		"it": {
+			"009A9060": "Un giorno da ricordare",
+			"10B261FC": "Dunque, Madame Carlisle vuole una foto. Se tu dessi una mano con il fusibile mancante, sono sicura che il ritratto diventerebbe memorabile.",
+			"0B387499": "Assumi il ruolo del fotografo.",
+			"2805DAEE": "Eccellente, 47. Madame Carlisle sta arrivando per la foto di famiglia. Vediamo se la macchina fotografica immortalerà qualche momento memorabile.",
+			"AC75EF95": "Travestiti da fotografo",
+			"747BDC30": "Trova un fusibile",
+			"745DFD54": "Carica i flash della macchina fotografica",
+			"3ABF8D5A": "Scatta una foto del membro del personale con la macchina fotografica del fotografo",
+			"20B67187": "Aspetta che il membro del personale scriva alla famiglia Carlisle"
+		},
+		"de": {
+			"009A9060": "Ein denkwürdiger Tag",
+			"10B261FC": "So. Madam Carlisle will, dass man ein Foto macht. Wenn Sie mit der fehlenden Sicherung behilflich sein können, bin ich mir sicher, dass das ein Bild für die Ewigkeit wird.",
+			"0B387499": "Übernehmen Sie die Rolle des Fotografen.",
+			"2805DAEE": "Hervorragend, 47. Madam Carlisle ist auf dem Weg nach unten für das Familienfoto. Wollen wir mal sehen, ob sich nicht ein paar denkwürdige Augenblicke vor der Kamera abspielen.",
+			"AC75EF95": "Verkleiden Sie sich als Fotograf",
+			"747BDC30": "Suchen Sie eine Sicherung",
+			"745DFD54": "Versorgen Sie die Blitzlichter mit Strom",
+			"3ABF8D5A": "Machen Sie ein Foto des Angestellten mit der Kamera des Fotografen",
+			"20B67187": "Warten Sie, dass ein Angestellter die Familie per Textnachricht herunterruft"
+		},
+		"es": {
+			"009A9060": "Un día inolvidable",
+			"10B261FC": "La señora Carlisle quiere que le hagan una foto. Si echases una mano con lo del fusible, seguro que sería una foto que pasaría a los anales de la historia.",
+			"0B387499": "Hazte pasar por el fotógrafo.",
+			"2805DAEE": "Excelente, 47. La señora Carlisle viene a participar en la sesión de fotos familiar. A ver si logramos captar algún momento inolvidable con la cámara.",
+			"AC75EF95": "Disfrázate de fotógrafo",
+			"747BDC30": "Encuentra un fusible",
+			"745DFD54": "Enciende el flash de la cámara",
+			"3ABF8D5A": "Haz una foto del miembro del personal con la cámara del fotógrafo",
+			"20B67187": "Espera a que el miembro del personal avise a la familia Carlisle"
+		}
+	}
+}

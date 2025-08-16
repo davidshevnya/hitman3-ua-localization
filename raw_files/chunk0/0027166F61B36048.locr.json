@@ -1,0 +1,60 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0027166F61B36048",
+	"languages": {
+		"xx": {
+			"MAGPIE_SKITTLEBOMB_ELUSIVETARGET_THESTOWAWAY_M_PRO144355_NAME_0808D791-D0BA-4C71-880F-A31C88AD69D9": "Jimmy Chen",
+			"MAGPIE_SKITTLEBOMB_ELUSIVETARGET_THESTOWAWAY_M_PRO144355_DESCRIPTION_0808D791-D0BA-4C71-880F-A31C88AD69D9": "Jimmy Chen",
+			"UI_CONTRACT_SKITTLEBOMB_OBJ_2_TITLE": "Retrieve the Dictaphone",
+			"UI_CONTRACT_SKITTLEBOMB_OBJ_2_DESC": "Retrieve Jimmy Chen's Dictaphone",
+			"UI_CONTRACT_SKITTLEBOMB_TITLE": "Skittlebomb Contract Title",
+			"UI_CONTRACT_SKITTLEBOMB_DESC": "Skittlebomb Contract Description",
+			"UI_CONTRACT_SKITTLEBOMB_OBJ_1_TITLE": "Eliminate Jimmy Chen"
+		},
+		"en": {
+			"MAGPIE_SKITTLEBOMB_ELUSIVETARGET_THESTOWAWAY_M_PRO144355_NAME_0808D791-D0BA-4C71-880F-A31C88AD69D9": "Jimmy Chen",
+			"MAGPIE_SKITTLEBOMB_ELUSIVETARGET_THESTOWAWAY_M_PRO144355_DESCRIPTION_0808D791-D0BA-4C71-880F-A31C88AD69D9": "Jimmy Chen always wanted to be an actor, but unfortunately for him he had next to no talent for it.<br><br>After years of rejection he auditioned for a Hong Kong reality show but made such a pathetic impression that he became an internet sensation. Chen, always the opportunitist, seized his chance and became an online personality, reporting on celebrity culture with venomous contempt. Mocking and bullying the people that had denied him his dream in life, turned out to be his real talent. Though his show was a great commercial success his heart was still hungry for respect as much as recognition and he decided to become a real reporter, using questionable methods to acheive his goal.<br><br>In the course of researching a new story, Chen was entrusted with damaging evidence to prove that a pharmaceutical company was withholding data on an anti-depressant. Instead of warning the public, Chen waited for almost a year until a wave of suicides gave him the sensationalized pitch he needed.<br><br>The client, a rich Hong Kong architect who lost a younger sister thanks to Jimmy Chen’s cynical wait for a sexier story, wants to set the record straight.",
+			"UI_CONTRACT_SKITTLEBOMB_OBJ_2_TITLE": "Retrieve the dictaphone",
+			"UI_CONTRACT_SKITTLEBOMB_OBJ_2_DESC": "Retrieve Jimmy Chen's dictaphone",
+			"UI_CONTRACT_SKITTLEBOMB_TITLE": "The Stowaway",
+			"UI_CONTRACT_SKITTLEBOMB_DESC": "Welcome to the Isle of Sgail, 47. The target has been spotted near the keep gallery, dressed as a waiter. Look for anyone who’s acting out of character. And remember to collect Chen’s dictaphone.",
+			"UI_CONTRACT_SKITTLEBOMB_OBJ_1_TITLE": "Eliminate Jimmy Chen"
+		},
+		"fr": {
+			"MAGPIE_SKITTLEBOMB_ELUSIVETARGET_THESTOWAWAY_M_PRO144355_NAME_0808D791-D0BA-4C71-880F-A31C88AD69D9": "Jimmy Chen",
+			"MAGPIE_SKITTLEBOMB_ELUSIVETARGET_THESTOWAWAY_M_PRO144355_DESCRIPTION_0808D791-D0BA-4C71-880F-A31C88AD69D9": "Jimmy Chen a toujours voulu devenir acteur, mais il n'a malheureusement jamais eu le talent nécessaire.<br><br>Après avoir essuyé des échecs pendant des années, il tenta sa chance pour une téléréalité hongkongaise, mais pour une prestation si pitoyable qu'il devint une sensation d'Internet. Opportuniste jusqu'au bout, Chen profita de cette occasion pour faire son trou en tant que chroniqueur de stars, le tout dans un ton acerbe et venimeux. Il s'avéra que son véritable talent était de harceler et ridiculiser ceux qui l'avaient privé de son rêve dans le passé. Son émission cartonnait et lui rapportait beaucoup d'argent, mais Chen était toujours avide de respect et de reconnaissance, et il se lança alors dans le journalisme, usant de ses méthodes peu scrupuleuses pour arriver à ses fins. <br><br>Un jour, alors qu'il travaillait sur un nouvel article, Chen se vit confier des preuves accablantes prouvant qu'une entreprise pharmaceutique avait en sa possession des données compromettantes sur un antidépresseur. Plutôt que d'en faire part immédiatement au public, ce qui aurait pu sauver des vies, il attendit près d'un an, jusqu'au jour où une vague de suicides éclata et lui offrit une occasion en or pour sortir son scandale.<br>Le client, un riche architecte hongkongais, a perdu sa sœur dans cette histoire et souhaite éradiquer Chen et son cynisme.",
+			"UI_CONTRACT_SKITTLEBOMB_OBJ_2_TITLE": "Récupérez le dictaphone",
+			"UI_CONTRACT_SKITTLEBOMB_OBJ_2_DESC": "Récupérez le dictaphone de Jimmy Chen",
+			"UI_CONTRACT_SKITTLEBOMB_TITLE": "Le clandestin",
+			"UI_CONTRACT_SKITTLEBOMB_DESC": "Bienvenue sur l'île de Sgáil, 47. Nous avons repéré la cible près de la galerie du donjon, déguisé en serveur. Cherchez quiconque présenterait un comportement inhabituel. Et veillez bien à récupérer le dictaphone de Chen.",
+			"UI_CONTRACT_SKITTLEBOMB_OBJ_1_TITLE": "Éliminez Jimmy Chen"
+		},
+		"it": {
+			"MAGPIE_SKITTLEBOMB_ELUSIVETARGET_THESTOWAWAY_M_PRO144355_NAME_0808D791-D0BA-4C71-880F-A31C88AD69D9": "Jimmy Chen",
+			"MAGPIE_SKITTLEBOMB_ELUSIVETARGET_THESTOWAWAY_M_PRO144355_DESCRIPTION_0808D791-D0BA-4C71-880F-A31C88AD69D9": "Jimmy Chen aveva sempre voluto fare l'attore, ma per sua sfortuna non aveva alcun talento.<br><br>Dopo anni di fallimenti, fece un provino per un reality show di Hong Kong, finendo per fare una figura talmente patetica che diventò un fenomeno di internet. Chen, grande opportunista, colse la palla al balzo e diventò un personaggio famoso in rete, grazie ai gossip dispregiativi che pubblicava sulle celebrità. Bullizzare e prendersi gioco delle persone che gli avevano negato il sogno di una vita, a quanto pare, si dimostrò il suo vero talento. Sebbene il suo show avesse riscosso un grande successo, il suo cuore restava affamato di rispetto e riconoscimento. Così decise di diventare un vero giornalista, utilizzando metodi discutibili per raggiungere il suo obiettivo. <br><br>Mentre era alla ricerca di una nuova storia, finirono tra le mani di Chen alcune prove incriminanti circa una casa farmaceutica che teneva nascosti alcuni dati su un antidepressivo. Invece di divulgare subito la scoperta, Chen aspettò quasi un anno, quando un'ondata di suicidi gli fornì il picco sensazionalistico di cui aveva bisogno.<br><br>Il cliente è un ricco architetto di Hong Kong che ha perso la sorella minore a causa della cinica attesa di Jimmy Chen e che ora vuole pareggiare i conti.",
+			"UI_CONTRACT_SKITTLEBOMB_OBJ_2_TITLE": "Recupera il dittafono",
+			"UI_CONTRACT_SKITTLEBOMB_OBJ_2_DESC": "Recupera il dittafono di Jimmy Chen",
+			"UI_CONTRACT_SKITTLEBOMB_TITLE": "Il Clandestino",
+			"UI_CONTRACT_SKITTLEBOMB_DESC": "Benvenuto sull'Isola di Sgàil, 47. Il bersaglio è stato individuato nei pressi della galleria, vestito da cameriere. Fai attenzione a chiunque si comporti in modo strano. E ricordati di raccogliere il dittafono di Chen.",
+			"UI_CONTRACT_SKITTLEBOMB_OBJ_1_TITLE": "Elimina Jimmy Chen"
+		},
+		"de": {
+			"MAGPIE_SKITTLEBOMB_ELUSIVETARGET_THESTOWAWAY_M_PRO144355_NAME_0808D791-D0BA-4C71-880F-A31C88AD69D9": "Jimmy Chen",
+			"MAGPIE_SKITTLEBOMB_ELUSIVETARGET_THESTOWAWAY_M_PRO144355_DESCRIPTION_0808D791-D0BA-4C71-880F-A31C88AD69D9": "Jimmy Chen wollte immer Schauspieler werden, doch zu seinem großen Pech hatte so gut wie kein Talent dafür.<br><br>Nach Jahren voller Zurückweisungen sprach er für eine Realityshow in Hongkong vor, wobei er jedoch einen derart bemitleidenswerten Eindruck hinterließ, dass er stattdessen zu einer Internetsensation wurde. Chen, der seit jeher ein Opportunist gewesen war, packte die Gelegenheit beim Schopf und machte sich selbst zu einer Online-Persönlichkeit, die mit giftiger Verachtung über die Celebrity-Kultur berichtete. Jene Leute zu verspotten und zu drangsalieren, die ihm seinen Lebenstraum verwehrt hatten, erwies sich als sein wahres Talent. Auch wenn seine Show ein großer kommerzieller Erfolg war, gierte sein Herz nach wie vor nach Respekt und Anerkennung. Er beschloss, ein echter Reporter zu werden, und setzte fragwürdige Methoden ein, um sein Ziel zu erreichen. <br><br>Im Zuge der Recherchen zu einer neuen Story wurde Chen belastendes Beweismaterial anvertraut, das belegte, dass ein Pharmaunternehmen heikle Daten zu einem Antidepressivum zurückhielt. Anstatt die Öffentlichkeit zu warnen, wartete Chen beinahe ein ganzes Jahr ab, bis ihm eine Welle von Suiziden genau den reißerischen Aufhänger lieferte, den er brauchte.<br><br>Der Klient – ein reicher Architekt aus Hongkong, der dank Jimmy Chens zynischem Warten auf eine geilere Geschichte seine jüngere Schwester verlor – will nun, dass diese Rechnung beglichen wird.",
+			"UI_CONTRACT_SKITTLEBOMB_OBJ_2_TITLE": "Beschaffen Sie das Diktiergerät",
+			"UI_CONTRACT_SKITTLEBOMB_OBJ_2_DESC": "Beschaffen Sie Jimmy Chens Diktiergerät.",
+			"UI_CONTRACT_SKITTLEBOMB_TITLE": "Der Blinde Passagier",
+			"UI_CONTRACT_SKITTLEBOMB_DESC": "Willkommen auf der Isle of Sgàil, 47. Das Ziel wurde als Kellner verkleidet in der Nähe der Festungsgalerie gesehen. Suchen Sie nach jemandem, der sich unpassend verhält. Und denken Sie daran, Chens Diktiergerät mitzunehmen.",
+			"UI_CONTRACT_SKITTLEBOMB_OBJ_1_TITLE": "Eliminieren Sie Jimmy Chen"
+		},
+		"es": {
+			"MAGPIE_SKITTLEBOMB_ELUSIVETARGET_THESTOWAWAY_M_PRO144355_NAME_0808D791-D0BA-4C71-880F-A31C88AD69D9": "Jimmy Chen",
+			"MAGPIE_SKITTLEBOMB_ELUSIVETARGET_THESTOWAWAY_M_PRO144355_DESCRIPTION_0808D791-D0BA-4C71-880F-A31C88AD69D9": "Jimmy Chen siempre quiso ser actor. Por desgracia para él, carecía de talento para dicha profesión.<br><br>Tras años de rechazos, se presentó a las audiciones de un «reality show» de Hong Kong. Su actuación fue tan patética que se convirtió en todo un fenómeno en Internet. Chen, que es un oportunista, aprovechó la coyuntura y se convirtió en toda una estrella de Internet gracias a sus reportajes sobre famosos, donde hacía gala de su desdén y mala leche. Al final, resultó que su mayor talento era acosar y burlarse de la gente que había pisoteado sus sueños. Aunque su programa fue un gran éxito comercial, su corazón seguía hambriento de respeto y reconocimiento. Por eso mismo, decidió convertirse en periodista de verdad y no duda en usar métodos cuestionables con tal de alcanzar sus objetivos. <br><br>Mientras investigaba una noticia, a Chen le confiaron pruebas irrefutables de que una compañía farmacéutica estaba ocultando información importante sobre unos antidepresivos. En vez de advertir al público, Chen esperó un año, hasta que una oleada de suicidios le dio el contexto sensacionalista que necesitaba.<br><br>El cliente, un adinerado arquitecto de Hong Kong, quiere ajustar cuentas con el objetivo, ya que perdió a su hermana pequeña por culpa de la cínica espera de Chen.",
+			"UI_CONTRACT_SKITTLEBOMB_OBJ_2_TITLE": "Recupera el dictáfono",
+			"UI_CONTRACT_SKITTLEBOMB_OBJ_2_DESC": "Recupera el dictáfono de Jimmy Chen",
+			"UI_CONTRACT_SKITTLEBOMB_TITLE": "El polizón",
+			"UI_CONTRACT_SKITTLEBOMB_DESC": "Bienvenido a la isla de Sgàil, 47. El objetivo ha sido visto cerca de la galería de la fortaleza. Va vestido de camarero. Busca a alguien que se comporte de forma extraña. No te olvides de conseguir el dictáfono de Chen.",
+			"UI_CONTRACT_SKITTLEBOMB_OBJ_1_TITLE": "Elimina a Jimmy Chen"
+		}
+	}
+}

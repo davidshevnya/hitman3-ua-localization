@@ -1,0 +1,36 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00C69AEAE4A349AB",
+	"languages": {
+		"xx": {
+			"47E7C863": "PH_Headline",
+			"50755A54": "PH_BodyText",
+			"1B4D3804": "PH_HintBody"
+		},
+		"en": {
+			"47E7C863": "Save and Load",
+			"50755A54": "The game autosaves during gameplay.<BR>You can manually save and load from the menu.",
+			"1B4D3804": "The game autosaves during gameplay.<BR>You can manually save and load from the menu. Press {START} to enter the menu."
+		},
+		"fr": {
+			"47E7C863": "Sauvegarder et charger",
+			"50755A54": "Le jeu sauvegardera automatiquement durant la partie.<br>Vous pouvez sauvegarder et charger manuellement à partir du menu.",
+			"1B4D3804": "Le jeu sauvegardera automatiquement durant la partie.<br>Vous pouvez sauvegarder et charger manuellement à partir du menu. Appuyez sur {START} pour ouvrir le menu."
+		},
+		"it": {
+			"47E7C863": "Salvare e caricare",
+			"50755A54": "Il gioco salva automaticamente durante la partita.<BR>Puoi salvare e caricare manualmente dal menu.",
+			"1B4D3804": "Il gioco salva automaticamente durante la partita.<BR>Puoi salvare e caricare manualmente dal menu. Premi {START} per accedere al menu."
+		},
+		"de": {
+			"47E7C863": "Speichern und laden",
+			"50755A54": "Das Spiel speichert automatisch.<BR>Sie können im Menü manuell speichern und laden.",
+			"1B4D3804": "Das Spiel speichert automatisch.<BR>Sie können im Menü manuell speichern und laden. Drücken Sie {START}, um das Menü aufzurufen."
+		},
+		"es": {
+			"47E7C863": "Guardar y cargar",
+			"50755A54": "El juego se guardará automáticamente durante la partida.<BR>Puedes cargar y guardar manualmente desde el menú.",
+			"1B4D3804": "El juego se guardará automáticamente durante la partida.<BR>Puedes cargar y guardar manualmente desde el menú. Pulsa {START} para acceder al menú."
+		}
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/menutext_s3_ancestral.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"B0D1932D": "Ancestral",
+			"B314C2EB": "Ancestral Country",
+			"UI_LOCATION_ANCESTRAL_BULLDOG_COUNTRY": "Ancestral Country",
+			"UI_LOCATION_PARENT_ANCESTRAL_NAME": "Ancestral, Ancestral Country",
+			"UI_LOCATION_ANCESTRAL_BULLDOG_CITY": "Ancestral",
+			"UI_LOCATION_ANCESTRAL_BULLDOG_TITLE": "Ancestral Bulldog"
+		},
+		"en": {
+			"B0D1932D": "Dartmoor",
+			"B314C2EB": "England",
+			"UI_LOCATION_ANCESTRAL_BULLDOG_COUNTRY": "England",
+			"UI_LOCATION_PARENT_ANCESTRAL_NAME": "Dartmoor, England",
+			"UI_LOCATION_ANCESTRAL_BULLDOG_CITY": "Dartmoor",
+			"UI_LOCATION_ANCESTRAL_BULLDOG_TITLE": "Death In The Family"
+		},
+		"fr": {
+			"B0D1932D": "Dartmoor",
+			"B314C2EB": "Angleterre",
+			"UI_LOCATION_ANCESTRAL_BULLDOG_COUNTRY": "Angleterre",
+			"UI_LOCATION_PARENT_ANCESTRAL_NAME": "Dartmoor, Angleterre",
+			"UI_LOCATION_ANCESTRAL_BULLDOG_CITY": "Dartmoor",
+			"UI_LOCATION_ANCESTRAL_BULLDOG_TITLE": "Mort dans la famille"
+		},
+		"it": {
+			"B0D1932D": "Dartmoor",
+			"B314C2EB": "Inghilterra",
+			"UI_LOCATION_ANCESTRAL_BULLDOG_COUNTRY": "Inghilterra",
+			"UI_LOCATION_PARENT_ANCESTRAL_NAME": "Dartmoor, Inghilterra",
+			"UI_LOCATION_ANCESTRAL_BULLDOG_CITY": "Dartmoor",
+			"UI_LOCATION_ANCESTRAL_BULLDOG_TITLE": "Lutto in famiglia"
+		},
+		"de": {
+			"B0D1932D": "Dartmoor",
+			"B314C2EB": "England",
+			"UI_LOCATION_ANCESTRAL_BULLDOG_COUNTRY": "England",
+			"UI_LOCATION_PARENT_ANCESTRAL_NAME": "Dartmoor, England",
+			"UI_LOCATION_ANCESTRAL_BULLDOG_CITY": "Dartmoor",
+			"UI_LOCATION_ANCESTRAL_BULLDOG_TITLE": "Todesfall in der Familie"
+		},
+		"es": {
+			"B0D1932D": "Dartmoor",
+			"B314C2EB": "Inglaterra",
+			"UI_LOCATION_ANCESTRAL_BULLDOG_COUNTRY": "Inglaterra",
+			"UI_LOCATION_PARENT_ANCESTRAL_NAME": "Dartmoor, Inglaterra",
+			"UI_LOCATION_ANCESTRAL_BULLDOG_CITY": "Dartmoor",
+			"UI_LOCATION_ANCESTRAL_BULLDOG_TITLE": "Muerte en la familia"
+		}
+	}
+}

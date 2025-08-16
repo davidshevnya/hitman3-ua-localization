@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0073684F5C4DBD71",
+	"languages": {
+		"xx": {
+			"8DD0798E": "Name",
+			"CF2816EB": "Flavor",
+			"7FF1642D": "Description",
+			"B67FA6F6": "Conclusion",
+			"322DFC4A": "Step 1",
+			"EEA2823D": "Step 2"
+		},
+		"en": {
+			"8DD0798E": "Open Sesame",
+			"CF2816EB": "The school’s old headmaster key still exists. Should be useful.",
+			"7FF1642D": "The old headmaster, of the school Zaydan is using as his field HQ, lives right above the carpet shop. According to his son, he kept the school’s master key, out of nostalgia. Supposedly this opens any lock in the building.",
+			"B67FA6F6": "There. So much for breaking and entering.",
+			"322DFC4A": "Steal the headmaster's key",
+			"EEA2823D": "Get to the school"
+		},
+		"fr": {
+			"8DD0798E": "Sésame, ouvre-toi !",
+			"CF2816EB": "Les clés de l'ancien directeur de l'école se trouvent encore quelque part. Tant mieux !",
+			"7FF1642D": "L'ancien directeur de l'école que Zaydan utilise comme QG habite au-dessus de la boutique de tapis. D'après son fils, il a conservé les clés de l'école par nostalgie. C'est un passe-partout qui permet d'ouvrir toutes les portes du bâtiment.",
+			"B67FA6F6": "Bien joué. Vous êtes un as de l'effraction, 47.",
+			"322DFC4A": "Volez la clé du directeur",
+			"EEA2823D": "Dirigez-vous vers l'école"
+		},
+		"it": {
+			"8DD0798E": "Apriti sesamo",
+			"CF2816EB": "La chiave dell'ex preside della scuola esiste ancora. Potrebbe essere utile.",
+			"7FF1642D": "Il vecchio preside della scuola in cui Zaydan ha allestito il suo quartier generale vive sopra il negozio di tappeti. Secondo il figlio, ha conservato il passepartout della scuola per motivi nostalgici. A quanto pare, apre ogni serratura dell'edificio.",
+			"B67FA6F6": "Molto bene. Non servirà scassinare.",
+			"322DFC4A": "Ruba la chiave del preside",
+			"EEA2823D": "Raggiungi la scuola"
+		},
+		"de": {
+			"8DD0798E": "Sesam öffne dich",
+			"CF2816EB": "Der Generalschlüssel des ehemaligen Direktors für die Schule existiert noch. Könnte nützlich sein.",
+			"7FF1642D": "Der ehemalige Direktor der Schule, die Zaydan als Hauptquartier nutzt, wohnt über dem Teppichgeschäft. Laut seines Sohns hat er den Generalschlüssel der Schule als Erinnerungsstück behalten. Dieser Schlüssel öffnet vermutlich sämtliche Schlösser der Schule.",
+			"B67FA6F6": "Damit dürfte die Zeit der Einbrüche erst mal vorbei sein.",
+			"322DFC4A": "Stehlen Sie den Generalschlüssel der Schule",
+			"EEA2823D": "Erreichen Sie die Schule"
+		},
+		"es": {
+			"8DD0798E": "Ábrete, Sésamo",
+			"CF2816EB": "La llave del antiguo director de la escuela aún existe. Podría ser útil.",
+			"7FF1642D": "El antiguo director de la escuela que Zaydan está utilizando como base vive justo encima de la tienda de alfombras. Según su hijo, se quedó con la llave maestra de la escuela como recuerdo. Supuestamente, abre cualquier cerradura del edificio.",
+			"B67FA6F6": "Eso es. Menudo allanamiento de morada.",
+			"322DFC4A": "Roba la llave maestra del director",
+			"EEA2823D": "Dirígite a la escuela"
+		}
+	}
+}

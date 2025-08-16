@@ -1,0 +1,36 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "005941197F715998",
+	"languages": {
+		"xx": {
+			"F2137B62": "PH_Threats",
+			"3EC9C7E8": "PH_ThreatBody",
+			"609120EB": "PH_GotIt"
+		},
+		"en": {
+			"F2137B62": "Enforcers",
+			"3EC9C7E8": "People marked with the threat icon will find you suspicious. Make sure they do not spot you.",
+			"609120EB": "Understood"
+		},
+		"fr": {
+			"F2137B62": "Agents",
+			"3EC9C7E8": "Les personnes signalées par l'icône \"Menace\" vous trouveront suspect. Faites en sorte qu'elles ne vous repèrent pas.",
+			"609120EB": "Compris"
+		},
+		"it": {
+			"F2137B62": "Sorveglianti",
+			"3EC9C7E8": "Le persone segnalate come \"minacce\" sospetteranno di te. Assicurati che non ti vedano.",
+			"609120EB": "OK"
+		},
+		"de": {
+			"F2137B62": "Aufpasser",
+			"3EC9C7E8": "Personen, die mit dem Bedrohungssymbol markiert sind, werden Sie verdächtig finden. Achten Sie darauf, nicht von ihnen gesehen zu werden.",
+			"609120EB": "Verstanden"
+		},
+		"es": {
+			"F2137B62": "Detectores",
+			"3EC9C7E8": "Las personas marcadas como amenazas sospecharán de ti. Asegúrate de que no te vean.",
+			"609120EB": "Entendido"
+		}
+	}
+}

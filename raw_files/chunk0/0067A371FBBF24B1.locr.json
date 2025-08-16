@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0067A371FBBF24B1",
+	"languages": {
+		"xx": {
+			"UI_GAMECHANGERS_MUMBAI_HOT_DISGUISES_DESC": "Dancer, queens guard, and thug disguise can be worn once, and for 60 seconds only. Laundry Worker disguise can be worn once.only. Textile Worker disguise can be worn once.",
+			"UI_GAMECHANGERS_MUMBAI_DO_NOT_HARM_KASHMIRIAN_DESC": "Do not pacify or eliminate the Kashmirian",
+			"UI_GAMECHANGERS_MUMBAI_DO_NOT_HARM_KASHMIRIAN_NAME": "The Kashmirian",
+			"UI_GAMECHANGERS_MUMBAI_REINFORCED_CONTAINER_NAME": "Reinforced",
+			"UI_GAMECHANGERS_MUMBAI_REINFORCED_CONTAINER_DESC": "Certain containers in the construction site are now reinforced",
+			"BFFEEDA9": "Encased",
+			"EA683FFB": "Dump all targets in the cement pits around the construction site",
+			"BE5BF5EA": "No Throwing",
+			"EBCD27B8": "Any takedowns or eliminations performed by throwing an item or weapon will cause the mission to fail.",
+			"01BD3CB6": "Tour guide",
+			"542BEEE4": "Do not pacify or kill the tour guide"
+		},
+		"en": {
+			"UI_GAMECHANGERS_MUMBAI_HOT_DISGUISES_DESC": "Dancer, queen's guard, and thug disguise can be worn once, and for 60 seconds only. Laundry Worker disguise can be worn only once. Textile Worker disguise can be worn only once.",
+			"UI_GAMECHANGERS_MUMBAI_DO_NOT_HARM_KASHMIRIAN_DESC": "Do not pacify or eliminate the Kashmirian.",
+			"UI_GAMECHANGERS_MUMBAI_DO_NOT_HARM_KASHMIRIAN_NAME": "The Kashmirian",
+			"UI_GAMECHANGERS_MUMBAI_REINFORCED_CONTAINER_NAME": "Reinforced",
+			"UI_GAMECHANGERS_MUMBAI_REINFORCED_CONTAINER_DESC": "Certain containers in the construction site are now reinforced.",
+			"BFFEEDA9": "Encased",
+			"EA683FFB": "Dump all targets into the cement pits.",
+			"BE5BF5EA": "No Throwing",
+			"EBCD27B8": "Any takedowns or eliminations performed by throwing an item or weapon will cause the mission to fail.",
+			"01BD3CB6": "Tour guide",
+			"542BEEE4": "Do not pacify or kill the tour guide"
+		},
+		"fr": {
+			"UI_GAMECHANGERS_MUMBAI_HOT_DISGUISES_DESC": "Les tenues de danseur, garde de la reine et malfrat ne peuvent être portées qu'une fois, et pendant 60 secondes uniquement. Les tenues de blanchisseur et d'ouvrier textile ne peuvent être portées qu'une fois.",
+			"UI_GAMECHANGERS_MUMBAI_DO_NOT_HARM_KASHMIRIAN_DESC": "Ne neutralisez ou n'éliminez pas le Cachemiri.",
+			"UI_GAMECHANGERS_MUMBAI_DO_NOT_HARM_KASHMIRIAN_NAME": "Le Cachemiri",
+			"UI_GAMECHANGERS_MUMBAI_REINFORCED_CONTAINER_NAME": "Renforcé",
+			"UI_GAMECHANGERS_MUMBAI_REINFORCED_CONTAINER_DESC": "Certains conteneurs du chantier sont maintenant renforcés.",
+			"BFFEEDA9": "Gros œuvre",
+			"EA683FFB": "Jetez toutes les cibles dans les fosses à ciment.",
+			"BE5BF5EA": "Lancers interdits",
+			"EBCD27B8": "La mission échoue instantanément si vous neutralisez ou éliminez quelqu'un en lui lançant un objet ou une arme.",
+			"01BD3CB6": "Guide touristique",
+			"542BEEE4": "Ne neutralisez ou n'éliminez pas le guide touristique"
+		},
+		"it": {
+			"UI_GAMECHANGERS_MUMBAI_HOT_DISGUISES_DESC": "I travestimenti da membro del corpo di ballo, guardia della regina e criminale possono essere indossati solamente una volta e per un massimo di 60 secondi. Il travestimento da lavandaio può essere indossato solamente una volta. Il travestimento da operaio tessile può essere indossato una volta.",
+			"UI_GAMECHANGERS_MUMBAI_DO_NOT_HARM_KASHMIRIAN_DESC": "Non neutralizzare o eliminare il Kashmiro.",
+			"UI_GAMECHANGERS_MUMBAI_DO_NOT_HARM_KASHMIRIAN_NAME": "Il Kashmiro",
+			"UI_GAMECHANGERS_MUMBAI_REINFORCED_CONTAINER_NAME": "Rinforzato",
+			"UI_GAMECHANGERS_MUMBAI_REINFORCED_CONTAINER_DESC": "Alcuni contenitori nel cantiere ora sono rinforzati.",
+			"BFFEEDA9": "Ricoperto",
+			"EA683FFB": "Getta tutti i bersagli nelle buche di cemento.",
+			"BE5BF5EA": "Nessun lancio",
+			"EBCD27B8": "Qualsiasi attacco o eliminazione eseguita lanciando un oggetto o un'arma causerà il fallimento della missione.",
+			"01BD3CB6": "Guida turistica",
+			"542BEEE4": "Non neutralizzare o eliminare la guida turistica"
+		},
+		"de": {
+			"UI_GAMECHANGERS_MUMBAI_HOT_DISGUISES_DESC": "Tänzer-, Leibwache- und Schläger-Verkleidung können nur einmal und immer nur 60 Sekunden lang getragen werden. Die Wäscherei-Mitarbeiter-Verkleidung kann nur einmal getragen werden. Die Textilarbeiter-Verkleidung kann nur einmal getragen werden.",
+			"UI_GAMECHANGERS_MUMBAI_DO_NOT_HARM_KASHMIRIAN_DESC": "Sie dürfen den Kaschmiri weder ruhigstellen noch eliminieren.",
+			"UI_GAMECHANGERS_MUMBAI_DO_NOT_HARM_KASHMIRIAN_NAME": "Der Kaschmiri",
+			"UI_GAMECHANGERS_MUMBAI_REINFORCED_CONTAINER_NAME": "Verstärkt",
+			"UI_GAMECHANGERS_MUMBAI_REINFORCED_CONTAINER_DESC": "Bestimmte Container auf der Baustelle sind jetzt verstärkt.",
+			"BFFEEDA9": "Eingegossen",
+			"EA683FFB": "Beseitigen Sie alle Ziele in der Zementgrube.",
+			"BE5BF5EA": "Werfen verboten",
+			"EBCD27B8": "Ein Ausschalten oder Eliminieren durch einen geworfenen Gegenstand lässt die Mission scheitern.",
+			"01BD3CB6": "Stadtführer",
+			"542BEEE4": "Stellen Sie den Stadtführer weder ruhig noch töten Sie ihn."
+		},
+		"es": {
+			"UI_GAMECHANGERS_MUMBAI_HOT_DISGUISES_DESC": "Los disfraces de bailarín, guardia de la reina y matón pueden usarse solo una vez y tan solo durante 60 segundos. El disfraz de trabajador de la lavandería tan solo se puede usar una vez. El disfraz de trabajador del textil se puede usar una vez.",
+			"UI_GAMECHANGERS_MUMBAI_DO_NOT_HARM_KASHMIRIAN_DESC": "No elimines ni dejes inconsciente al Cachemir.",
+			"UI_GAMECHANGERS_MUMBAI_DO_NOT_HARM_KASHMIRIAN_NAME": "El Cachemir",
+			"UI_GAMECHANGERS_MUMBAI_REINFORCED_CONTAINER_NAME": "Reforzada",
+			"UI_GAMECHANGERS_MUMBAI_REINFORCED_CONTAINER_DESC": "Algunos contenedores de la obra están ahora reforzados.",
+			"BFFEEDA9": "Recubiertos",
+			"EA683FFB": "Tira a todos los objetivos al foso de cemento.",
+			"BE5BF5EA": "Sin lanzamientos",
+			"EBCD27B8": "La misión fracasará si derribas o eliminas con armas u objetos arrojadizos.",
+			"01BD3CB6": "Guía turístico",
+			"542BEEE4": "No mates ni dejes inconsciente al guía turístico."
+		}
+	}
+}

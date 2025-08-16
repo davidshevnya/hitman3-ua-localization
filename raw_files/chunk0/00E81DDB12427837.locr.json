@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00E81DDB12427837",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_ZINNIA_GROUP_TITLE": "The Calvino Cacaphony",
+			"UI_CONTRACT_ZINNIA_GROUP_DESC": "Three Level Escalation in Colombia",
+			"UI_CONTRACT_ZINNIA_LEVEL_1_TITLE": "The Calvino Cacaphony - Level 1",
+			"UI_CONTRACT_ZINNIA_LEVEL_2_TITLE": "The Calvino Cacaphony - Level 2",
+			"UI_CONTRACT_ZINNIA_LEVEL_3_TITLE": "The Calvino Cacaphony - Level 3",
+			"UI_CONTRACT_ZINNIA_OBJ_1": "Eliminate Liberto Velásquez Linares with an explosion",
+			"UI_CONTRACT_ZINNIA_OBJ_2": "Eliminate Ananías Ayala Centeno with an explosion",
+			"UI_CONTRACT_ZINNIA_OBJ_3": "Eliminate Raul Covas Ibarra with an explosion",
+			"UI_CONTRACT_ZINNIA_OBJ_4": "Eliminate Pablo Benítez Farías with an explosion",
+			"UI_CONTRACT_ZINNIA_OBJ_5": "Eliminate Whoukr Serre with an explosion",
+			"UI_CONTRACT_ZINNIA_OBJ_6": "Eliminate the Band with an explosion"
+		},
+		"en": {
+			"UI_CONTRACT_ZINNIA_GROUP_TITLE": "The Calvino Cacophony",
+			"UI_CONTRACT_ZINNIA_GROUP_DESC": "Three Level Escalation in Colombia.",
+			"UI_CONTRACT_ZINNIA_LEVEL_1_TITLE": "The Calvino Cacophony - Level 1",
+			"UI_CONTRACT_ZINNIA_LEVEL_2_TITLE": "The Calvino Cacophony - Level 2",
+			"UI_CONTRACT_ZINNIA_LEVEL_3_TITLE": "The Calvino Cacophony - Level 3",
+			"UI_CONTRACT_ZINNIA_OBJ_1": "Eliminate Liberto Velásquez Linares with an explosion",
+			"UI_CONTRACT_ZINNIA_OBJ_2": "Eliminate Ananías Ayala Centeno with an explosion",
+			"UI_CONTRACT_ZINNIA_OBJ_3": "Eliminate Raul Covas Ibarra with an explosion",
+			"UI_CONTRACT_ZINNIA_OBJ_4": "Eliminate Pablo Benítez Farías with an explosion",
+			"UI_CONTRACT_ZINNIA_OBJ_5": "Eliminate Whoukr Serre with an explosion",
+			"UI_CONTRACT_ZINNIA_OBJ_6": "Eliminate the Band with an explosion"
+		},
+		"fr": {
+			"UI_CONTRACT_ZINNIA_GROUP_TITLE": "La cacophonie de Calvino",
+			"UI_CONTRACT_ZINNIA_GROUP_DESC": "Escalade en trois niveaux en Colombie",
+			"UI_CONTRACT_ZINNIA_LEVEL_1_TITLE": "La cacophonie de Calvino - Niveau 1",
+			"UI_CONTRACT_ZINNIA_LEVEL_2_TITLE": "La cacophonie de Calvino - Niveau 2",
+			"UI_CONTRACT_ZINNIA_LEVEL_3_TITLE": "La cacophonie de Calvino - Niveau 3",
+			"UI_CONTRACT_ZINNIA_OBJ_1": "Éliminez Liberto Velásquez Linares dans une explosion",
+			"UI_CONTRACT_ZINNIA_OBJ_2": "Éliminez Ananías Ayala Centeno dans une explosion",
+			"UI_CONTRACT_ZINNIA_OBJ_3": "Éliminez Raul Covas Ibarra dans une explosion",
+			"UI_CONTRACT_ZINNIA_OBJ_4": "Éliminez Pablo Benítez Farías dans une explosion",
+			"UI_CONTRACT_ZINNIA_OBJ_5": "Éliminez Whoukr Serre dans une explosion",
+			"UI_CONTRACT_ZINNIA_OBJ_6": "Éliminez le groupe dans une explosion"
+		},
+		"it": {
+			"UI_CONTRACT_ZINNIA_GROUP_TITLE": "La cacofonia di Calvino",
+			"UI_CONTRACT_ZINNIA_GROUP_DESC": "Escalation di tre livelli in Colombia",
+			"UI_CONTRACT_ZINNIA_LEVEL_1_TITLE": "La cacofonia di Calvino - Livello 1",
+			"UI_CONTRACT_ZINNIA_LEVEL_2_TITLE": "La cacofonia di Calvino - Livello 2",
+			"UI_CONTRACT_ZINNIA_LEVEL_3_TITLE": "La cacofonia di Calvino - Livello 3",
+			"UI_CONTRACT_ZINNIA_OBJ_1": "Elimina Liberto Velásquez Linares con un'esplosione",
+			"UI_CONTRACT_ZINNIA_OBJ_2": "Elimina Ananías Ayala Centeno con un'esplosione",
+			"UI_CONTRACT_ZINNIA_OBJ_3": "Elimina Raul Covas Ibarra con un'esplosione",
+			"UI_CONTRACT_ZINNIA_OBJ_4": "Elimina Pablo Benítez Farías con un'esplosione",
+			"UI_CONTRACT_ZINNIA_OBJ_5": "Elimina Whoukr Serre con un'esplosione",
+			"UI_CONTRACT_ZINNIA_OBJ_6": "Elimina la banda con un'esplosione"
+		},
+		"de": {
+			"UI_CONTRACT_ZINNIA_GROUP_TITLE": "Die Calvino-Kakofonie",
+			"UI_CONTRACT_ZINNIA_GROUP_DESC": "Drei-Stufen-Eskalation in Kolumbien.",
+			"UI_CONTRACT_ZINNIA_LEVEL_1_TITLE": "Die Calvino-Kakofonie – Stufe 1",
+			"UI_CONTRACT_ZINNIA_LEVEL_2_TITLE": "Die Calvino-Kakofonie – Stufe 2",
+			"UI_CONTRACT_ZINNIA_LEVEL_3_TITLE": "Die Calvino-Kakofonie – Stufe 3",
+			"UI_CONTRACT_ZINNIA_OBJ_1": "Eliminieren Sie Liberto Velásquez Linares mit einer Explosion",
+			"UI_CONTRACT_ZINNIA_OBJ_2": "Eliminieren Sie Ananías Ayala Centeno mit einer Explosion",
+			"UI_CONTRACT_ZINNIA_OBJ_3": "Eliminieren Sie Raul Covas Ibarra mit einer Explosion",
+			"UI_CONTRACT_ZINNIA_OBJ_4": "Eliminieren Sie Pablo Benítez Farías mit einer Explosion",
+			"UI_CONTRACT_ZINNIA_OBJ_5": "Eliminieren Sie Whoukr Serre mit einer Explosion",
+			"UI_CONTRACT_ZINNIA_OBJ_6": "Eliminieren Sie die Band mit einer Explosion."
+		},
+		"es": {
+			"UI_CONTRACT_ZINNIA_GROUP_TITLE": "La cacofonía de Calvino",
+			"UI_CONTRACT_ZINNIA_GROUP_DESC": "Intensificación de tres niveles en Colombia",
+			"UI_CONTRACT_ZINNIA_LEVEL_1_TITLE": "La cacofonía de Calvino - Nivel 1",
+			"UI_CONTRACT_ZINNIA_LEVEL_2_TITLE": "La cacofonía de Calvino - Nivel 2",
+			"UI_CONTRACT_ZINNIA_LEVEL_3_TITLE": "La cacofonía de Calvino - Nivel 3",
+			"UI_CONTRACT_ZINNIA_OBJ_1": "Elimina a Liberto Velásquez con una explosión",
+			"UI_CONTRACT_ZINNIA_OBJ_2": "Elimina a Ananías Ayala Centeno con una explosión",
+			"UI_CONTRACT_ZINNIA_OBJ_3": "Elimina a Raul Covas Ibarra con una explosión",
+			"UI_CONTRACT_ZINNIA_OBJ_4": "Elimina a Pablo Benítez Farías con una explosión",
+			"UI_CONTRACT_ZINNIA_OBJ_5": "Elimina a Whoukr Serre con una explosión",
+			"UI_CONTRACT_ZINNIA_OBJ_6": "Elimina a la banda con una explosión"
+		}
+	}
+}

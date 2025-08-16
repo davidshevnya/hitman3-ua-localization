@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00EBD88441714E9E",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_ASHOKA_GROUP_TITLE": "The Chameleon Anonymity",
+			"UI_CONTRACT_ASHOKA_GROUP_DESC": "Three Level Escalation on Mumbai",
+			"UI_CONTRACT_ASHOKA_LEVEL_1_TITLE": "The Chameleon Anonymity - Level 1",
+			"UI_CONTRACT_ASHOKA_LEVEL_2_TITLE": "The Chameleon Anonymity - Level 2",
+			"UI_CONTRACT_ASHOKA_LEVEL_3_TITLE": "The Chameleon Anonymity - Level 3",
+			"UI_CONTRACT_ASHOKA_OBJECTIVE_1": "Eliminate Rajender Sanjeev while disguised as dancer",
+			"UI_CONTRACT_ASHOKA_OBJECTIVE_2": "Eliminate Aditya Balakrishna while disguised as queens guard",
+			"UI_CONTRACT_ASHOKA_OBJECTIVE_3": "Eliminate Puran Prailebish while disguised as thug"
+		},
+		"en": {
+			"UI_CONTRACT_ASHOKA_GROUP_TITLE": "The Chameleon Anonymity",
+			"UI_CONTRACT_ASHOKA_GROUP_DESC": "Three Level Escalation in Mumbai.",
+			"UI_CONTRACT_ASHOKA_LEVEL_1_TITLE": "The Chameleon Anonymity - Level 1",
+			"UI_CONTRACT_ASHOKA_LEVEL_2_TITLE": "The Chameleon Anonymity - Level 2",
+			"UI_CONTRACT_ASHOKA_LEVEL_3_TITLE": "The Chameleon Anonymity - Level 3",
+			"UI_CONTRACT_ASHOKA_OBJECTIVE_1": "Eliminate Rajender Sanjeev while disguised as a dancer",
+			"UI_CONTRACT_ASHOKA_OBJECTIVE_2": "Eliminate Aditya Balakrishna while disguised as queen's guard",
+			"UI_CONTRACT_ASHOKA_OBJECTIVE_3": "Eliminate Puran Prailebish while disguised as a thug"
+		},
+		"fr": {
+			"UI_CONTRACT_ASHOKA_GROUP_TITLE": "L'anonymat du caméléon",
+			"UI_CONTRACT_ASHOKA_GROUP_DESC": "Escalade en trois niveaux à Bombay",
+			"UI_CONTRACT_ASHOKA_LEVEL_1_TITLE": "L'anonymat du caméléon - Niveau 1",
+			"UI_CONTRACT_ASHOKA_LEVEL_2_TITLE": "L'anonymat du caméléon - Niveau 2",
+			"UI_CONTRACT_ASHOKA_LEVEL_3_TITLE": "L'anonymat du caméléon - Niveau 3",
+			"UI_CONTRACT_ASHOKA_OBJECTIVE_1": "Éliminez Rajender Sanjeev déguisé en danseur.",
+			"UI_CONTRACT_ASHOKA_OBJECTIVE_2": "Éliminez Aditya Balakrishna déguisé en garde de la reine.",
+			"UI_CONTRACT_ASHOKA_OBJECTIVE_3": "Éliminez Puran Prailebish déguisé en malfrat."
+		},
+		"it": {
+			"UI_CONTRACT_ASHOKA_GROUP_TITLE": "L'anonimato del camaleonte",
+			"UI_CONTRACT_ASHOKA_GROUP_DESC": "Escalation di tre livelli a Mumbai",
+			"UI_CONTRACT_ASHOKA_LEVEL_1_TITLE": "L'anonimato del camaleonte - Livello 1",
+			"UI_CONTRACT_ASHOKA_LEVEL_2_TITLE": "L'anonimato del camaleonte - Livello 2",
+			"UI_CONTRACT_ASHOKA_LEVEL_3_TITLE": "L'anonimato del camaleonte - Livello 3",
+			"UI_CONTRACT_ASHOKA_OBJECTIVE_1": "Elimina Rajender Sanjeev mentre sei travestito da membro del corpo di ballo",
+			"UI_CONTRACT_ASHOKA_OBJECTIVE_2": "Elimina Aditya Balakrishna mentre sei travestito da guardia della regina",
+			"UI_CONTRACT_ASHOKA_OBJECTIVE_3": "Elimina Puran Prailebish mentre sei travestito da criminale"
+		},
+		"de": {
+			"UI_CONTRACT_ASHOKA_GROUP_TITLE": "Die Chamäleon-Anonymität",
+			"UI_CONTRACT_ASHOKA_GROUP_DESC": "Drei-Stufen-Eskalation in Mumbai.",
+			"UI_CONTRACT_ASHOKA_LEVEL_1_TITLE": "Die Chamäleon-Anonymität – Stufe 1",
+			"UI_CONTRACT_ASHOKA_LEVEL_2_TITLE": "Die Chamäleon-Anonymität – Stufe 2",
+			"UI_CONTRACT_ASHOKA_LEVEL_3_TITLE": "Die Chamäleon-Anonymität – Stufe 3",
+			"UI_CONTRACT_ASHOKA_OBJECTIVE_1": "Eliminieren Sie als Tänzer verkleidet Rajender Sanjeev.",
+			"UI_CONTRACT_ASHOKA_OBJECTIVE_2": "Eliminieren Sie als Leibwache verkleidet Aditya Balakrishna.",
+			"UI_CONTRACT_ASHOKA_OBJECTIVE_3": "Eliminieren Sie als Schläger verkleidet Puran Prailebish."
+		},
+		"es": {
+			"UI_CONTRACT_ASHOKA_GROUP_TITLE": "El anonimato del camaleón",
+			"UI_CONTRACT_ASHOKA_GROUP_DESC": "Intensificación de tres niveles en Bombay.",
+			"UI_CONTRACT_ASHOKA_LEVEL_1_TITLE": "El anonimato del camaleón - Nivel 1",
+			"UI_CONTRACT_ASHOKA_LEVEL_2_TITLE": "El anonimato del camaleón - Nivel 2",
+			"UI_CONTRACT_ASHOKA_LEVEL_3_TITLE": "El anonimato del camaleón - Nivel 3",
+			"UI_CONTRACT_ASHOKA_OBJECTIVE_1": "Elimina a Rajender Sanjeev mientras vas disfrazado de bailarín.",
+			"UI_CONTRACT_ASHOKA_OBJECTIVE_2": "Elimina a Aditya Balakrishna mientras vas disfrazado de guardia de la reina.",
+			"UI_CONTRACT_ASHOKA_OBJECTIVE_3": "Elimina a Puran Prailebish mientras vas disfrazado de matón."
+		}
+	}
+}

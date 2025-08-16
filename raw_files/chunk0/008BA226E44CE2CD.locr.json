@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "008BA226E44CE2CD",
+	"languages": {
+		"xx": {
+			"A30E2158": "Name",
+			"91CEB33B": "Flavor",
+			"CD23F1AC": "Description",
+			"8E23788E": "Conclusion",
+			"8E503598": "Step 1",
+			"BAC5F001": "Step 2",
+			"22486382": "Step 3",
+			"14DB8C90": "Step 4",
+			"80C3DCBB": "Step 5"
+		},
+		"en": {
+			"A30E2158": "Golden Touch",
+			"91CEB33B": "Strandberg has ordered a massage. Sounds like he could use a specialist.",
+			"CD23F1AC": "According to the appointment schedule, Claus Strandberg has booked a massage to relieve his back pains. No doubt all that time in prison has caused muscle stiffness. The masseur, who works at a local clinic, has apparently already checked into the building.",
+			"8E23788E": "Well done, 47. I will leave Strandberg in your capable hands.",
+			"8E503598": "Find the masseur",
+			"BAC5F001": "Disguise yourself as the Masseur",
+			"22486382": "Talk to the receptionist",
+			"14DB8C90": "Meet up with Strandberg in the massage room",
+			"80C3DCBB": "Wait for Strandberg to arrive"
+		},
+		"fr": {
+			"A30E2158": "Du doigté",
+			"91CEB33B": "Strandberg a demandé un massage. Envoyons-lui un spécialiste.",
+			"CD23F1AC": "Selon le planning des rendez-vous, Claus Strandberg a demandé un massage pour soulager ses douleurs lombaires. Son séjour en prison a dû provoquer quelques raideurs musculaires. Le masseur, envoyé par une clinique locale, se trouve apparemment déjà dans le bâtiment.",
+			"8E23788E": "Bien joué, 47. Je vais à présent laisser Strandberg entre vos mains expertes.",
+			"8E503598": "Trouvez le masseur",
+			"BAC5F001": "Déguisez-vous en masseur",
+			"22486382": "Parlez à la réceptionniste",
+			"14DB8C90": "Retrouvez Strandberg dans la salle de massage",
+			"80C3DCBB": "Attendez que Strandberg arrive"
+		},
+		"it": {
+			"A30E2158": "Mani di fata",
+			"91CEB33B": "Strandberg ha chiesto un massaggio. Gli servirà uno specialista.",
+			"CD23F1AC": "Secondo l'agenda degli appuntamenti, Claus Strandberg ha prenotato un massaggio per alleviare il suo mal di schiena. La lunga permanenza in cella deve avergli causato una contrattura. Sembra che il massaggiatore di una clinica locale si trovi già nell'edificio.",
+			"8E23788E": "Molto bene, 47. Lascerò Strandberg... nelle tue sapienti mani.",
+			"8E503598": "Trova il massaggiatore",
+			"BAC5F001": "Travestiti da massaggiatore",
+			"22486382": "Parla con la receptionist",
+			"14DB8C90": "Incontrati con Strandberg nella sala dei massaggi",
+			"80C3DCBB": "Aspetta che Strandberg arrivi"
+		},
+		"de": {
+			"A30E2158": "Goldene Hände",
+			"91CEB33B": "Strandberg hat eine Massage gebucht. Klingt, als könnte er einen Spezialisten gebrauchen.",
+			"CD23F1AC": "Laut Gästeliste hat Claus Strandberg eine Massage zur Linderung seiner Nackenschmerzen gebucht. Offenbar leidet er angesichts seiner Gefangenschaft unter Verspannungen. Der Masseur einer örtlichen Klinik ist bereits im Gebäude eingetroffen.",
+			"8E23788E": "Gute Arbeit, 47. Ich überlasse Strandberg jetzt Ihren ... fähigen Händen.",
+			"8E503598": "Finden Sie den Masseur",
+			"BAC5F001": "Verkleiden Sie sich als Masseur",
+			"22486382": "Sprechen Sie mit der Rezeptionistin",
+			"14DB8C90": "Treffen sie sich mit Strandberg im Massageraum",
+			"80C3DCBB": "Warten Sie auf Strandberg"
+		},
+		"es": {
+			"A30E2158": "Toque de oro",
+			"91CEB33B": "Strandberg ha pedido un masaje. Parece que le vendría bien un especialista.",
+			"CD23F1AC": "Según la agenda de citas, Claus Strandberg ha reservado un masaje para calmar sus dolores de espalda. Sin duda, todo ese tiempo en prisión ha provocado rigidez en sus músculos. Por lo visto, el masajista que trabaja en la clínica local ya ha entrado en el edificio.",
+			"8E23788E": "Bien hecho, 47. Dejaré a Strandberg en... buenas manos.",
+			"8E503598": "Encuentra al masajista",
+			"BAC5F001": "Disfrázate como el masajista",
+			"22486382": "Habla con la recepcionista",
+			"14DB8C90": "Reúnete con Strandberg en la sala de masajes",
+			"80C3DCBB": "Espera a que Strandberg llegue"
+		}
+	}
+}

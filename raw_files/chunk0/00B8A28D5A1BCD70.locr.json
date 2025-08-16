@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/menutext_s3_edgy.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"CD7E533E": "Edgy",
+			"20E7B688": "Edgy Country",
+			"UI_LOCATION_EDGY_FOX_COUNTRY": "Edgy Country",
+			"UI_LOCATION_EDGY_FOX_TITLE": "Edgy Fox",
+			"UI_LOCATION_PARENT_EDGY_NAME": "Edgy, Edgy Country",
+			"UI_LOCATION_EDGY_FOX_CITY": "Edgy"
+		},
+		"en": {
+			"CD7E533E": "Berlin",
+			"20E7B688": "Germany",
+			"UI_LOCATION_EDGY_FOX_COUNTRY": "Germany",
+			"UI_LOCATION_EDGY_FOX_TITLE": "Apex Predator",
+			"UI_LOCATION_PARENT_EDGY_NAME": "Berlin, Germany",
+			"UI_LOCATION_EDGY_FOX_CITY": "Berlin"
+		},
+		"fr": {
+			"CD7E533E": "Berlin",
+			"20E7B688": "Allemagne",
+			"UI_LOCATION_EDGY_FOX_COUNTRY": "Allemagne",
+			"UI_LOCATION_EDGY_FOX_TITLE": "Prédateur perché",
+			"UI_LOCATION_PARENT_EDGY_NAME": "Berlin, Allemagne",
+			"UI_LOCATION_EDGY_FOX_CITY": "Berlin"
+		},
+		"it": {
+			"CD7E533E": "Berlino",
+			"20E7B688": "Germania",
+			"UI_LOCATION_EDGY_FOX_COUNTRY": "Germania",
+			"UI_LOCATION_EDGY_FOX_TITLE": "Superpredatore",
+			"UI_LOCATION_PARENT_EDGY_NAME": "Berlino, Germania",
+			"UI_LOCATION_EDGY_FOX_CITY": "Berlino"
+		},
+		"de": {
+			"CD7E533E": "Berlin",
+			"20E7B688": "Deutschland",
+			"UI_LOCATION_EDGY_FOX_COUNTRY": "Deutschland",
+			"UI_LOCATION_EDGY_FOX_TITLE": "Am Ende der Nahrungskette",
+			"UI_LOCATION_PARENT_EDGY_NAME": "Berlin, Deutschland",
+			"UI_LOCATION_EDGY_FOX_CITY": "Berlin"
+		},
+		"es": {
+			"CD7E533E": "Berlín",
+			"20E7B688": "Alemania",
+			"UI_LOCATION_EDGY_FOX_COUNTRY": "Alemania",
+			"UI_LOCATION_EDGY_FOX_TITLE": "Superdepredador",
+			"UI_LOCATION_PARENT_EDGY_NAME": "Berlín, Alemania",
+			"UI_LOCATION_EDGY_FOX_CITY": "Berlín"
+		}
+	}
+}

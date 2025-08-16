@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0049F1AA4F75A663",
+	"languages": {
+		"xx": {
+			"3F762002": "Title",
+			"B3318D38": "Flavor",
+			"3ABF0EA9": "Description",
+			"2EA3B3A1": "Conclusion",
+			"D5E02C2E": "Get rid of the birds nesting in the graveyard",
+			"78E363BF": "Disguise yourself as the undertaker",
+			"8B978ED6": "Inform the staff member that you are ready for Alexa Carlisle",
+			"27834EAA": "Wait for Alexa Carlisle to arrive"
+		},
+		"en": {
+			"3F762002": "Her Final Resting Place",
+			"B3318D38": "Madam Carlisle is still going ahead with her staged funeral tomorrow, and she wants to inspect the arrangements. How about it, 47? You feel up to giving her the grand tour of her final resting place?",
+			"3ABF0EA9": "Present the funeral arrangements to Alexa Carlisle",
+			"2EA3B3A1": "Well done, 47. Carlisle is on her way. I wonder how she will like her final resting ground.",
+			"D5E02C2E": "Get rid of the birds nesting in the graveyard",
+			"78E363BF": "Disguise yourself as the undertaker",
+			"8B978ED6": "Inform the staff member that you are ready for Alexa Carlisle",
+			"27834EAA": "Wait for Alexa Carlisle to arrive"
+		},
+		"fr": {
+			"3F762002": "Sa dernière demeure",
+			"B3318D38": "Madame Carlisle compte toujours tenir ses obsèques truquées demain et veut s'assurer que tout se passera sans accroc. Qu'en dites-vous, 47 ? Vous pourriez en profiter pour lui faire visiter sa dernière demeure…",
+			"3ABF0EA9": "Faites le tour des préparatifs des funérailles avec Alexa Carlisle.",
+			"2EA3B3A1": "Excellent, 47. Alexa Carlisle arrive. Je me demande si elle aimera sa dernière demeure.",
+			"D5E02C2E": "Débarrassez-vous des oiseaux dans le cimetière",
+			"78E363BF": "Déguisez-vous en croque-mort",
+			"8B978ED6": "Prévenez le membre du personnel que vous êtes prêt pour Alexa Carlisle",
+			"27834EAA": "Attendez l'arrivée d'Alexa Carlisle"
+		},
+		"it": {
+			"3F762002": "Luogo dell'eterno riposo",
+			"B3318D38": "Madame Carlisle va ancora avanti con la messinscena del suo funerale di domani e vuole controllare i preparativi. Che ne dici, 47? Ti va di farle fare un bel giro del luogo del suo eterno riposo?",
+			"3ABF0EA9": "Presenta le disposizioni del funerale ad Alexa Carlisle.",
+			"2EA3B3A1": "Ben fatto, 47. Carlisle sta arrivando. Chissà se le piacerà il luogo del suo eterno riposo.",
+			"D5E02C2E": "Sbarazzati degli uccelli che nidificano nel cimitero",
+			"78E363BF": "Travestiti da becchino",
+			"8B978ED6": "Informa i membri dello staff che sei pronto per Alexa Carlisle.",
+			"27834EAA": "Aspetta che Alexa Carlisle arrivi"
+		},
+		"de": {
+			"3F762002": "Ihre letzte Ruhestätte",
+			"B3318D38": "Madam Carlisle will morgen immer noch ihre inszenierte Beerdigung durchführen, und sie will die Vorbereitungen dafür inspizieren. Wie wäre es, 47? Haben Sie Lust, ihr eine Führung ihrer letzten Ruhestätte zu geben?",
+			"3ABF0EA9": "Stellen Sie Alexa Carlisle die Beerdigungsvorbereitungen vor.",
+			"2EA3B3A1": "Gut gemacht, 47. Carlisle ist auf dem Weg. Ich frage mich, wie ihr ihre letzte Ruhestätte gefallen wird.",
+			"D5E02C2E": "Vertreiben Sie die Vögel, die auf dem Friedhof nisten",
+			"78E363BF": "Verkleiden Sie sich als Bestatter",
+			"8B978ED6": "Informieren Sie die Mitarbeiter, dass Sie bereit für Alexa Carlisle sind",
+			"27834EAA": "Warten Sie darauf, dass Alexa Carlisle eintrifft"
+		},
+		"es": {
+			"3F762002": "Descanso eterno",
+			"B3318D38": "La señora Carlisle va a seguir adelante con el funeral falso de mañana y quiere que supervises los preparativos. ¿Qué opinas, 47? ¿Te apetece hacerle una ruta por su lugar de descanso eterno?",
+			"3ABF0EA9": "Enséñale los arreglos funerarios a Alexa Carlisle.",
+			"2EA3B3A1": "Buen trabajo, 47. Carlisle está de camino. Me pregunto qué le parecerá su lugar de descanso eterno.",
+			"D5E02C2E": "Deshazte de los pájaros que han anidado en el cementerio",
+			"78E363BF": "Disfrázate de empleado de pompas fúnebres",
+			"8B978ED6": "Informa al personal de que ya estás listo para recibir a Alexa Carlisle",
+			"27834EAA": "Espera a que llegue Alexa Carlisle"
+		}
+	}
+}

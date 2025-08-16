@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00CDD5C2633400E8",
+	"languages": {
+		"xx": {
+			"16CEE4B4": "Homecoming",
+			"911A2345": "The Kashmirian is on the move again. He looks to be leaving his apartment, possible the chawl itself. I suggest following him to see where this will end.",
+			"05E3ABC0": "A Final Meeting?",
+			"DDE9559D": "Follow The Kashmirian",
+			"9F285FA1": "Disguise yourself as The Kashmirian",
+			"71901DC7": "Meet with The Kashmirian's escort",
+			"D4CF0E03": "Follow the escort",
+			"2914C8AD": "Meet with The Maelstrom"
+		},
+		"en": {
+			"16CEE4B4": "Homecoming",
+			"911A2345": "The Kashmirian is on the move again. He looks to be leaving his apartment, possible the chawl itself. I suggest following him to see where this will end.",
+			"05E3ABC0": "A final meeting?",
+			"DDE9559D": "Follow The Kashmirian",
+			"9F285FA1": "Disguise yourself as The Kashmirian",
+			"71901DC7": "Meet The Kashmirian's escort",
+			"D4CF0E03": "Follow the escort",
+			"2914C8AD": "Meet The Maelstrom"
+		},
+		"fr": {
+			"16CEE4B4": "Retour aux sources",
+			"911A2345": "Le Cachemiri s'est remis en mouvement. J'ai l'impression qu'il quitte son appartement, et peut-être le chawl. Vous devriez le suivre pour voir ce qu'il a en tête.",
+			"05E3ABC0": "Un dernier rendez-vous ?",
+			"DDE9559D": "Suivez le Cachemiri",
+			"9F285FA1": "Déguisez-vous en Cachemiri",
+			"71901DC7": "Rencontrez l'escorte du Cachemiri",
+			"D4CF0E03": "Suivez l'escorte",
+			"2914C8AD": "Rencontrez le Maelström"
+		},
+		"it": {
+			"16CEE4B4": "Ritorno a casa",
+			"911A2345": "Il Kashmiro si sta spostando di nuovo. Sembra che stia uscendo dall'appartamento, forse addirittura dall'edificio. Ti consiglio di seguirlo per scoprire dov'è diretto.",
+			"05E3ABC0": "Un ultimo incontro?",
+			"DDE9559D": "Segui il Kashmiro",
+			"9F285FA1": "Travestiti da Kashmiro",
+			"71901DC7": "Incontra la scorta del Kashmiro",
+			"D4CF0E03": "Segui la scorta",
+			"2914C8AD": "Incontra Maelstrom"
+		},
+		"de": {
+			"16CEE4B4": "Heimkehr",
+			"911A2345": "Der Kaschmiri ist wieder unterwegs. Offenbar verlässt er seine Wohnung und vielleicht sogar die Chawls. Ich würde vorschlagen, ihn bis zum Ende seines Wegs zu verfolgen.",
+			"05E3ABC0": "Ein letztes Treffen?",
+			"DDE9559D": "Folgen Sie dem Kaschmiri.",
+			"9F285FA1": "Verkleiden Sie sich als der Kaschmiri.",
+			"71901DC7": "Treffen Sie die Eskorte des Kaschmiri.",
+			"D4CF0E03": "Folgen Sie der Eskorte.",
+			"2914C8AD": "Treffen Sie den Maelstrom."
+		},
+		"es": {
+			"16CEE4B4": "Regreso a casa",
+			"911A2345": "El Cachemir se ha vuelto a poner en marcha. Parece que va a salir de su apartamento, puede que incluso del chawl. Te sugiero que lo sigas para ver adónde nos lleva todo esto.",
+			"05E3ABC0": "¿Una última reunión?",
+			"DDE9559D": "Sigue al Cachemir",
+			"9F285FA1": "Disfrázate del Cachemir",
+			"71901DC7": "Reúnete con el escolta del Cachemir",
+			"D4CF0E03": "Sigue al escolta",
+			"2914C8AD": "Reúnete con el Torbellino"
+		}
+	}
+}

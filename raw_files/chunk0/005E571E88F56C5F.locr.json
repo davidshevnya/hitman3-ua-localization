@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "005E571E88F56C5F",
+	"languages": {
+		"xx": {
+			"39E998FF": "A Dress to Die For",
+			"543F6250": "Vanya Shah has reached out to a renowned tailor working out of the nearby slums in order for him to provide her with a ceremonial dress \"worthy of a queen\". The tailor, however, has heard of Shah's current conflict with Dawood Rangan and has declined to work with either out of fear for retribution from the other. Let's help the poor tailor out.",
+			"52AACAFB": "A tailor, a Slum Queen and a Dress...",
+			"57EB0789": "Disguise yourself as the tailor",
+			"B12FAB0D": "Investigate Vanya Shah's request",
+			"2CE608F8": "Find an appropriate cloth sample",
+			"6C612565": "Arrange an audience with Vanya Shah",
+			"4271CD07": "Follow the servant",
+			"AAF5D2CF": "Wait your turn",
+			"D828FE9C": "Approach Vanya Shah",
+			"4930875E": "Present cloth to Vanya Shah"
+		},
+		"en": {
+			"39E998FF": "A Dress to Die For",
+			"543F6250": "It appears Vanya Shah is in the market for a dress fit for a queen. She's sent after a local tailor but for some reason the man refuses to cooperate. A man of your impeccable tastes should be able to fill in perfectly for the tailor.",
+			"52AACAFB": "A tailor, a Slum Queen and a dress...",
+			"57EB0789": "Disguise yourself as the tailor",
+			"B12FAB0D": "Investigate Vanya Shah's request",
+			"2CE608F8": "Find an appropriate cloth sample",
+			"6C612565": "Arrange an audience with Vanya Shah",
+			"4271CD07": "Follow the servant",
+			"AAF5D2CF": "Wait for your turn",
+			"D828FE9C": "Approach Vanya Shah",
+			"4930875E": "Present cloth to Vanya Shah"
+		},
+		"fr": {
+			"39E998FF": "Une robe à tomber",
+			"543F6250": "On dirait que Vanya Shah se cherche une vraie robe de reine. Elle a fait appeler un tailleur du coin, mais celui-ci refuse apparemment de l'aider. Un homme aux goûts tels que les vôtres n'aura aucun mal à prendre sa place.",
+			"52AACAFB": "Un tailleur, une reine des bidonvilles et une robe…",
+			"57EB0789": "Déguisez-vous en tailleur",
+			"B12FAB0D": "Examinez la demande de Vanya Shah",
+			"2CE608F8": "Trouvez un échantillon de tissu convenable",
+			"6C612565": "Organisez une audience avec Vanya Shah",
+			"4271CD07": "Rejoignez la file d'attente pour une audience",
+			"AAF5D2CF": "Attendez que Vanya Shah vous accorde une audience",
+			"D828FE9C": "Approchez Vanya Shah",
+			"4930875E": "Présentez le tissu à Vanya Shah"
+		},
+		"it": {
+			"39E998FF": "Un vestito... mozzafiato",
+			"543F6250": "Sembra che Vanya Shah sia alla ricerca di un vestito degno di una regina. Si è rivolta a un sarto della zona, ma l'uomo si rifiuta di servirla. Un uomo di stile come te, dovrebbe essere perfettamente in grado di sostituire il sarto.",
+			"52AACAFB": "Un sarto, una Regina dei sobborghi e un vestito...",
+			"57EB0789": "Travestiti da sarto",
+			"B12FAB0D": "Esamina la richiesta di Vanya Shah",
+			"2CE608F8": "Trova il tipo di stoffa adatto",
+			"6C612565": "Organizza un incontro con Vanya Shah",
+			"4271CD07": "Mettiti in fila per l'incontro",
+			"AAF5D2CF": "Aspetta che Vanya Shah ti conceda udienza",
+			"D828FE9C": "Avvicinati a Vanya Shah",
+			"4930875E": "Presenta tessuto a Vanya Shah"
+		},
+		"de": {
+			"39E998FF": "Ein Kleid zum Sterben",
+			"543F6250": "Sieht aus, als hätte Vanya Shah gern ein Kleid, das einer Königin angemessen wäre. Sie hat nach einem lokalen Schneider schicken lassen, aber aus irgendeinem Grund weigert der Mann sich, zu kooperieren. Für einen Mann Ihres tadellosen Geschmacks sollte es kein Problem sein, für den Schneider einzuspringen.",
+			"52AACAFB": "Ein Schneider, eine Slumkönigin und ein Kleid …",
+			"57EB0789": "Verkleiden Sie sich als Schneider.",
+			"B12FAB0D": "Finden Sie heraus, was Vanya Shah möchte.",
+			"2CE608F8": "Finden Sie ein geeignetes Stoffmuster.",
+			"6C612565": "Vereinbaren Sie eine Audienz bei Vanya Shah.",
+			"4271CD07": "Stellen Sie sich in der Schlange an.",
+			"AAF5D2CF": "Warten Sie, bis Vanya Shah Ihnen eine Audienz gewährt.",
+			"D828FE9C": "Nähern Sie sich Vanya Shah.",
+			"4930875E": "Präsentieren Sie Vanya Shah den Stoff."
+		},
+		"es": {
+			"39E998FF": "Un vestido para morirse",
+			"543F6250": "Parece que Vanya Shah anda buscando un vestido digno de una reina. Acudió a un sastre local, pero el hombre se niega a cooperar. Seguro que un hombre con tan buen gusto como tú sería el sastre perfecto para ella.",
+			"52AACAFB": "Un sastre, un suburbio y un vestido…",
+			"57EB0789": "Disfrázate de sastre",
+			"B12FAB0D": "Investiga el encargo de Vanya Shah",
+			"2CE608F8": "Encuentra una muestra de tela apropiada",
+			"6C612565": "Concierta una audiencia con Vanya Shah",
+			"4271CD07": "Ponte a la cola para tener una audiencia",
+			"AAF5D2CF": "Espera a que Vanya Shah te conceda audiencia",
+			"D828FE9C": "Acércate a Vanya Shah",
+			"4930875E": "Enséñale la tela a Vanya Shah"
+		}
+	}
+}

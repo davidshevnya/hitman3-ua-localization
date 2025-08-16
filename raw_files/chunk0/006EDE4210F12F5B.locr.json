@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "006EDE4210F12F5B",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_HIBISCUS_GROUP_TITLE": "The Caden Composition",
+			"UI_CONTRACT_HIBISCUS_GROUP_DESC": "Five level escalation in Bangkok",
+			"UI_CONTRACT_HIBISCUS_LEVEL_5_TITLE": "The Caden Composition - Level 5",
+			"UI_CONTRACT_HIBISCUS_LEVEL_4_TITLE": "The Caden Composition - Level 4",
+			"UI_CONTRACT_HIBISCUS_LEVEL_3_TITLE": "The Caden Composition - Level 3",
+			"UI_CONTRACT_HIBISCUS_LEVEL_2_TITLE": "The Caden Composition - Level 2",
+			"UI_CONTRACT_HIBISCUS_LEVEL_1_TITLE": "The Caden Composition - Level 1",
+			"UI_CONTRACT_HIBISCUS_OBJ_1_1": "Eliminate Dexy Barat while disguised as one of Jordan Cross' bodyguards",
+			"UI_CONTRACT_HIBISCUS_OBJ_1_2": "Eliminate Dexy Barat with a katana",
+			"UI_CONTRACT_HIBISCUS_OBJ_2": "Eliminate Stan Taggart with a katana",
+			"UI_CONTRACT_HIBISCUS_OBJ_3": "Eliminate Neil Burgess with a katana"
+		},
+		"en": {
+			"UI_CONTRACT_HIBISCUS_GROUP_TITLE": "The Caden Composition",
+			"UI_CONTRACT_HIBISCUS_GROUP_DESC": "Five level Escalation in Bangkok.",
+			"UI_CONTRACT_HIBISCUS_LEVEL_5_TITLE": "The Caden Composition - Level 5",
+			"UI_CONTRACT_HIBISCUS_LEVEL_4_TITLE": "The Caden Composition - Level 4",
+			"UI_CONTRACT_HIBISCUS_LEVEL_3_TITLE": "The Caden Composition - Level 3",
+			"UI_CONTRACT_HIBISCUS_LEVEL_2_TITLE": "The Caden Composition - Level 2",
+			"UI_CONTRACT_HIBISCUS_LEVEL_1_TITLE": "The Caden Composition - Level 1",
+			"UI_CONTRACT_HIBISCUS_OBJ_1_1": "Eliminate Dexy Barat while disguised as one of Jordan Cross' bodyguards",
+			"UI_CONTRACT_HIBISCUS_OBJ_1_2": "Eliminate Dexy Barat with a katana",
+			"UI_CONTRACT_HIBISCUS_OBJ_2": "Eliminate Stan Taggart with a katana",
+			"UI_CONTRACT_HIBISCUS_OBJ_3": "Eliminate Neil Burgess with a katana"
+		},
+		"fr": {
+			"UI_CONTRACT_HIBISCUS_GROUP_TITLE": "La composition Caden",
+			"UI_CONTRACT_HIBISCUS_GROUP_DESC": "Escalade en cinq niveaux à Bangkok.",
+			"UI_CONTRACT_HIBISCUS_LEVEL_5_TITLE": "La composition Caden - Niveau 5",
+			"UI_CONTRACT_HIBISCUS_LEVEL_4_TITLE": "La composition Caden - Niveau 4",
+			"UI_CONTRACT_HIBISCUS_LEVEL_3_TITLE": "La composition Caden - Niveau 3",
+			"UI_CONTRACT_HIBISCUS_LEVEL_2_TITLE": "La composition Caden - Niveau 2",
+			"UI_CONTRACT_HIBISCUS_LEVEL_1_TITLE": "La composition Caden - Niveau 1",
+			"UI_CONTRACT_HIBISCUS_OBJ_1_1": "Éliminez Dexy Barat déguisé en garde du corps de Jordan Cross",
+			"UI_CONTRACT_HIBISCUS_OBJ_1_2": "Éliminez Dexy Barat au katana",
+			"UI_CONTRACT_HIBISCUS_OBJ_2": "Éliminez Stan Taggart au katana",
+			"UI_CONTRACT_HIBISCUS_OBJ_3": "Éliminez Neil Burgess au katana"
+		},
+		"it": {
+			"UI_CONTRACT_HIBISCUS_GROUP_TITLE": "La composizione di Caden",
+			"UI_CONTRACT_HIBISCUS_GROUP_DESC": "Escalation di cinque livelli a Bangkok.",
+			"UI_CONTRACT_HIBISCUS_LEVEL_5_TITLE": "La composizione di Caden - Livello 5",
+			"UI_CONTRACT_HIBISCUS_LEVEL_4_TITLE": "La composizione di Caden - Livello 4",
+			"UI_CONTRACT_HIBISCUS_LEVEL_3_TITLE": "La composizione di Caden - Livello 3",
+			"UI_CONTRACT_HIBISCUS_LEVEL_2_TITLE": "La composizione di Caden - Livello 2",
+			"UI_CONTRACT_HIBISCUS_LEVEL_1_TITLE": "La composizione di Caden - Livello 1",
+			"UI_CONTRACT_HIBISCUS_OBJ_1_1": "Elimina Dexy Barat mentre sei travestito da guardia del corpo di Jordan Cross",
+			"UI_CONTRACT_HIBISCUS_OBJ_1_2": "Elimina Dexy Barat con una katana",
+			"UI_CONTRACT_HIBISCUS_OBJ_2": "Elimina Stan Taggart con una katana",
+			"UI_CONTRACT_HIBISCUS_OBJ_3": "Elimina Neil Burgess con una katana"
+		},
+		"de": {
+			"UI_CONTRACT_HIBISCUS_GROUP_TITLE": "Die Caden-Komposition",
+			"UI_CONTRACT_HIBISCUS_GROUP_DESC": "5-Stufen-Eskalation in Bangkok.",
+			"UI_CONTRACT_HIBISCUS_LEVEL_5_TITLE": "Die Caden-Komposition – Stufe 5",
+			"UI_CONTRACT_HIBISCUS_LEVEL_4_TITLE": "Die Caden-Komposition – Stufe 4",
+			"UI_CONTRACT_HIBISCUS_LEVEL_3_TITLE": "Die Caden-Komposition – Stufe 3",
+			"UI_CONTRACT_HIBISCUS_LEVEL_2_TITLE": "Die Caden-Komposition – Stufe 2",
+			"UI_CONTRACT_HIBISCUS_LEVEL_1_TITLE": "Die Caden-Komposition – Stufe 1",
+			"UI_CONTRACT_HIBISCUS_OBJ_1_1": "Dexy Barat als Leibwächter von Jordan Cross verkleidet eliminieren",
+			"UI_CONTRACT_HIBISCUS_OBJ_1_2": "Dexy Barat mit einem Katana eliminieren",
+			"UI_CONTRACT_HIBISCUS_OBJ_2": "Stan Taggart mit einem Katana eliminieren",
+			"UI_CONTRACT_HIBISCUS_OBJ_3": "Neil Burgess mit einem Katana eliminieren"
+		},
+		"es": {
+			"UI_CONTRACT_HIBISCUS_GROUP_TITLE": "La composición de Caden",
+			"UI_CONTRACT_HIBISCUS_GROUP_DESC": "Intensificación de cinco niveles en Bangkok.",
+			"UI_CONTRACT_HIBISCUS_LEVEL_5_TITLE": "La composición de Caden - Nivel 5",
+			"UI_CONTRACT_HIBISCUS_LEVEL_4_TITLE": "La composición de Caden - Nivel 4",
+			"UI_CONTRACT_HIBISCUS_LEVEL_3_TITLE": "La composición de Caden - Nivel 3",
+			"UI_CONTRACT_HIBISCUS_LEVEL_2_TITLE": "La composición de Caden - Nivel 2",
+			"UI_CONTRACT_HIBISCUS_LEVEL_1_TITLE": "La composición de Caden - Nivel 1",
+			"UI_CONTRACT_HIBISCUS_OBJ_1_1": "Elimina a Dexy Barat disfrazado de guardaespaldas de Jordan Cross",
+			"UI_CONTRACT_HIBISCUS_OBJ_1_2": "Elimina a Dexy Barat con una katana",
+			"UI_CONTRACT_HIBISCUS_OBJ_2": "Elimina a Stan Taggart con una katana",
+			"UI_CONTRACT_HIBISCUS_OBJ_3": "Elimina a Neil Burgess con una katana"
+		}
+	}
+}

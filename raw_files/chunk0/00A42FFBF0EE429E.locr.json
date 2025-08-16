@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00A42FFBF0EE429E",
+	"languages": {
+		"xx": {
+			"BCAF3C7A": "Flames Rekindled",
+			"ED6CAD2A": "Armed thugs belonging to the street gang known as \"The Crows\" have evacuated a hill in the slums of Mumbai. This could be worth investigating.",
+			"C0F1A84C": "A House Under Gang Protection",
+			"3EE02864": "Find your way up the hill and investigate",
+			"CCFFB485": "Search the house for clues",
+			"71AC2ADC": "Raise the Flag",
+			"6668709C": "Wait to see who shows up to the meeting",
+			"91C0AA88": "Confirm the guest is the Maelstrom"
+		},
+		"en": {
+			"BCAF3C7A": "Flames Rekindled",
+			"ED6CAD2A": "Armed thugs belonging to the street gang known as \"The Crows\" have evacuated a hill in the slums of Mumbai. This could be worth investigating.",
+			"C0F1A84C": "A house under the gang's protection.",
+			"3EE02864": "Find your way up the hill and investigate",
+			"CCFFB485": "Search the house for clues",
+			"71AC2ADC": "Raise the flag",
+			"6668709C": "Wait to see who shows up to the meeting",
+			"91C0AA88": "Confirm the guest is The Maelstrom"
+		},
+		"fr": {
+			"BCAF3C7A": "Flamme ravivée",
+			"ED6CAD2A": "Une bande armée appartenant au gang des \"Crows\" vient de faire évacuer une colline dans les bidonvilles de Bombay. Ça cache sûrement quelque chose.",
+			"C0F1A84C": "Une maison sous la protection du gang.",
+			"3EE02864": "Escaladez la colline et fouillez la zone",
+			"CCFFB485": "Fouillez la maison à la recherche d'indices",
+			"71AC2ADC": "Hissez le drapeau",
+			"6668709C": "Attendez de voir qui assiste au rendez-vous",
+			"91C0AA88": "Confirmez que l'invité est bien le Maelström"
+		},
+		"it": {
+			"BCAF3C7A": "Ritorno di fiamma",
+			"ED6CAD2A": "I membri armati della gang di strada conosciuta come \"I Corvi\" hanno fatto evacuare una collina nei sobborghi di Mumbai. Potrebbe valere la pena indagare.",
+			"C0F1A84C": "Una casa sotto la protezione delle gang.",
+			"3EE02864": "Risali la collina e indaga",
+			"CCFFB485": "Cerca indizi all'interno della casa",
+			"71AC2ADC": "Alza la bandiera",
+			"6668709C": "Aspetta di vedere chi si presenta all'incontro",
+			"91C0AA88": "Conferma che l'ospite sia Maelstrom"
+		},
+		"de": {
+			"BCAF3C7A": "Das neu entfachte Feuer",
+			"ED6CAD2A": "Bewaffnete Schläger, die zu einer Straßenbande namens „die Crows“ gehören, haben einen Hügel in den Slums von Mumbai geräumt. Es könnte sich lohnen, dem nachzugehen.",
+			"C0F1A84C": "Ein Haus unter dem Schutz der Bande.",
+			"3EE02864": "Suchen Sie sich einen Weg den Hügel rauf und untersuchen Sie ihn näher.",
+			"CCFFB485": "Durchsuchen Sie das Haus nach Hinweisen.",
+			"71AC2ADC": "Hissen Sie die Flagge.",
+			"6668709C": "Warten Sie ab, wer zu dem Treffen erscheint.",
+			"91C0AA88": "Bestätigen Sie, dass der Gast der Maelstrom ist."
+		},
+		"es": {
+			"BCAF3C7A": "Llama reavivada",
+			"ED6CAD2A": "Unos matones armados, que pertenecen a la banda callejera de «los Cuervos», han evacuado una colina de los suburbios de Bombay. Podría ser interesante investigarlo.",
+			"C0F1A84C": "Una casa protegida por matones.",
+			"3EE02864": "Encuentra el modo de subir a la colina e investigar",
+			"CCFFB485": "Busca pistas en la casa",
+			"71AC2ADC": "Iza la bandera",
+			"6668709C": "Espera a ver quién aparece en la reunión",
+			"91C0AA88": "Confirma que el invitado es el Torbellino"
+		}
+	}
+}

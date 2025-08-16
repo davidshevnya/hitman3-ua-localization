@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00A84B3EFA9DB423",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_PANSY_GROUP_TITLE": "The Aelwin Augment",
+			"UI_CONTRACT_PANSY_GROUP_DESC": "Three Level Escalation on The Isle of Sgail.",
+			"UI_CONTRACT_PANSY_LEVEL_1_TITLE": "The Aelwin Augment - Level 1",
+			"UI_CONTRACT_PANSY_LEVEL_2_TITLE": "The Aelwin Augment - Level 2",
+			"UI_CONTRACT_PANSY_LEVEL_3_TITLE": "The Aelwin Augment - Level 3",
+			"UI_CONTRACT_PANSY_RETRIEVE_FISH_NAME": "Retrieve",
+			"UI_CONTRACT_PANSY_OBJECTIVE_1": "Retrieve the fish",
+			"UI_CONTRACT_PANSY_OBJECTIVE_2_NAME": "Finley Henry",
+			"UI_CONTRACT_PANSY_OBJECTIVE_2": "Pacify Finley Henry with the fish",
+			"UI_CONTRACT_PANSY_PACIFY_BRIEFING_NAME": "Commotion",
+			"UI_CONTRACT_PANSY_OBJECTIVE_3": "Pacify 5 civilians with the fish",
+			"UI_CONTRACT_PANSY_OBJECTIVE_4": "Pacify 10 civilians with the fish"
+		},
+		"en": {
+			"UI_CONTRACT_PANSY_GROUP_TITLE": "The Aelwin Augment",
+			"UI_CONTRACT_PANSY_GROUP_DESC": "Three Level Escalation on The Isle of Sgàil.",
+			"UI_CONTRACT_PANSY_LEVEL_1_TITLE": "The Aelwin Augment - Level 1",
+			"UI_CONTRACT_PANSY_LEVEL_2_TITLE": "The Aelwin Augment - Level 2",
+			"UI_CONTRACT_PANSY_LEVEL_3_TITLE": "The Aelwin Augment - Level 3",
+			"UI_CONTRACT_PANSY_RETRIEVE_FISH_NAME": "Retrieve",
+			"UI_CONTRACT_PANSY_OBJECTIVE_1": "Retrieve the fish",
+			"UI_CONTRACT_PANSY_OBJECTIVE_2_NAME": "Finley Henry",
+			"UI_CONTRACT_PANSY_OBJECTIVE_2": "Pacify Finley Henry with the fish",
+			"UI_CONTRACT_PANSY_PACIFY_BRIEFING_NAME": "Commotion",
+			"UI_CONTRACT_PANSY_OBJECTIVE_3": "Pacify 5 civilians with the fish",
+			"UI_CONTRACT_PANSY_OBJECTIVE_4": "Pacify 10 civilians with the fish"
+		},
+		"fr": {
+			"UI_CONTRACT_PANSY_GROUP_TITLE": "L'augmentation d'Aelwin",
+			"UI_CONTRACT_PANSY_GROUP_DESC": "Escalade en trois niveaux sur l'île de Sgàil.",
+			"UI_CONTRACT_PANSY_LEVEL_1_TITLE": "L'augmentation d'Aelwin - Niveau 1",
+			"UI_CONTRACT_PANSY_LEVEL_2_TITLE": "L'augmentation d'Aelwin - Niveau 2",
+			"UI_CONTRACT_PANSY_LEVEL_3_TITLE": "L'augmentation d'Aelwin - Niveau 3",
+			"UI_CONTRACT_PANSY_RETRIEVE_FISH_NAME": "Récupérez",
+			"UI_CONTRACT_PANSY_OBJECTIVE_1": "Récupérez le poisson",
+			"UI_CONTRACT_PANSY_OBJECTIVE_2_NAME": "Finley Henry",
+			"UI_CONTRACT_PANSY_OBJECTIVE_2": "Neutralisez Finley Henry avec le poisson",
+			"UI_CONTRACT_PANSY_PACIFY_BRIEFING_NAME": "Chahut",
+			"UI_CONTRACT_PANSY_OBJECTIVE_3": "Neutralisez 5 civils avec le poisson",
+			"UI_CONTRACT_PANSY_OBJECTIVE_4": "Neutralisez 10 civils avec le poisson"
+		},
+		"it": {
+			"UI_CONTRACT_PANSY_GROUP_TITLE": "Il potenziamento di Aelwin",
+			"UI_CONTRACT_PANSY_GROUP_DESC": "Escalation di tre livelli sull'Isola di Sgàil.",
+			"UI_CONTRACT_PANSY_LEVEL_1_TITLE": "Il potenziamento di Aelwin - Livello 1",
+			"UI_CONTRACT_PANSY_LEVEL_2_TITLE": "Il potenziamento di Aelwin - Livello 2",
+			"UI_CONTRACT_PANSY_LEVEL_3_TITLE": "Il potenziamento di Aelwin - Livello 3",
+			"UI_CONTRACT_PANSY_RETRIEVE_FISH_NAME": "Recupera",
+			"UI_CONTRACT_PANSY_OBJECTIVE_1": "Recupera il pesce",
+			"UI_CONTRACT_PANSY_OBJECTIVE_2_NAME": "Finley Henry",
+			"UI_CONTRACT_PANSY_OBJECTIVE_2": "Neutralizza Finley Henry con il pesce",
+			"UI_CONTRACT_PANSY_PACIFY_BRIEFING_NAME": "Trambusto",
+			"UI_CONTRACT_PANSY_OBJECTIVE_3": "Neutralizza 5 civili con il pesce",
+			"UI_CONTRACT_PANSY_OBJECTIVE_4": "Neutralizza 10 civili con il pesce"
+		},
+		"de": {
+			"UI_CONTRACT_PANSY_GROUP_TITLE": "Die Aelwin-Augmentation",
+			"UI_CONTRACT_PANSY_GROUP_DESC": "Drei-Stufen-Eskalation auf der Isle of Sgàil.",
+			"UI_CONTRACT_PANSY_LEVEL_1_TITLE": "Die Aelwin-Augmentation – Stufe 1",
+			"UI_CONTRACT_PANSY_LEVEL_2_TITLE": "Die Aelwin-Augmentation – Stufe 2",
+			"UI_CONTRACT_PANSY_LEVEL_3_TITLE": "Die Aelwin-Augmentation – Stufe 3",
+			"UI_CONTRACT_PANSY_RETRIEVE_FISH_NAME": "Beschaffen",
+			"UI_CONTRACT_PANSY_OBJECTIVE_1": "Beschaffen Sie den Fisch",
+			"UI_CONTRACT_PANSY_OBJECTIVE_2_NAME": "Finley Henry",
+			"UI_CONTRACT_PANSY_OBJECTIVE_2": "Stellen Sie Finley Henry mit dem Fisch ruhig",
+			"UI_CONTRACT_PANSY_PACIFY_BRIEFING_NAME": "Chaos",
+			"UI_CONTRACT_PANSY_OBJECTIVE_3": "Stellen Sie 5 Zivilisten mit dem Fisch ruhig",
+			"UI_CONTRACT_PANSY_OBJECTIVE_4": "Stellen Sie 10 Zivilisten mit dem Fisch ruhig"
+		},
+		"es": {
+			"UI_CONTRACT_PANSY_GROUP_TITLE": "El aumento de Aelwin",
+			"UI_CONTRACT_PANSY_GROUP_DESC": "Intensificación de tres niveles en la isla de Sgàil.",
+			"UI_CONTRACT_PANSY_LEVEL_1_TITLE": "El aumento de Aelwin: nivel 1",
+			"UI_CONTRACT_PANSY_LEVEL_2_TITLE": "El aumento de Aelwin: nivel 2",
+			"UI_CONTRACT_PANSY_LEVEL_3_TITLE": "El aumento de Aelwin: nivel 3",
+			"UI_CONTRACT_PANSY_RETRIEVE_FISH_NAME": "Recuperar",
+			"UI_CONTRACT_PANSY_OBJECTIVE_1": "Hazte con el pez",
+			"UI_CONTRACT_PANSY_OBJECTIVE_2_NAME": "Finley Henry",
+			"UI_CONTRACT_PANSY_OBJECTIVE_2": "Deja inconsciente a Finley Henry con el pez",
+			"UI_CONTRACT_PANSY_PACIFY_BRIEFING_NAME": "Conmoción",
+			"UI_CONTRACT_PANSY_OBJECTIVE_3": "Deja inconscientes a 5 civiles con el pez",
+			"UI_CONTRACT_PANSY_OBJECTIVE_4": "Deja inconscientes a 10 civiles con el pez"
+		}
+	}
+}

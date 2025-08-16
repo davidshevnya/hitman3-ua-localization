@@ -1,0 +1,42 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00E8949DB138D335",
+	"languages": {
+		"xx": {
+			"UI_CHALLENGES_ET_ADONIS_TARGETDOWN_DESC": "<li>Assassinate The Politician.</li>",
+			"UI_CHALLENGES_ET_ADONIS_TARGETDOWN_NAME": "The Politician",
+			"UI_CHALLENGES_ET_ADONIS_SILENT_ASSASSIN_DESC": "<li>Assassinate The Politician.</li><li>Eliminate only the target.</li><li>No bodies found.</li><li>Do not get compromised.</il><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+			"UI_CHALLENGES_ET_ADONIS_SILENT_ASSASSIN_NAME": "Silent Assassin"
+		},
+		"en": {
+			"UI_CHALLENGES_ET_ADONIS_TARGETDOWN_DESC": "<li>Assassinate the Politician.</li>",
+			"UI_CHALLENGES_ET_ADONIS_TARGETDOWN_NAME": "The Politician",
+			"UI_CHALLENGES_ET_ADONIS_SILENT_ASSASSIN_DESC": "<li>Assassinate the Politician.</li><li>Eliminate only the target.</li><li>No bodies found.</li><li>Do not get spotted.</li><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+			"UI_CHALLENGES_ET_ADONIS_SILENT_ASSASSIN_NAME": "Silent Assassin"
+		},
+		"fr": {
+			"UI_CHALLENGES_ET_ADONIS_TARGETDOWN_DESC": "<li>Assassinez la Politicienne.</li>",
+			"UI_CHALLENGES_ET_ADONIS_TARGETDOWN_NAME": "La Politicienne",
+			"UI_CHALLENGES_ET_ADONIS_SILENT_ASSASSIN_DESC": "<li>Assassinez la Politicienne.</li><li>Éliminez uniquement la cible.</li><li>Aucun corps trouvé.</li><li>Ne vous faites pas repérer.</li><li>Si vous êtes repéré par les caméras, effacez ou détruisez la vidéo.</li>",
+			"UI_CHALLENGES_ET_ADONIS_SILENT_ASSASSIN_NAME": "Assassin silencieux"
+		},
+		"it": {
+			"UI_CHALLENGES_ET_ADONIS_TARGETDOWN_DESC": "<li>Elimina Il politico.</li>",
+			"UI_CHALLENGES_ET_ADONIS_TARGETDOWN_NAME": "Il politico",
+			"UI_CHALLENGES_ET_ADONIS_SILENT_ASSASSIN_DESC": "<li>Elimina Il politico.</li><li>Elimina solo il bersaglio.</li><li>Fai in modo che nessun corpo sia rinvenuto.</li><li>Non essere individuato.</li><li>Se vieni inquadrato dalle telecamere, cancella o distruggi le registrazioni.</li>",
+			"UI_CHALLENGES_ET_ADONIS_SILENT_ASSASSIN_NAME": "Assassino silenzioso"
+		},
+		"de": {
+			"UI_CHALLENGES_ET_ADONIS_TARGETDOWN_DESC": "<li>Eliminieren Sie die Politikerin.</li>",
+			"UI_CHALLENGES_ET_ADONIS_TARGETDOWN_NAME": "Die Politikerin",
+			"UI_CHALLENGES_ET_ADONIS_SILENT_ASSASSIN_DESC": "<li>Eliminieren Sie die Politikerin.</li><li>Eliminieren Sie nur das Ziel.</li><li>Keine Körper dürfen gefunden werden.</li><li>Bleiben Sie unbemerkt.</li><li>Werden Sie von Kameras gefilmt, löschen oder vernichten Sie die Beweise.</li>",
+			"UI_CHALLENGES_ET_ADONIS_SILENT_ASSASSIN_NAME": "Lautloser Killer"
+		},
+		"es": {
+			"UI_CHALLENGES_ET_ADONIS_TARGETDOWN_DESC": "<li>Elimina a la política.</li>",
+			"UI_CHALLENGES_ET_ADONIS_TARGETDOWN_NAME": "La política",
+			"UI_CHALLENGES_ET_ADONIS_SILENT_ASSASSIN_DESC": "<li>Asesina a la política.</li><li>Elimina solo al objetivo.</li><li>Que no descubran cuerpos.</li><li>Evita que te descubran.</li><li>Si te detectan las cámaras, borra o destruye las pruebas.</li>",
+			"UI_CHALLENGES_ET_ADONIS_SILENT_ASSASSIN_NAME": "Asesino silencioso"
+		}
+	}
+}

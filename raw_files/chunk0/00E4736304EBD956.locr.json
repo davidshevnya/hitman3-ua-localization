@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00E4736304EBD956",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_JUNIPER_LEVEL_1_TITLE": "The Videl Cataclysm - Level 1",
+			"UI_CONTRACT_JUNIPER_GROUP_TITLE": "The Videl Cataclysm",
+			"UI_CONTRACT_JUNIPER_OBJ_1_1": "Eliminate Christophe Nightlinglam while disguised as a security guard",
+			"UI_CONTRACT_JUNIPER_OBJ_2_1": "Eliminate Fabrice Sansouci while disguised as a security guard",
+			"UI_CONTRACT_JUNIPER_LEVEL_2_TITLE": "The Videl Cataclysm - Level 2",
+			"UI_CONTRACT_JUNIPER_LEVEL_3_TITLE": "The Videl Cataclysm - Level 3",
+			"UI_CONTRACT_JUNIPER_LEVEL_4_TITLE": "The Videl Cataclysm - Level 4",
+			"UI_CONTRACT_JUNIPER_LEVEL_5_TITLE": "The Videl Cataclysm - Level 5",
+			"UI_CONTRACT_JUNIPER_OBJ_2_2": "Eliminate Alain Rocheleau while disguised as auction staff",
+			"UI_CONTRACT_JUNIPER_OBJ_1_2": "Eliminate Eric Hébert while disguised as auction staff",
+			"UI_CONTRACT_JUNIPER_GROUP_DESC": "Five level Escalation in Paris."
+		},
+		"en": {
+			"UI_CONTRACT_JUNIPER_LEVEL_1_TITLE": "The Videl Cataclysm - Level 1",
+			"UI_CONTRACT_JUNIPER_GROUP_TITLE": "The Videl Cataclysm",
+			"UI_CONTRACT_JUNIPER_OBJ_1_1": "Eliminate Christophe Nightlinglam while disguised as a security guard",
+			"UI_CONTRACT_JUNIPER_OBJ_2_1": "Eliminate Fabrice Sansouci while disguised as a security guard",
+			"UI_CONTRACT_JUNIPER_LEVEL_2_TITLE": "The Videl Cataclysm - Level 2",
+			"UI_CONTRACT_JUNIPER_LEVEL_3_TITLE": "The Videl Cataclysm - Level 3",
+			"UI_CONTRACT_JUNIPER_LEVEL_4_TITLE": "The Videl Cataclysm - Level 4",
+			"UI_CONTRACT_JUNIPER_LEVEL_5_TITLE": "The Videl Cataclysm - Level 5",
+			"UI_CONTRACT_JUNIPER_OBJ_2_2": "Eliminate Alain Rocheleau while disguised as auction staff",
+			"UI_CONTRACT_JUNIPER_OBJ_1_2": "Eliminate Eric Hébert while disguised as auction staff",
+			"UI_CONTRACT_JUNIPER_GROUP_DESC": "Five level Escalation in Paris."
+		},
+		"fr": {
+			"UI_CONTRACT_JUNIPER_LEVEL_1_TITLE": "Le cataclysme Videl - Niveau 1",
+			"UI_CONTRACT_JUNIPER_GROUP_TITLE": "Le cataclysme Videl",
+			"UI_CONTRACT_JUNIPER_OBJ_1_1": "Éliminez Christophe Nightlinglam, déguisé en agent de sécurité",
+			"UI_CONTRACT_JUNIPER_OBJ_2_1": "Éliminez Fabrice Sansouci, déguisé en agent de sécurité",
+			"UI_CONTRACT_JUNIPER_LEVEL_2_TITLE": "Le cataclysme Videl - Niveau 2",
+			"UI_CONTRACT_JUNIPER_LEVEL_3_TITLE": "Le cataclysme Videl - Niveau 3",
+			"UI_CONTRACT_JUNIPER_LEVEL_4_TITLE": "Le cataclysme Videl - Niveau 4",
+			"UI_CONTRACT_JUNIPER_LEVEL_5_TITLE": "Le cataclysme Videl - Niveau 5",
+			"UI_CONTRACT_JUNIPER_OBJ_2_2": "Éliminez Alain Rocheleau, déguisé en personnel des enchères",
+			"UI_CONTRACT_JUNIPER_OBJ_1_2": "Éliminez Éric Hébert, déguisé en personnel des enchères",
+			"UI_CONTRACT_JUNIPER_GROUP_DESC": "Escalade en cinq niveaux à Paris."
+		},
+		"it": {
+			"UI_CONTRACT_JUNIPER_LEVEL_1_TITLE": "Il cataclisma di Videl - Livello 1",
+			"UI_CONTRACT_JUNIPER_GROUP_TITLE": "Il cataclisma di Videl",
+			"UI_CONTRACT_JUNIPER_OBJ_1_1": "Elimina Christophe Nightlinglam mentre sei travestito da addetto alla sicurezza",
+			"UI_CONTRACT_JUNIPER_OBJ_2_1": "Elimina Fabrice Sansouci mentre sei travestito da addetto alla sicurezza",
+			"UI_CONTRACT_JUNIPER_LEVEL_2_TITLE": "Il cataclisma di Videl - Livello 2",
+			"UI_CONTRACT_JUNIPER_LEVEL_3_TITLE": "Il cataclisma di Videl - Livello 3",
+			"UI_CONTRACT_JUNIPER_LEVEL_4_TITLE": "Il cataclisma di Videl - Livello 4",
+			"UI_CONTRACT_JUNIPER_LEVEL_5_TITLE": "Il cataclisma di Videl - Livello 5",
+			"UI_CONTRACT_JUNIPER_OBJ_2_2": "Elimina Alain Rocheleau mentre sei travestito da addetto all'asta",
+			"UI_CONTRACT_JUNIPER_OBJ_1_2": "Elimina Eric Hébert mentre sei travestito da addetto all'asta",
+			"UI_CONTRACT_JUNIPER_GROUP_DESC": "Escalation di cinque livelli a Parigi."
+		},
+		"de": {
+			"UI_CONTRACT_JUNIPER_LEVEL_1_TITLE": "Die Videl-Katastrophe - Stufe 1",
+			"UI_CONTRACT_JUNIPER_GROUP_TITLE": "Die Videl-Katastrophe",
+			"UI_CONTRACT_JUNIPER_OBJ_1_1": "Eliminieren Sie Christophe Nightlinglam als Wachmann",
+			"UI_CONTRACT_JUNIPER_OBJ_2_1": "Eliminieren Sie Fabrice Sansouci als Wachmann",
+			"UI_CONTRACT_JUNIPER_LEVEL_2_TITLE": "Die Videl-Katastrophe - Stufe 2",
+			"UI_CONTRACT_JUNIPER_LEVEL_3_TITLE": "Die Videl-Katastrophe - Stufe 3",
+			"UI_CONTRACT_JUNIPER_LEVEL_4_TITLE": "Die Videl-Katastrophe - Stufe 4",
+			"UI_CONTRACT_JUNIPER_LEVEL_5_TITLE": "Die Videl-Katastrophe - Stufe 5",
+			"UI_CONTRACT_JUNIPER_OBJ_2_2": "Eliminieren Sie Alain Rocheleau als Auktionsmitarbeiter",
+			"UI_CONTRACT_JUNIPER_OBJ_1_2": "Eliminieren Sie Eric Hébert als Auktionsmitarbeiter",
+			"UI_CONTRACT_JUNIPER_GROUP_DESC": "Fünf-Stufen-Eskalation in Paris."
+		},
+		"es": {
+			"UI_CONTRACT_JUNIPER_LEVEL_1_TITLE": "El cataclismo de Videl - Nivel 1",
+			"UI_CONTRACT_JUNIPER_GROUP_TITLE": "El cataclismo de Videl",
+			"UI_CONTRACT_JUNIPER_OBJ_1_1": "Elimina a Christophe Nightlinglam mientras vas disfrazado de guardia de seguridad",
+			"UI_CONTRACT_JUNIPER_OBJ_2_1": "Elimina a Fabrice Sansouci mientras vas disfrazado de guardia de seguridad",
+			"UI_CONTRACT_JUNIPER_LEVEL_2_TITLE": "El cataclismo de Videl - Nivel 2",
+			"UI_CONTRACT_JUNIPER_LEVEL_3_TITLE": "El cataclismo de Videl - Nivel 3",
+			"UI_CONTRACT_JUNIPER_LEVEL_4_TITLE": "El cataclismo de Videl - Nivel 4",
+			"UI_CONTRACT_JUNIPER_LEVEL_5_TITLE": "El cataclismo de Videl - Nivel 5",
+			"UI_CONTRACT_JUNIPER_OBJ_2_2": "Elimina a Alain Rocheleau llevando un disfraz del personal de la subasta",
+			"UI_CONTRACT_JUNIPER_OBJ_1_2": "Elimina a Eric Hébert llevando un disfraz del personal de la subasta",
+			"UI_CONTRACT_JUNIPER_GROUP_DESC": "Intensificación de cinco niveles en París."
+		}
+	}
+}

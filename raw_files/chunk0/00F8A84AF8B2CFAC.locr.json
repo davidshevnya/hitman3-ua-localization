@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00F8A84AF8B2CFAC",
+	"languages": {
+		"xx": {
+			"5E1DAC5E": "PH_COVER",
+			"55A6A7B4": "PH BODY"
+		},
+		"en": {
+			"5E1DAC5E": "Cover",
+			"55A6A7B4": "Press {COVER_HIDE} to take cover."
+		},
+		"fr": {
+			"5E1DAC5E": "Abri",
+			"55A6A7B4": "Appuyez sur {COVER_HIDE} pour vous mettre à couvert."
+		},
+		"it": {
+			"5E1DAC5E": "Mettersi al riparo",
+			"55A6A7B4": "Premi {COVER_HIDE} per nasconderti dietro un riparo."
+		},
+		"de": {
+			"5E1DAC5E": "Deckung",
+			"55A6A7B4": "Drücken Sie {COVER_HIDE}, um in Deckung zu gehen."
+		},
+		"es": {
+			"5E1DAC5E": "Escóndete",
+			"55A6A7B4": "Pulsa {COVER_HIDE} para cubrirte."
+		}
+	}
+}

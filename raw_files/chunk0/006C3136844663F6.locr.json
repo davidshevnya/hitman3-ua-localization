@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "006C3136844663F6",
+	"languages": {
+		"xx": {
+			"C57ADC3C": "Title_It's my party",
+			"55243FDA": "Headline_A surprise party for Jordan Cross. You should join in the celebration, 47.",
+			"FC8A250E": "Briefing_Today is Jordan Cross' birthday and manager Dexy Barat has prepared a small surprise party for him. The kitchen has prepared a special vegan birthday cake to suit his rock star tastes and the only thing missing is a cake topper with the number \"27\". I suggest you speed things along, 47. Could be the break we need.",
+			"05E52177": "Conclusion_Cross will be here shortly. And I dare say he is in for a surprise.",
+			"65330ACC": "Birthday_Step1 Get chef disguise",
+			"DACD8552": "Birthday_Step2 Get the sugar topper",
+			"2C846D80": "Birthday_Step3 Decorate birthday cake",
+			"9C088B5C": "Birthday_Step4 Wait for party"
+		},
+		"en": {
+			"C57ADC3C": "It's My Party",
+			"55243FDA": "A surprise party for Jordan Cross. You should join in the celebration, 47.",
+			"FC8A250E": "Today is Jordan Cross' birthday, and manager Dexy Barat has prepared a small surprise party for him. The kitchen has baked a special vegan birthday cake to suit his rockstar tastes, and the only thing missing is a cake topper with the number 27. I suggest you speed things along, 47. Could be the break we need.",
+			"05E52177": "Cross will be here shortly. And I dare say he is in for a surprise.",
+			"65330ACC": "Get a Chef disguise",
+			"DACD8552": "Get the sugar topper",
+			"2C846D80": "Decorate the birthday cake",
+			"9C088B5C": "Wait for the party to start"
+		},
+		"fr": {
+			"C57ADC3C": "C'est ma fête",
+			"55243FDA": "Une fête surprise en l'honneur de Jordan Cross. Vous devriez vous joindre aux réjouissances, 47.",
+			"FC8A250E": "Aujourd'hui, c'est l'anniversaire de Jordan Cross. Son agent, Dexy Barat, a organisé une petite fête surprise en son honneur. Le cuisinier a préparé spécialement un gâteau végétalien en accord avec le régime alimentaire de la rock star et il ne manque plus que le nombre 27 dessus. Je vous suggère de vous en occuper, 47. Cela pourrait être une occasion parfaite.",
+			"05E52177": "Cross ne devrait plus tarder. Et je pense qu'il va avoir une sacrée surprise.",
+			"65330ACC": "Procurez-vous un déguisement de chef",
+			"DACD8552": "Procurez-vous la décoration en sucre",
+			"2C846D80": "Décorez le gâteau d'anniversaire",
+			"9C088B5C": "Attendez que la fête commence"
+		},
+		"it": {
+			"C57ADC3C": "È qui la festa?",
+			"55243FDA": "Una festa a sorpresa per Jordan Cross. Dovresti unirti ai festeggiamenti, 47.",
+			"FC8A250E": "Oggi è il compleanno di Jordan Cross e la manager Dexy Barat gli ha organizzato una festicciola a sorpresa. Il ristorante ha preparato una torta di compleanno vegana appositamente per la rockstar. Manca solo la decorazione con il numero \"27\". Ti consiglio di fare in fretta, 47.",
+			"05E52177": "Cross sarà qui a breve. E lo attende una vera sorpresa.",
+			"65330ACC": "Procurati un travestimento da chef",
+			"DACD8552": "Ottieni la decorazione di zucchero",
+			"2C846D80": "Decora la torta di compleanno",
+			"9C088B5C": "Attendi che la festa cominci"
+		},
+		"de": {
+			"C57ADC3C": "It's My Party",
+			"55243FDA": "Eine Überraschungsparty für Jordan Cross. Da dürfen Sie nicht fehlen, 47.",
+			"FC8A250E": "Jordan Cross hat heute Geburtstag, und seine Managerin, Dexy Barat, hat eine kleine Überraschungsparty für ihn arrangiert. Die Küche hat schon eine spezielle vegane Torte nach seiner Vorliebe gebacken. Es fehlt nur noch ein Aufsatz mit einer 27. Ich schlage vor, Sie beschleunigen das Ganze ein wenig, 47. Das könnte unsere Chance sein.",
+			"05E52177": "Cross wird in Kürze eintreffen. Ich denke, ihn erwartet die Überraschung seines Lebens.",
+			"65330ACC": "Verkleiden Sie sich als Koch",
+			"DACD8552": "Finden Sie die Tortendekoration",
+			"2C846D80": "Dekorieren Sie die Geburtstagstorte",
+			"9C088B5C": "Warten Sie auf den Beginn der Party"
+		},
+		"es": {
+			"C57ADC3C": "It's My Party",
+			"55243FDA": "Una fiesta sorpresa para Jordan Cross. Deberías unirte a la celebración, 47.",
+			"FC8A250E": "Hoy es el cumpleaños de Jordan Cross y su mánager, Dexy Barat, le ha preparado una pequeña fiesta sorpresa. El personal de cocina ha preparado una tarta vegana especial para complacer sus gustos de estrella del rock y lo único que falta es la decoración con el número \"27\". Sugiero que aceleres las cosas, 47. Podría ser el momento que esperábamos.",
+			"05E52177": "Cross llegará pronto. Me atrevo a decir que se va a llevar una sorpresa.",
+			"65330ACC": "Consigue el disfraz de chef",
+			"DACD8552": "Consigue el adorno",
+			"2C846D80": "Decora la tarta de cumpleaños",
+			"9C088B5C": "Espera a que empiece la fiesta"
+		}
+	}
+}

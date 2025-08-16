@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00C3327492FEBE45",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_GERANIUM_LEVEL_1_TITLE": "The Somsak Equation - Level 1",
+			"UI_CONTRACT_GERANIUM_LEVEL_2_TITLE": "The Somsak Equation - Level 2",
+			"UI_CONTRACT_GERANIUM_LEVEL_3_TITLE": "The Somsak Equation - Level 3",
+			"UI_CONTRACT_GERANIUM_LEVEL_4_TITLE": "The Somsak Equation - Level 4",
+			"UI_CONTRACT_GERANIUM_LEVEL_5_TITLE": "The Somsak Equation - Level 5",
+			"UI_CONTRACT_GERANIUM_GROUP_DESC": "Five level escalation in Bangkok",
+			"UI_CONTRACT_GERANIUM_GROUP_TITLE": "The Somsak Equation",
+			"UI_CONTRACT_GERANIUM_OBJ_3": "Place all eliminated targets in freezer room",
+			"UI_CONTRACT_GERANIUM_FREEZER_BRIEFING_NAME": "Freezer Room",
+			"UI_CONTRACT_GERANIUM_OBJ_1": "Eliminate Tharn Srichure",
+			"UI_CONTRACT_GERANIUM_OBJ_2": "Eliminate Phet Rardchawat",
+			"UI_CONTRACT_GERANIUM_FREEZER_BRIEFING_DESC": "All eliminated targets must be placed in the kitchen freezer room. If any of the targets are bodybagged or otherwise out of reach before all three bodies have been placed in the freezer room, the mission will fail."
+		},
+		"en": {
+			"UI_CONTRACT_GERANIUM_LEVEL_1_TITLE": "The Somsak Equation - Level 1",
+			"UI_CONTRACT_GERANIUM_LEVEL_2_TITLE": "The Somsak Equation - Level 2",
+			"UI_CONTRACT_GERANIUM_LEVEL_3_TITLE": "The Somsak Equation - Level 3",
+			"UI_CONTRACT_GERANIUM_LEVEL_4_TITLE": "The Somsak Equation - Level 4",
+			"UI_CONTRACT_GERANIUM_LEVEL_5_TITLE": "The Somsak Equation - Level 5",
+			"UI_CONTRACT_GERANIUM_GROUP_DESC": "Five level Escalation in Bangkok.",
+			"UI_CONTRACT_GERANIUM_GROUP_TITLE": "The Somsak Equation",
+			"UI_CONTRACT_GERANIUM_OBJ_3": "Place all eliminated targets in the freezer room.",
+			"UI_CONTRACT_GERANIUM_FREEZER_BRIEFING_NAME": "Freezer Room",
+			"UI_CONTRACT_GERANIUM_OBJ_1": "Eliminate Tharn Srichure",
+			"UI_CONTRACT_GERANIUM_OBJ_2": "Eliminate Phet Rardchawat",
+			"UI_CONTRACT_GERANIUM_FREEZER_BRIEFING_DESC": "All eliminated targets must be placed in the kitchen freezer room. If any of the targets are bodybagged or otherwise out of reach before all three bodies have been placed in the freezer room, the mission will fail."
+		},
+		"fr": {
+			"UI_CONTRACT_GERANIUM_LEVEL_1_TITLE": "L'équation de Somsak - Niveau 1",
+			"UI_CONTRACT_GERANIUM_LEVEL_2_TITLE": "L'équation de Somsak - Niveau 2",
+			"UI_CONTRACT_GERANIUM_LEVEL_3_TITLE": "L'équation de Somsak - Niveau 3",
+			"UI_CONTRACT_GERANIUM_LEVEL_4_TITLE": "L'équation de Somsak - Niveau 4",
+			"UI_CONTRACT_GERANIUM_LEVEL_5_TITLE": "L'équation de Somsak - Niveau 5",
+			"UI_CONTRACT_GERANIUM_GROUP_DESC": "Escalade en cinq niveaux à Bangkok.",
+			"UI_CONTRACT_GERANIUM_GROUP_TITLE": "L'équation de Somsak",
+			"UI_CONTRACT_GERANIUM_OBJ_3": "Entreposez toutes les cibles éliminées dans la chambre froide.",
+			"UI_CONTRACT_GERANIUM_FREEZER_BRIEFING_NAME": "Chambre froide",
+			"UI_CONTRACT_GERANIUM_OBJ_1": "Éliminez Tharn Srichure",
+			"UI_CONTRACT_GERANIUM_OBJ_2": "Éliminez Phet Rardchawat",
+			"UI_CONTRACT_GERANIUM_FREEZER_BRIEFING_DESC": "Toutes les cibles éliminées doivent être entreposées dans la salle des congélateurs de la cuisine. Si une des cibles est mise dans un sac mortuaire ou est hors de portée avant que les trois corps soient placés dans la chambre froide, la mission échouera."
+		},
+		"it": {
+			"UI_CONTRACT_GERANIUM_LEVEL_1_TITLE": "L'equazione di Somsak - Livello 1",
+			"UI_CONTRACT_GERANIUM_LEVEL_2_TITLE": "L'equazione di Somsak - Livello 2",
+			"UI_CONTRACT_GERANIUM_LEVEL_3_TITLE": "L'equazione di Somsak - Livello 3",
+			"UI_CONTRACT_GERANIUM_LEVEL_4_TITLE": "L'equazione di Somsak - Livello 4",
+			"UI_CONTRACT_GERANIUM_LEVEL_5_TITLE": "L'equazione di Somsak - Livello 5",
+			"UI_CONTRACT_GERANIUM_GROUP_DESC": "Escalation di cinque livelli a Bangkok.",
+			"UI_CONTRACT_GERANIUM_GROUP_TITLE": "L'equazione di Somsak",
+			"UI_CONTRACT_GERANIUM_OBJ_3": "Porta tutti i bersagli eliminati nella cella frigorifera",
+			"UI_CONTRACT_GERANIUM_FREEZER_BRIEFING_NAME": "Cella frigorifera",
+			"UI_CONTRACT_GERANIUM_OBJ_1": "Elimina Tharn Srichure",
+			"UI_CONTRACT_GERANIUM_OBJ_2": "Elimina Phet Rardchawat",
+			"UI_CONTRACT_GERANIUM_FREEZER_BRIEFING_DESC": "Tutti i bersagli eliminati devono essere portati nella cella frigorifera della cucina. Se uno qualsiasi dei bersagli dovesse finire in una sacca per cadaveri o essere altrimenti irraggiungibile prima che tutti e tre vengano messi nella cella frigorifera, la missione fallirà."
+		},
+		"de": {
+			"UI_CONTRACT_GERANIUM_LEVEL_1_TITLE": "Die Somsak-Gleichung - Stufe 1",
+			"UI_CONTRACT_GERANIUM_LEVEL_2_TITLE": "Die Somsak-Gleichung - Stufe 2",
+			"UI_CONTRACT_GERANIUM_LEVEL_3_TITLE": "Die Somsak-Gleichung - Stufe 3",
+			"UI_CONTRACT_GERANIUM_LEVEL_4_TITLE": "Die Somsak-Gleichung - Stufe 4",
+			"UI_CONTRACT_GERANIUM_LEVEL_5_TITLE": "Die Somsak-Gleichung - Stufe 5",
+			"UI_CONTRACT_GERANIUM_GROUP_DESC": "Fünf-Stufen-Eskalation in Bangkok.",
+			"UI_CONTRACT_GERANIUM_GROUP_TITLE": "Die Somsak-Gleichung",
+			"UI_CONTRACT_GERANIUM_OBJ_3": "Legen Sie alle eliminierten Ziele im Kühlraum ab",
+			"UI_CONTRACT_GERANIUM_FREEZER_BRIEFING_NAME": "Kühlraum",
+			"UI_CONTRACT_GERANIUM_OBJ_1": "Eliminieren Sie Tharn Srichure",
+			"UI_CONTRACT_GERANIUM_OBJ_2": "Eliminieren Sie Phet Rardchawat",
+			"UI_CONTRACT_GERANIUM_FREEZER_BRIEFING_DESC": "Alle eliminierten Ziele müssen im Kühlraum in der Küche abgelegt werden. Werden die Ziele in Leichensäcken verstaut oder sind anderweitig außer Reichweite, bevor alle drei Körper im Kühlraum abgelegt wurden, scheitert die Mission."
+		},
+		"es": {
+			"UI_CONTRACT_GERANIUM_LEVEL_1_TITLE": "La ecuación de Somsak - Nivel 1",
+			"UI_CONTRACT_GERANIUM_LEVEL_2_TITLE": "La ecuación de Somsak - Nivel 2",
+			"UI_CONTRACT_GERANIUM_LEVEL_3_TITLE": "La ecuación de Somsak - Nivel 3",
+			"UI_CONTRACT_GERANIUM_LEVEL_4_TITLE": "La ecuación de Somsak - Nivel 4",
+			"UI_CONTRACT_GERANIUM_LEVEL_5_TITLE": "La ecuación de Somsak - Nivel 5",
+			"UI_CONTRACT_GERANIUM_GROUP_DESC": "Intensificación de cinco niveles en Bangkok.",
+			"UI_CONTRACT_GERANIUM_GROUP_TITLE": "La ecuación de Somsak",
+			"UI_CONTRACT_GERANIUM_OBJ_3": "Coloca a todos los objetivos eliminados en la cámara refrigerada",
+			"UI_CONTRACT_GERANIUM_FREEZER_BRIEFING_NAME": "Cámara refrigerada",
+			"UI_CONTRACT_GERANIUM_OBJ_1": "Elimina a Tharn Srichure",
+			"UI_CONTRACT_GERANIUM_OBJ_2": "Elimina a Phet Rardchawat",
+			"UI_CONTRACT_GERANIUM_FREEZER_BRIEFING_DESC": "Todos los objetivos eliminados deben colocarse en la cámara refrigerada de la cocina. Si alguno de los objetivos es retirado en una bolsa para cadáveres o está fuera de alcance antes de que los tres cuerpos sean colocados en la cámara refrigerada, la misión fracasará."
+		}
+	}
+}

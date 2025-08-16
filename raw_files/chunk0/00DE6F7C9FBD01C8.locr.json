@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00DE6F7C9FBD01C8",
+	"languages": {
+		"xx": {
+			"5A8F1E2E": "Title",
+			"C8C7D37D": "Flavor",
+			"E1B29DE5": "Description",
+			"98F9298B": "Conclusion",
+			"AF5BD2B1": "Clear the audience",
+			"1B086FCB": "Search",
+			"7954A9CF": "Find Wrench",
+			"CBBC1250": "Find instructor",
+			"9F8147E0": "Get Disguise",
+			"B4ACDB0D": "Pick up Yuki",
+			"FF1F5E6F": "Escort Yuki",
+			"41D9EF67": "Do Yoga"
+		},
+		"en": {
+			"5A8F1E2E": "Hot Springs",
+			"C8C7D37D": "Well, it certainly appears that Yuki Yamazaki is a fan of yoga. A schedule near the hot springs reveals that she has booked the trainer all day. Feeling flexible, 47?",
+			"E1B29DE5": "A yoga schedule. It has Yuki Yamazaki's name all over it.",
+			"98F9298B": "Well done, 47. Now to make her spirit and body fly...",
+			"AF5BD2B1": "Clear out the yoga area",
+			"1B086FCB": "Search the garage for a wrench",
+			"7954A9CF": "Acquire a wrench",
+			"CBBC1250": "Find the yoga instructor",
+			"9F8147E0": "Disguise yourself as the Yoga Instructor",
+			"B4ACDB0D": "Approach Yuki Yamazaki",
+			"FF1F5E6F": "Escort Yuki to the spa",
+			"41D9EF67": "Start the yoga session"
+		},
+		"fr": {
+			"5A8F1E2E": "Sources chaudes",
+			"C8C7D37D": "Pas de doute, Yuki Yamazaki est fan de yoga. D'après un planning trouvé près des sources chaudes, elle a réservé le coach toute la journée. Vous êtes d'humeur flexible, 47 ?",
+			"E1B29DE5": "Des horaires de yoga. Yuki Yamazaki apparaît sur tous les créneaux.",
+			"98F9298B": "Bien joué, 47. Libérez son esprit et son corps, pour de bon.",
+			"AF5BD2B1": "Videz la zone de yoga",
+			"1B086FCB": "Cherchez une clé anglaise dans le garage",
+			"7954A9CF": "Procurez-vous une clé anglaise",
+			"CBBC1250": "Trouvez le coach de yoga",
+			"9F8147E0": "Déguisez-vous en coach de yoga",
+			"B4ACDB0D": "Abordez Yuki Yamazaki",
+			"FF1F5E6F": "Escortez Yuki jusqu'au spa",
+			"41D9EF67": "Commencez la session de yoga"
+		},
+		"it": {
+			"5A8F1E2E": "Terme",
+			"C8C7D37D": "Yuki Yamazaki sembra un'appassionata di yoga. Stando all'orario delle lezioni esposto alle terme, ha prenotato l'istruttore per tutto il giorno. Ti senti elastico, 47?",
+			"E1B29DE5": "L'orario delle lezioni di yoga. Yuki Yamazaki è una presenza costante.",
+			"98F9298B": "Molto bene, 47. Aiutala a elevarsi nel corpo e nello spirito... definitivamente.",
+			"AF5BD2B1": "Sgombra l'area per lezioni di yoga",
+			"1B086FCB": "Trova una chiave inglese nel garage",
+			"7954A9CF": "Ottieni una chiave inglese",
+			"CBBC1250": "Trova l'istruttore di yoga",
+			"9F8147E0": "Travestiti da istruttore di yoga",
+			"B4ACDB0D": "Parla con Yuki Yamazaki",
+			"FF1F5E6F": "Accompagna Yuki alle terme",
+			"41D9EF67": "Inizia la lezione di yoga"
+		},
+		"de": {
+			"5A8F1E2E": "Heiße Quellen",
+			"C8C7D37D": "Yuki Yamazaki ist anscheinend ein richtiger Yoga-Fan. Ein Terminplan in der Nähe der heißen Quellen zeigt, dass sie den Lehrer für den ganzen Tag gebucht hat. Sind Sie gut gedehnt, 47?",
+			"E1B29DE5": "Ein Yoga-Terminplan. Und überall steht Yuki Yamazakis Name.",
+			"98F9298B": "Gut gemacht, 47. Und jetzt lassen Sie ihren Geist und Körper fliegen ...",
+			"AF5BD2B1": "Räumen Sie den Yoga-Bereich",
+			"1B086FCB": "Suchen Sie in der Werkstatt nach einem Schraubenschlüssel",
+			"7954A9CF": "Beschaffen Sie den Schraubenschlüssel",
+			"CBBC1250": "Finden Sie den Yoga-Lehrer",
+			"9F8147E0": "Verkleiden Sie sich als Yoga-Lehrer",
+			"B4ACDB0D": "Sprechen Sie Yuki Yamazaki an",
+			"FF1F5E6F": "Bringen Sie Yuki zu den Bädern",
+			"41D9EF67": "Beginnen Sie die Yoga-Sitzung"
+		},
+		"es": {
+			"5A8F1E2E": "Fuentes termales",
+			"C8C7D37D": "Bueno, parece que a Yuki Yamazaki le gusta el yoga. El horario que figura cerca de las fuentes termales indica que ha reservado a un instructor para todo el día. ¿Cómo va esa flexibilidad, 47?",
+			"E1B29DE5": "Un horario de clases de yoga. Esto tiene toda la pinta de ser de Yuki Yamazaki.",
+			"98F9298B": "Bien hecho, 47. Ahora, haz que su espíritu y su cuerpo vuelen...",
+			"AF5BD2B1": "Despeja la zona de las clases de yoga",
+			"1B086FCB": "Encuentra una llave inglesa en el garaje",
+			"7954A9CF": "Consigue una llave inglesa",
+			"CBBC1250": "Encuentra al profesor de yoga",
+			"9F8147E0": "Disfrázate como el profesor de yoga",
+			"B4ACDB0D": "Acércate a Yuki Yamazaki",
+			"FF1F5E6F": "Acompaña a Yuki hasta el spa",
+			"41D9EF67": "Empieza la sesión de yoga"
+		}
+	}
+}

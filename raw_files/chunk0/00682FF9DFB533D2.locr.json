@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00682FF9DFB533D2",
+	"languages": {
+		"xx": {
+			"81290A34": "Title_Tick Took",
+			"C969F4FE": "Headline_Ken Morgan wants to buy a local souvenir. How fortunate.",
+			"501DCF7D": "Briefing_According to the hotel gardener, Ken Morgan wants to purchase his ageing Tuk Tuk as a souvenir. Unfortunately for him, he can't get the engine working. Well, you're good at fixing things, 47. I suggest you give the gardener a helping hand. This could be excellent bait.",
+			"4128ACB3": "Conclusion_Good show, 47. Morgan should be on his way.",
+			"1CE7D47B": "Stage 1",
+			"DBD8A445": "Stage 2"
+		},
+		"en": {
+			"81290A34": "Tick Took",
+			"C969F4FE": "Ken Morgan wants to buy a local souvenir. How fortunate.",
+			"501DCF7D": "According to the hotel gardener, Ken Morgan wants to purchase his aging tuk-tuk as a souvenir. Unfortunately for him, he can't get the engine working. Well, you're good at fixing things, 47. I suggest you give the gardener a helping hand. This could be excellent bait.",
+			"4128ACB3": "Good show, 47. Morgan should be on his way",
+			"1CE7D47B": "Acquire a wrench",
+			"DBD8A445": "Fix the Tuk-Tuk"
+		},
+		"fr": {
+			"81290A34": "Tic Tuk",
+			"C969F4FE": "Ken Morgan veut acheter un souvenir local. Voilà qui nous arrange.",
+			"501DCF7D": "Selon le jardinier de l'hôtel, Ken Morgan veut lui acheter son vieux tuk tuk comme souvenir. Malheureusement, pas moyen de le faire démarrer. Vous êtes doué en mécanique, 47. Je vous suggère de donner un coup de main au jardinier. Cela pourrait être un excellent appât.",
+			"4128ACB3": "Beau travail, 47. Morgan devrait être en chemin.",
+			"1CE7D47B": "Récupérez une clé anglaise",
+			"DBD8A445": "Réparez le tuk tuk"
+		},
+		"it": {
+			"81290A34": "Tic tuk",
+			"C969F4FE": "Ken Morgan vuole acquistare un souvenir. Che fortuna...",
+			"501DCF7D": "Il giardiniere dell'hotel sostiene che Ken Morgan voglia acquistare come souvenir il suo vecchio tuk-tuk. Purtroppo per lui, non riesce a metterlo in moto. Tu te la cavi a risolvere problemi, 47. Perché non dai una mano al giardiniere? Sembra un'esca perfetta.",
+			"4128ACB3": "Molto bene, 47. Morgan sta arrivando.",
+			"1CE7D47B": "Ottieni una chiave inglese",
+			"DBD8A445": "Ripara il tuk-tuk"
+		},
+		"de": {
+			"81290A34": "Tick-Tuk",
+			"C969F4FE": "Ken Morgan möchte sich ein Souvenir kaufen. Wie praktisch.",
+			"501DCF7D": "Laut des Hotelgärtners möchte ihm Ken Morgan sein altes Tuk-Tuk als Souvenir abkaufen, aber er bekommt den Motor nicht in Gang. Sie haben für so etwas doch ein Händchen, 47. Greifen Sie dem Gärtner ein wenig unter die Arme. Das Tuk-Tuk wäre ein perfekter Köder.",
+			"4128ACB3": "Nicht übel, 47. Morgan müsste schon unterwegs sein.",
+			"1CE7D47B": "Besorgen Sie den Schraubenschlüssel",
+			"DBD8A445": "Reparieren Sie das Tuk-Tuk"
+		},
+		"es": {
+			"81290A34": "Tic tuk",
+			"C969F4FE": "Ken Morgan quiere comprar un souvenir del lugar. Qué suerte.",
+			"501DCF7D": "Según el jardinero del hotel, Ken Morgan quiere adquirir su viejo tuk tuk como recuerdo. Una pena que no consiga hacerlo arrancar. Aunque tú, 47, eres bueno arreglando cosas. Te sugiero que eches una mano al jardinero. Podría ser un cebo excelente.",
+			"4128ACB3": "Buen trabajo, 47. Morgan debería estar en camino.",
+			"1CE7D47B": "Consigue una llave inglesa",
+			"DBD8A445": "Arregla el tuk tuk"
+		}
+	}
+}

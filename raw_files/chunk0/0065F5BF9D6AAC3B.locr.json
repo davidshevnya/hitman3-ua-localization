@@ -1,0 +1,78 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0065F5BF9D6AAC3B",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_MONKSHOOD_GROUP_TITLE": "The Divine Descendance",
+			"UI_CONTRACT_MONKSHOOD_GROUP_DESC": "Three Level Escalation in Mumbai",
+			"UI_CONTRACT_MONKSHOOD_LEVEL1_TITLE": "The Divine Descendance - Level 1",
+			"UI_CONTRACT_MONKSHOOD_LEVEL2_TITLE": "The Divine Descendance - Level 2",
+			"UI_CONTRACT_MONKSHOOD_LEVEL3_TITLE": "The Divine Descendance - Level 3",
+			"UI_CONTRACT_MONKSHOOD_OBJ_2_2": "Eliminate Lucky Parminder in an accident",
+			"UI_CONTRACT_MONKSHOOD_OBJ_1_1": "Eliminate Kafe Hudsa in an accident",
+			"UI_CONTRACT_MONKSHOOD_OBJ_1_2": "Eliminate Kafe Hudsa with a non-silenced firearm",
+			"UI_CONTRACT_MONKSHOOD_OBJ_2_1": "Eliminate Lucky Parminder",
+			"UI_CONTRACT_MONKSHOOD_NAME_2": "Lucky Parminder"
+		},
+		"en": {
+			"UI_CONTRACT_MONKSHOOD_GROUP_TITLE": "The Divine Descendance",
+			"UI_CONTRACT_MONKSHOOD_GROUP_DESC": "Three Level Escalation in Mumbai.",
+			"UI_CONTRACT_MONKSHOOD_LEVEL1_TITLE": "The Divine Descendance - Level 1",
+			"UI_CONTRACT_MONKSHOOD_LEVEL2_TITLE": "The Divine Descendance - Level 2",
+			"UI_CONTRACT_MONKSHOOD_LEVEL3_TITLE": "The Divine Descendance - Level 3",
+			"UI_CONTRACT_MONKSHOOD_OBJ_2_2": "Eliminate Lucky Parminder in an accident",
+			"UI_CONTRACT_MONKSHOOD_OBJ_1_1": "Eliminate Kafe Hudsa in an accident",
+			"UI_CONTRACT_MONKSHOOD_OBJ_1_2": "Eliminate Kafe Hudsa with a non-silenced firearm",
+			"UI_CONTRACT_MONKSHOOD_OBJ_2_1": "Eliminate Lucky Parminder",
+			"UI_CONTRACT_MONKSHOOD_NAME_2": "Lucky Parminder"
+		},
+		"fr": {
+			"UI_CONTRACT_MONKSHOOD_GROUP_TITLE": "La descendance divine",
+			"UI_CONTRACT_MONKSHOOD_GROUP_DESC": "Escalade en trois niveaux à Bombay",
+			"UI_CONTRACT_MONKSHOOD_LEVEL1_TITLE": "La descendance divine - Niveau 1",
+			"UI_CONTRACT_MONKSHOOD_LEVEL2_TITLE": "La descendance divine - Niveau 2",
+			"UI_CONTRACT_MONKSHOOD_LEVEL3_TITLE": "La descendance divine - Niveau 3",
+			"UI_CONTRACT_MONKSHOOD_OBJ_2_2": "Éliminez Lucky Parminder dans un accident",
+			"UI_CONTRACT_MONKSHOOD_OBJ_1_1": "Éliminez Kafe Hudsa dans un accident",
+			"UI_CONTRACT_MONKSHOOD_OBJ_1_2": "Éliminez Kafe Hudsa avec une arme à feu sans silencieux",
+			"UI_CONTRACT_MONKSHOOD_OBJ_2_1": "Éliminez Lucky Parminder",
+			"UI_CONTRACT_MONKSHOOD_NAME_2": "Lucky Parminder"
+		},
+		"it": {
+			"UI_CONTRACT_MONKSHOOD_GROUP_TITLE": "La divina discendenza",
+			"UI_CONTRACT_MONKSHOOD_GROUP_DESC": "Escalation di tre livelli a Mumbai",
+			"UI_CONTRACT_MONKSHOOD_LEVEL1_TITLE": "La divina discendenza - Livello 1",
+			"UI_CONTRACT_MONKSHOOD_LEVEL2_TITLE": "La divina discendenza - Livello 2",
+			"UI_CONTRACT_MONKSHOOD_LEVEL3_TITLE": "La divina discendenza - Livello 3",
+			"UI_CONTRACT_MONKSHOOD_OBJ_2_2": "Elimina Lucky Parminder in un incidente",
+			"UI_CONTRACT_MONKSHOOD_OBJ_1_1": "Elimina Kafe Hudsa in un incidente",
+			"UI_CONTRACT_MONKSHOOD_OBJ_1_2": "Elimina Kafe Hudsa con un'arma da fuoco non silenziata",
+			"UI_CONTRACT_MONKSHOOD_OBJ_2_1": "Elimina Lucky Parminder",
+			"UI_CONTRACT_MONKSHOOD_NAME_2": "Lucky Parminder"
+		},
+		"de": {
+			"UI_CONTRACT_MONKSHOOD_GROUP_TITLE": "Der Himmlische Abstieg",
+			"UI_CONTRACT_MONKSHOOD_GROUP_DESC": "Drei-Stufen-Eskalation in Mumbai.",
+			"UI_CONTRACT_MONKSHOOD_LEVEL1_TITLE": "Der Himmlische Abstieg – Stufe 1",
+			"UI_CONTRACT_MONKSHOOD_LEVEL2_TITLE": "Der Himmlische Abstieg – Stufe 2",
+			"UI_CONTRACT_MONKSHOOD_LEVEL3_TITLE": "Der Himmlische Abstieg – Stufe 3",
+			"UI_CONTRACT_MONKSHOOD_OBJ_2_2": "Eliminieren Sie Lucky Parminder mit einem Unfall",
+			"UI_CONTRACT_MONKSHOOD_OBJ_1_1": "Eliminieren Sie Kafe Hudsa mit einem Unfall",
+			"UI_CONTRACT_MONKSHOOD_OBJ_1_2": "Eliminieren Sie Kafe Hudsa mit einer nicht schallgedämpften Feuerwaffe",
+			"UI_CONTRACT_MONKSHOOD_OBJ_2_1": "Eliminieren Sie Lucky Parminder",
+			"UI_CONTRACT_MONKSHOOD_NAME_2": "Lucky Parminder"
+		},
+		"es": {
+			"UI_CONTRACT_MONKSHOOD_GROUP_TITLE": "Descendencia divina",
+			"UI_CONTRACT_MONKSHOOD_GROUP_DESC": "Intensificación de tres niveles en Bombay.",
+			"UI_CONTRACT_MONKSHOOD_LEVEL1_TITLE": "Descendencia divina - Nivel 1",
+			"UI_CONTRACT_MONKSHOOD_LEVEL2_TITLE": "Descendencia divina - Nivel 2",
+			"UI_CONTRACT_MONKSHOOD_LEVEL3_TITLE": "Descendencia divina - Nivel 3",
+			"UI_CONTRACT_MONKSHOOD_OBJ_2_2": "Elimina a Lucky Parminder en un accidente",
+			"UI_CONTRACT_MONKSHOOD_OBJ_1_1": "Elimina a Kafe Hudsa en un accidente",
+			"UI_CONTRACT_MONKSHOOD_OBJ_1_2": "Elimina a Kafe Hudsa con un arma de fuego sin silenciador",
+			"UI_CONTRACT_MONKSHOOD_OBJ_2_1": "Elimina a Lucky Parminder",
+			"UI_CONTRACT_MONKSHOOD_NAME_2": "Lucky Parminder"
+		}
+	}
+}

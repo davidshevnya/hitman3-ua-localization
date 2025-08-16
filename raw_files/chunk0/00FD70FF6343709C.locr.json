@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00FD70FF6343709C",
+	"languages": {
+		"xx": {
+			"E4AD0EE6": "PH_Headline",
+			"077BA40E": "PH_Text"
+		},
+		"en": {
+			"E4AD0EE6": "Change Stance",
+			"077BA40E": "Press {CROUCH} to stand up."
+		},
+		"fr": {
+			"E4AD0EE6": "Changer de position",
+			"077BA40E": "Appuyez sur {CROUCH} pour vous relever."
+		},
+		"it": {
+			"E4AD0EE6": "Cambiare posizione",
+			"077BA40E": "Premi {CROUCH} per alzarti."
+		},
+		"de": {
+			"E4AD0EE6": "Haltung wechseln",
+			"077BA40E": "Drücken Sie {CROUCH}, um aufzustehen."
+		},
+		"es": {
+			"E4AD0EE6": "Incorpórate",
+			"077BA40E": "Pulsa {CROUCH} para incorporarte."
+		}
+	}
+}

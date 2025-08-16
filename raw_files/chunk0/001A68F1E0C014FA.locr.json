@@ -1,0 +1,48 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "001A68F1E0C014FA",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_MILKWEED_LEVEL1_TITLE": "The Covert Dispersal - Level 1",
+			"UI_CONTRACT_MILKWEED_LEVEL2_TITLE": "The Covert Dispersal - Level 2",
+			"UI_CONTRACT_MILKWEED_LEVEL3_TITLE": "The Covert Dispersal - Level 3",
+			"UI_CONTRACT_MILKWEED_GROUP_DESC": "Three Level Escalation in Whittleton Creek",
+			"UI_CONTRACT_MILKWEED_GROUP_TITLE": "The Covert Dispersal"
+		},
+		"en": {
+			"UI_CONTRACT_MILKWEED_LEVEL1_TITLE": "The Covert Dispersal - Level 1",
+			"UI_CONTRACT_MILKWEED_LEVEL2_TITLE": "The Covert Dispersal - Level 2",
+			"UI_CONTRACT_MILKWEED_LEVEL3_TITLE": "The Covert Dispersal - Level 3",
+			"UI_CONTRACT_MILKWEED_GROUP_DESC": "Three Level Escalation in Whittleton Creek.",
+			"UI_CONTRACT_MILKWEED_GROUP_TITLE": "The Covert Dispersal"
+		},
+		"fr": {
+			"UI_CONTRACT_MILKWEED_LEVEL1_TITLE": "Dispersion dissimulée - Niveau 1",
+			"UI_CONTRACT_MILKWEED_LEVEL2_TITLE": "Dispersion dissimulée - Niveau 2",
+			"UI_CONTRACT_MILKWEED_LEVEL3_TITLE": "Dispersion dissimulée - Niveau 3",
+			"UI_CONTRACT_MILKWEED_GROUP_DESC": "Escalade en trois niveaux dans la Crique de Whittleton",
+			"UI_CONTRACT_MILKWEED_GROUP_TITLE": "Dispersion dissimulée"
+		},
+		"it": {
+			"UI_CONTRACT_MILKWEED_LEVEL1_TITLE": "La dispersione segreta - Livello 1",
+			"UI_CONTRACT_MILKWEED_LEVEL2_TITLE": "La dispersione segreta - Livello 2",
+			"UI_CONTRACT_MILKWEED_LEVEL3_TITLE": "La dispersione segreta - Livello 3",
+			"UI_CONTRACT_MILKWEED_GROUP_DESC": "Escalation di tre livelli a Whittleton Creek",
+			"UI_CONTRACT_MILKWEED_GROUP_TITLE": "La dispersione segreta"
+		},
+		"de": {
+			"UI_CONTRACT_MILKWEED_LEVEL1_TITLE": "Die verdeckte Verstreuung – Stufe 1",
+			"UI_CONTRACT_MILKWEED_LEVEL2_TITLE": "Die verdeckte Verstreuung – Stufe 2",
+			"UI_CONTRACT_MILKWEED_LEVEL3_TITLE": "Die verdeckte Verstreuung – Stufe 3",
+			"UI_CONTRACT_MILKWEED_GROUP_DESC": "Drei-Stufen-Eskalation in Whittleton Creek.",
+			"UI_CONTRACT_MILKWEED_GROUP_TITLE": "Die verdeckte Verstreuung"
+		},
+		"es": {
+			"UI_CONTRACT_MILKWEED_LEVEL1_TITLE": "Dispersión encubierta - Nivel 1",
+			"UI_CONTRACT_MILKWEED_LEVEL2_TITLE": "Dispersión encubierta - Nivel 2",
+			"UI_CONTRACT_MILKWEED_LEVEL3_TITLE": "Dispersión encubierta - Nivel 3",
+			"UI_CONTRACT_MILKWEED_GROUP_DESC": "Intensificación de tres niveles en Whittleton Creek",
+			"UI_CONTRACT_MILKWEED_GROUP_TITLE": "Dispersión encubierta"
+		}
+	}
+}

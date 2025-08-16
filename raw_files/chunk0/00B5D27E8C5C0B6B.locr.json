@@ -1,0 +1,60 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00B5D27E8C5C0B6B",
+	"languages": {
+		"xx": {
+			"571BD1EF": "Car Expo",
+			"6DE27E0C": "Car Expo Flavor txt",
+			"6AB9CA5E": "Car Expo Description",
+			"2D1678D1": "Car Expo Conclusion",
+			"B8EE452A": "Sabotage Engine",
+			"5B158A30": "Get Screwdriver",
+			"E0878555": "Get Engineer Disguise"
+		},
+		"en": {
+			"571BD1EF": "Turbo Charged",
+			"6DE27E0C": "Robert Knox has a race car on display in the expo building. The show staff is under strict instructions to summon him at any sign of malfunction. Apparently, Knox trusts no one to fix his car but him. Hm, perhaps it's time to poke around under the hood, 47. They do say one should never mess with another man’s wheels....",
+			"6AB9CA5E": "A prototype Kronstadt race car. If anything happens to it, Knox will likely come running.",
+			"2D1678D1": "Good. I dare say this should get Knox's undivided attention.",
+			"B8EE452A": "Sabotage the engine",
+			"5B158A30": "Find a screwdriver",
+			"E0878555": "Disguise yourself as a Kronstadt Engineer"
+		},
+		"fr": {
+			"571BD1EF": "Surcompression turbo",
+			"6DE27E0C": "Robert Knox a une voiture de course en présentation dans le bâtiment d'exposition, et l'équipe du show doit impérativement le prévenir pour tout signe de mauvais fonctionnement. Apparemment, Knox n'a confiance en personne pour réparer sa voiture, mis à part lui. Hmmm. Peut-être est-il temps de jeter un coup d'oeil sous le capot, 47 ? On dit qu'un homme ne devrait jamais toucher à la voiture d'autrui.",
+			"6AB9CA5E": "Un prototype de course de Kronstadt. Si quelque chose lui arrivait, Knox courrait à son secours.",
+			"2D1678D1": "Bien joué. Je pense que cela va attirer l'entière attention de Knox.",
+			"B8EE452A": "Sabotez le moteur",
+			"5B158A30": "Trouvez un tournevis",
+			"E0878555": "Déguisez-vous en ingénieur de Kronstadt"
+		},
+		"it": {
+			"571BD1EF": "Turbo caricato",
+			"6DE27E0C": "Robert Knox ha una macchina da corsa in esposizione nell'edificio dell'expo e il personale della mostra ha istruzioni ben precise di farlo venire in caso ci siano segni di malfunzionamento. A quanto pare non si fida di nessuno, a parte se stesso, per la riparazione della macchina. Hm. Forse è arrivata l'ora di dare un'occhiata al cofano, 47? Si dice che non bisognerebbe mai mettere i bastoni tra le ruote.",
+			"6AB9CA5E": "Un prototipo di macchina da corsa Kronstadt. Se le accadrà qualcosa, è probabile che Knox accorrerà subito.",
+			"2D1678D1": "Bene. Oserei dire che questo dovrebbe attirare la completa attenzione di Knox.",
+			"B8EE452A": "Sabota motore",
+			"5B158A30": "Trova un cacciavite",
+			"E0878555": "Travestiti da ingegnere della Kronstadt"
+		},
+		"de": {
+			"571BD1EF": "Turboaufladung",
+			"6DE27E0C": "Robert Knox stellt einen Rennwagen im Messegebäude aus, und der Angestellte am Stand ist klar angewiesen worden, ihn zu holen, falls es eine Fehlfunktion gibt. Anscheinend traut Knox niemand anderem zu, den Wagen zu reparieren. Hm. Vielleicht sollten Sie mal einen Blick unter die Haube werfen, 47? Eventuell sorgen Sie ja dafür, dass er eine Schraube locker hat …",
+			"6AB9CA5E": "Ein Prototyp-Rennwagen von Kronstadt. Wenn ihm etwas zustößt, würde Knox wohl angelaufen kommen.",
+			"2D1678D1": "Gut. Ich würde sagen, dass das Knox’ ungeteilte Aufmerksamkeit auf sich ziehen wird.",
+			"B8EE452A": "Sabotieren Sie den Motor.",
+			"5B158A30": "Finden Sie einen Schraubendreher.",
+			"E0878555": "Verkleiden Sie sich als Kronstadt-Ingenieur."
+		},
+		"es": {
+			"571BD1EF": "Turbocompresor",
+			"6DE27E0C": "Robert Knox tiene un coche de carreras en las instalaciones de la bahía de Kronstadt y el personal del evento tiene instrucciones estrictas de avisarlo si algo falla. Por lo visto Knox no permite que nadie arregle su coche, solo él. Hm. ¿Quizá sea hora de hurgar bajo el capó, 47? Dicen que nadie debería meterse con las ruedas del coche de otro hombre.",
+			"6AB9CA5E": "Un propotipo de coche de carreras de Kronstadt. Si le pasara algo, Knox probablemente vendría corriendo.",
+			"2D1678D1": "Bien. Me atrevo a decir que esto captará la atención de Knox.",
+			"B8EE452A": "Sabotea el motor",
+			"5B158A30": "Busca un destornillador",
+			"E0878555": "Disfrázate de ingeniero de Kronstadt"
+		}
+	}
+}

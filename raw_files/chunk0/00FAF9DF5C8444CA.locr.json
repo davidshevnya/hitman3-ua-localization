@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00FAF9DF5C8444CA",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_LAMIUM_GROUP_TITLE": "The Simmons Concussion",
+			"UI_CONTRACT_LAMIUM_GROUP_DESC": "Three level escalation in Miami",
+			"UI_CONTRACT_LAMIUM_LVL1_OBJ_1": "Pacify Kate Switzer with a soda can",
+			"UI_CONTRACT_LAMIUM_LVL1_NAME_1": "Kate Switzer",
+			"UI_CONTRACT_LAMIUM_LVL1_OBJ_2": "Pacify Larry Tracey with a soda can",
+			"UI_CONTRACT_LAMIUM_LVL1_NAME_2": "Larry Tracey",
+			"UI_CONTRACT_LAMIUM_LEVEL_1_TITLE": "The Simmons Concussion - Level 1",
+			"UI_CONTRACT_LAMIUM_LEVEL_2_TITLE": "The Simmons Concussion - Level 2",
+			"UI_CONTRACT_LAMIUM_LEVEL_3_TITLE": "The Simmons Concussion - Level 3"
+		},
+		"en": {
+			"UI_CONTRACT_LAMIUM_GROUP_TITLE": "The Simmons Concussion",
+			"UI_CONTRACT_LAMIUM_GROUP_DESC": "Three Level Escalation in Miami.",
+			"UI_CONTRACT_LAMIUM_LVL1_OBJ_1": "Pacify Kate Switzer with a soda can",
+			"UI_CONTRACT_LAMIUM_LVL1_NAME_1": "Kate Switzer",
+			"UI_CONTRACT_LAMIUM_LVL1_OBJ_2": "Pacify Larry Tracey with a soda can",
+			"UI_CONTRACT_LAMIUM_LVL1_NAME_2": "Larry Tracey",
+			"UI_CONTRACT_LAMIUM_LEVEL_1_TITLE": "The Simmons Concussion - Level 1",
+			"UI_CONTRACT_LAMIUM_LEVEL_2_TITLE": "The Simmons Concussion - Level 2",
+			"UI_CONTRACT_LAMIUM_LEVEL_3_TITLE": "The Simmons Concussion - Level 3"
+		},
+		"fr": {
+			"UI_CONTRACT_LAMIUM_GROUP_TITLE": "La commotion de Simmons",
+			"UI_CONTRACT_LAMIUM_GROUP_DESC": "Escalade en trois niveaux à Miami",
+			"UI_CONTRACT_LAMIUM_LVL1_OBJ_1": "Neutralisez Kate Switzer avec une canette de soda",
+			"UI_CONTRACT_LAMIUM_LVL1_NAME_1": "Kate Switzer",
+			"UI_CONTRACT_LAMIUM_LVL1_OBJ_2": "Neutralisez Larry Tracey avec une canette de soda",
+			"UI_CONTRACT_LAMIUM_LVL1_NAME_2": "Larry Tracey",
+			"UI_CONTRACT_LAMIUM_LEVEL_1_TITLE": "La commotion de Simmons - Niveau 1",
+			"UI_CONTRACT_LAMIUM_LEVEL_2_TITLE": "La commotion de Simmons - Niveau 2",
+			"UI_CONTRACT_LAMIUM_LEVEL_3_TITLE": "La commotion de Simmons - Niveau 3"
+		},
+		"it": {
+			"UI_CONTRACT_LAMIUM_GROUP_TITLE": "Il trauma di Simmons",
+			"UI_CONTRACT_LAMIUM_GROUP_DESC": "Escalation di tre livelli a Miami",
+			"UI_CONTRACT_LAMIUM_LVL1_OBJ_1": "Neutralizza Kate Switzer con una lattina di soda",
+			"UI_CONTRACT_LAMIUM_LVL1_NAME_1": "Kate Switzer",
+			"UI_CONTRACT_LAMIUM_LVL1_OBJ_2": "Neutralizza Larry Tracey con una lattina di soda",
+			"UI_CONTRACT_LAMIUM_LVL1_NAME_2": "Larry Tracey",
+			"UI_CONTRACT_LAMIUM_LEVEL_1_TITLE": "Il trauma di Simmons - Livello 1",
+			"UI_CONTRACT_LAMIUM_LEVEL_2_TITLE": "Il trauma di Simmons - Livello 2",
+			"UI_CONTRACT_LAMIUM_LEVEL_3_TITLE": "Il trauma di Simmons - Livello 3"
+		},
+		"de": {
+			"UI_CONTRACT_LAMIUM_GROUP_TITLE": "Die Simmons-Gehirnerschütterung",
+			"UI_CONTRACT_LAMIUM_GROUP_DESC": "Drei-Stufen-Eskalation in Miami.",
+			"UI_CONTRACT_LAMIUM_LVL1_OBJ_1": "Stellen Sie Kate Switzer mit einer Getränkedose ruhig.",
+			"UI_CONTRACT_LAMIUM_LVL1_NAME_1": "Kate Switzer",
+			"UI_CONTRACT_LAMIUM_LVL1_OBJ_2": "Stellen Sie Larry Tracey mit einer Getränkedose ruhig.",
+			"UI_CONTRACT_LAMIUM_LVL1_NAME_2": "Larry Tracey",
+			"UI_CONTRACT_LAMIUM_LEVEL_1_TITLE": "Die Simmons-Gehirnerschütterung – Stufe 1",
+			"UI_CONTRACT_LAMIUM_LEVEL_2_TITLE": "Die Simmons-Gehirnerschütterung – Stufe 2",
+			"UI_CONTRACT_LAMIUM_LEVEL_3_TITLE": "Die Simmons-Gehirnerschütterung – Stufe 3"
+		},
+		"es": {
+			"UI_CONTRACT_LAMIUM_GROUP_TITLE": "El aturdimiento de Simmons",
+			"UI_CONTRACT_LAMIUM_GROUP_DESC": "Intensificación de tres niveles en Miami.",
+			"UI_CONTRACT_LAMIUM_LVL1_OBJ_1": "Deja inconsciente a Kate Switzer con una lata de refresco",
+			"UI_CONTRACT_LAMIUM_LVL1_NAME_1": "Kate Switzer",
+			"UI_CONTRACT_LAMIUM_LVL1_OBJ_2": "Deja inconsciente a Larry Tracey con una lata de refresco",
+			"UI_CONTRACT_LAMIUM_LVL1_NAME_2": "Larry Tracey",
+			"UI_CONTRACT_LAMIUM_LEVEL_1_TITLE": "El aturdimiento de Simmons - Nivel 1",
+			"UI_CONTRACT_LAMIUM_LEVEL_2_TITLE": "El aturdimiento de Simmons - Nivel 2",
+			"UI_CONTRACT_LAMIUM_LEVEL_3_TITLE": "El aturdimiento de Simmons - Nivel 3"
+		}
+	}
+}

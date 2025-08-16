@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00363659C2287337",
+	"languages": {
+		"xx": {
+			"69FD61C8": "PH_Headline",
+			"7E6FF3FF": "PH_BodyText"
+		},
+		"en": {
+			"69FD61C8": "Weapon Crates",
+			"7E6FF3FF": "If weapons are found lying around, a guard will place them in a box like this. That will keep him busy for a while."
+		},
+		"fr": {
+			"69FD61C8": "Caisses d'armes",
+			"7E6FF3FF": "Si un garde trouve des armes abandonnées, il ira les ranger dans une boîte comme celle-ci, ce qui ne manquera pas de l'occuper quelque temps."
+		},
+		"it": {
+			"69FD61C8": "Casse delle armi",
+			"7E6FF3FF": "Se una guardia trova in giro delle armi, le metterà in una cassa come questa. Mettere le armi al sicuro lo terrà occupato per un po'."
+		},
+		"de": {
+			"69FD61C8": "Waffenkisten",
+			"7E6FF3FF": "Sollten herumliegende Waffen aufgefunden werden, wird ein Wachmann sie in einer solchen Kiste platzieren. Das wird ihn eine Weile beschäftigen."
+		},
+		"es": {
+			"69FD61C8": "Cajones de armas",
+			"7E6FF3FF": "Si un guarda encuentra un arma tirada en el suelo, la meterán en una caja como esta. Esto les mantendrá ocupados por un tiempo."
+		}
+	}
+}

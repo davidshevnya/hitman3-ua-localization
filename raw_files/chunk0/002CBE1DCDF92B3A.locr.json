@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "002CBE1DCDF92B3A",
+	"languages": {
+		"xx": {
+			"8B6AEF51": "Picture Perfect",
+			"0378B511": "A Missing Cast Member and a Pending Photo Shoot",
+			"41E791B9": "Principal shooting on Rangan's \"Mumbai Hero\" is coming to an end. Gregory Arthur, famous broadway star, is apparently due for a photoshoot inside Rangan's unfinished tenement tower. He may have gotten lost.",
+			"A0FB0569": "",
+			"CD6DF8E4": "",
+			"31ABCFD1": "",
+			"14A8BDE5": "",
+			"EE8827C9": "",
+			"20C9935A": "",
+			"D283E12F": "",
+			"01587698": ""
+		},
+		"en": {
+			"8B6AEF51": "Picture Perfect",
+			"0378B511": "A missing cast member and a pending photo shoot.",
+			"41E791B9": "Gregory Arthur, a famous broadway star, is apparently late for a photo shoot inside Rangan's unfinished tenement tower. Hang on, he uploaded a selfie on social media about half an hour ago. Hm, the Mumbai food district... He's likely still there, 47.",
+			"A0FB0569": "Go to the slums of Mumbai",
+			"CD6DF8E4": "Locate Gregory Arthur",
+			"31ABCFD1": "Disguise yourself as Gregory Arthur",
+			"14A8BDE5": "Talk to the assistant outside Rangan Tower",
+			"EE8827C9": "Locate the photo shoot",
+			"20C9935A": "Talk to the photographer",
+			"D283E12F": "Wait for Dawood Rangan to arrive",
+			"01587698": "Participate in the photo session"
+		},
+		"fr": {
+			"8B6AEF51": "Trait pour trait",
+			"0378B511": "Une star manquante et une séance photo en attente.",
+			"41E791B9": "Gregory Arthur, star de Broadway, est apparemment en retard pour une séance photo dans l'immeuble en construction de Rangan. Attendez un peu, il a posté un selfie sur les réseaux sociaux il y a environ une demi-heure. Hmm, le quartier de restauration de Bombay… Il y est sans doute toujours, 47.",
+			"A0FB0569": "Allez dans les bidonvilles de Bombay",
+			"CD6DF8E4": "Localisez Gregory Arthur",
+			"31ABCFD1": "Déguisez-vous en Gregory Arthur",
+			"14A8BDE5": "Parlez à l'assistant devant la tour de Rangan",
+			"EE8827C9": "Trouvez la séance photo",
+			"20C9935A": "Parlez au photographe",
+			"D283E12F": "Attendez que Dawood Rangan arrive",
+			"01587698": "Participez à la séance photo"
+		},
+		"it": {
+			"8B6AEF51": "Fotografia perfetta",
+			"0378B511": "Un membro del cast mancante e un servizio fotografico in sospeso.",
+			"41E791B9": "Gregory Arthur, una famosa star di Broadway, è apparentemente in ritardo per un servizio fotografico all'interno della torre del complesso incompleto di Rangan. Aspetta, ha caricato un selfie sui social media circa mezz'ora fa. Hm, il distretto alimentare di Mumbai... Probabilmente è ancora lì, 47.",
+			"A0FB0569": "Vai nei sobborghi di Mumbai",
+			"CD6DF8E4": "Localizza Gregory Arthur",
+			"31ABCFD1": "Travestiti da Gregory Arthur",
+			"14A8BDE5": "Parla con l'assistente fuori da Rangan Tower",
+			"EE8827C9": "Localizza il servizio fotografico",
+			"20C9935A": "Parla con il fotografo",
+			"D283E12F": "Aspetta che arrivi Dawood Rangan",
+			"01587698": "Partecipa al servizio fotografico"
+		},
+		"de": {
+			"8B6AEF51": "Der gebuchte Mann",
+			"0378B511": "Ein verschwundenes Cast-Mitglied und ein ausstehendes Fotoshooting.",
+			"41E791B9": "Der berühmte Broadwaystar Gregory Arthur kommt offenbar zu spät zu einem Fotoshooting in Rangans unfertigem Mietturm. Moment, er hat vor ungefähr einer halben Stunde ein Selfie in den sozialen Medien hochgeladen. Hm, das Mumbai-Imbissviertel … Wahrscheinlich ist er noch dort, 47.",
+			"A0FB0569": "Gehen Sie in die Slums von Mumbai.",
+			"CD6DF8E4": "Finden Sie Gregory Arthur.",
+			"31ABCFD1": "Verkleiden Sie sich als Gregory Arthur.",
+			"14A8BDE5": "Sprechen Sie mit der Assistentin vor Rangans Turm.",
+			"EE8827C9": "Finden Sie das Fotoshooting.",
+			"20C9935A": "Sprechen Sie mit dem Fotografen.",
+			"D283E12F": "Warten Sie auf Dawood Rangan.",
+			"01587698": "Nehmen Sie am Fotoshooting teil."
+		},
+		"es": {
+			"8B6AEF51": "Fotografía perfecta",
+			"0378B511": "Una persona desaparecida y una sesión de fotos pendiente.",
+			"41E791B9": "Está a punto de terminar el rodaje de «El héroe de Bombay», la película de Rangan. Gregory Arthur, famosa estrella de Broadway, tiene que acudir a una sesión de fotos en la torre en obras de Rangan. Puede que se haya perdido por el camino.",
+			"A0FB0569": "Ve a los suburbios de Bombay",
+			"CD6DF8E4": "Encuentra a Gregory Arthur",
+			"31ABCFD1": "Disfrázate de Gregory Arthur",
+			"14A8BDE5": "Habla con la ayudante frente a la Torre Rangan",
+			"EE8827C9": "Localiza el lugar de la sesión de fotos",
+			"20C9935A": "Habla con el fotógrafo",
+			"D283E12F": "Espera a que llegue Dawood Rangan",
+			"01587698": "Participa en la sesión de fotos"
+		}
+	}
+}

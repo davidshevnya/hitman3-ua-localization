@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/online/repository/difficulty.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"UI_DIFFICULTY_UNLOCK_PRO1_PARIS": "Unlock Professional Difficulty Level",
+			"UI_DIFFICULTY_UNLOCK_PRO1_COASTALTOWN": "Unlock Professional Difficulty Level",
+			"UI_DIFFICULTY_UNLOCK_PRO1_MARRAKECH": "Unlock Professional Difficulty Level",
+			"UI_DIFFICULTY_UNLOCK_PRO1_BANGKOK": "Unlock Professional Difficulty Level",
+			"UI_DIFFICULTY_UNLOCK_PRO1_COLORADO": "Unlock Professional Difficulty Level",
+			"UI_DIFFICULTY_UNLOCK_PRO1_HOKKAIDO": "Unlock Professional Difficulty Level",
+			"UI_DIFFICULTY_UNLOCK_PRO1_HOKKAIDO_DESC": "Unlocks the Professional Difficulty Level for this location.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_COLORADO_DESC": "Unlocks the Professional Difficulty Level for this location.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_BANGKOK_DESC": "Unlocks the Professional Difficulty Level for this location.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_MARRAKECH_DESC": "Unlocks the Professional Difficulty Level for this location.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_COASTALTOWN_DESC": "Unlocks the Professional Difficulty Level for this location.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_PARIS_DESC": "Unlocks the Professional Difficulty Level for this location."
+		},
+		"en": {
+			"UI_DIFFICULTY_UNLOCK_PRO1_PARIS": "Unlock Professional Difficulty Level",
+			"UI_DIFFICULTY_UNLOCK_PRO1_COASTALTOWN": "Unlock Professional Difficulty Level",
+			"UI_DIFFICULTY_UNLOCK_PRO1_MARRAKECH": "Unlock Professional Difficulty Level",
+			"UI_DIFFICULTY_UNLOCK_PRO1_BANGKOK": "Unlock Professional Difficulty Level",
+			"UI_DIFFICULTY_UNLOCK_PRO1_COLORADO": "Unlock Professional Difficulty Level",
+			"UI_DIFFICULTY_UNLOCK_PRO1_HOKKAIDO": "Unlock Professional Difficulty Level",
+			"UI_DIFFICULTY_UNLOCK_PRO1_HOKKAIDO_DESC": "Unlocks the Professional Difficulty Level for this location.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_COLORADO_DESC": "Unlocks the Professional Difficulty Level for this location.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_BANGKOK_DESC": "Unlocks the Professional Difficulty Level for this location.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_MARRAKECH_DESC": "Unlocks the Professional Difficulty Level for this location.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_COASTALTOWN_DESC": "Unlocks the Professional Difficulty Level for this location.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_PARIS_DESC": "Unlocks the Professional Difficulty Level for this location."
+		},
+		"fr": {
+			"UI_DIFFICULTY_UNLOCK_PRO1_PARIS": "Débloquer le niveau de difficulté Professionnel",
+			"UI_DIFFICULTY_UNLOCK_PRO1_COASTALTOWN": "Débloquer le niveau de difficulté Professionnel",
+			"UI_DIFFICULTY_UNLOCK_PRO1_MARRAKECH": "Débloquer le niveau de difficulté Professionnel",
+			"UI_DIFFICULTY_UNLOCK_PRO1_BANGKOK": "Débloquer le niveau de difficulté Professionnel",
+			"UI_DIFFICULTY_UNLOCK_PRO1_COLORADO": "Débloquer le niveau de difficulté Professionnel",
+			"UI_DIFFICULTY_UNLOCK_PRO1_HOKKAIDO": "Débloquer le niveau de difficulté Professionnel",
+			"UI_DIFFICULTY_UNLOCK_PRO1_HOKKAIDO_DESC": "Débloque le niveau de difficulté Professionnel pour cette destination.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_COLORADO_DESC": "Débloque le niveau de difficulté Professionnel pour cette destination.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_BANGKOK_DESC": "Débloque le niveau de difficulté Professionnel pour cette destination.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_MARRAKECH_DESC": "Débloque le niveau de difficulté Professionnel pour cette destination.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_COASTALTOWN_DESC": "Débloque le niveau de difficulté Professionnel pour cette destination.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_PARIS_DESC": "Débloque le niveau de difficulté Professionnel pour cette destination."
+		},
+		"it": {
+			"UI_DIFFICULTY_UNLOCK_PRO1_PARIS": "Sblocca il livello di difficoltà Professionista",
+			"UI_DIFFICULTY_UNLOCK_PRO1_COASTALTOWN": "Sblocca il livello di difficoltà Professionista",
+			"UI_DIFFICULTY_UNLOCK_PRO1_MARRAKECH": "Sblocca il livello di difficoltà Professionista",
+			"UI_DIFFICULTY_UNLOCK_PRO1_BANGKOK": "Sblocca il livello di difficoltà Professionista",
+			"UI_DIFFICULTY_UNLOCK_PRO1_COLORADO": "Sblocca il livello di difficoltà Professionista",
+			"UI_DIFFICULTY_UNLOCK_PRO1_HOKKAIDO": "Sblocca il livello di difficoltà Professionista",
+			"UI_DIFFICULTY_UNLOCK_PRO1_HOKKAIDO_DESC": "Sblocca il livello di difficoltà Professionista per questo scenario.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_COLORADO_DESC": "Sblocca il livello di difficoltà Professionista per questo scenario.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_BANGKOK_DESC": "Sblocca il livello di difficoltà Professionista per questo scenario.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_MARRAKECH_DESC": "Sblocca il livello di difficoltà Professionista per questo scenario.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_COASTALTOWN_DESC": "Sblocca il livello di difficoltà Professionista per questo scenario.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_PARIS_DESC": "Sblocca il livello di difficoltà Professionista per questo scenario."
+		},
+		"de": {
+			"UI_DIFFICULTY_UNLOCK_PRO1_PARIS": "Profi-Schwierigkeitsgrad freischalten",
+			"UI_DIFFICULTY_UNLOCK_PRO1_COASTALTOWN": "Profi-Schwierigkeitsgrad freischalten",
+			"UI_DIFFICULTY_UNLOCK_PRO1_MARRAKECH": "Profi-Schwierigkeitsgrad freischalten",
+			"UI_DIFFICULTY_UNLOCK_PRO1_BANGKOK": "Profi-Schwierigkeitsgrad freischalten",
+			"UI_DIFFICULTY_UNLOCK_PRO1_COLORADO": "Profi-Schwierigkeitsgrad freischalten",
+			"UI_DIFFICULTY_UNLOCK_PRO1_HOKKAIDO": "Profi-Schwierigkeitsgrad freischalten",
+			"UI_DIFFICULTY_UNLOCK_PRO1_HOKKAIDO_DESC": "Schaltet den Profi-Schwierigkeitsgrad für diesen Ort frei.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_COLORADO_DESC": "Schaltet den Profi-Schwierigkeitsgrad für diesen Ort frei.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_BANGKOK_DESC": "Schaltet den Profi-Schwierigkeitsgrad für diesen Ort frei.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_MARRAKECH_DESC": "Schaltet den Profi-Schwierigkeitsgrad für diesen Ort frei.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_COASTALTOWN_DESC": "Schaltet den Profi-Schwierigkeitsgrad für diesen Ort frei.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_PARIS_DESC": "Schaltet den Profi-Schwierigkeitsgrad für diesen Ort frei."
+		},
+		"es": {
+			"UI_DIFFICULTY_UNLOCK_PRO1_PARIS": "Desbloquear el nivel de dificultad profesional",
+			"UI_DIFFICULTY_UNLOCK_PRO1_COASTALTOWN": "Desbloquear el nivel de dificultad profesional",
+			"UI_DIFFICULTY_UNLOCK_PRO1_MARRAKECH": "Desbloquear el nivel de dificultad profesional",
+			"UI_DIFFICULTY_UNLOCK_PRO1_BANGKOK": "Desbloquear el nivel de dificultad profesional",
+			"UI_DIFFICULTY_UNLOCK_PRO1_COLORADO": "Desbloquear el nivel de dificultad profesional",
+			"UI_DIFFICULTY_UNLOCK_PRO1_HOKKAIDO": "Desbloquear el nivel de dificultad profesional",
+			"UI_DIFFICULTY_UNLOCK_PRO1_HOKKAIDO_DESC": "Desbloquea el nivel de dificultad profesional para este destino.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_COLORADO_DESC": "Desbloquea el nivel de dificultad profesional para este destino.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_BANGKOK_DESC": "Desbloquea el nivel de dificultad profesional para este destino.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_MARRAKECH_DESC": "Desbloquea el nivel de dificultad profesional para este destino.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_COASTALTOWN_DESC": "Desbloquea el nivel de dificultad profesional para este destino.",
+			"UI_DIFFICULTY_UNLOCK_PRO1_PARIS_DESC": "Desbloquea el nivel de dificultad profesional para este destino."
+		}
+	}
+}

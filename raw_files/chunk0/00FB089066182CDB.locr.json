@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00FB089066182CDB",
+	"languages": {
+		"xx": {
+			"2EF13D4A": "Title_“Dynamite Smile”",
+			"B7F86CF0": "Summary_Abiatti is a vain man, and when a camera is on him - he expects the best backdrop. No matter the danger that lies next to him.",
+			"C0FF5C66": "Briefing_You can say what you want about Abiatti, but he knows how to sell himself. The Sapienza sunset is known to be one of the most beautiful sunsets in all of Italy and a perfect photo opportunity for Abiatti. Maybe you can fire it up little more.",
+			"5E9BC9C5": "Conclusion_Well done 47. Vanity is a fickle thing. But I’m sure the fireworks is equally so.",
+			"299CF953": "Step1_Find the note",
+			"B095A8E9": "Step2_Tamper with the fireworks",
+			"C792987F": "Step3_Listen in on the fireworks crew",
+			"572D85EE": "Step4_Find the remote controller",
+			"202AB578": "Step5_Get the Photographer's disguise",
+			"40ED3C9D": "Step6_Lure Abiatti to the pier",
+			"37EA0C0B": "Failed_Abiatti is pleased with the photo and has rejoined his party",
+			"AEE35DB1": "Step7_Locate Fireworks Crew"
+		},
+		"en": {
+			"2EF13D4A": "Dynamite Smile",
+			"B7F86CF0": "Abiatti is a vain man, and when a camera is on him, he expects the best backdrop. No matter the danger that lies next to him.",
+			"C0FF5C66": "You can say what you want about Abiatti, but he knows how to sell himself. The Sapienza sunset is known to be one of the most beautiful sunsets in all of Italy and a perfect photo opportunity for Abiatti. Maybe you can fire it up little more.",
+			"5E9BC9C5": "Well done, 47. Vanity is a fickle thing. But I’m sure the fireworks is equally so.",
+			"299CF953": "Find the note",
+			"B095A8E9": "Tamper with the fireworks",
+			"C792987F": "Listen in on the fireworks crew",
+			"572D85EE": "Find the remote controller",
+			"202AB578": "Disguise yourself as the Photographer",
+			"40ED3C9D": "Lure Abiatti to the pier",
+			"37EA0C0B": "Abiatti is pleased with the photo and has rejoined his party",
+			"AEE35DB1": "Find the location where they control the fireworks"
+		},
+		"fr": {
+			"2EF13D4A": "Un sourire explosif",
+			"B7F86CF0": "Abiatti est un homme orgueilleux. Lorsqu'une caméra le filme, il veut apparaître sur le plus bel arrière-plan, même si c'est dangereux.",
+			"C0FF5C66": "On dira ce qu'on veut d'Abiatti, en tout cas il sait se vendre. Le coucher de soleil de Sapienza est l'un des plus beaux de toute l'Italie, c'est l'opportunité photo parfaite pour Abiatti. Peut-être que vous pouvez en lancer quelques autres.",
+			"5E9BC9C5": "Bien joué, 47. On peut aisément jouer avec l'orgueil, mais avec les feux d'artifices aussi.",
+			"299CF953": "Trouvez la note",
+			"B095A8E9": "Sabotez les feux d'artifice",
+			"C792987F": "Espionnez l'équipe des feux d'artifice",
+			"572D85EE": "Trouvez le détonateur",
+			"202AB578": "Déguisez-vous en photographe",
+			"40ED3C9D": "Attirez Abiatti sur le quai",
+			"37EA0C0B": "Abiatti est satisfait de la photo et a rejoint la fête",
+			"AEE35DB1": "Localisez l'emplacement depuis lequel les feux d'artifice sont lancés"
+		},
+		"it": {
+			"2EF13D4A": "Sorriso esplosivo",
+			"B7F86CF0": "Abiatti è un vanesio e quando è di fronte alle telecamere pretende una cornice adeguata. Senza preoccuparsi di eventuali pericoli.",
+			"C0FF5C66": "Si può dire tutto di Abiatti, tranne che non sappia come fare colpo. I tramonti di Sapienza sono tra i più suggestivi d'Italia e per Abiatti rappresentano un'ottima occasione per farsi scattare una foto. Forse puoi renderla ancora più spettacolare.",
+			"5E9BC9C5": "Ben fatto, 47. I vanesi possono essere piuttosto capricciosi, ma scommetto che lo stesso può dirsi dei fuochi d'artificio.",
+			"299CF953": "Trova l'appunto",
+			"B095A8E9": "Manometti i fuochi d'artificio",
+			"C792987F": "Ascolta gli addetti ai fuochi d'artificio",
+			"572D85EE": "Trova il telecomando dei fuochi d'artificio",
+			"202AB578": "Travestiti da fotografo",
+			"40ED3C9D": "Attira Abiatti al molo",
+			"37EA0C0B": "Abiatti ha apprezzato la foto ed è tornato alla sua festa",
+			"AEE35DB1": "Scopri da dove controllano i fuochi d'artificio"
+		},
+		"de": {
+			"2EF13D4A": "Tödliches Lächeln",
+			"B7F86CF0": "Abiatti ist ausgesprochen eitel. Sobald eine Kamera auf ihn gerichtet ist, lächelt er hinein. Egal, in welcher Gefahr er schwebt.",
+			"C0FF5C66": "Man kann von Abiatti halten, was man will, aber der Mann weiß sich zu inszenieren. Sapienza hat einen der schönsten Sonnenuntergänge Italiens und bietet ihm die perfekte Kulisse für ein perfektes Foto. Vielleicht können Sie es ja zusätzlich ausleuchten.",
+			"5E9BC9C5": "Gute Arbeit, 47. Eitelkeit kann verdammt gefährlich sein. Genau wie das Feuerwerk.",
+			"299CF953": "Finden Sie die Notiz",
+			"B095A8E9": "Manipulieren Sie das Feuerwerk",
+			"C792987F": "Belauschen Sie die Feuerwerker",
+			"572D85EE": "Finden Sie die Fernbedienung",
+			"202AB578": "Verkleiden Sie sich als Fotograf",
+			"40ED3C9D": "Locken Sie Abiatti zum Pier",
+			"37EA0C0B": "Abiatti ist mit dem Foto zufrieden und hat sich wieder unter die Partygäste gemischt",
+			"AEE35DB1": "Finden Sie die Stelle, von der das Feuerwerk gesteuert wird"
+		},
+		"es": {
+			"2EF13D4A": "Sonrisa explosiva",
+			"B7F86CF0": "Abiatti es un vanidoso, y cuando está delante de una cámara exige el mejor decorado, sin importar los peligros a los que se exponga.",
+			"C0FF5C66": "Digan lo que digan sobre Abiatti, el hombre sabe venderse. Los atardeceres de Sapienza son de los más bellos de toda Italia y también suponen un momento ideal para que Abiatti se saque una foto. Quizá podrías darle un poco más de chispa.",
+			"5E9BC9C5": "Bien hecho, 47. La vanidad puede ser muy caprichosa. Pero los fuegos artificiales también.",
+			"299CF953": "Encuentra la nota",
+			"B095A8E9": "Sabotea los fuegos artificiales",
+			"C792987F": "Espía a los del equipo de pirotecnia",
+			"572D85EE": "Encuentra el detonador a distancia",
+			"202AB578": "Disfrázate de fotógrafo",
+			"40ED3C9D": "Consigue que Abiatti vaya al embarcadero",
+			"37EA0C0B": "Abiatti está conforme con la foto y ha vuelto a la fiesta",
+			"AEE35DB1": "Encuentra desde dónde se controlan los fuegos artificiales"
+		}
+	}
+}

@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "008D3E27AFE705A3",
+	"languages": {
+		"xx": {
+			"C7240469": "Blackmailer",
+			"69A967CC": "Flavor",
+			"B61E9DB5": "Description",
+			"5C4C5CFF": "Conclusion",
+			"509302C6": "Retrieve the keys for the van",
+			"8B48E4FD": "Search for the mascots old van in the garage",
+			"EA54E7D9": "Find and retrieve the documents",
+			"85DA9703": "Reach the meeting area and play the part",
+			"71C8CB78": "Become the Mascot"
+		},
+		"en": {
+			"C7240469": "Pretty in Pink",
+			"69A967CC": "A disgruntled Kronstadt employee has acquired some dirt on Sierra Knox and intends on blackmailing her. Disguised as one of the racing mascots, he plans to meet Sierra by the old motel. Well. I always did feel that pink was your color, 47.",
+			"B61E9DB5": "A blackmailer in a pink flamingo outfit. Sierra Knox keeps some colorful enemies.",
+			"5C4C5CFF": "So far so good, 47. Now, let’s see where this meeting is headed.",
+			"509302C6": "Find the blackmailing mascot's keys",
+			"8B48E4FD": "Locate the mascot's old van",
+			"EA54E7D9": "Find the incriminating documents",
+			"85DA9703": "Locate the meeting area and play the part",
+			"71C8CB78": "Disguise yourself as the mascot"
+		},
+		"fr": {
+			"C7240469": "Rose Bonbon",
+			"69A967CC": "Un employé mécontent de Kronstadt est en possession d'informations compromettantes concernant Sierra Knox et prévoit de la faire chanter. Déguisé en l'une des mascottes de la course, il prévoit de rencontrer Sierra au vieux motel. Bien, j'ai toujours pensé que le rose était votre couleur, 47.",
+			"B61E9DB5": "Un maître-chanteur en costume de flamant rose. Sierra Knox a des ennemis hauts en couleur.",
+			"5C4C5CFF": "Jusqu'ici tout va bien, 47. Maintenant, attendons de voir comment cette rencontre va évoluer.",
+			"509302C6": "Récupérez les clés du maître-chanteur déguisé en mascotte",
+			"8B48E4FD": "Cherchez le vieux fourgon de la mascotte dans le garage",
+			"EA54E7D9": "Trouvez les documents compromettants",
+			"85DA9703": "Trouvez le lieu de rendez-vous et jouez le jeu",
+			"71C8CB78": "Déguisez-vous en mascotte"
+		},
+		"it": {
+			"C7240469": "Bella in rosa",
+			"69A967CC": "Un contrariato impiegato Kronstadt è entrato in possesso di documenti incriminanti su Sierra Knox e ha intenzione di ricattarla. Travestito da mascotte, ha pianificato di incontrare Sierra vicino al vecchio motel. Bene. Ho sempre avuto la sensazione che il rosa ti donasse, 47.",
+			"B61E9DB5": "Un ricattatore vestito da fenicottero rosa. Sierra Knox ha dei nemici veramente colorati.",
+			"5C4C5CFF": "Fin qui tutto bene, 47. Adesso vediamo come andrà ad evolversi quest'incontro.",
+			"509302C6": "Trova le chiavi della mascotte ricattatrice",
+			"8B48E4FD": "Cerca il vecchio van della mascotte",
+			"EA54E7D9": "Trova i documenti incriminanti",
+			"85DA9703": "Trova il punto d'incontro e recita la parte",
+			"71C8CB78": "Travestiti da mascotte"
+		},
+		"de": {
+			"C7240469": "Pretty in Pink",
+			"69A967CC": "Ein angefressener Angestellter von Kronstadt hat irgendwelchen Dreck über Sierra Knox ausgegraben und will sie jetzt erpressen. Er hat sich als eines der Rennmaskottchen verkleidet und ein Treffen mit Sierra Knox am alten Motel arrangiert. Tja, ich war immer der Meinung, dass Rosa Ihnen steht, 47.",
+			"B61E9DB5": "Ein Erpresser im rosa Flamingo-Kostüm. Sierra Knox hat aber wirklich schillernde Feinde.",
+			"5C4C5CFF": "So weit, so gut, 47. Mal sehen, wohin dieses Treffen noch führt.",
+			"509302C6": "Finden Sie die Schlüssel des Erpresser-Maskottchens.",
+			"8B48E4FD": "Suchen Sie den alten Van des Maskottchens.",
+			"EA54E7D9": "Finden Sie die belastenden Dokumente.",
+			"85DA9703": "Suchen Sie den Treffpunkt und spielen Sie Ihre Rolle.",
+			"71C8CB78": "Verkleiden Sie sich als Maskottchen."
+		},
+		"es": {
+			"C7240469": "La chica de rosa",
+			"69A967CC": "Un empleado descontento de Kronstadt ha descubierto los trapos sucios de Sierra Knox e intenta chantajearla. Tiene previsto disfrazarse como una de las mascotas de la carrera y reunirse con Sierra junto al viejo motel. En fin, siempre he sabido que el rosa era tu color, 47.",
+			"B61E9DB5": "Un chantajista vestido de flamenco rosa. Sierra Knox tiene amigos coloridos.",
+			"5C4C5CFF": "Todo bien por ahora, 47. Veamos hacia dónde nos conduce la conversación.",
+			"509302C6": "Busca las llaves de la mascota chantajista",
+			"8B48E4FD": "Encuentra la vieja furgoneta de la mascota",
+			"EA54E7D9": "Busca los documentos de chantaje",
+			"85DA9703": "Encuentra el punto de reunión y representa tu papel",
+			"71C8CB78": "Disfrázate de mascota"
+		}
+	}
+}

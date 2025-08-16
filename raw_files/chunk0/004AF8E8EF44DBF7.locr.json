@@ -1,0 +1,78 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "004AF8E8EF44DBF7",
+	"languages": {
+		"xx": {
+			"9522A147": "Find and eliminate a guard without being spotted, then hide the body",
+			"C0B47315": "Skilled Assassin",
+			"9111F477": "Get close to the guard without being spotted",
+			"0818A5CD": "Mark and eliminate the guard while remaining unspotted",
+			"7F1F955B": "Hide the body while remaining unspotted",
+			"E17B00F8": "Get to an exit without being spotted",
+			"0D919386": "Skillful Contracts focus on achieving the cleanest possible kill in the best possible way.",
+			"3C02F825": "You eliminated the target and reached an exit without being spotted at any point during the mission!",
+			"EF9139FC": "You were spotted doing something suspicious or illegal! Restart to retry this opportunity.",
+			"0D7D1D8E": "You pacified and dumped the guard in a container - now he cannot be eliminated or tagged. Restart to retry this opportunity."
+		},
+		"en": {
+			"9522A147": "Find and eliminate a guard without getting spotted. Hide the body.",
+			"C0B47315": "Skilled Assassin",
+			"9111F477": "Get close to the guard without getting spotted",
+			"0818A5CD": "Mark and eliminate the guard without getting spotted",
+			"7F1F955B": "Hide the body without getting spotted",
+			"E17B00F8": "Get to an exit without getting spotted",
+			"0D919386": "Skillful contracts focus on achieving the cleanest possible elimination in the best possible way.",
+			"3C02F825": "You eliminated the target and reached an exit without getting spotted at any point during the mission!",
+			"EF9139FC": "You got spotted doing something suspicious or illegal! Restart the mission to retry this Mission Story.",
+			"0D7D1D8E": "You pacified and then dumped the guard in a container. Now he cannot be eliminated or marked. Restart the mission to retry this Mission Story."
+		},
+		"fr": {
+			"9522A147": "Trouvez et éliminez un garde sans vous faire repérer, puis cachez son corps.",
+			"C0B47315": "Assassin expérimenté",
+			"9111F477": "Rapprochez-vous du garde sans vous faire repérer",
+			"0818A5CD": "Marquez et éliminez le garde sans vous faire repérer.",
+			"7F1F955B": "Cachez le corps toujours sans vous faire repérer",
+			"E17B00F8": "Trouvez une sortie sans vous faire repérer",
+			"0D919386": "Les contrats expérimentés se concentrent sur la façon la plus propre d'éliminer une cible.",
+			"3C02F825": "Vous avez éliminé la cible et atteint une sortie sans vous faire repérer une seule fois durant la mission !",
+			"EF9139FC": "Vous avez été repéré en train de faire quelque chose de suspect ou d'illégal ! Recommencez pour retenter cette intrigue.",
+			"0D7D1D8E": "Vous avez neutralisé et jeté le garde dans un conteneur, il ne peut donc plus être marqué ni éliminé. Recommencez pour retenter cette intrigue."
+		},
+		"it": {
+			"9522A147": "Trova ed elimina una guardia senza farti scoprire, quindi nascondi il corpo.",
+			"C0B47315": "Assassino abile",
+			"9111F477": "Avvicinati alla guardia senza farti scoprire",
+			"0818A5CD": "Designa ed elimina la guardia senza farti scoprire",
+			"7F1F955B": "Nascondi il corpo senza farti scoprire",
+			"E17B00F8": "Raggiungi un'uscita senza farti scoprire",
+			"0D919386": "I contratti abilità richiedono di effettuare eliminazioni impeccabili nel modo più efficiente.",
+			"3C02F825": "Hai eliminato il bersaglio e raggiunto un'uscita senza mai essere scoperto durante la missione!",
+			"EF9139FC": "Sei stato sorpreso a commettere un'azione illegale! Riavvia per ritentare questa Storia della missione.",
+			"0D7D1D8E": "Hai neutralizzato la guardia, nascondendola poi in un contenitore. Non potrai eliminarla o designarla. Riavvia per ritentare questa Storia della missione."
+		},
+		"de": {
+			"9522A147": "Finden und eliminieren Sie einen Wachmann, ohne bemerkt zu werden, und verstecken Sie anschließend die Leiche.",
+			"C0B47315": "Geschickter Killer",
+			"9111F477": "Nähern Sie sich dem Wachmann, ohne bemerkt zu werden",
+			"0818A5CD": "Markieren und eliminieren Sie den Wachmann, ohne bemerkt zu werden",
+			"7F1F955B": "Verstecken Sie die Leiche, ohne bemerkt zu werden",
+			"E17B00F8": "Erreichen Sie einen Ausgang, ohne bemerkt zu werden",
+			"0D919386": "Bei Geschickten Aufträgen geht es darum, das Ziel möglichst sauber und präzise zu eliminieren.",
+			"3C02F825": "Sie haben die Zielperson eliminiert und einen Ausgang erreicht, ohne während der gesamten Mission bemerkt zu werden!",
+			"EF9139FC": "Sie wurden bei einer illegalen Aktion beobachtet! Starten Sie neu und versuchen Sie die Story-Mission noch einmal.",
+			"0D7D1D8E": "Sie haben den Wachmann ruhiggestellt und in einem Container abgelegt. Er kann deshalb nicht eliminiert oder markiert werden. Starten Sie die Mission neu und versuchen Sie die Story-Mission noch einmal."
+		},
+		"es": {
+			"9522A147": "Busca a un guardia y elimínalo sin que te detecten, luego oculta el cuerpo.",
+			"C0B47315": "Asesino hábil",
+			"9111F477": "Acércate al guardia sin que te detecten",
+			"0818A5CD": "Marca al guardia y elimínalo sin que te detecten",
+			"7F1F955B": "Oculta el cuerpo sin que te detecten",
+			"E17B00F8": "Dirígete a una salida sin que te detecten",
+			"0D919386": "Los contratos hábiles se basan en lograr el asesinato más limpio de la mejor forma posible.",
+			"3C02F825": "¡Has eliminado al objetivo y alcanzado una salida sin que te detectaran en ningún momento de la misión!",
+			"EF9139FC": "¡Te han descubierto haciendo algo sospechoso o ilegal!Reinicia la misión para volver a intentar esta historia de la misión",
+			"0D7D1D8E": "Has dejado inconsciente a un guardia y lo has tirado a un contenedor. Ya no puedes eliminarlo o marcarlo. Reinicia la misión para volver a intentar esta historia de la misión."
+		}
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/online/gamechangers/gamechangers_thefacility.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"UI_GAMECHANGERS_MODULE_002_ALL_CAMERAS_DESC": "Additional security cameras are present. If recorded by security camera, delete evidence within 2 minutes.",
+			"UI_GAMECHANGERS_MODULE_002_ALL_CAMERAS_NAME": "Big Brother",
+			"UI_GAMECHANGERS_MODULE_002_ALL_CAMERAS_OBJ_1": "Erase security tape within 2 minutes",
+			"UI_GAMECHANGERS_MODULE_002_GUARD_ENFORCERS_DESC": "All Yacht Security enforce own disguise and Yacht Crew disguise",
+			"UI_GAMECHANGERS_MODULE_002_GUARD_ENFORCERS_NAME": "Enhanced Enforcers",
+			"UI_GAMECHANGERS_MODULE_005_SAFE_DESC": "Break into the safe in the hangar, and steal the contents.",
+			"UI_GAMECHANGERS_MODULE_005_SAFE_TITLE": "Break and Enter"
+		},
+		"en": {
+			"UI_GAMECHANGERS_MODULE_002_ALL_CAMERAS_DESC": "Additional security cameras are present. If recorded by a security camera, delete the evidence within two minutes.",
+			"UI_GAMECHANGERS_MODULE_002_ALL_CAMERAS_NAME": "Big Brother",
+			"UI_GAMECHANGERS_MODULE_002_ALL_CAMERAS_OBJ_1": "Erase video evidence within 2 minutes",
+			"UI_GAMECHANGERS_MODULE_002_GUARD_ENFORCERS_DESC": "All yacht security see through the yacht security and crew disguises.",
+			"UI_GAMECHANGERS_MODULE_002_GUARD_ENFORCERS_NAME": "Enhanced Enforcers",
+			"UI_GAMECHANGERS_MODULE_005_SAFE_DESC": "Break into the hangar safe and steal its contents.",
+			"UI_GAMECHANGERS_MODULE_005_SAFE_TITLE": "Break and Enter"
+		},
+		"fr": {
+			"UI_GAMECHANGERS_MODULE_002_ALL_CAMERAS_DESC": "Vous êtes épié par plus de caméras. Si l'une d'entre elles vous enregistre, vous avez deux minutes pour effacer la preuve.",
+			"UI_GAMECHANGERS_MODULE_002_ALL_CAMERAS_NAME": "Big Brother",
+			"UI_GAMECHANGERS_MODULE_002_ALL_CAMERAS_OBJ_1": "Effacez la preuve vidéo en moins de 2 minutes",
+			"UI_GAMECHANGERS_MODULE_002_GUARD_ENFORCERS_DESC": "Aucun membre de la sécurité du yacht ne se laissera berner par les déguisements de membre de l'équipage ou de la sécurité du yacht.",
+			"UI_GAMECHANGERS_MODULE_002_GUARD_ENFORCERS_NAME": "Agents améliorés",
+			"UI_GAMECHANGERS_MODULE_005_SAFE_DESC": "Forcez le coffre du hangar et volez son contenu.",
+			"UI_GAMECHANGERS_MODULE_005_SAFE_TITLE": "Effraction"
+		},
+		"it": {
+			"UI_GAMECHANGERS_MODULE_002_ALL_CAMERAS_DESC": "Sono state aggiunte delle telecamere di sorveglianza. Se vieni inquadrato, elimina la registrazione entro 2 minuti.",
+			"UI_GAMECHANGERS_MODULE_002_ALL_CAMERAS_NAME": "Grande fratello",
+			"UI_GAMECHANGERS_MODULE_002_ALL_CAMERAS_OBJ_1": "Cancella le registrazioni di sorveglianza entro 2 minuti",
+			"UI_GAMECHANGERS_MODULE_002_GUARD_ENFORCERS_DESC": "Tutte le guardie di sicurezza dello yacht smascherano i travestimenti da membro dell'equipaggio e da sicurezza dello yacht.",
+			"UI_GAMECHANGERS_MODULE_002_GUARD_ENFORCERS_NAME": "Sorveglianza potenziata",
+			"UI_GAMECHANGERS_MODULE_005_SAFE_DESC": "Scassina la cassaforte nell'hangar e ruba il contenuto.",
+			"UI_GAMECHANGERS_MODULE_005_SAFE_TITLE": "Furto con scasso"
+		},
+		"de": {
+			"UI_GAMECHANGERS_MODULE_002_ALL_CAMERAS_DESC": "Zusätzliche Überwachungskameras installiert. Werden Sie von einer Kamera gefilmt, zerstören Sie die Beweise innerhalb von 2 Minuten.",
+			"UI_GAMECHANGERS_MODULE_002_ALL_CAMERAS_NAME": "Big Brother",
+			"UI_GAMECHANGERS_MODULE_002_ALL_CAMERAS_OBJ_1": "Vernichten Sie die Aufnahmen innerhalb von 2 Minuten",
+			"UI_GAMECHANGERS_MODULE_002_GUARD_ENFORCERS_DESC": "Alle Wachen durchschauen die Verkleidung als Besatzungsmitglied und Wachmann.",
+			"UI_GAMECHANGERS_MODULE_002_GUARD_ENFORCERS_NAME": "Aufmerksame Aufpasser",
+			"UI_GAMECHANGERS_MODULE_005_SAFE_DESC": "Brechen Sie in den Safe im Hangar ein und stehlen Sie dessen Inhalt.",
+			"UI_GAMECHANGERS_MODULE_005_SAFE_TITLE": "Einbruch"
+		},
+		"es": {
+			"UI_GAMECHANGERS_MODULE_002_ALL_CAMERAS_DESC": "Hay más cámaras de seguridad. Si te graba una, borra las pruebas en menos de 2 minutos.",
+			"UI_GAMECHANGERS_MODULE_002_ALL_CAMERAS_NAME": "Gran Hermano",
+			"UI_GAMECHANGERS_MODULE_002_ALL_CAMERAS_OBJ_1": "Borra las pruebas en menos de 2 minutos",
+			"UI_GAMECHANGERS_MODULE_002_GUARD_ENFORCERS_DESC": "Todos los guardias de seguridad del yate te descubrirán si llevas su disfraz o el de miembro de la tripulación.",
+			"UI_GAMECHANGERS_MODULE_002_GUARD_ENFORCERS_NAME": "Atención mejorada",
+			"UI_GAMECHANGERS_MODULE_005_SAFE_DESC": "Fuerza la caja fuerte del hangar y roba su contenido.",
+			"UI_GAMECHANGERS_MODULE_005_SAFE_TITLE": "Allanamiento de morada"
+		}
+	}
+}

@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "009D138E41BCD5A9",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_1_TITLE": "The Agana Abyss - Level 1",
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_2_TITLE": "The Agana Abyss - Level 2",
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_3_TITLE": "The Agana Abyss - Level 3",
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_4_TITLE": "The Agana Abyss - Level 4",
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_5_TITLE": "The Agana Abyss - Level 5",
+			"UI_CONTRACT_MOON_FLOWER_GROUP_TITLE": "The Agana Abyss",
+			"UI_CONTRACT_MOON_FLOWER_GROUP_DESC": "Five level escalation in Sapienza",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_1_1": "Eliminate Roberto Greco with a shotgun or an explosion",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_2_1": "Eliminate Arnaldo Monaldo with a shotgun or an explosion",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_3": "Hack the laptop in Dino Bosco's trailer",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_2_2": "Eliminate Francesco Lucchese with a shotgun or an explosion",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_1_2": "Eliminate Amaranto 'Tony' Mazzi with a shotgun or an explosion"
+		},
+		"en": {
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_1_TITLE": "The Agana Abyss - Level 1",
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_2_TITLE": "The Agana Abyss - Level 2",
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_3_TITLE": "The Agana Abyss - Level 3",
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_4_TITLE": "The Agana Abyss - Level 4",
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_5_TITLE": "The Agana Abyss - Level 5",
+			"UI_CONTRACT_MOON_FLOWER_GROUP_TITLE": "The Agana Abyss",
+			"UI_CONTRACT_MOON_FLOWER_GROUP_DESC": "Five level Escalation in Sapienza.",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_1_1": "Eliminate Roberto Greco with a shotgun or an explosion",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_2_1": "Eliminate Arnaldo Monaldo with a shotgun or an explosion",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_3": "Hack the laptop in Dino Bosco's trailer",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_2_2": "Eliminate Francesco Lucchese with a shotgun or an explosion",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_1_2": "Eliminate Amaranto \"Tony\" Mazzi with a shotgun or an explosion"
+		},
+		"fr": {
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_1_TITLE": "L'abysse d'Agana - Niveau 1",
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_2_TITLE": "L'abysse d'Agana - Niveau 2",
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_3_TITLE": "L'abysse d'Agana - Niveau 3",
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_4_TITLE": "L'abysse d'Agana - Niveau 4",
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_5_TITLE": "L'abysse d'Agana - Niveau 5",
+			"UI_CONTRACT_MOON_FLOWER_GROUP_TITLE": "L'abysse d'Agana",
+			"UI_CONTRACT_MOON_FLOWER_GROUP_DESC": "Escalade en cinq niveaux à Sapienza.",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_1_1": "Éliminez Roberto Greco au fusil à pompe ou dans une explosion",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_2_1": "Éliminez Arnaldo Monaldo au fusil à pompe ou dans une explosion",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_3": "Piratez l'ordinateur portable dans la caravane de Dino Bosco",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_2_2": "Éliminez Francesco Lucchese au fusil à pompe ou dans une explosion",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_1_2": "Éliminez Amaranto \"Tony\" Mazzi  au fusil à pompe ou dans une explosion"
+		},
+		"it": {
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_1_TITLE": "L'abisso di Agana - Livello 1",
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_2_TITLE": "L'abisso di Agana - Livello 2",
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_3_TITLE": "L'abisso di Agana - Livello 3",
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_4_TITLE": "L'abisso di Agana - Livello 4",
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_5_TITLE": "L'abisso di Agana - Livello 5",
+			"UI_CONTRACT_MOON_FLOWER_GROUP_TITLE": "L'abisso di Agana",
+			"UI_CONTRACT_MOON_FLOWER_GROUP_DESC": "Escalation di cinque livelli a Sapienza.",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_1_1": "Elimina Roberto Greco con un fucile a pompa o con un'esplosione",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_2_1": "Elimina Arnaldo Monaldo con un fucile a pompa o con un'esplosione",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_3": "Viola il portatile nella roulotte di Dino Bosco",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_2_2": "Elimina Francesco Lucchese con un fucile a pompa o con un'esplosione",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_1_2": "Elimina Amaranto \"Tony\" Mazzi con un fucile a pompa o con un'esplosione"
+		},
+		"de": {
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_1_TITLE": "Der Agana-Abgrund – Stufe 1",
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_2_TITLE": "Der Agana-Abgrund – Stufe 2",
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_3_TITLE": "Der Agana-Abgrund – Stufe 3",
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_4_TITLE": "Der Agana-Abgrund – Stufe 4",
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_5_TITLE": "Der Agana-Abgrund – Stufe 5",
+			"UI_CONTRACT_MOON_FLOWER_GROUP_TITLE": "Der Agana-Abgrund",
+			"UI_CONTRACT_MOON_FLOWER_GROUP_DESC": "Fünf-Stufen-Eskalation in Sapienza.",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_1_1": "Eliminieren Sie Roberto Greco mit einer Schrotflinte oder einer Explosion.",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_2_1": "Eliminieren Sie Arnaldo Monaldo mit einer Schrotflinte oder einer Explosion.",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_3": "Hacken Sie den Laptop in Dino Boscos Trailer",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_2_2": "Eliminieren Sie Francesco Lucchese mit einer Schrotflinte oder einer Explosion.",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_1_2": "Eliminieren Sie Amaranto „Tony“ Mazzi mit einer Schrotflinte oder einer Explosion."
+		},
+		"es": {
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_1_TITLE": "El abismo de Agana - Nivel 1",
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_2_TITLE": "El abismo de Agana - Nivel 2",
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_3_TITLE": "El abismo de Agana - Nivel 3",
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_4_TITLE": "El abismo de Agana - Nivel 4",
+			"UI_CONTRACT_MOON_FLOWER_LEVEL_5_TITLE": "El abismo de Agana - Nivel 5",
+			"UI_CONTRACT_MOON_FLOWER_GROUP_TITLE": "El abismo de Agana",
+			"UI_CONTRACT_MOON_FLOWER_GROUP_DESC": "Intensificación de cinco niveles en Sapienza.",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_1_1": "Elimina a Roberto Greco con una escopeta o una explosión",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_2_1": "Elimina a Arnaldo Monaldo con una escopeta o una explosión",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_3": "Piratea el portátil en la caravana de Dino Bosco",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_2_2": "Elimina a Francesco Lucchese con una escopeta o una explosión",
+			"UI_CONTRACT_MOON_FLOWER_OBJ_1_2": "Elimina a Amaranto \"Tony\" Mazzi con una escopeta o una explosión"
+		}
+	}
+}

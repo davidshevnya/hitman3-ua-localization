@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "002A4A51D09700F3",
+	"languages": {
+		"xx": {
+			"9A6E4020": "Title_On The House",
+			"E1BA5E2A": "Headline_Someone trashed Ken Morgan's suite. Could be useful.",
+			"99F031EE": "Briefing_According to the hotel manager's memo, drunken members of Jordan Cross' sound crew broke into the Queen Suite last night and trashed the place. Housekeeping is fast at work, which is why Ken Morgan and his bodyguard are not yet settled in. Sounds promising. According to the manager, a member of staff is supposed to escort Morgan to his suite, once the cleaning staff is done. That someone could be you, 47. I know how you love to grovel.",
+			"DD9C80C3": "Conclusion_Excellently done, 47. Let's make Morgan feel right at home.",
+			"8823E701": "Step_Get disguise",
+			"32930E85": "Step_GetKeycard",
+			"9894599B": "Step_Approach Morgan",
+			"3AA01086": "Step_EscortToPenthouse",
+			"6CFF410E": "Step_InspectSuite"
+		},
+		"en": {
+			"9A6E4020": "On The House",
+			"E1BA5E2A": "Someone trashed Ken Morgan's suite. Could be useful.",
+			"99F031EE": "According to the hotel manager's memo, drunken members of Jordan Cross' sound crew broke into the Queen Suite last night and trashed the place. Housekeeping is fast at work, which is why Ken Morgan and his bodyguard are not yet settled in. Sounds promising. According to the manager, a member of staff is supposed to escort Morgan to his suite, once the cleaning staff is done. That someone could be you, 47. I know how you love to grovel.",
+			"DD9C80C3": "Excellently done, 47. Let's make Morgan feel right at home.",
+			"8823E701": "Get a Hotel Staff disguise",
+			"32930E85": "Get a keycard",
+			"9894599B": "Approach Morgan",
+			"3AA01086": "Escort Morgan to the penthouse",
+			"6CFF410E": "Inspect the penthouse with Morgan"
+		},
+		"fr": {
+			"9A6E4020": "Aux frais de la maison",
+			"E1BA5E2A": "Quelqu'un a dévasté la suite de Ken Morgan. Ça pourrait nous être utile.",
+			"99F031EE": "Selon la note de la directrice de l'hôtel, des membres de l'équipe audio de Jordan Cross, bien éméchés, sont entrés dans la suite royale et l'ont dévastée. Les femmes de ménage sont au travail et c'est pour ça que Ken Morgan et son garde du corps ne sont pas encore installés. Un point pour nous. D'après la directrice, un membre du personnel doit conduire Morgan à sa suite lorsqu'elle sera prête. Ça pourrait être vous, 47. Je sais combien vous aimez jouer les sous-fifres.",
+			"DD9C80C3": "Excellent travail, 47. Aidons Morgan à se sentir comme chez lui.",
+			"8823E701": "Procurez-vous une tenue de personnel hôtelier",
+			"32930E85": "Récupérez une carte d'accès",
+			"9894599B": "Abordez Morgan",
+			"3AA01086": "Escortez Morgan jusqu'à la suite",
+			"6CFF410E": "Inspectez la suite avec Morgan"
+		},
+		"it": {
+			"9A6E4020": "Coccolare la clientela",
+			"E1BA5E2A": "Qualcuno ha messo a soqquadro la suite di Ken Morgan. Potrebbe tornarci utile.",
+			"99F031EE": "Secondo la nota della direttrice dell'hotel, ieri notte alcuni membri dello studio di Jordan Cross si sono ubriacati, sono entrati nella suite regale e l'hanno messa a soqquadro. Gli inservienti sono al lavoro, per questo Ken Morgan e la sua guardia del corpo non sono ancora entrati. Interessante. Secondo la direttrice, un addetto accompagnerà Morgan alla suite non appena sarà pronta. Quel qualcuno potresti essere tu, 47. So che ti piacciono i lavori umili.",
+			"DD9C80C3": "Ottimo, 47. Mettiamo Morgan a suo agio.",
+			"8823E701": "Procurati un travestimento da membro del personale dell'hotel",
+			"32930E85": "Ottieni una scheda d'accesso",
+			"9894599B": "Parla con Morgan",
+			"3AA01086": "Accompagna Morgan all'attico",
+			"6CFF410E": "Ispeziona l'attico con Morgan"
+		},
+		"de": {
+			"9A6E4020": "Auf's Haus",
+			"E1BA5E2A": "Jemand hat Ken Morgans Suite verwüstet. Das sollten wir ausnutzen.",
+			"99F031EE": "Aha. Laut des Memos der Hotelmanagerin haben betrunkene Mitglieder der Soundcrew von Jordan Cross gestern Nacht die Königinnensuite verwüstet. Da das Zimmer noch nicht wieder bezugsfertig ist, haben Ken Morgan und sein Leibwächter noch nicht eingecheckt. Das ist gut für uns. Laut der Hotelmanagerin bringt einer ihrer Mitarbeiter Morgan auf seine Suite, sobald Houskeeping das Zimmer freigibt. Dieser Mitarbeiter können Sie sein, 47. Sie spielen doch gern den Diener.",
+			"DD9C80C3": "Ausgezeichnete Arbeit, 47. Sorgen wir dafür, dass sich Morgan wie zu Hause fühlt.",
+			"8823E701": "Verkleiden Sie sich als Hotelmitarbeiter",
+			"32930E85": "Besorgen Sie eine Schlüsselkarte",
+			"9894599B": "Sprechen Sie Morgan an",
+			"3AA01086": "Begleiten Sie Morgan zum Penthaus",
+			"6CFF410E": "Sehen Sie sich mit Morgan das Penthaus an"
+		},
+		"es": {
+			"9A6E4020": "Invita la casa",
+			"E1BA5E2A": "Alguien ha destrozado la suite de Ken Morgan. Podría ser útil.",
+			"99F031EE": "Según una nota de la gerente del hotel, varios miembros del equipo de sonido de Jordan Cross entraron borrachos en la Suite Reina anoche y lo pusieron todo patas arriba. El servicio de limpieza está trabajando a destajo: por eso Ken Morgan y su guardaespaldas no se han instalado aún. Suena prometedor. Según la gerente, alguien del personal debería acompañar a Morgan a su suite en cuanto acaben con la limpieza. Ese alguien podrías ser tú, 47. Sé que te encanta rebajarte.",
+			"DD9C80C3": "Un trabajo excelente, 47. Que Morgan se sienta como en casa.",
+			"8823E701": "Consigue el disfraz de personal del hotel",
+			"32930E85": "Consigue una tarjeta",
+			"9894599B": "Acércate a Morgan",
+			"3AA01086": "Acompaña a Morgan a la suite",
+			"6CFF410E": "Inspecciona la suite con Morgan"
+		}
+	}
+}

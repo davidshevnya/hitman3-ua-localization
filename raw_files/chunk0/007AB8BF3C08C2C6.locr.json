@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "007AB8BF3C08C2C6",
+	"languages": {
+		"xx": {
+			"4AC9BFFF": "Title",
+			"D3C0EE45": "Summary",
+			"A4C7DED3": "Briefing",
+			"3AA34B70": "Conclusion",
+			"4DA47BE6": "Step 1",
+			"D4AD2A5C": "Step 2"
+		},
+		"en": {
+			"4AC9BFFF": "The Man Behind The Curtain",
+			"D3C0EE45": "The window blinds are concealing Strandberg. And not only from spectators.",
+			"A4C7DED3": "The consulate HOS wisely chose to close the window blinds facing the street, to keep the protesters from seeing Strandberg. Apparently, his very presence is a provocation. However, should you want to admire your target from afar, the remote control for the window blinds is located at the guard house.",
+			"3AA34B70": "Good idea, 47. The curtain calls, as they say.",
+			"4DA47BE6": "Find blinds controller",
+			"D4AD2A5C": "Use blinds controller"
+		},
+		"fr": {
+			"4AC9BFFF": "L'homme derrière le rideau",
+			"D3C0EE45": "Les persiennes empêchent quiconque d'apercevoir Strandberg. Pas seulement les spectateurs.",
+			"A4C7DED3": "Le chef de la sécurité du consulat a judicieusement décidé de fermer les persiennes des fenêtres donnant sur la rue, afin d'éviter que les manifestants n'aperçoivent Strandberg. Sa seule présence est déjà une provocation. Si vous souhaitez tout de même admirer votre cible de loin, sachez que la télécommande des persiennes se trouve dans la loge des gardes.",
+			"3AA34B70": "Bonne idée, 47. Que le rideau se lève !",
+			"4DA47BE6": "Trouvez la télécommande des persiennes",
+			"D4AD2A5C": "Utilisez la télécommande des persiennes"
+		},
+		"it": {
+			"4AC9BFFF": "Dietro il sipario",
+			"D3C0EE45": "Gli scurini tengono nascosto Strandberg... non solo alla vista degli spettatori.",
+			"A4C7DED3": "Il capo della sicurezza del consolato ha saggiamente scelto di chiudere gli scurini delle finestre che si affacciano sulla strada, per evitare che i contestatori possano vedere Strandberg. Anche solo esporlo rappresenterebbe una provocazione. Se tuttavia volessi ammirare il tuo bersaglio da lontano, troverai il telecomando degli scurini nella guardiola.",
+			"3AA34B70": "Ottima idea, 47. Si alza il sipario, come si suol dire.",
+			"4DA47BE6": "Trova il telecomando degli scurini",
+			"D4AD2A5C": "Usa il telecomando degli scurini"
+		},
+		"de": {
+			"4AC9BFFF": "Der Mann hinter dem Vorhang",
+			"D3C0EE45": "Die Fensterläden schützen Strandberg – und zwar nicht nur vor Schaulustigen.",
+			"A4C7DED3": "Der Sicherheitsdienst des Konsulats hat klugerweise die Fensterläden zur Straße schließen lassen, damit die Demonstranten Strandberg nicht sehen. Offenbar ist allein seine Gegenwart eine Provokation. Sollten Sie Ihr Ziel allerdings aus sicherer Entfernung bewundern wollen, finden Sie die Fernbedienung der Fensterläden im Wachhaus.",
+			"3AA34B70": "Gute Idee, 47. Das ist sozusagen sein letzter Vorhang.",
+			"4DA47BE6": "Finden Sie die Fensterladensteuerung",
+			"D4AD2A5C": "Benutzen Sie die Fensterladensteuerung"
+		},
+		"es": {
+			"4AC9BFFF": "Oculto tras el telón",
+			"D3C0EE45": "Las persianas de la ventana evitan que Strandberg sea visto, y no solo por el público.",
+			"A4C7DED3": "El jefe de seguridad del consulado tomó la sabia decisión de bajar las persianas de la ventana que daba a la calle, para evitar así que los manifestantes vieran a Strandberg. Por lo visto, su sola presencia los provoca. Aun así, si quieres observar a tu objetivo desde lejos, el mando a distancia de las persianas de la ventana se encuentra en la caseta del guardia.",
+			"3AA34B70": "Buena idea, 47. Hora de destapar la cortina de humo.",
+			"4DA47BE6": "Encuentra el mando a distancia de las persianas",
+			"D4AD2A5C": "Utiliza el mando a distancia de las persianas"
+		}
+	}
+}

@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "000887E072075763",
+	"languages": {
+		"xx": {
+			"69FBC253": "Title",
+			"D87B7DA0": "Headline",
+			"C4F1FB7F": "Briefing",
+			"52AAAE68": "Conclusion",
+			"D562641B": "",
+			"AE4F50B3": "",
+			"C9A8E241": "",
+			"F11F3BE8": "",
+			"967FFD85": ""
+		},
+		"en": {
+			"69FBC253": "Overpowered",
+			"D87B7DA0": "So. Sean Rose ordered a batch of explosive gel. What could possibly go wrong?",
+			"C4F1FB7F": "This sounds promising. The militia received a large shipment of nitroglycerin this morning, which is now stored at the munitions depot. Apparently, Rose himself plans to apply and test the gel as soon as a sample is ready.",
+			"52AAAE68": "Well done, 47. When Rose comes back, he's in for an explosive surprise.",
+			"D562641B": "Watch Rose run the breach test with the demolitions team",
+			"AE4F50B3": "Follow the Explosives Specialist",
+			"C9A8E241": "Find the Nitroglycerin",
+			"F11F3BE8": "Get an Explosives Specialist disguise",
+			"967FFD85": "Overpower the explosive gel mixture"
+		},
+		"fr": {
+			"69FBC253": "Surcharge d'énergie",
+			"D87B7DA0": "Donc, Sean Rose a commandé du gel explosif. Je ne vois pas où est le danger...",
+			"C4F1FB7F": "C'est encourageant. La milice a reçu un chargement de nitroglycérine ce matin. Il est stocké au dépôt de munitions. Apparemment, Rose prévoit de tester le gel dès qu'il sera prêt.",
+			"52AAAE68": "Beau travail, 47. Quand Rose revient, il aura une surprise... explosive.",
+			"D562641B": "Observez Rose tester l'explosif avec les spécialistes des explosifs",
+			"AE4F50B3": "Suivez le spécialiste des explosifs",
+			"C9A8E241": "Trouvez la nitroglycérine",
+			"F11F3BE8": "Procurez-vous la tenue d'un spécialiste des explosifs",
+			"967FFD85": "Surchargez le mélange"
+		},
+		"it": {
+			"69FBC253": "Potenza incontrollata",
+			"D87B7DA0": "Sean Rose ha richiesto un carico di gel esplosivo. Cosa mai potrebbe andare storto?",
+			"C4F1FB7F": "Interessante: la milizia ha ricevuto una grossa consegna di nitroglicerina stamattina. Il carico è stato riposto nel deposito delle munizioni e, a quanto pare, Rose vuole testare di persona il gel esplosivo non appena sarà pronto il primo campione.",
+			"52AAAE68": "Ben fatto, 47. Rose sta per ricevere una sorpresa esplosiva.",
+			"D562641B": "Osserva Rose mentre fa dei test con la squadra dei demolitori",
+			"AE4F50B3": "Segui l'esperto di esplosivi",
+			"C9A8E241": "Trova la nitroglicerina",
+			"F11F3BE8": "Procurati un travestimento da esperto di esplosivi",
+			"967FFD85": "Potenzia la mistura del gel esplosivo"
+		},
+		"de": {
+			"69FBC253": "Überdosiert",
+			"D87B7DA0": "Sean Rose hat also Sprengpaste bestellt. Was soll da schon schiefgehen?",
+			"C4F1FB7F": "Das klingt vielversprechend. Die Miliz hat heute früh eine große Lieferung Nitroglyzerin erhalten, die jetzt im Munitionsdepot gelagert wird. Offenbar will Rose die Paste selbst testen, sobald die Probe fertig ist.",
+			"52AAAE68": "Gut gemacht, 47. Rose erwartet bei seiner Rückkehr eine explosive Überraschung.",
+			"D562641B": "Beobachten Sie Rose und den Sprengstofftrupp beim Explosionstest",
+			"AE4F50B3": "Folgen Sie dem Sprengstoffexperten",
+			"C9A8E241": "Finden Sie das Nitroglyzerin",
+			"F11F3BE8": "Verkleiden Sie sich als Sprengstoffexperte",
+			"967FFD85": "Überdosieren Sie die Sprengpaste"
+		},
+		"es": {
+			"69FBC253": "Sobrecargado",
+			"D87B7DA0": "Veamos. Sean Rose ha pedido gel explosivo. ¿Qué puede ir mal?",
+			"C4F1FB7F": "La cosa promete. La milicia ha recibido un gran cargamento de nitroglicerina esta mañana y la han almacenado en el depósito de munición. Por lo visto, Rose quiere probar el gel en cuanto tengan lista una muestra.",
+			"52AAAE68": "Bien hecho, 47. Cuando Rose vuelva, se va a llevar una sorpresa explosiva.",
+			"D562641B": "Observa a Rose dirigir la prueba de fuerza con el equipo de explosivos",
+			"AE4F50B3": "Sigue al experto en explosivos",
+			"C9A8E241": "Encuentra la nitroglicerina",
+			"F11F3BE8": "Consigue el disfraz de experto en explosivos",
+			"967FFD85": "Sobrecarga la mezcla del gel explosivo"
+		}
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/online/challenges/challenges_orbis_seabreeze.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"UI_CHALLENGES_ORBIS_SEABREEZE_TARGETDOWN_DESC": "<li>Assassinate The Controller.</li>",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_TARGETDOWN_NAME": "The Controller",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_SIGNATURE_DESC": "Signature kill",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_SIGNATURE_NAME": "No thanks, Captain Exposition",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_SILENT_ASSASSIN_DESC": "<li>Assassinate The Controller.</li><li>Only kill the target.</il><li>No bodies found.</il><li>Do not get compromised.</il><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_SILENT_ASSASSIN_NAME": "Silent Assassin"
+		},
+		"en": {
+			"UI_CHALLENGES_ORBIS_SEABREEZE_TARGETDOWN_DESC": "<li>Assassinate the Controller.</li>",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_TARGETDOWN_NAME": "The Controller",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_SIGNATURE_DESC": "<li>[REDACTED]</li>",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_SIGNATURE_NAME": "No Thanks, Captain Exposition",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_SILENT_ASSASSIN_DESC": "<li>Assassinate the Controller.</li><li>Only eliminate the target.</li><li>No bodies found.</li><li>Do not get spotted.</li><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_SILENT_ASSASSIN_NAME": "Silent Assassin"
+		},
+		"fr": {
+			"UI_CHALLENGES_ORBIS_SEABREEZE_TARGETDOWN_DESC": "<li>Assassinez le contrôleur.</li>",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_TARGETDOWN_NAME": "Le contrôleur",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_SIGNATURE_DESC": "<li>[CENSURÉ]</li>",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_SIGNATURE_NAME": "Non merci, Cap'taine Exposition",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_SILENT_ASSASSIN_DESC": "<li>Assassinez le contrôleur.</li><li>Abattez uniquement la cible.</li><li>Aucun corps découvert.</li><li>Ne vous faites pas repérer.</li><li>Si vous êtes repéré par les caméras, effacez ou détruisez la vidéo.</li>",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_SILENT_ASSASSIN_NAME": "Assassin silencieux"
+		},
+		"it": {
+			"UI_CHALLENGES_ORBIS_SEABREEZE_TARGETDOWN_DESC": "<li>Elimina il controllore.</li>",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_TARGETDOWN_NAME": "Il controllore",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_SIGNATURE_DESC": "<li>[OSCURATO]</li>",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_SIGNATURE_NAME": "No grazie, Capitan Spiegoni",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_SILENT_ASSASSIN_DESC": "<li>Elimina il controllore.</li><li>Elimina solo il bersaglio.</li><li>Fai in modo che nessun corpo sia rinvenuto.</li><li>Non essere individuato.</li><li>Se vieni inquadrato dalle telecamere, cancella o distruggi le registrazioni.</li>",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_SILENT_ASSASSIN_NAME": "Assassino silenzioso"
+		},
+		"de": {
+			"UI_CHALLENGES_ORBIS_SEABREEZE_TARGETDOWN_DESC": "<li>Eliminieren Sie den Controller.</li>",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_TARGETDOWN_NAME": "Der Controller",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_SIGNATURE_DESC": "<li>[GESCHWÄRZT]</li>",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_SIGNATURE_NAME": "Nein, danke, Kapitän Erläuterung",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_SILENT_ASSASSIN_DESC": "<li>Eliminieren Sie den Controller.</li><li>Töten Sie nur das Ziel.</li><li>Keine Körper dürfen gefunden werden.</li><li>Bleiben Sie unbemerkt.</li><li>Werden Sie von Kameras gefilmt, löschen oder zerstören Sie die Beweise.</li>",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_SILENT_ASSASSIN_NAME": "Lautloser Killer"
+		},
+		"es": {
+			"UI_CHALLENGES_ORBIS_SEABREEZE_TARGETDOWN_DESC": "<li>Asesina al controlador.</li>",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_TARGETDOWN_NAME": "El controlador",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_SIGNATURE_DESC": "<li>[CLASIFICADO]</li>",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_SIGNATURE_NAME": "No, gracias, capitán Exposición",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_SILENT_ASSASSIN_DESC": "<li>Asesina al controlador.</li><li>Elimina solo al objetivo.</li><li>Que no descubran cuerpos.</li><li>Evita que te descubran.</li><li>Si te detectan las cámaras, borra o destruye las pruebas.</li>",
+			"UI_CHALLENGES_ORBIS_SEABREEZE_SILENT_ASSASSIN_NAME": "Asesino silencioso"
+		}
+	}
+}

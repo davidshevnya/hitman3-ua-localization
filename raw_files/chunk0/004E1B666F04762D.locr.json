@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "004E1B666F04762D",
+	"languages": {
+		"xx": {
+			"CHALLENGEPACK_MAGNESIUM_WRAPPER_NAME": "Breaking and Entering",
+			"CHALLENGEPACK_MAGNESIUM_WRAPPER_DESC": "Complete all the Breaking and Entering challenges:<li>Public Enemy No. 1</li><li>Forgot My Keys</li><li>The Keymaker</li>",
+			"CHALLENGEPACK_MAGNESIUM_CROWBAR_NAME": "Forgot My Keys",
+			"CHALLENGEPACK_MAGNESIUM_CROWBAR_DESC": "<li>With a crowbar, unlock the front doors of the Cassidy, Janus, Schmidt, and West properties.</il>",
+			"CHALLENGEPACK_MAGNESIUM_POLICE_NAME": "Public Enemy No. 1",
+			"CHALLENGEPACK_MAGNESIUM_POLICE_DESC": "<li>Pacify 3 police deputies.</li><li>Don't let their bodies be found.</il>",
+			"CHALLENGEPACK_MAGNESIUM_KEYS_NAME": "The Keymaker",
+			"CHALLENGEPACK_MAGNESIUM_KEYS_DESC": "<li>Pick up 5 keys.</il>"
+		},
+		"en": {
+			"CHALLENGEPACK_MAGNESIUM_WRAPPER_NAME": "Breaking And Entering",
+			"CHALLENGEPACK_MAGNESIUM_WRAPPER_DESC": "Complete all the Breaking And Entering challenges:<li>Public Enemy No. 1</li><li>Forgot My Keys</li><li>The Keymaker</li>",
+			"CHALLENGEPACK_MAGNESIUM_CROWBAR_NAME": "Forgot My Keys",
+			"CHALLENGEPACK_MAGNESIUM_CROWBAR_DESC": "<li>With a crowbar, unlock the front doors of the Cassidy, Janus, Schmidt, and West properties.</li>",
+			"CHALLENGEPACK_MAGNESIUM_POLICE_NAME": "Public Enemy No. 1",
+			"CHALLENGEPACK_MAGNESIUM_POLICE_DESC": "<li>Pacify 3 police deputies.</li><li>Don't let their bodies be found.</li>",
+			"CHALLENGEPACK_MAGNESIUM_KEYS_NAME": "The Keymaker",
+			"CHALLENGEPACK_MAGNESIUM_KEYS_DESC": "<li>Pick up 5 keys.</li>"
+		},
+		"fr": {
+			"CHALLENGEPACK_MAGNESIUM_WRAPPER_NAME": "Par effraction",
+			"CHALLENGEPACK_MAGNESIUM_WRAPPER_DESC": "Terminez tous les défis de Par effraction :<li>Ennemi public nº 1</li><li>J'ai oublié mes clés</li><li>Le serrurier</li>",
+			"CHALLENGEPACK_MAGNESIUM_CROWBAR_NAME": "J'ai oublié mes clés",
+			"CHALLENGEPACK_MAGNESIUM_CROWBAR_DESC": "<li>Ouvrez la porte d'entrée des propriétés de Cassidy, Janus, Schmidt et West au pied-de-biche.</li>",
+			"CHALLENGEPACK_MAGNESIUM_POLICE_NAME": "Ennemi public nº 1",
+			"CHALLENGEPACK_MAGNESIUM_POLICE_DESC": "<li>Neutralisez 3 agents de police.</li><li>Arrangez-vous pour que les corps ne soient pas retrouvés.</li>",
+			"CHALLENGEPACK_MAGNESIUM_KEYS_NAME": "Le serrurier",
+			"CHALLENGEPACK_MAGNESIUM_KEYS_DESC": "<li>Ramassez 5 clés.</li>"
+		},
+		"it": {
+			"CHALLENGEPACK_MAGNESIUM_WRAPPER_NAME": "Scassinatore",
+			"CHALLENGEPACK_MAGNESIUM_WRAPPER_DESC": "Completa tutte le sfide di \"Scassinatore\":<li>Nemico pubblico n. 1</li><li>Ho dimenticato le chiavi</li><li>Il fabbricante di chiavi</li>",
+			"CHALLENGEPACK_MAGNESIUM_CROWBAR_NAME": "Ho dimenticato le chiavi",
+			"CHALLENGEPACK_MAGNESIUM_CROWBAR_DESC": "<li>Apri con un piede di porco le porte principali delle proprietà di Cassidy, Janus, Schmidt e di West.</li>",
+			"CHALLENGEPACK_MAGNESIUM_POLICE_NAME": "Nemico pubblico n. 1",
+			"CHALLENGEPACK_MAGNESIUM_POLICE_DESC": "<li>Neutralizza 3 poliziotti.</li><li>Fai in modo che i loro corpi non siano rinvenuti.</li>",
+			"CHALLENGEPACK_MAGNESIUM_KEYS_NAME": "Il fabbricante di chiavi",
+			"CHALLENGEPACK_MAGNESIUM_KEYS_DESC": "<li>Raccogli 5 chiavi.</li>"
+		},
+		"de": {
+			"CHALLENGEPACK_MAGNESIUM_WRAPPER_NAME": "Dieb",
+			"CHALLENGEPACK_MAGNESIUM_WRAPPER_DESC": "Schließen Sie alle „Dieb“-Herausforderungen ab:<li>Staatsfeind Nummer 1</li><li>Schlüssel vergessen</li><li>Der Schlüsselmeister</li>",
+			"CHALLENGEPACK_MAGNESIUM_CROWBAR_NAME": "Schlüssel vergessen",
+			"CHALLENGEPACK_MAGNESIUM_CROWBAR_DESC": "<li>Öffnen Sie mit der Brechstange die Vordertüren der Häuser von Cassidy, Janus, Schmidt und West.</li>",
+			"CHALLENGEPACK_MAGNESIUM_POLICE_NAME": "Staatsfeind Nummer 1",
+			"CHALLENGEPACK_MAGNESIUM_POLICE_DESC": "<li>Stellen Sie 3 Polizei-Deputies ruhig.</li><li>Die Körper dürfen nicht gefunden werden.</li>",
+			"CHALLENGEPACK_MAGNESIUM_KEYS_NAME": "Der Schlüsselmeister",
+			"CHALLENGEPACK_MAGNESIUM_KEYS_DESC": "<li>Heben Sie 5 Schlüssel auf.</li>"
+		},
+		"es": {
+			"CHALLENGEPACK_MAGNESIUM_WRAPPER_NAME": "Ladrón",
+			"CHALLENGEPACK_MAGNESIUM_WRAPPER_DESC": "Completa todos los desafíos de Ladrón:<li>Enemigo público n.º 1</li><li>Me dejé las llaves</li><li>Fabricante de llaves</li>",
+			"CHALLENGEPACK_MAGNESIUM_CROWBAR_NAME": "Me dejé las llaves",
+			"CHALLENGEPACK_MAGNESIUM_CROWBAR_DESC": "<li>Usa una palanqueta para abrir la puerta delantera de las propiedades de Cassidy, Janus, Schmidt y West.</li>",
+			"CHALLENGEPACK_MAGNESIUM_POLICE_NAME": "Enemigo público n.º 1",
+			"CHALLENGEPACK_MAGNESIUM_POLICE_DESC": "<li>Deja inconscientes a 3 agentes de policía.</li><li>Que no encuentren sus cadáveres.</li>",
+			"CHALLENGEPACK_MAGNESIUM_KEYS_NAME": "Fabricante de llaves",
+			"CHALLENGEPACK_MAGNESIUM_KEYS_DESC": "<li>Coge 5 llaves.</li>"
+		}
+	}
+}

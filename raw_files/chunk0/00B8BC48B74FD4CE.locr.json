@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00B8BC48B74FD4CE",
+	"languages": {
+		"xx": {
+			"7448AD60": "Our Man in Mumbai",
+			"10C6B3C1": "PainterToLaundry flavor",
+			"5ACE3968": "PainterToLaundry description",
+			"34EB9BD9": "Follow The Kashmirian",
+			"1C4E70AB": "Investigate The Kashmirian's sniper rifle",
+			"7F740399": "Investigate the laundry area",
+			"4BD9F9E2": "Listen in on the conversation",
+			"40B08892": "Listen in on the guards"
+		},
+		"en": {
+			"7448AD60": "Our Man in Mumbai",
+			"10C6B3C1": "The Kashmirian is moving to an apartment in the chawl. It's facing the laundry area. I suggest we find out what he's up to, 47.",
+			"5ACE3968": "Another one?",
+			"34EB9BD9": "Follow The Kashmirian",
+			"1C4E70AB": "Investigate The Kashmirian's sniper rifle",
+			"7F740399": "Investigate the laundry area",
+			"4BD9F9E2": "Listen in on the conversation",
+			"40B08892": "Listen in on the guards"
+		},
+		"fr": {
+			"7448AD60": "Notre homme à Bombay",
+			"10C6B3C1": "Le Cachemiri se dirige vers un appartement du chawl qui fait face au lavoir. Nous ferions mieux de découvrir ce qu'il manigance, 47.",
+			"5ACE3968": "Encore un ?",
+			"34EB9BD9": "Suivez le Cachemiri",
+			"1C4E70AB": "Examinez le fusil de précision du Cachemiri",
+			"7F740399": "Examinez les lavoirs",
+			"4BD9F9E2": "Écoutez la conversation",
+			"40B08892": "Écoutez les gardes"
+		},
+		"it": {
+			"7448AD60": "Il nostro uomo a Mumbai",
+			"10C6B3C1": "Il Kashmiro si dirige verso un appartamento nei chawl. Si trova di fronte alla zona della lavanderia. Suggerisco di scoprire che cosa ha in mente, 47.",
+			"5ACE3968": "Ancora?",
+			"34EB9BD9": "Segui il Kashmiro",
+			"1C4E70AB": "Esamina il fucile da cecchino del Kashmiro",
+			"7F740399": "Esamina la zona della lavanderia",
+			"4BD9F9E2": "Ascolta la conversazione",
+			"40B08892": "Ascolta le guardie"
+		},
+		"de": {
+			"7448AD60": "Unser Mann in Mumbai",
+			"10C6B3C1": "Der Kaschmiri geht zu einer Wohnung im Chawl. Sie bietet einen Blick auf das Wäschereigelände. Am besten finden Sie heraus, was er vorhat, 47.",
+			"5ACE3968": "Noch einer?",
+			"34EB9BD9": "Folgen Sie dem Kaschmiri.",
+			"1C4E70AB": "Untersuchen Sie das Scharfschützengewehr des Kaschmiri.",
+			"7F740399": "Untersuchen Sie das Wäschereigelände.",
+			"4BD9F9E2": "Belauschen Sie das Gespräch.",
+			"40B08892": "Belauschen Sie die Wachen."
+		},
+		"es": {
+			"7448AD60": "Nuestro hombre en Bombay",
+			"10C6B3C1": "El Cachemir se dirige a un apartamento del chawl. Tiene vistas a la zona de la lavandería. Te sugiero que descubras qué se trae entre manos, 47.",
+			"5ACE3968": "¿Otro?",
+			"34EB9BD9": "Sigue al Cachemir",
+			"1C4E70AB": "Examina el fusil de francotirador del Cachemir",
+			"7F740399": "Investiga la zona de la lavandería",
+			"4BD9F9E2": "Espía la conversación",
+			"40B08892": "Espía a los guardias"
+		}
+	}
+}

@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "000240D1C0EC5A2F",
+	"languages": {
+		"xx": {
+			"CHALLENGEPACK_BERYLIUM_WRAPPER_NAME": "The Butler Did It",
+			"CHALLENGEPACK_BERYLIUM_WRAPPER_DESC": "Complete all of The Butler Did It challenges:</li><li>Tea is Served</li><li>The Masters Belongings</li><li>Serve the Artillery</li><li>Pipe and Slappers</li><li>Pressed and Ironed",
+			"CHALLENGEPACK_BERYLIUM_POISON_NAME": "Tea Is Served",
+			"CHALLENGEPACK_BERYLIUM_POISON_DESC": "<li>Eliminate someone with Poison while disguised as a Butler.</li>",
+			"CHALLENGEPACK_BERYLIUM_DAGGER_NAME": "The Master's Belongings",
+			"CHALLENGEPACK_BERYLIUM_DAGGER_DESC": "<li>Acquire the Burial Dagger while disguised as a Butler.</li>",
+			"CHALLENGEPACK_BERYLIUM_CANNONBALL_NAME": "Serve the Artillery",
+			"CHALLENGEPACK_BERYLIUM_CANNONBALL_DESC": "<li>Pacify 5 people with a Cannonball while disguised as a Butler.</li>",
+			"CHALLENGEPACK_BERYLIUM_LEADPIPE_NAME": "Pipe and Slappers",
+			"CHALLENGEPACK_BERYLIUM_LEADPIPE_DESC": "<li>Pacify 10 people with a Lead Pipe while disguised as a Butler.</li>",
+			"CHALLENGEPACK_BERYLIUM_IRONMAIDEN_NAME": "Pressed and Ironed",
+			"CHALLENGEPACK_BERYLIUM_IRONMAIDEN_DESC": "<li>While disguised as a Butler, eliminate someone with the Iron Maiden.</li>"
+		},
+		"en": {
+			"CHALLENGEPACK_BERYLIUM_WRAPPER_NAME": "The Butler Did It",
+			"CHALLENGEPACK_BERYLIUM_WRAPPER_DESC": "Complete all of The Butler Did It challenges:<li>Tea is Served</li><li>The Master's Belongings</li><li>Serve the Artillery</li><li>Pipe and Slappers</li><li>Pressed and Ironed</li>",
+			"CHALLENGEPACK_BERYLIUM_POISON_NAME": "Tea is Served",
+			"CHALLENGEPACK_BERYLIUM_POISON_DESC": "<li>Eliminate someone with poison while disguised as a Butler.</li>",
+			"CHALLENGEPACK_BERYLIUM_DAGGER_NAME": "The Master's Belongings",
+			"CHALLENGEPACK_BERYLIUM_DAGGER_DESC": "<li>Acquire the burial dagger while disguised as a Butler.</li>",
+			"CHALLENGEPACK_BERYLIUM_CANNONBALL_NAME": "Serve the Artillery",
+			"CHALLENGEPACK_BERYLIUM_CANNONBALL_DESC": "<li>Pacify 5 people with a cannonball while disguised as a Butler.</li>",
+			"CHALLENGEPACK_BERYLIUM_LEADPIPE_NAME": "Pipe and Slappers",
+			"CHALLENGEPACK_BERYLIUM_LEADPIPE_DESC": "<li>Pacify 10 people with a lead pipe while disguised as a Butler.</li>",
+			"CHALLENGEPACK_BERYLIUM_IRONMAIDEN_NAME": "Pressed and Ironed",
+			"CHALLENGEPACK_BERYLIUM_IRONMAIDEN_DESC": "<li>Eliminate someone with the iron maiden while disguised as a Butler.</li>"
+		},
+		"fr": {
+			"CHALLENGEPACK_BERYLIUM_WRAPPER_NAME": "C'est le majordome !",
+			"CHALLENGEPACK_BERYLIUM_WRAPPER_DESC": "Terminez tous les défis C'est le majordome ! :<li>Le thé est servi</li><li>Les affaires du maître</li><li>L'artillerie est servie</li><li>Du plomb dans la tête</li><li>Pressing pas cher</li>",
+			"CHALLENGEPACK_BERYLIUM_POISON_NAME": "Le thé est servi",
+			"CHALLENGEPACK_BERYLIUM_POISON_DESC": "<li>Éliminez quelqu'un avec du poison déguisé en majordome.</li>",
+			"CHALLENGEPACK_BERYLIUM_DAGGER_NAME": "Les affaires du maître",
+			"CHALLENGEPACK_BERYLIUM_DAGGER_DESC": "<li>Obtenez la dague de cérémonie déguisé en majordome.</li>",
+			"CHALLENGEPACK_BERYLIUM_CANNONBALL_NAME": "L'artillerie est servie",
+			"CHALLENGEPACK_BERYLIUM_CANNONBALL_DESC": "<li>Neutralisez 5 personnes avec un boulet de canon déguisé en majordome.</li>",
+			"CHALLENGEPACK_BERYLIUM_LEADPIPE_NAME": "Du plomb dans la tête",
+			"CHALLENGEPACK_BERYLIUM_LEADPIPE_DESC": "<li>Neutralisez 10 personnes avec un tuyau déguisé en majordome.</li>",
+			"CHALLENGEPACK_BERYLIUM_IRONMAIDEN_NAME": "Pressing pas cher",
+			"CHALLENGEPACK_BERYLIUM_IRONMAIDEN_DESC": "<li>Éliminez quelqu'un avec la vierge de fer déguisé en majordome.</li>"
+		},
+		"it": {
+			"CHALLENGEPACK_BERYLIUM_WRAPPER_NAME": "È stato il maggiordomo",
+			"CHALLENGEPACK_BERYLIUM_WRAPPER_DESC": "Completa tutte le sfide \"È stato il maggiordomo\":<li>Il tè è servito</li><li>Gli averi del padrone</li><li>Servi l'artiglieria</li><li>Non si vede un tubo</li><li>Stirato e ben schiacciato</li>",
+			"CHALLENGEPACK_BERYLIUM_POISON_NAME": "Il tè è servito",
+			"CHALLENGEPACK_BERYLIUM_POISON_DESC": "<li>Elimina qualcuno con il veleno usando il travestimento da maggiordomo.</li>",
+			"CHALLENGEPACK_BERYLIUM_DAGGER_NAME": "Gli averi del padrone",
+			"CHALLENGEPACK_BERYLIUM_DAGGER_DESC": "<li>Impossessati del pugnale per la sepoltura usando il travestimento da maggiordomo.</li>",
+			"CHALLENGEPACK_BERYLIUM_CANNONBALL_NAME": "Servi l'artiglieria",
+			"CHALLENGEPACK_BERYLIUM_CANNONBALL_DESC": "<li>Neutralizza 5 persone con una palla di cannone usando il travestimento da maggiordomo.</li>",
+			"CHALLENGEPACK_BERYLIUM_LEADPIPE_NAME": "Non si vede un tubo",
+			"CHALLENGEPACK_BERYLIUM_LEADPIPE_DESC": "<li>Neutralizza 10 persone con un tubo di piombo usando il travestimento da maggiordomo.</li>",
+			"CHALLENGEPACK_BERYLIUM_IRONMAIDEN_NAME": "Stirato e ben schiacciato",
+			"CHALLENGEPACK_BERYLIUM_IRONMAIDEN_DESC": "<li>Elimina qualcuno con la vergine di Norimberga usando il travestimento da maggiordomo.</li>"
+		},
+		"de": {
+			"CHALLENGEPACK_BERYLIUM_WRAPPER_NAME": "Der Butler war's",
+			"CHALLENGEPACK_BERYLIUM_WRAPPER_DESC": "Schließen Sie alle „Der Butler war's“-Herausforderungen ab:<li>Teezeit</li><li>Scharf geschliffen</li><li>Kanonendienst</li><li>Fallrohr</li><li>Bügelpresse</li>",
+			"CHALLENGEPACK_BERYLIUM_POISON_NAME": "Teezeit",
+			"CHALLENGEPACK_BERYLIUM_POISON_DESC": "<li>Eliminieren Sie als Butler verkleidet jemanden mit Gift.</li>",
+			"CHALLENGEPACK_BERYLIUM_DAGGER_NAME": "Scharf geschliffen",
+			"CHALLENGEPACK_BERYLIUM_DAGGER_DESC": "<li>Beschaffen Sie als Butler verkleidet den Begräbnisdolch.</li>",
+			"CHALLENGEPACK_BERYLIUM_CANNONBALL_NAME": "Kanonendienst",
+			"CHALLENGEPACK_BERYLIUM_CANNONBALL_DESC": "<li>Stellen Sie als Butler verkleidet 5 Personen mit einer Kanonenkugel ruhig.</li>",
+			"CHALLENGEPACK_BERYLIUM_LEADPIPE_NAME": "Fallrohr",
+			"CHALLENGEPACK_BERYLIUM_LEADPIPE_DESC": "<li>Stellen Sie als Butler verkleidet 10 Personen mit einem Bleirohr ruhig.</li>",
+			"CHALLENGEPACK_BERYLIUM_IRONMAIDEN_NAME": "Bügelpresse",
+			"CHALLENGEPACK_BERYLIUM_IRONMAIDEN_DESC": "<li>Eliminieren Sie als Butler verkleidet jemanden mit der Eisernen Jungfrau.</li>"
+		},
+		"es": {
+			"CHALLENGEPACK_BERYLIUM_WRAPPER_NAME": "Ha sido el mayordomo",
+			"CHALLENGEPACK_BERYLIUM_WRAPPER_DESC": "Completa los desafíos de Ha sido el mayordomo:<li>El té está servido</li><li>Las pertenencias del amo</li><li>Artillería servida</li><li>Tubería de tortazos</li><li>Planchado profesional</li>",
+			"CHALLENGEPACK_BERYLIUM_POISON_NAME": "El té está servido",
+			"CHALLENGEPACK_BERYLIUM_POISON_DESC": "<li>Elimina a alguien con veneno disfrazado de mayordomo.</li>",
+			"CHALLENGEPACK_BERYLIUM_DAGGER_NAME": "Las pertenencias del amo",
+			"CHALLENGEPACK_BERYLIUM_DAGGER_DESC": "<li>Consigue la daga funeraria disfrazado de mayordomo.</li>",
+			"CHALLENGEPACK_BERYLIUM_CANNONBALL_NAME": "Artillería servida",
+			"CHALLENGEPACK_BERYLIUM_CANNONBALL_DESC": "<li>Deja inconscientes a 5 personas con una bala de cañón disfrazado de mayordomo.</li>",
+			"CHALLENGEPACK_BERYLIUM_LEADPIPE_NAME": "Tubería de tortazos",
+			"CHALLENGEPACK_BERYLIUM_LEADPIPE_DESC": "<li>Deja inconscientes a 10 personas con una tubería de plomo disfrazado de mayordomo.</li>",
+			"CHALLENGEPACK_BERYLIUM_IRONMAIDEN_NAME": "Planchado profesional",
+			"CHALLENGEPACK_BERYLIUM_IRONMAIDEN_DESC": "<li>Mientras estés disfrazado de mayordomo, elimina a alguien con la doncella de hierro.</li>"
+		}
+	}
+}

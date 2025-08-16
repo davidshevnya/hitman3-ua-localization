@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00C4653D22F455F0",
+	"languages": {
+		"xx": {
+			"MARGARITA_QUESTITEMS_FEBARGEEGG_DESCRIPTION": "FebargeEgg_Description",
+			"MARGARITA_QUESTITEMS_FEBARGEEGG_TITLE": "FebargeEgg_Title"
+		},
+		"en": {
+			"MARGARITA_QUESTITEMS_FEBARGEEGG_DESCRIPTION": "The Ivory White is a filigree egg looted during the Second World War.",
+			"MARGARITA_QUESTITEMS_FEBARGEEGG_TITLE": "The Ivory White"
+		},
+		"fr": {
+			"MARGARITA_QUESTITEMS_FEBARGEEGG_DESCRIPTION": "Le Blanc d'ivoire, un oeuf filigrané volé au cours de la Seconde Guerre mondiale.",
+			"MARGARITA_QUESTITEMS_FEBARGEEGG_TITLE": "Le Blanc d'ivoire"
+		},
+		"it": {
+			"MARGARITA_QUESTITEMS_FEBARGEEGG_DESCRIPTION": "Il Bianco Avorio, uovo in filigrana trafugato durante la seconda guerra mondiale.",
+			"MARGARITA_QUESTITEMS_FEBARGEEGG_TITLE": "Bianco Avorio"
+		},
+		"de": {
+			"MARGARITA_QUESTITEMS_FEBARGEEGG_DESCRIPTION": "Das Elfenbein-Ei, ein im 2. Weltkrieg gestohlenes Filigran-Ei.",
+			"MARGARITA_QUESTITEMS_FEBARGEEGG_TITLE": "Das Elfenbein-Ei"
+		},
+		"es": {
+			"MARGARITA_QUESTITEMS_FEBARGEEGG_DESCRIPTION": "El Blanco Marfil, un huevo de filigrana robado durante la Segunda Guerra Mundial.",
+			"MARGARITA_QUESTITEMS_FEBARGEEGG_TITLE": "El Blanco Marfil"
+		}
+	}
+}

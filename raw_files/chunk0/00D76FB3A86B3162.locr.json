@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00D76FB3A86B3162",
+	"languages": {
+		"xx": {
+			"EEC4DFDC": "PH_Hint",
+			"DFDAC2D7": "PH_MovementControl"
+		},
+		"en": {
+			"EEC4DFDC": "Running",
+			"DFDAC2D7": "Use {MOVE} and hold {RUN} to run"
+		},
+		"fr": {
+			"EEC4DFDC": "Course",
+			"DFDAC2D7": "Utilisez {MOVE} et maintenez {RUN} pour courir."
+		},
+		"it": {
+			"EEC4DFDC": "Corsa",
+			"DFDAC2D7": "Usa {MOVE} e tieni premuto {RUN} per correre."
+		},
+		"de": {
+			"EEC4DFDC": "Rennen",
+			"DFDAC2D7": "Benutzen Sie {MOVE} und halten Sie {RUN}, um zu rennen."
+		},
+		"es": {
+			"EEC4DFDC": "Correr",
+			"DFDAC2D7": "Usa {MOVE} y mantén {RUN} para correr."
+		}
+	}
+}

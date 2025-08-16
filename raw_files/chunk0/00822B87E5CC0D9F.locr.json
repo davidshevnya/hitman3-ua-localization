@@ -1,0 +1,60 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00822B87E5CC0D9F",
+	"languages": {
+		"xx": {
+			"23C0F83E": "Title",
+			"BAC9A984": "Summary",
+			"CDCE9912": "Briefing",
+			"53AA0CB1": "Step 1",
+			"24AD3C27": "Step 2",
+			"BDA46D9D": "Step 3",
+			"CAA35D0B": "Conclusion"
+		},
+		"en": {
+			"23C0F83E": "A Rare Scoop",
+			"BAC9A984": "Novikov has agreed to an interview. A shame about the cracked lens.",
+			"CDCE9912": "According to the young fashion blogger, Novikov has agreed to do a live interview. This could be a good time to catch the Sanguine CEO off guard. The location, however, is currently unknown, and in any case, the blogger needs a replacement lens for her camera. May I suggest you help a girl in need?",
+			"53AA0CB1": "Find a spare camera lens",
+			"24AD3C27": "Give the camera lens to the blogger",
+			"BDA46D9D": "Follow the blogger to the interview spot",
+			"CAA35D0B": "Well done, 47. Novikov should be right here. Like a moth to the spotlight."
+		},
+		"fr": {
+			"23C0F83E": "Un scoop rare",
+			"BAC9A984": "Novikov a accepté de se prêter au jeu de l'interview. Dommage que la jeune blogueuse ait cassé l'objectif de sa caméra...",
+			"CDCE9912": "D'après la jeune blogueuse de mode, Novikov a accepté de lui donner une interview en direct.  Cela pourrait être une excellente occasion de prendre le PDG de Sanguine par surprise. Nous ne savons cependant pas encore où cette interview aura lieu, et la blogueuse a, de toute façon, besoin d'un objectif de remplacement pour sa caméra. C'est le moment d'aller aider une demoiselle en détresse !",
+			"53AA0CB1": "Trouvez un objectif de rechange",
+			"24AD3C27": "Donnez l'objectif à la blogueuse",
+			"BDA46D9D": "Suivez la blogueuse jusqu'au lieu de l'interview",
+			"CAA35D0B": "Bien joué, 47. Novikov ne devrait pas tarder. Attiré comme un papillon de nuit par la lumière..."
+		},
+		"it": {
+			"23C0F83E": "Uno scoop da non perdere",
+			"BAC9A984": "Novikov ha concesso un'intervista. È un vero peccato che l'obiettivo della videocamera sia rotto.",
+			"CDCE9912": "Stando a quanto dice giovane fashion blogger, pare che Novikov le abbia concesso un'intervista dal vivo. Potrebbe essere l'occasione giusta per cogliere di sorpresa l'AD della Sanguine. Il luogo dell'incontro è ancora segreto. Inoltre, alla blogger serve un nuovo obiettivo per la sua videocamera. Che ne diresti di aiutare una fanciulla in difficoltà?",
+			"53AA0CB1": "Trova un obiettivo fotografico",
+			"24AD3C27": "Consegna l'obiettivo alla blogger",
+			"BDA46D9D": "Segui la blogger fino al luogo dell'intervista",
+			"CAA35D0B": "Ottimo, 47. Novikov sarà qui. Attirato dai riflettori come una falena..."
+		},
+		"de": {
+			"23C0F83E": "Ein Exklusivbericht",
+			"BAC9A984": "Novikov hat einem Interview zugestimmt. Zu dumm, dass dieses Objektiv kaputt ist.",
+			"CDCE9912": "Laut der jungen Mode-Bloggerin hat sich Novikov zu einem Live-Interview bereit erklärt. Das könnte eine gute Chance sein, ihn zu überraschen. Leider wissen wir noch nicht, wo das Interview aufgezeichnet werden soll, und die Bloggerin braucht ein Ersatzobjektiv für ihre Kamera. Ich schlage vor, Sie ... helfen einer Frau in Not?",
+			"53AA0CB1": "Finden Sie das Kameraobjektiv",
+			"24AD3C27": "Geben Sie das Kameraobjektiv der Bloggerin",
+			"BDA46D9D": "Folgen Sie der Bloggerin zum Interview",
+			"CAA35D0B": "Gute Arbeit, 47. Novikov müsste gleich hier sein. Er kommt wie die Motten zum Rampenlicht ..."
+		},
+		"es": {
+			"23C0F83E": "Una exclusiva jugosa",
+			"BAC9A984": "Novikov ha accedido a conceder una entrevista. Una pena lo de la lente rota.",
+			"CDCE9912": "Según la joven bloguera de moda, Novikov ha accedido a dar una entrevista en directo. Podría ser una buena ocasión para pillar desprevenido al director de Sanguine. Sin embargo, no se sabe dónde será. En cualquier caso, la bloguera necesita una lente de repuesto para su cámara. ¿Podrías ayudar a una damisela en apuros?",
+			"53AA0CB1": "Busca una lente de repuesto para la cámara",
+			"24AD3C27": "Dale la lente de la cámara a la bloguera",
+			"BDA46D9D": "Sigue a la bloguera al lugar de la entrevista",
+			"CAA35D0B": "Bien hecho, 47. Novikov acudirá aquí como una polilla a la luz..."
+		}
+	}
+}

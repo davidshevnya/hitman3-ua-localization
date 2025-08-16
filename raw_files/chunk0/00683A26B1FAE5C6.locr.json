@@ -1,0 +1,60 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00683A26B1FAE5C6",
+	"languages": {
+		"xx": {
+			"1B891373": "Title_The Smoking Gun",
+			"CEC6720C": "Headline_A message from Dexy Barat to Ken Morgan. Could be useful.",
+			"FBF4F1B5": "Briefing_Dexy Barat sends a message to the occupant of the Queen suite, aka Ken Morgan. This must be the reason for Morgan's surprise visit. Sounds promising. Clearly, Barat doesn't want her client Jordan Cross to know about Morgan's presence, so whatever business the two have, they are likely to do so in secret. I suggest you intercept that message, 47. Could be a chance to catch Morgan off guard.",
+			"836A47B7": "Conclusion_Well done 47. Morgan is one the move and we know exactly where he is headed.",
+			"C0127F6E": "Get Note",
+			"F2DFC65E": "Deliver note",
+			"5B571578": "Wait for Morgan to pick it up"
+		},
+		"en": {
+			"1B891373": "The Smoking Gun",
+			"CEC6720C": "A message from Dexy Barat to Ken Morgan. Could be useful.",
+			"FBF4F1B5": "Dexy Barat sends a message to the occupant of the Queen Suite, aka Ken Morgan. This must be the reason for Morgan's surprise visit. Sounds promising. Clearly, Barat doesn't want her client Jordan Cross to know about Morgan's presence, so whatever business the two have, they are likely to do it in secret. I suggest you intercept that message, 47. Could be a chance to catch Morgan off guard.",
+			"836A47B7": "Well done, 47. Morgan is on the move and we know exactly where he is headed.",
+			"C0127F6E": "Acquire the note for Ken Morgan",
+			"F2DFC65E": "Deliver the note to reception",
+			"5B571578": "Wait for Morgan to pick it up"
+		},
+		"fr": {
+			"1B891373": "La preuve",
+			"CEC6720C": "Un message de Dexy Barat à Ken Morgan. Ça pourrait être utile.",
+			"FBF4F1B5": "Dexy Barat fait passer un message à l'occupant de la suite royale, alias Ken Morgan. Ce doit être la raison de la visite surprise de Morgan. Ça paraît prometteur. Barat ne tient visiblement pas à ce que son client, Jordan Cross, sache que Morgan est là, alors, quoi que mijotent ces deux-là, ils tiennent à rester discrets. Je vous suggère d'intercepter ce message, 47. Ça pourrait permettre de prendre Morgan au dépourvu.",
+			"836A47B7": "Bien joué, 47. Morgan est en route et nous savons exactement où il se rend.",
+			"C0127F6E": "Récupérez la lettre destinée à Ken Morgan",
+			"F2DFC65E": "Apportez la lettre à la réception",
+			"5B571578": "Attendez que Morgan vienne le prendre"
+		},
+		"it": {
+			"1B891373": "Prova scottante",
+			"CEC6720C": "Un messaggio da Dexy Barat a Ken Morgan. Potrebbe tornarci utile.",
+			"FBF4F1B5": "Allora... Dexy Barat ha inviato un messaggio all'ospite della suite regale, Ken Morgan. Questo spiega la visita a sorpresa di Morgan. La situazione si fa interessante. Ovviamente, Barat non vuole che il suo cliente, Jordan Cross, sappia della presenza di Morgan. Qualunque cosa abbiano in mente quei due, agiranno di nascosto. Intercetta il messaggio, 47. È l'occasione giusta per cogliere Morgan di sorpresa.",
+			"836A47B7": "Ben fatto, 47. Morgan si sta muovendo e sappiamo dov'è diretto.",
+			"C0127F6E": "Ottieni il messaggio per Ken Morgan",
+			"F2DFC65E": "Consegna il messaggio alla reception",
+			"5B571578": "Aspetta che Morgan riceva il messaggio"
+		},
+		"de": {
+			"1B891373": "Das Corpus Delicti",
+			"CEC6720C": "Eine Nachricht von Dexy Barat für Ken Morgan. Könnte nützlich sein.",
+			"FBF4F1B5": "Sieh an. Dexy Barat lässt Ken Morgan, dem Bewohner der Königinnensuite, eine Nachricht zukommen. Das muss der Grund für Morgans überraschenden Besuch sein. Klingt vielversprechend. Barat will ganz offensichtlich nicht, dass Jordan Cross von Morgans Anwesenheit erfährt. Was auch immer die beiden miteinander zu schaffen haben, werden sie also heimlich tun. Wieso fangen Sie die Nachricht nicht ab, 47? Vielleicht erwischen Sie Morgan ja auf dem falschen Fuß.",
+			"836A47B7": "Gute Arbeit, 47. Morgan ist unterwegs und wir wissen genau, wohin er will.",
+			"C0127F6E": "Beschaffen Sie den Brief an Ken Morgan",
+			"F2DFC65E": "Geben Sie die Nachricht an der Rezeption ab",
+			"5B571578": "Warten Sie, bis Morgan sie abholt"
+		},
+		"es": {
+			"1B891373": "La pistola humeante",
+			"CEC6720C": "Un mensaje de Dexy Barat para Ken Morgan. Podría ser útil.",
+			"FBF4F1B5": "Dexy Barat le ha enviado un mensaje al huésped de la Suite Reina, Ken Morgan. Debe de ser el motivo de la visita sorpresa de este. Suena prometedor. Es obvio que Barat no quiere que su cliente, Jordan Cross, se entere de la presencia de Morgan, así que sea lo que sea lo que se traen entre manos, lo harán en secreto. Te sugiero que interceptes ese mensaje, 47. Podría ser una oportunidad de pillar a Morgan desprevenido.",
+			"836A47B7": "Bien hecho, 47. Morgan se ha puesto en marcha y sabemos exactamente donde se dirige.",
+			"C0127F6E": "Consigue el mensaje para Ken Morgan",
+			"F2DFC65E": "Entrega el mensaje en recepción",
+			"5B571578": "Espera a que Morgan la recoja"
+		}
+	}
+}

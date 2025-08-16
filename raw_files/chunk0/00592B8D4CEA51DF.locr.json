@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00592B8D4CEA51DF",
+	"languages": {
+		"xx": {
+			"60782D0A": "Title",
+			"86FF693A": "Flavor",
+			"A94356CB": "Description",
+			"DB044C2C": "Conclusion",
+			"03C63D6B": "",
+			"EC93FE2E": "Find the remote for the Curator's neuro chip",
+			"4FAD2165": "Make the Curator dismiss the organ storage guards",
+			"BC9CE83E": ""
+		},
+		"en": {
+			"60782D0A": "Tell-Tale Heart",
+			"86FF693A": "Dr. Katashi Ito, also known as \"The Curator,\" is participating in some sort of medical trial. Interesting. The Curator oversees the hospital’s organ storage facility and surely has access to Soders’ donor heart. I suggest you locate the research assistant’s report, 47, and find out what this neural implant is for. Could prove useful.",
+			"A94356CB": "A mood-altering neurochip. Interesting...",
+			"DB044C2C": "Bringing joy to the world now, 47? Well, let's see where this takes him, shall we?",
+			"03C63D6B": "Search the office for the assistant's journal",
+			"EC93FE2E": "Search the sleeping quarters for the neurochip remote",
+			"4FAD2165": "Use the remote to increase dosage",
+			"BC9CE83E": "Wait for The Curator to enter the vault"
+		},
+		"fr": {
+			"60782D0A": "Du cœur à l'ouvrage",
+			"86FF693A": "Le Dr Katashi Ito, également appelé le \"Conservateur\", participe à une sorte d'essai clinique. Intéressant. Le Conservateur chapeaute le stockage d'organes de l'hôpital et a sûrement accès au futur cœur de Soders. Je vous suggère de localiser le rapport de l'assistant de recherches et de découvrir à quoi sert son implant neural. Ça peut nous être utile.",
+			"A94356CB": "Une neuropuce qui modifie l'humeur. Intéressant.",
+			"DB044C2C": "Vous plongez le monde dans l'allégresse, 47 ? Bien, observons sa réaction, à présent.",
+			"03C63D6B": "Cherchez le journal de l'assistant dans les bureaux",
+			"EC93FE2E": "Cherchez la télécommande de la neuropuce dans les dortoirs",
+			"4FAD2165": "Utilisez la télécommande pour augmenter la dose",
+			"BC9CE83E": "Attendez que le conservateur entre dans le coffre"
+		},
+		"it": {
+			"60782D0A": "Cuore rivelatore",
+			"86FF693A": "Il dottor Katashi Ito, noto anche come il \"Curatore\", sta svolgendo una sorta di esperimento medico. Interessante. Il Curatore gestisce il deposito di organi della clinica e avrà senz'altro accesso al cuore di Soders. Ti consiglio di trovare il rapporto dell'assistente ricercatore per scoprire a cosa serve l'impianto neurale. Potrebbe tornare utile.",
+			"A94356CB": "Un chip neurale che altera l'umore. Interessante...",
+			"DB044C2C": "Ora diffondi gioia nel mondo, 47? Bene, vediamo come reagirà.",
+			"03C63D6B": "Trova il rapporto dell'assistente nell'ufficio",
+			"EC93FE2E": "Trova il telecomando del chip neurale nel dormitorio",
+			"4FAD2165": "Usa il telecomando per incrementare il dosaggio",
+			"BC9CE83E": "Aspetta che il Curatore entri nel deposito"
+		},
+		"de": {
+			"60782D0A": "Das verräterische Herz",
+			"86FF693A": "Doktor Katashi Ito, auch bekannt als der „Kurator“, nimmt an einer Art medizinischem Test teil. Interessant. Der Kurator verwaltet das Organlager des Krankenhauses und hat mit Sicherheit Zugriff auf Soders' Spenderherz. Ich schlage vor, Sie suchen den Bericht des Forschungsassistenten, 47, und finden heraus, wofür dieses Neuralimplantat gedacht ist. Könnte nützlich sein.",
+			"A94356CB": "Ein Neurochip, der die Stimmung beeinflusst. Interessant ...",
+			"DB044C2C": "Tragen Sie jetzt Freude in die Welt, 47? Finden wir heraus, wohin ihn das bringt, in Ordnung?",
+			"03C63D6B": "Suchen Sie im Büro nach den Notizen des Assistenten",
+			"EC93FE2E": "Suchen Sie im Schlafbereich nach der Neurochip-Fernbedienung",
+			"4FAD2165": "Erhöhen Sie die Dosierung mithilfe der Fernbedienung",
+			"BC9CE83E": "Warten Sie, bis der Kurator den Tresor betritt"
+		},
+		"es": {
+			"60782D0A": "Corazón revelador",
+			"86FF693A": "El doctor Katashi Ito, también conocido como el \"curador\", está participando en algún tipo de ensayo clínico. Qué interesante. El curador supervisa el centro de almacenamiento de órganos del hospital y tiene acceso al corazón del donante de Soders. Te sugiero que encuentres el informe del ayudante de investigación, 47, y que descubras para qué sirve el implante neural. Podría ser de utilidad.",
+			"A94356CB": "Un neurochip para cambiar el estado de ánimo. Qué interesante.",
+			"DB044C2C": "¿Repartiendo alegría por el mundo, 47? Bueno, veamos cómo acaba esto.",
+			"03C63D6B": "Encuentra las notas del ayudante en la oficina",
+			"EC93FE2E": "Encuentra el mando del neurochip en los dormitorios del personal",
+			"4FAD2165": "Usa el mando para aumentar la dosis",
+			"BC9CE83E": "Espera a que el curador entre en la cámara"
+		}
+	}
+}

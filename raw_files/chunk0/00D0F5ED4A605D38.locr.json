@@ -1,0 +1,60 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00D0F5ED4A605D38",
+	"languages": {
+		"xx": {
+			"99872C07": "Title_Light My Fire",
+			"DBADF39D": "Summary_Bosco wants more flames. Let’s not disappoint the director.",
+			"8EB1F603": "Briefing_According to the special effects crew, Dino Bosco demands bigger, more lavish flames. I believe we should give him what he wants.",
+			"8835F5CD": "Conclusion_Nice work 47. Let’s help make Bosco’s extravagant vision an inferno.",
+			"25E4D3A5": "Step 1_Eavesdrop the conversation between two Special Effects crew members.",
+			"59BCB55B": "Step 2_Get Untested fuel",
+			"6ACB758B": "Step 3_Enable manual trigger system"
+		},
+		"en": {
+			"99872C07": "Light My Fire",
+			"DBADF39D": "Bosco wants more flames. Let’s not disappoint the director.",
+			"8EB1F603": "According to the special effects crew, Dino Bosco demands bigger, more lavish flames. I believe we should give him what he wants.",
+			"8835F5CD": "Nice work, 47. Let’s help make Bosco’s extravagant vision an inferno.",
+			"25E4D3A5": "Eavesdrop on the conversation between special effects crew members",
+			"59BCB55B": "Get the high-octane fuel",
+			"6ACB758B": "Swap fuels at the refueling station"
+		},
+		"fr": {
+			"99872C07": "Allumer le feu",
+			"DBADF39D": "Bosco réclame plus de flammes. Ne décevons pas le réalisateur.",
+			"8EB1F603": "D'après l'équipe des effets spéciaux, Dino Bosco exige des flammes plus grandes et plus vives. Je pense que ses souhaits méritent d'être exaucés.",
+			"8835F5CD": "Très bien, 47. Aidons à transformer les extravagances de Bosco en enfer.",
+			"25E4D3A5": "Écoutez la conversation entre les deux membres de l'équipe des effets spéciaux",
+			"59BCB55B": "Procurez-vous le carburant à haut indice d'octane",
+			"6ACB758B": "Échangez le carburant à la station de ravitaillement"
+		},
+		"it": {
+			"99872C07": "Scalda l'ambiente",
+			"DBADF39D": "Bosco vuole più fiamme. Cerchiamo di non deludere il regista.",
+			"8EB1F603": "Secondo la squadra degli effetti speciali, Dino Bosco esige fiamme più grandi. Penso che dovremmo dargli ciò che desidera.",
+			"8835F5CD": "Ottimo lavoro, 47. Ora trasformiamo la stravagante idea di Bosco in un vero inferno.",
+			"25E4D3A5": "Origlia la conversazione tra i due membri della troupe degli effetti speciali.",
+			"59BCB55B": "Ottieni il carburante ad alto numero di ottano",
+			"6ACB758B": "Abilita il sistema di attivazione manuale"
+		},
+		"de": {
+			"99872C07": "Brennender Wunsch",
+			"DBADF39D": "Bosco will mehr Flammen. Wir sollten den Regisseur nicht enttäuschen.",
+			"8EB1F603": "Laut der Crew für Spezialeffekte verlangt Dino Bosco nach größeren, noch aufwendigeren Flammen. Ich denke, wir sollten seinen Wunsch erfüllen.",
+			"8835F5CD": "Gute Arbeit, 47. Helfen wir Bosco dabei, aus seiner extravaganten Vision ein Inferno zu machen.",
+			"25E4D3A5": "Belauschen Sie das Gespräch zwischen zwei Mitgliedern der Special-Effects-Crew",
+			"59BCB55B": "Beschaffen Sie hochoktanigen Treibstoff",
+			"6ACB758B": "Tauschen Sie den Treibstoff an der Tankstation aus"
+		},
+		"es": {
+			"99872C07": "Aviva mi llama",
+			"DBADF39D": "Bosco quiere más llamas. No decepcionemos al director.",
+			"8EB1F603": "Según el equipo de efectos especiales, Dino Bosco exige llamas más grandes y abundantes. Creo que deberíamos darle lo que desea.",
+			"8835F5CD": "Buen trabajo, 47. Ayudemos a convertir la extravagante visión de Bosco en un infierno.",
+			"25E4D3A5": "Espía la conversación entre dos miembros del equipo de efectos especiales",
+			"59BCB55B": "Consigue el combustible de alto octanaje",
+			"6ACB758B": "Cambia el combustible en la estación de repostaje"
+		}
+	}
+}

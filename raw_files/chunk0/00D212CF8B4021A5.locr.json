@@ -1,0 +1,48 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00D212CF8B4021A5",
+	"languages": {
+		"xx": {
+			"BCA2FEB3": "Portman - placeholder",
+			"AC22237F": "Portman flavour text - placeholder",
+			"97A98456": "Portman description text - placeholder",
+			"5FA10ACB": "Portman conclusion text - placeholder",
+			"943B1F62": "Get rid of Jason Portman and make way for Ljudmilla"
+		},
+		"en": {
+			"BCA2FEB3": "The Shape Changer",
+			"AC22237F": "So, by the sounds of it, Miss Vetrova is very keen on getting Jason Portman, former CEO of Quantum Leap and current CEO of MuchTalk, out of his hut. I wonder why?",
+			"97A98456": "Portman's Plight",
+			"5FA10ACB": "That's Jason Portman taken care of. I wonder what Miss Vetrova will do now?",
+			"943B1F62": "Get rid of Jason Portman and make way for Ljudmila"
+		},
+		"fr": {
+			"BCA2FEB3": "Le changeforme",
+			"AC22237F": "Bien, il semblerait que mademoiselle Vetrova veuille à tout prix faire sortir de son bungalow Jason Portman, l'ancien PDG de Quantum Leap et actuel PDG de MuchTalk. Je me demande pourquoi.",
+			"97A98456": "La détresse de Portman",
+			"5FA10ACB": "Voilà qui règle le cas Jason Portman. Je me demande ce que va faire Mlle Vetrova, à présent ?",
+			"943B1F62": "Débarrassez-vous de Jason Portman pour laisser la place à Ljudmila"
+		},
+		"it": {
+			"BCA2FEB3": "Il mutaforma",
+			"AC22237F": "Dunque, a quanto sembra, la signorina Vetrova ha intenzione di far uscire Jason Portman, ex CEO di Quantum Leap e attuale CEO di MuchTalk dalla sua capanna. Mi domando perché.",
+			"97A98456": "Il ginepraio di Portman",
+			"5FA10ACB": "Jason Portman è andato. Mi chiedo quale sarà la prossima mossa della signorina Vetrova.",
+			"943B1F62": "Elimina Jason Portman e fatti raggiungere da Ljudmila"
+		},
+		"de": {
+			"BCA2FEB3": "Der Gestaltwandler",
+			"AC22237F": "So wie sich das anhört, ist es Miss Vetrova sehr wichtig, dass Jason Portman, der ehemalige CEO von Quantum Leap und derzeitige CEO von MuchTalk, seine Hütte verlässt. Ich frage mich, warum …",
+			"97A98456": "Portmans Problem",
+			"5FA10ACB": "Damit hätten wir uns also um Jason Portman gekümmert. Ich frage mich, was Miss Vetrova jetzt wohl anstellen wird.",
+			"943B1F62": "Werden Sie Jason Portman los und machen Sie Ljudmila den Weg frei."
+		},
+		"es": {
+			"BCA2FEB3": "Cambiaformas",
+			"AC22237F": "Vale, por lo que parece, la señorita Vetrova tiene muchas ganas de sacar de su cabaña a Jason Portman, antiguo presidente de Quantum Leap y actual presidente de MuchTalk. Me pregunto por qué.",
+			"97A98456": "El aprieto de Portman",
+			"5FA10ACB": "Ya nos hemos ocupado de Jason Portman. Me pregunto qué hará ahora la señorita Vetrova.",
+			"943B1F62": "Líbrate de Jason Portman y despéjale el camino a Ljudmila"
+		}
+	}
+}

@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00CDB10DD647AA64",
+	"languages": {
+		"xx": {
+			"C5F8A3D9": "Podium Opportunity",
+			"A2CA08E7": "Flavor",
+			"01D51F09": "Description",
+			"2A92DB81": "Conclusion",
+			"FD7741FB": "Get a Race Marshall Disguise",
+			"2B88DF82": "Disqualify Moses Lee",
+			"9FB03FD2": "Sabotage the Gas Supply",
+			"FAFC954E": "Find a Wrench",
+			"B0EA428B": "Disable Safety Feature"
+		},
+		"en": {
+			"C5F8A3D9": "The Triumph",
+			"A2CA08E7": "Maxwell Rutter, the race Chief Coordinator, is worried that the powerful new pyrotechnics system connected to the victory podium is not exactly tamper-proof. Sabotaging it could have devastating consequences. Well. What are you waiting for?",
+			"01D51F09": "The victory podium is rigged to a pyrotechnics display. Sounds promising.",
+			"2A92DB81": "I like your thinking 47. With the safety off, someone could make the podium pyrotechnics fire up rather explosively.",
+			"FD7741FB": "Disguise yourself as a race marshal",
+			"2B88DF82": "Disqualify Moses Lee",
+			"9FB03FD2": "Sabotage the gas supply",
+			"FAFC954E": "Find a wrench",
+			"B0EA428B": "Disable the safety feature"
+		},
+		"fr": {
+			"C5F8A3D9": "Le triomphe",
+			"A2CA08E7": "Maxwell Rutter, coordinateur en chef de la course, s'inquiète que le nouveau puissant système pyrotechnique connecté au podium de la victoire n'est pas complètement inviolable. Le saboter pourrait avoir des conséquences dévastatrices. Bien. Qu'attendez-vous ?",
+			"01D51F09": "Le podium de la victoire est relié a un système pyrotechnique. Cela semble intéressant.",
+			"2A92DB81": "J'aime votre façon de penser, 47. En désactivant la sécurité, quelqu'un pourrait rendre le système pyrotechnique du podium un peu plus explosif.",
+			"FD7741FB": "Déguisez-vous en contrôleur de course",
+			"2B88DF82": "Disqualifiez Moses Lee",
+			"9FB03FD2": "Sabotez l'approvisionnement en essence",
+			"FAFC954E": "Trouvez une clé anglaise",
+			"B0EA428B": "Désactivez le système de sécurité"
+		},
+		"it": {
+			"C5F8A3D9": "Il trionfo",
+			"A2CA08E7": "Maxwell Rutter, il direttore capo della corsa, è preoccupato che il nuovo sistema pirotecnico connesso al podio della vittoria non sia esattamente a prova di manomissione. Sabotarlo avrebbe delle conseguenze devastanti. Bene. Che cosa aspetti?",
+			"01D51F09": "Il podio della vittoria è connesso a un sistema pirotecnico. Sembra promettente.",
+			"2A92DB81": "Mi piace il tuo modo di pensare, 47. Senza la sicurezza, qualcuno potrebbe far diventare il sistema pirotecnico del podio alquanto esplosivo.",
+			"FD7741FB": "Travestiti da commissario di pista",
+			"2B88DF82": "Squalifica Moses Lee",
+			"9FB03FD2": "Sabota il rifornimento di carburante",
+			"FAFC954E": "Trova una chiave inglese",
+			"B0EA428B": "Disabilita i dispositivi di sicurezza"
+		},
+		"de": {
+			"C5F8A3D9": "Der Triumph",
+			"A2CA08E7": "Maxwell Rutter, der Hauptrennkoordinator, macht sich Sorgen um das gewaltige Feuerwerkssystem: Es ist mit dem Siegertreppchen verbunden und kann manipuliert werden. Eine Sabotage hätte wohl fatale Folgen. Also, worauf warten Sie noch?",
+			"01D51F09": "Das Siegertreppchen löst ein Feuerwerk aus. Klingt vielversprechend.",
+			"2A92DB81": "Mir gefällt Ihre Denkweise, 47. Da die Sicherung abgeschaltet ist, könnte man die Pyrotechnik des Podiums so richtig knallen lassen.",
+			"FD7741FB": "Verkleiden Sie sich als Rennwart.",
+			"2B88DF82": "Disqualifizieren Sie Moses Lee.",
+			"9FB03FD2": "Sabotieren Sie die Gasversorgung.",
+			"FAFC954E": "Finden Sie einen Schraubenschlüssel.",
+			"B0EA428B": "Schalten Sie die Sicherheitsvorkehrungen ab."
+		},
+		"es": {
+			"C5F8A3D9": "El triunfo",
+			"A2CA08E7": "Maxwell Rutter, el coordinador jefe de la carrera, está preocupado porque el potente sistema de pirotecnia conectado al podio de los vencedores no es precisamente seguro. Si alguien lo sabotea, las consecuencias podrían ser devastadoras. Bueno, ¿a qué esperas?",
+			"01D51F09": "El podio de los vencedores está preparado para una exhibición de pirotecnia. Suena prometedor.",
+			"2A92DB81": "Me gusta cómo piensas, 47. Con la seguridad apagada, alguien podría hacer que la pirotecnia del podio se disparase de manera bastante explosiva.",
+			"FD7741FB": "Disfrázate de comisario de carrera",
+			"2B88DF82": "Descalifica a Moses Lee",
+			"9FB03FD2": "Sabotea el suministro de gas",
+			"FAFC954E": "Busca una llave inglesa",
+			"B0EA428B": "Desactiva la seguridad"
+		}
+	}
+}

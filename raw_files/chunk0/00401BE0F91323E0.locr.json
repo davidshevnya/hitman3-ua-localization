@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00401BE0F91323E0",
+	"languages": {
+		"xx": {
+			"E060DBCC": "Pitstop",
+			"CF327474": "Seems there is room for another Kronstadt mechanic at Sierras pit stop garage.",
+			"DD1E6A6F": "One of the mechanics have left their post at the garage. This may be an opportunity for you to take his place and mess with Sierra's car in a pit stop.",
+			"37EA72AF": "Seems everything is setup for you to put your magic touch on Sierra's car",
+			"F392E524": "Disguise yourself as a Kronstadt mechanic",
+			"FBF45351": "Find a pneumatic wrench",
+			"11591B71": "Locate the Kronstadt's pit garage",
+			"33D2DEBA": "Talk to the chief Mechanic"
+		},
+		"en": {
+			"E060DBCC": "A Perfect Machine",
+			"CF327474": "One of the Kronstadt pit crew has unexpectedly quit the team in protest and Grace Miller, the ballbuster chief mechanic, is in critical need of a replacement. Why don’t you step in and offer your services, 47? You’re good with a wrench.",
+			"DD1E6A6F": "A spot on the Kronstadt pit crew. Sounds like an invitation to mischief.",
+			"37EA72AF": "Excellent, 47. And now for a bit of maintenance.",
+			"F392E524": "Disguise yourself as a Kronstadt mechanic",
+			"FBF45351": "Find a pneumatic wrench",
+			"11591B71": "Locate the Kronstadt's pit garage",
+			"33D2DEBA": "Talk to the chief mechanic"
+		},
+		"fr": {
+			"E060DBCC": "Une machine parfaite",
+			"CF327474": "Un des mécaniciens de Kronstadt a soudainement quitté l'équipe en protestant et Grace Miller, l'intransigeante cheffe mécanicienne, a désespérément besoin d'un remplacement. Pourquoi ne pas proposer vos services, 47 ? Vous êtes plutôt doué avec vos mains.",
+			"DD1E6A6F": "Une place dans l'équipe des stands de Kronstadt. Ça ressemble à une invitation aux méfaits.",
+			"37EA72AF": "Excellent 47. Et maintenant, il est temps pour un peu de maintenance.",
+			"F392E524": "Déguisez-vous en mécanicien de Kronstadt",
+			"FBF45351": "Trouvez une clé à chocs pneumatique",
+			"11591B71": "Trouvez le garage du stand Kronstadt",
+			"33D2DEBA": "Parlez au chef mécanicien"
+		},
+		"it": {
+			"E060DBCC": "Una macchina perfetta",
+			"CF327474": "Uno dei meccanici Kronstadt ha inaspettamente abbandonato la squadra come protesta e Grace Miller, l'inflessibile capo meccanico, sta disperatamente cercando un sostituto. Perché non ti presenti e offri loro i tuoi servizi, 47? Sei bravo a usare la chiave inglese.",
+			"DD1E6A6F": "Un posto nella squadra Kronstadt. Sembra proprio un invito a combinare guai.",
+			"37EA72AF": "Eccellente, 47. E adesso, un po' di manutenzione.",
+			"F392E524": "Travestiti da meccanico Kronstadt",
+			"FBF45351": "Trova una chiave inglese",
+			"11591B71": "Trova i box di Kronstadt",
+			"33D2DEBA": "Parla con il capo meccanico"
+		},
+		"de": {
+			"E060DBCC": "Eine Perfekte Maschine",
+			"CF327474": "Aus Protest hat einer der Kronstadt-Mechaniker überraschend das Team verlassen, und Grace Miller, die Chefmechanikerin, braucht dringend einen Ersatz. Warum melden Sie sich nicht bei ihr und bieten ihr Ihre Dienste an, 47? Sie können doch mit Schraubenschlüsseln umgehen.",
+			"DD1E6A6F": "Ein Platz als Mechaniker bei Kronstadt. Klingt wie eine Einladung für allerlei Unfug.",
+			"37EA72AF": "Hervorragend, 47. Und jetzt machen wir uns an die Wartung.",
+			"F392E524": "Verkleiden Sie sich als Kronstadt-Mechaniker.",
+			"FBF45351": "Finden Sie einen Druckluftschrauber.",
+			"11591B71": "Suchen Sie die Kronstadt-Werkstatt.",
+			"33D2DEBA": "Sprechen Sie mit der Chefmechanikerin."
+		},
+		"es": {
+			"E060DBCC": "Una máquina perfecta",
+			"CF327474": "Uno de los mecánicos de Kronstadt ha dejado el equipo inesperadamente en señal de protesta y Grace Miller, la jefa de equipo, que es de armas tomar, necesita un reemplazo urgentemente. ¿Por qué no ofreces tus servicios, 47? Se te da bien manejar la llave inglesa.",
+			"DD1E6A6F": "Un puesto en el equipo de mecánicos de Kronstadt. Suena como una invitación a la travesura.",
+			"37EA72AF": "Excelente, 47. Y ahora un poco de mantenimiento.",
+			"F392E524": "Disfrázate de mecánico de Kronstadt",
+			"FBF45351": "Busca una llave neumática",
+			"11591B71": "Encuentra el box de Kronstadt",
+			"33D2DEBA": "Habla con la jefa de mecánicos"
+		}
+	}
+}

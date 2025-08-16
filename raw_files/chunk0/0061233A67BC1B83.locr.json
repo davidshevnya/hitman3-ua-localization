@@ -1,0 +1,78 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0061233A67BC1B83",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_GLORIOSA_GROUP_TITLE": "The Han Encasement",
+			"UI_CONTRACT_GLORIOSA_GROUP_DESC": "Three Level Escalation in Mumbai",
+			"UI_CONTRACT_GLORIOSA_LEVEL_1_NAME": "The Han Encasement - Level 1",
+			"UI_CONTRACT_GLORIOSA_LEVEL_2_NAME": "The Han Encasement - Level 2",
+			"UI_CONTRACT_GLORIOSA_LEVEL_3_NAME": "The Han Encasement - Level 3",
+			"UI_CONTRACT_GLORIOSA_OBJ_1": "Eliminate Rajiv with the crane",
+			"UI_CONTRACT_GLORIOSA_OBJ_2": "Eliminate Prem with the crane",
+			"UI_CONTRACT_GLORIOSA_OBJ_3": "Eliminate Hemant Laghari by electrocution",
+			"UI_CONTRACT_GLORIOSA_OBJ_4": "Eliminate Dev Bedi in an explosion",
+			"D2170D6B": "Bodies dumped"
+		},
+		"en": {
+			"UI_CONTRACT_GLORIOSA_GROUP_TITLE": "The Han Encasement",
+			"UI_CONTRACT_GLORIOSA_GROUP_DESC": "Three Level Escalation in Mumbai.",
+			"UI_CONTRACT_GLORIOSA_LEVEL_1_NAME": "The Han Encasement - Level 1",
+			"UI_CONTRACT_GLORIOSA_LEVEL_2_NAME": "The Han Encasement - Level 2",
+			"UI_CONTRACT_GLORIOSA_LEVEL_3_NAME": "The Han Encasement - Level 3",
+			"UI_CONTRACT_GLORIOSA_OBJ_1": "Eliminate Rajiv Chauhan with the crane",
+			"UI_CONTRACT_GLORIOSA_OBJ_2": "Eliminate Prem Goel with the crane",
+			"UI_CONTRACT_GLORIOSA_OBJ_3": "Eliminate Hemant Laghari by electrocution",
+			"UI_CONTRACT_GLORIOSA_OBJ_4": "Eliminate Dev Bedi in an explosion",
+			"D2170D6B": "Bodies dumped"
+		},
+		"fr": {
+			"UI_CONTRACT_GLORIOSA_GROUP_TITLE": "L'encaissement de Han",
+			"UI_CONTRACT_GLORIOSA_GROUP_DESC": "Escalade en trois niveaux à Bombay",
+			"UI_CONTRACT_GLORIOSA_LEVEL_1_NAME": "L'encaissement de Han - Niveau 1",
+			"UI_CONTRACT_GLORIOSA_LEVEL_2_NAME": "L'encaissement de Han - Niveau 2",
+			"UI_CONTRACT_GLORIOSA_LEVEL_3_NAME": "L'encaissement de Han - Niveau 3",
+			"UI_CONTRACT_GLORIOSA_OBJ_1": "Éliminez Rajiv Chauhan avec la grue",
+			"UI_CONTRACT_GLORIOSA_OBJ_2": "Éliminez Prem Goel avec la grue",
+			"UI_CONTRACT_GLORIOSA_OBJ_3": "Éliminez Hemant Laghari en l'électrocutant",
+			"UI_CONTRACT_GLORIOSA_OBJ_4": "Éliminez Dev Bedi avec une explosion",
+			"D2170D6B": "Corps jetés"
+		},
+		"it": {
+			"UI_CONTRACT_GLORIOSA_GROUP_TITLE": "La custodia di Han",
+			"UI_CONTRACT_GLORIOSA_GROUP_DESC": "Escalation di tre livelli a Mumbai.",
+			"UI_CONTRACT_GLORIOSA_LEVEL_1_NAME": "La custodia di Han - Livello 1",
+			"UI_CONTRACT_GLORIOSA_LEVEL_2_NAME": "La custodia di Han - Livello 2",
+			"UI_CONTRACT_GLORIOSA_LEVEL_3_NAME": "La custodia di Han - Livello 3",
+			"UI_CONTRACT_GLORIOSA_OBJ_1": "Elimina Rajiv Chauhan con la gru",
+			"UI_CONTRACT_GLORIOSA_OBJ_2": "Elimina Prem Goel con la gru",
+			"UI_CONTRACT_GLORIOSA_OBJ_3": "Elimina Hemant Laghari con una scossa elettrica",
+			"UI_CONTRACT_GLORIOSA_OBJ_4": "Elimina Dev Bedi con un'esplosione",
+			"D2170D6B": "Corpi scaricati"
+		},
+		"de": {
+			"UI_CONTRACT_GLORIOSA_GROUP_TITLE": "Die Han-Umhüllung",
+			"UI_CONTRACT_GLORIOSA_GROUP_DESC": "Drei-Stufen-Eskalation in Mumbai.",
+			"UI_CONTRACT_GLORIOSA_LEVEL_1_NAME": "Die Han-Umhüllung – Stufe 1",
+			"UI_CONTRACT_GLORIOSA_LEVEL_2_NAME": "Die Han-Umhüllung – Stufe 2",
+			"UI_CONTRACT_GLORIOSA_LEVEL_3_NAME": "Die Han-Umhüllung – Stufe 3",
+			"UI_CONTRACT_GLORIOSA_OBJ_1": "Eliminieren Sie Rajiv Chauhan mit dem Kran",
+			"UI_CONTRACT_GLORIOSA_OBJ_2": "Eliminieren Sie Prem Goel mit dem Kran",
+			"UI_CONTRACT_GLORIOSA_OBJ_3": "Eliminieren Sie Hemant Laghari per Stromschlag",
+			"UI_CONTRACT_GLORIOSA_OBJ_4": "Eliminieren Sie Dev Bedi mit einer Explosion",
+			"D2170D6B": "Versteckte Körper"
+		},
+		"es": {
+			"UI_CONTRACT_GLORIOSA_GROUP_TITLE": "La funda de Han",
+			"UI_CONTRACT_GLORIOSA_GROUP_DESC": "Intensificación de tres niveles en Bombay.",
+			"UI_CONTRACT_GLORIOSA_LEVEL_1_NAME": "La funda de Han - Nivel 1",
+			"UI_CONTRACT_GLORIOSA_LEVEL_2_NAME": "La funda de Han - Nivel 2",
+			"UI_CONTRACT_GLORIOSA_LEVEL_3_NAME": "La funda de Han - Nivel 3",
+			"UI_CONTRACT_GLORIOSA_OBJ_1": "Elimina a Rajiv Chauhan con la grúa",
+			"UI_CONTRACT_GLORIOSA_OBJ_2": "Elimina a Prem Goel con la grúa",
+			"UI_CONTRACT_GLORIOSA_OBJ_3": "Elimina a Hemant Laghari electrocutándolo",
+			"UI_CONTRACT_GLORIOSA_OBJ_4": "Elimina a Dev Bedi con una explosión",
+			"D2170D6B": "Cuerpos tirados"
+		}
+	}
+}

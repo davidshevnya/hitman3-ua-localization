@@ -1,0 +1,78 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "004F7D033FA52196",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_SNAKESHEAD_GROUP_TITLE": "The Baskerville Barney",
+			"UI_CONTRACT_SNAKESHEAD_GROUP_DESC": "Three Level Escalation in Dartmoor.",
+			"UI_CONTRACT_SNAKESHEAD_LEVEL_1_NAME": "The Baskerville Barney - Level 1",
+			"UI_CONTRACT_SNAKESHEAD_LEVEL_2_NAME": "The Baskerville Barney - Level 2",
+			"UI_CONTRACT_SNAKESHEAD_LEVEL_3_NAME": "The Baskerville Barney - Level 3",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_EDWARD": "Eliminate Edward Carlisle in an accident",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_EMMA": "Eliminate Emma Carlisle in an accident",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_GREGORY": "Eliminate Gregory Carlisle in an accident",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_PATRICK": "Eliminate Patrick Carlisle in an accident",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_REBECCA": "Eliminate Rebecca Carlisle in an accident"
+		},
+		"en": {
+			"UI_CONTRACT_SNAKESHEAD_GROUP_TITLE": "The Baskerville Barney",
+			"UI_CONTRACT_SNAKESHEAD_GROUP_DESC": "Three Level Escalation in Dartmoor",
+			"UI_CONTRACT_SNAKESHEAD_LEVEL_1_NAME": "The Baskerville Barney - Level 1",
+			"UI_CONTRACT_SNAKESHEAD_LEVEL_2_NAME": "The Baskerville Barney - Level 2",
+			"UI_CONTRACT_SNAKESHEAD_LEVEL_3_NAME": "The Baskerville Barney - Level 3",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_EDWARD": "Eliminate Edward Carlisle in an accident",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_EMMA": "Eliminate Emma Carlisle in an accident",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_GREGORY": "Eliminate Gregory Carlisle in an accident",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_PATRICK": "Eliminate Patrick Carlisle in an accident",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_REBECCA": "Eliminate Rebecca Carlisle in an accident"
+		},
+		"fr": {
+			"UI_CONTRACT_SNAKESHEAD_GROUP_TITLE": "La dispute de Baskerville",
+			"UI_CONTRACT_SNAKESHEAD_GROUP_DESC": "Escalade en trois niveaux à Dartmoor.",
+			"UI_CONTRACT_SNAKESHEAD_LEVEL_1_NAME": "La dispute de Baskerville - Niveau 1",
+			"UI_CONTRACT_SNAKESHEAD_LEVEL_2_NAME": "La dispute de Baskerville - Niveau 2",
+			"UI_CONTRACT_SNAKESHEAD_LEVEL_3_NAME": "La dispute de Baskerville - Niveau 3",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_EDWARD": "Éliminez Edward Carlisle dans un accident",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_EMMA": "Éliminez Emma Carlisle dans un accident",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_GREGORY": "Éliminez Gregory Carlisle dans un accident",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_PATRICK": "Éliminez Patrick Carlisle dans un accident",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_REBECCA": "Éliminez Rebecca Carlisle dans un accident"
+		},
+		"it": {
+			"UI_CONTRACT_SNAKESHEAD_GROUP_TITLE": "Il battibecco dei Baskerville",
+			"UI_CONTRACT_SNAKESHEAD_GROUP_DESC": "Escalation di tre livelli a Dartmoor.",
+			"UI_CONTRACT_SNAKESHEAD_LEVEL_1_NAME": "Il battibecco dei Baskerville - Livello 1",
+			"UI_CONTRACT_SNAKESHEAD_LEVEL_2_NAME": "Il battibecco dei Baskerville - Livello 2",
+			"UI_CONTRACT_SNAKESHEAD_LEVEL_3_NAME": "Il battibecco dei Baskerville - Livello 3",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_EDWARD": "Elimina Edward Carlisle con un incidente",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_EMMA": "Elimina Emma Carlisle con un incidente",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_GREGORY": "Elimina Gregory Carlisle con un incidente",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_PATRICK": "Elimina Patrick Carlisle con un incidente",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_REBECCA": "Elimina Rebecca Carlisle con un incidente"
+		},
+		"de": {
+			"UI_CONTRACT_SNAKESHEAD_GROUP_TITLE": "Der Baskerville-Streit",
+			"UI_CONTRACT_SNAKESHEAD_GROUP_DESC": "Drei-Stufen-Eskalation in Dartmoor.",
+			"UI_CONTRACT_SNAKESHEAD_LEVEL_1_NAME": "Der Baskerville-Streit - Stufe 1",
+			"UI_CONTRACT_SNAKESHEAD_LEVEL_2_NAME": "Der Baskerville-Streit - Stufe 2",
+			"UI_CONTRACT_SNAKESHEAD_LEVEL_3_NAME": "Der Baskerville-Streit - Stufe 3",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_EDWARD": "Eliminieren Sie Edward Carlisle durch einen Unfall",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_EMMA": "Eliminieren Sie Emma Carlisle durch einen Unfall",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_GREGORY": "Eliminieren Sie Gregory Carlisle durch einen Unfall",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_PATRICK": "Eliminieren Sie Patrick Carlisle durch einen Unfall",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_REBECCA": "Eliminieren Sie Rebecca Carlisle durch einen Unfall"
+		},
+		"es": {
+			"UI_CONTRACT_SNAKESHEAD_GROUP_TITLE": "La trifulca de Baskerville",
+			"UI_CONTRACT_SNAKESHEAD_GROUP_DESC": "Intensificación de tres niveles en Dartmoor.",
+			"UI_CONTRACT_SNAKESHEAD_LEVEL_1_NAME": "La trifulca de Baskerville - Nivel 1",
+			"UI_CONTRACT_SNAKESHEAD_LEVEL_2_NAME": "La trifulca de Baskerville - Nivel 2",
+			"UI_CONTRACT_SNAKESHEAD_LEVEL_3_NAME": "La trifulca de Baskerville - Nivel 3",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_EDWARD": "Elimina a Edward Carlisle en un accidente",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_EMMA": "Elimina a Emma Carlisle en un accidente",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_GREGORY": "Elimina a Gregory Carlisle en un accidente",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_PATRICK": "Elimina a Patrick Carlisle en un accidente",
+			"UI_CONTRACT_SNAKESHEAD_OBJ_REBECCA": "Elimina a Rebecca Carlisle en un accidente"
+		}
+	}
+}

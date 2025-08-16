@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00CCC32E78C70A21",
+	"languages": {
+		"xx": {
+			"29961F8A": "Title_Bugman",
+			"F070FD04": "Headline_A chance to clear out the recording studio. Interesting.",
+			"0C0D0EE2": "Briefing_According to the schedule, the exterminator plans to inspect the penthouse suite. On his request, the hotel manager, Mrs. Mookjai, will clear out the recording studio and bring everyone into the atrium for the duration of the inspection. I suggest you locate the exterminator, 47. He appears to be fumigating in the A wing, ground floor.",
+			"5B929450": "Conclusion_Good thinking, 47. I dare say the possibilities are endless.",
+			"2B00FE22": "EXTERMINATOR_Step_01_Get_Exterminator_Disguise",
+			"0F247972": "EXTERMINATOR_Step_02_Get_the_Insecticide_cannister",
+			"79D69BFC": "EXTERMINATOR_Step_03_Talk_to_the_Manager",
+			"9B72CE38": "EXTERMINATOR_Step_04_Wait_For_Cross",
+			"301427A9": "EXTERMINATOR_Step_05_Release_The_Gas"
+		},
+		"en": {
+			"29961F8A": "Bugman",
+			"F070FD04": "A chance to clear out the recording studio. Interesting.",
+			"0C0D0EE2": "According to the schedule, the exterminator plans to inspect the Emperor's Suite. On his request, the hotel manager will clear out the recording studio and bring everyone into the atrium for the duration of the inspection. I suggest you locate the exterminator, 47. He appears to be fumigating on the ground floor.",
+			"5B929450": "Good thinking, 47. I dare say the possibilities are endless.",
+			"2B00FE22": "Get an Exterminator disguise",
+			"0F247972": "Get the insecticide canister",
+			"79D69BFC": "Talk to the hotel manager",
+			"9B72CE38": "Wait for Jordan Cross and his entourage to get to the atrium",
+			"301427A9": "Release the gas"
+		},
+		"fr": {
+			"29961F8A": "Nuisibles",
+			"F070FD04": "L'occasion idéale de vider le studio d'enregistrement. Intéressant.",
+			"0C0D0EE2": "D'après le planning, un exterminateur doit inspecter la Suite impériale. À sa demande, la directrice de l'hôtel videra le studio d'enregistrement et réunira tout le monde dans l'atrium pour la durée de l'inspection. Je vous suggère de localiser l'exterminateur, 47. Il est en train de fumiger le rez-de-chaussée.",
+			"5B929450": "Bonne idée, 47. Il me semble que les options sont illimitées.",
+			"2B00FE22": "Procurez-vous la tenue d'exterminateur",
+			"0F247972": "Procurez-vous la bonbonne d'insecticide",
+			"79D69BFC": "Parlez à la directrice de l'hôtel",
+			"9B72CE38": "Attendez que Jordan Cross et ses proches arrivent dans l'atrium",
+			"301427A9": "Relâchez le gaz"
+		},
+		"it": {
+			"29961F8A": "Il disinfestatore",
+			"F070FD04": "Un'occasione per far sgomberare lo studio di registrazione. Interessante.",
+			"0C0D0EE2": "Secondo i piani, il disinfestatore ha in programma di ispezionare la suite imperiale. Non appena lo richiederà, la direttrice dell'albergo farà sgomberare lo studio di registrazione e porterà tutti nell'atrio fino al termine dell'ispezione. Ti consiglio di trovare il disinfestatore, 47. Sembra stia lavorando al piano terra.",
+			"5B929450": "Ottima idea, 47. Le possibilità sono infinite.",
+			"2B00FE22": "Procurati un travestimento da disinfestatore",
+			"0F247972": "Ottieni il contenitore con l'insetticida",
+			"79D69BFC": "Parla con la direttrice dell'hotel",
+			"9B72CE38": "Aspetta che Jordan Cross e il suo entourage siano nell'atrio",
+			"301427A9": "Rilascia il gas"
+		},
+		"de": {
+			"29961F8A": "Kammerjäger",
+			"F070FD04": "Eine Chance, das Aufnahmestudio zu räumen. Interessant.",
+			"0C0D0EE2": "Der Kammerjäger wird die Kaisersuite wie geplant inspizieren. Er hat die Hotelmanagerin gebeten, das Aufnahmestudio zu räumen und alle für die Dauer der Inspektion in das Atrium bringen zu lassen. Ich schlage vor, Sie suchen diesen Kammerjäger, 47. Im Augenblick desinfiziert er das Erdgeschoss.",
+			"5B929450": "Gute Idee, 47. Ich wage zu behaupten, die Möglichkeiten sind endlos.",
+			"2B00FE22": "Verkleiden Sie sich als Kammerjäger",
+			"0F247972": "Finden Sie das Pestizid",
+			"79D69BFC": "Sprechen Sie mit der Hotelmanagerin",
+			"9B72CE38": "Warten Sie auf Jordan Cross und sein Gefolge, um ins Atrium zu gelangen",
+			"301427A9": "Setzen Sie das Gas frei"
+		},
+		"es": {
+			"29961F8A": "El tipo de los bichos",
+			"F070FD04": "Una oportunidad de vaciar el estudio de grabación. Interesante.",
+			"0C0D0EE2": "Según la planificación, el exterminador va a inspeccionar la Suite Emperador. A petición suya, la gerente del hotel desalojará el estudio de grabación y hará que todos vayan al patio interior durante la inspección. Te sugiero que encuentres al exterminador, 47. Parece que está fumigando en la planta baja.",
+			"5B929450": "Buena idea, 47. Me atrevo a decir que las posibilidades son ilimitadas.",
+			"2B00FE22": "Consigue el disfraz de exterminador",
+			"0F247972": "Consigue el tanque de insecticida",
+			"79D69BFC": "Habla con la gerente del hotel",
+			"9B72CE38": "Espera a que Jordan Cross y sus acompañantes vayan al patio interior",
+			"301427A9": "Suelta el gas"
+		}
+	}
+}

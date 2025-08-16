@@ -1,0 +1,78 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0061BF2FD4DE7643",
+	"languages": {
+		"xx": {
+			"061EF643": "Name",
+			"E179292D": "Flavor",
+			"7CA2D851": "Description",
+			"534DE18B": "Conclusion",
+			"586187CC": "Step 1",
+			"02A38BF8": "Step 2",
+			"A8B3A875": "Step 3",
+			"D1052D34": "Step 4",
+			"491FEE82": "Step 5",
+			"B77733F1": "Step 6"
+		},
+		"en": {
+			"061EF643": "Down The Rabbit Hole",
+			"E179292D": "Strandberg plans to escape through a secret tunnel. A way out is also a way in.",
+			"7CA2D851": "According to the evacuation plan, a secret tunnel runs between the consulate and a shoe shop downtown. This is how Strandberg plans to escape the building unnoticed. When the security alarm sounds, Strandberg will head to the underground garage where a team of Zaydan’s soldiers await to escort him safely to the school. I suggest you locate that shop, 47. This could be a way inside the consulate, not to mention a chance to lure Strandberg into the open.",
+			"534DE18B": "Good show, 47. Strandberg and Zaydan are now in the same location. How convenient.",
+			"586187CC": "Investigate the shoe shop",
+			"02A38BF8": "Listen to the soldiers",
+			"A8B3A875": "Follow the soldier through the tunnel",
+			"D1052D34": "Get a Soldier disguise",
+			"491FEE82": "Trigger a fire alarm inside the consulate",
+			"B77733F1": "Escort Strandberg to the school"
+		},
+		"fr": {
+			"061EF643": "Échappée souterraine",
+			"E179292D": "Strandberg a pour intention de s'échapper via un tunnel secret. Une sortie peut aussi servir d'entrée.",
+			"7CA2D851": "D'après le plan d'évacuation, il existe un tunnel secret qui relie le consulat et un magasin de chaussures en centre-ville. C'est de cette façon que Strandberg prévoit de quitter le bâtiment tout en passant inaperçu. Quand l'alarme sonnera, Strandberg se dirigera vers le parking sous-terrain où des soldats l'attendront pour l'escorter jusqu'à l'école. Je vous conseille de trouver cette boutique, 47. Cela pourrait être notre moyen d'entrer dans le consulat, sans oublier d'attirer Strandberg à découvert.",
+			"534DE18B": "Excellent travail, 47. Strandberg sont maintenant au même endroit. Que c'est pratique.",
+			"586187CC": "Inspectez le magasin de chaussures",
+			"02A38BF8": "Écoutez les soldats",
+			"A8B3A875": "Suivez le soldat à travers le tunnel",
+			"D1052D34": "Procurez-vous une tenue de soldat",
+			"491FEE82": "Déclenchez l'alarme à incendie à l'intérieur du consulat",
+			"B77733F1": "Escortez Strandberg jusqu'à l'école"
+		},
+		"it": {
+			"061EF643": "Nella tana del coniglio",
+			"E179292D": "Strandberg ha in mente di uscire dal consolato attraverso un tunnel segreto. Un'uscita può diventare anche un'entrata.",
+			"7CA2D851": "Quando suonerà l'allarme, Strandberg raggiungerà il garage sotterraneo per incontrarsi con un team di soldati di Zaydan. A quanto pare, un tunnel segreto collega il consolato a un negozio di scarpe in centro. È così che il banchiere conta di lasciare l'edificio senza farsi notare. Ti suggerisco di trovare quel negozio, 47. Potrebbe essere una via d'accesso al consolato, senza contare che potresti usarlo per attirare Zaydan allo scoperto.",
+			"534DE18B": "Molto bene, 47. Strandberg e Zaydan sono nella stessa zona. Davvero conveniente.",
+			"586187CC": "Ispeziona il negozio di scarpe",
+			"02A38BF8": "Ascolta cosa dicono i soldati",
+			"A8B3A875": "Segui il soldato attraverso il tunnel",
+			"D1052D34": "Procurati un travestimento da soldato",
+			"491FEE82": "Innesca l'allarme antincendio all'interno del consolato",
+			"B77733F1": "Scorta Strandberg fino alla scuola"
+		},
+		"de": {
+			"061EF643": "In den Kaninchenbau",
+			"E179292D": "Strandberg will durch einen geheimen Tunnel fliehen. Ein Weg raus ist ein Weg rein!",
+			"7CA2D851": "Wenn der Sicherheitsalarm ertönt, soll sich Strandberg, laut den Instruktionen, mit einem Team von Zaydans Soldaten in der Tiefgarage treffen. Scheinbar gibt es einen geheimen Tunnel zwischen dem Konsulat und einem Schuhgeschäft in der Innenstadt. Auf diesem Weg plant der Bankier das Gebäude unbemerkt zu verlassen. Ich schlage vor, Sie finden das Geschäft, 47. Dies könnte ein Weg in das Konsulat sein ... vor allem aber eine Chance, Strandberg aus dem Versteck zu locken.",
+			"534DE18B": "Tolle Vorstellung, 47. Strandberg und Zaydan sind jetzt am selben Ort. Wie praktisch.",
+			"586187CC": "Untersuchen Sie den Schuhladen",
+			"02A38BF8": "Belauschen Sie die Soldaten",
+			"A8B3A875": "Folgen Sie dem Soldaten durch den Tunnel",
+			"D1052D34": "Verkleiden Sie sich als Soldat",
+			"491FEE82": "Lösen Sie den Feueralarm im Konsulat aus",
+			"B77733F1": "Eskortieren Sie Strandberg zur Schule"
+		},
+		"es": {
+			"061EF643": "Por la madriguera del conejo",
+			"E179292D": "Strandberg planea escapar a través de un túnel secreto. Si hay una forma de salir, también tiene que haber una de entrar.",
+			"7CA2D851": "Según el plan de evacuación, un túnel secreto conecta el consulado con una zapatería del centro. Strandberg planea escapar del edificio de esta forma sin ser detectado. Si la alarma de seguridad se activa, Strandberg se dirigirá al aparcamiento subterráneo, donde un pelotón de soldados de Zaydan lo esperará para escoltarlo hasta la escuela. Te sugiero que encuentres esa tienda, 47. Esta podría ser una manera de entrar en el consulado, por no decir una oportunidad de hacer que Strandberg salga al exterior.",
+			"534DE18B": "Excelente trabajo, 47. Ahora Strandberg y Zaydan se encuentran en la misma ubicación. Muy conveniente.",
+			"586187CC": "Investiga la zapatería",
+			"02A38BF8": "Escucha la conversación de los soldados",
+			"A8B3A875": "Sigue al soldado por el túnel",
+			"D1052D34": "Consigue el disfraz de soldado",
+			"491FEE82": "Activa la alarma de incendios dentro del consulado",
+			"B77733F1": "Escolta a Strandberg hasta la escuela"
+		}
+	}
+}

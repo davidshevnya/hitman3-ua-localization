@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00BB0A089CAE7854",
+	"languages": {
+		"xx": {
+			"B1DFC760": "PH_Hint",
+			"C8A946C2": "PH_Crouch_Text_Text"
+		},
+		"en": {
+			"B1DFC760": "Sneaking",
+			"C8A946C2": "Press {CROUCH} to crouch."
+		},
+		"fr": {
+			"B1DFC760": "Furtif",
+			"C8A946C2": "Appuyez sur {CROUCH} pour vous accroupir."
+		},
+		"it": {
+			"B1DFC760": "Furtività",
+			"C8A946C2": "Premi {CROUCH} per abbassarti."
+		},
+		"de": {
+			"B1DFC760": "Schleichen",
+			"C8A946C2": "Drücken Sie {CROUCH}, um sich zu ducken."
+		},
+		"es": {
+			"B1DFC760": "Sigilo",
+			"C8A946C2": "Pulsa {CROUCH} para agacharte."
+		}
+	}
+}

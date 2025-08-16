@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00466FB9390832BA",
+	"languages": {
+		"xx": {
+			"1A03E6A0": "Title",
+			"830AB71A": "Summary_Escape by fighter jet. Sounds dangerous.",
+			"7372236E": "",
+			"F40D878C": "Briefing_Jasper Knight is leaving Cuba on a Soviet fighter jet. But first he needs to test the jet’s safety features. If you could somehow tamper with the ejector seat mechanism, you could presumably get Knight to trigger his own demise. Sounds promising.",
+			"6A69122F": "Step 1_Examine clipboard",
+			"1D6E22B9": "Step 2_Get a mechanic disguise.",
+			"84677303": "Step 3_Inform Jasper Knight about the safety check.",
+			"F3604395": "Step 4_Escort Knight to the fighter jet.",
+			"63DF5E04": "Instruct Jasper Knight",
+			"14D86E92": "Conclusion_Well done, Initiate. I dare say this is an accident waiting to happen. All you need now is to fetch Mr. Knight.",
+			"741FE777": "Get a security guard disguise",
+			"0318D7E1": "Enable the ejector seat"
+		},
+		"en": {
+			"1A03E6A0": "Safety First",
+			"830AB71A": "Escape by fighter jet. Sounds dangerous.",
+			"7372236E": "",
+			"F40D878C": "Jasper Knight is leaving Cuba on a Soviet fighter jet. But first he needs to test the jet’s safety features. If you could somehow tamper with the ejector seat mechanism, you could presumably get Knight to trigger his own demise. Sounds promising.",
+			"6A69122F": "Investigate the jet safety protocol",
+			"1D6E22B9": "Get an Airplane Mechanic disguise",
+			"84677303": "Talk to Jasper Knight",
+			"F3604395": "Escort Jasper Knight to the fighter jet",
+			"63DF5E04": "Take Jasper Knight through the safety procedure",
+			"14D86E92": "Well done, Initiate. I dare say this is an accident waiting to happen. All you need now is to fetch Mr. Knight.",
+			"741FE777": "Get a Security Guard disguise",
+			"0318D7E1": "Enable the ejector seat"
+		},
+		"fr": {
+			"1A03E6A0": "La sécurité avant tout",
+			"830AB71A": "Une évasion en avion de chasse. Périlleux...",
+			"7372236E": "",
+			"F40D878C": "Jasper Knight doit quitter Cuba à bord d'un avion de chasse soviétique. Mais d'abord, il doit tester le protocole de sécurité de celui-ci. Imaginons que vous parvenier à saboter le siège éjectable, vous pourriez sans doute pousser Knight à provoquer sa propre mort. J'ai hâte de voir ça !",
+			"6A69122F": "Examinez le protocole de sécurité de l'avion de chasse",
+			"1D6E22B9": "Procurez-vous une tenue de mécanicien aéronautique",
+			"84677303": "Parlez à Jasper Knight",
+			"F3604395": "Escortez Jasper Knight jusqu'à l'avion de chasse",
+			"63DF5E04": "Guidez Jasper Knight à travers la procédure de sécurité",
+			"14D86E92": "Bien joué, initié. On sous-estime bien trop les risques d'accident. Vous n'avez plus qu'à aller chercher M. Knight.",
+			"741FE777": "Procurez-vous une tenue d'agent de sécurité",
+			"0318D7E1": "Activez le siège éjectable"
+		},
+		"it": {
+			"1A03E6A0": "Sicurezza innanzitutto",
+			"830AB71A": "Fuggire con un jet da combattimento. Sembra pericoloso.",
+			"7372236E": "",
+			"F40D878C": "Jasper Knight conta di lasciare Cuba a bordo di un jet da combattimento sovietico, ma prima deve verificare i sistemi di sicurezza dell'aereo. Se tu riuscissi a manomettere il meccanismo del seggiolino eiettabile, Knight finirebbe per causare la sua stessa dipartita. Potrebbe funzionare.",
+			"6A69122F": "Esamina il protocollo di sicurezza del jet",
+			"1D6E22B9": "Procurati un travestimento da meccanico aeronautico",
+			"84677303": "Parla con Jasper Knight",
+			"F3604395": "Accompagna Jasper Knight al jet da combattimento",
+			"63DF5E04": "Dai istruzioni a Jasper Knight su come completare il protocollo di sicurezza",
+			"14D86E92": "Ottimo lavoro, recluta. Ho il vago sospetto che stia per accadere un tragico incidente... Ora devi solo attirare Knight.",
+			"741FE777": "Procurati un travestimento da addetto alla sicurezza",
+			"0318D7E1": "Attiva il seggiolino eiettabile"
+		},
+		"de": {
+			"1A03E6A0": "Sicherheit geht vor",
+			"830AB71A": "Flucht in einem Kampfjet. Klingt gefährlich ...",
+			"7372236E": "",
+			"F40D878C": "Also, Jasper Knight verlässt Kuba in einem sowjetischen Kampfjet. Aber vorher muss er die Sicherheitsmaßnahmen des Jets überprüfen. Nehmen wir an, Sie könnten ein wenig am Schleudersitz herumschrauben, dann würde Knight möglicherweise seinen eigenen Absturz auslösen. Klingt doch gut.",
+			"6A69122F": "Untersuchen Sie das Sicherheitsprotokoll des Jets",
+			"1D6E22B9": "Verkleiden Sie sich als Flugzeug-Mechaniker",
+			"84677303": "Reden Sie mit Jasper Knight",
+			"F3604395": "Begleiten Sie Jasper Knight zum Kampfjet",
+			"63DF5E04": "Gehen Sie mit Jasper Knight das Sicherheitsprotokoll durch",
+			"14D86E92": "Gut gemacht, Rekrut. Ich würde sagen, da lauert ein wirklich wunderschöner Unfall. Jetzt müssen Sie nur noch Mr Knight holen.",
+			"741FE777": "Verkleiden Sie sich als Wachmann",
+			"0318D7E1": "Aktivieren Sie den Schleudersitz"
+		},
+		"es": {
+			"1A03E6A0": "La seguridad es lo primero",
+			"830AB71A": "Escapar en un caza a reacción. Parece peligroso.",
+			"7372236E": "",
+			"F40D878C": "Jasper Knight va a abandonar Cuba en un caza soviético, pero primero tiene que revisar las medidas de seguridad del avión. Si consiguieras sabotear el mecanismo del asiento eyectable de alguna manera, podrías hacer que Knight acabase consigo mismo. Puede funcionar.",
+			"6A69122F": "Examina los protocolos de seguridad del caza",
+			"1D6E22B9": "Consigue el disfraz de mecánico aeronáutico",
+			"84677303": "Habla con Jasper Knight",
+			"F3604395": "Acompaña a Knight al caza",
+			"63DF5E04": "Realiza las comprobaciones de seguridad con Jasper Knight",
+			"14D86E92": "Bien hecho, iniciado. Me atrevo a decir que el accidente va ser inevitable. Ahora solo tienes que buscar al señor Knight.",
+			"741FE777": "Consigue el disfraz de guardia de seguridad",
+			"0318D7E1": "Activa el asiento eyectable"
+		}
+	}
+}

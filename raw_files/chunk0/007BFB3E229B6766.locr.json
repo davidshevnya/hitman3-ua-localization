@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "007BFB3E229B6766",
+	"languages": {
+		"xx": {
+			"74F94DC2": "Title_Intervention",
+			"E4D75805": "Headline_So. Dexy Barat carries a mysterious audio recording, featuring her client Jordan Cross. Hmm.",
+			"CA2ADECF": "Briefing_The plot thickens. Apparently, Jordan Cross has been obsessing over a mysterious audio recording featuring the voice of Hannah Highmoore. However, his manager Dexy Barat has confiscated the recording for her client's \"own good\". Well I suggest you get a hold of that recording, 47. Sounds like the perfect bait and - if my hunch is right - a chance to confront Cross with his crimes. You could start by searching Miss Barat's private quarters; Room 404, inside the Emperor's Suite.",
+			"FD6BDA4C": "Conclusion_Excellent work 47. And now, the moment of truth.",
+			"8790D450": "EVIDENCE_Step_01_Locate_Dexy",
+			"6FCB1461": "EVIDENCE_Step_02_Get_Memory_Stick_From_Dexy",
+			"19E046A0": "EVIDENCE_Step_03_Get_the_Memory_Stick_From_Dexys_Safe",
+			"A3430105": "EVIDENCE_Step_04_Play_the_recording_when_Cross_is_nearby",
+			"237A276B": "EVIDENCE_Step_05_Wait_For_Jordan"
+		},
+		"en": {
+			"74F94DC2": "Intervention",
+			"E4D75805": "So. Dexy Barat carries a mysterious audio recording featuring her client Jordan Cross. Hm.",
+			"CA2ADECF": "The plot thickens. Apparently, Jordan Cross has been obsessing over a mysterious audio recording featuring the voice of Hannah Highmoore. However, his manager Dexy Barat has confiscated the recording for her client's \"own good.\" Well, I suggest you get a hold of that recording, 47. Sounds like the perfect bait, and if my hunch is right, a chance to confront Cross with his crimes. You could start by searching Miss Barat's private quarters: Room 404, inside the Emperor's Suite.",
+			"FD6BDA4C": "Excellent work, 47. And now the moment of truth.",
+			"8790D450": "Search Dexy Barat's Room",
+			"6FCB1461": "Get the combination for her safe",
+			"19E046A0": "Get the USB flash drive from Dexy's safe",
+			"A3430105": "Play the recording",
+			"237A276B": "Wait for Jordan Cross"
+		},
+		"fr": {
+			"74F94DC2": "Intervention",
+			"E4D75805": "Bon. Dexy Barat a en sa possession un mystérieux enregistrement audio de son client, Jordan Cross. Hmm…",
+			"CA2ADECF": "Le mystère s'épaissit. Jordan Cross écouterait en boucle un enregistrement audio de la voix d'Hannah Highmoore. Cependant, Dexy Barat a confisqué l'enregistrement, pour le bien de son client. Je vous suggère de mettre la main sur cet enregistrement, 47. Il s'agit probablement du piège idéal et, si mon intuition est juste, de l'occasion rêvée de confronter Cross. Vous pourriez commencer à chercher dans les quartiers privés de mademoiselle Barat, chambre 404, à l'intérieur de la Suite Impériale.",
+			"FD6BDA4C": "Excellent travail, 47. Et maintenant, l'heure de vérité.",
+			"8790D450": "Fouillez la chambre de Dexy Barat",
+			"6FCB1461": "Trouvez la combinaison de son coffre-fort",
+			"19E046A0": "Récupérez la clé USB dans le coffre-fort de Dexy",
+			"A3430105": "Écoutez l'enregistrement",
+			"237A276B": "Attendez Jordan Cross"
+		},
+		"it": {
+			"74F94DC2": "Intervento",
+			"E4D75805": "Dexy Barat ha con sé una misteriosa registrazione audio del suo cliente Jordan Cross. Uhm...",
+			"CA2ADECF": "La trama si infittisce. Apparentemente, Jordan Cross è ossessionato da una misteriosa registrazione audio contenente la voce di Hannah Highmoore. Tuttavia, Dexy Barat, il suo manager, l'ha confiscata per il \"bene\" del suo cliente. Ti consiglio di recuperare quella registrazione, 47. Sembra un'ottima esca e, se il mio intuito non mi tradisce, l'occasione perfetta per mettere Cross di fronte ai suoi crimini. Potresti cominciare a cercare nell'alloggio privato di Barat, stanza 404, nella suite imperiale.",
+			"FD6BDA4C": "Eccellente, 47. È il momento della verità.",
+			"8790D450": "Perquisisci la stanza di Dexy Barat",
+			"6FCB1461": "Trova la combinazione della sua cassaforte",
+			"19E046A0": "Prendi la chiavetta USB dalla cassaforte di Dexy",
+			"A3430105": "Avvia la registrazione",
+			"237A276B": "Aspetta Jordan Cross"
+		},
+		"de": {
+			"74F94DC2": "Intervention",
+			"E4D75805": "So. Dexy Barat hat also eine mysteriöse Tonaufnahme ihres Klienten Jordan Cross. Hmm.",
+			"CA2ADECF": "Langsam wird die Sache interessant. Offenbar hat sich Jordan Cross zwanghaft mit einer mysteriösen Tonaufnahme von Hannah Highmoore befasst. Allerdings hat seine Managerin, Dexy Barat, die Aufnahme mittlerweile an sich genommen – „zu seinem eigenen Besten“. Nun, ich schlage vor, Sie besorgen sich diese Aufnahme, 47. Sie wäre vielleicht ein perfekter Köder und – wenn mich mein Gefühl nicht trügt – eine Chance, Cross mit seinen Verbrechen zu konfrontieren. Ich schlage vor, Sie suchen die Aufnahme zuerst in Miss Barats Privatgemächern: Zimmer 404 in der Kaisersuite.",
+			"FD6BDA4C": "Ausgezeichnete Arbeit, 47. Und jetzt ... die Stunde der Wahrheit.",
+			"8790D450": "Durchsuchen Sie Dexy Barats Zimmer",
+			"6FCB1461": "Finden Sie die Kombination für ihren Safe",
+			"19E046A0": "Nehmen Sie den Datenträger aus Dexys Safe",
+			"A3430105": "Spielen Sie die Aufnahme ab",
+			"237A276B": "Warten Sie auf Jordan Cross"
+		},
+		"es": {
+			"74F94DC2": "Intervención",
+			"E4D75805": "Bien. Dexy Barat tiene en su poder una misteriosa grabación de su cliente, Jordan Cross. Mmm.",
+			"CA2ADECF": "La historia se complica. Según los guardias, Jordan Cross se ha obsesionado con una misteriosa grabación en la que se escucha la voz de Hannah Highmoore. Sin embargo, Dexy Barat ha confiscado la grabación, al parecer \"por el bien\" de su cliente. Sugiero que te hagas con ella, 47. Parece el cebo perfecto y, si mi intuición no me falla, la ocasión perfecta para hacer que Cross se enfrente a sus crímenes. Puedes empezar registrando la habitación de la señorita Barat: habitación 404, dentro de la Suite Emperador.",
+			"FD6BDA4C": "Un trabajo excelente, 47. Y ahora, el momento de la verdad.",
+			"8790D450": "Registra la habitación de Dexy Barat",
+			"6FCB1461": "Consigue la combinación de su caja fuerte",
+			"19E046A0": "Consigue la memoria USB de la caja fuerte de Dexy",
+			"A3430105": "Reproduce la grabación",
+			"237A276B": "Espera a Jordan Cross"
+		}
+	}
+}

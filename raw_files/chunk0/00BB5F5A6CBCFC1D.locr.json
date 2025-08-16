@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00BB5F5A6CBCFC1D",
+	"languages": {
+		"xx": {
+			"F2CF6EC1": "ESCORT title",
+			"C0FE5AC2": "One-line summary",
+			"1960902A": "DS11012_EscortBriefing",
+			"16C704CA": "DS11013_EscortConclusion",
+			"AC5F8EF3": "Pacify the bodyguard",
+			"CA1A8F3C": "Acquire the bodyguard's outfit",
+			"5BECBAB6": "Approach Matthieu Mendola",
+			"AE4D0D96": "Escort Mendola to the rooftop",
+			"5386ACC9": "Matthieu Mendola is dead",
+			"1CEB3ACF": "Mendola has abandoned you",
+			"A0D6C1C7": "Escort Mendola to the meeting"
+		},
+		"en": {
+			"F2CF6EC1": "Waiting For The Man",
+			"C0FE5AC2": "Acquire a bodyguard's uniform and escort Matthieu Mendola to the meeting place.",
+			"1960902A": "Mendola’s escort is not likely to get well soon, but he does have a job to do. Maybe you could give him a helping hand?",
+			"16C704CA": "Good work, 47. Mendola is right where we want him. Now all that’s missing is the host.",
+			"AC5F8EF3": "Pacify the bodyguard",
+			"CA1A8F3C": "Get a Bodyguard disguise",
+			"5BECBAB6": "Approach Matthieu Mendola",
+			"AE4D0D96": "Escort Mendola to the rooftop",
+			"5386ACC9": "Matthieu Mendola is dead.",
+			"1CEB3ACF": "Mendola has abandoned you.",
+			"A0D6C1C7": "Escort Mendola to the meeting"
+		},
+		"fr": {
+			"F2CF6EC1": "En attendant Monsieur",
+			"C0FE5AC2": "L'escorte de Mendola n'est pas prête de s'en remettre. Mais il a un travail à faire. Peut-être pourriez-vous lui donner un coup de main ?",
+			"1960902A": "Procurez-vous une tenue de garde du corps et escortez Matthieu Mendola jusqu'au lieu de rendez-vous.",
+			"16C704CA": "Bon travail 47. Mendola se trouve exactement où l'on voulait. Tout ce qu'il nous manque, maintenant, c'est l'hôte.",
+			"AC5F8EF3": "Neutralisez le garde du corps",
+			"CA1A8F3C": "Procurez-vous l'uniforme du garde du corps",
+			"5BECBAB6": "Approchez-vous de Matthieu Mendola",
+			"AE4D0D96": "Escortez Mendola sur le toit",
+			"5386ACC9": "Matthieu Mendola est mort.",
+			"1CEB3ACF": "Mendola vous a abandonné.",
+			"A0D6C1C7": "Escortez Mendola jusqu'au lieu de rendez-vous"
+		},
+		"it": {
+			"F2CF6EC1": "L'uomo giusto al posto giusto",
+			"C0FE5AC2": "La guardia del corpo di Mendola non si riprenderà presto, ma ha un lavoro da svolgere. Forse potresti dargli una mano?",
+			"1960902A": "Procurati una divisa da guardia del corpo e scorta Matthieu Mendola al luogo dell'incontro.",
+			"16C704CA": "Bel lavoro, 47. Mendola è esattamente dove volevamo che fosse. Ora manca solo il padrone di casa.",
+			"AC5F8EF3": "Neutralizza la guardia del corpo",
+			"CA1A8F3C": "Procurati un travestimento da guardia del corpo",
+			"5BECBAB6": "Parla con Matthieu Mendola",
+			"AE4D0D96": "Accompagna Mendola sul tetto",
+			"5386ACC9": "Matthieu Mendola è morto.",
+			"1CEB3ACF": "Mendola ti ha abbandonato.",
+			"A0D6C1C7": "Accompagna Mendola all'incontro"
+		},
+		"de": {
+			"F2CF6EC1": "Warten auf den Boss",
+			"C0FE5AC2": "Mendolas Begleitschutz wird es so schnell nicht besser gehen. Aber er hat einen Job zu erledigen. Vielleicht sollten Sie ihm ein wenig zur Hand gehen.",
+			"1960902A": "Beschaffen Sie sich eine Leibwächteruniform und eskortieren Sie Matthieu Mendola zum Treffpunkt.",
+			"16C704CA": "Gute Arbeit, 47. Mendola ist genau dort, wo wir ihn haben wollen. Jetzt fehlt nur der Gastgeber.",
+			"AC5F8EF3": "Stellen Sie den Leibwächter ruhig",
+			"CA1A8F3C": "Verkleiden Sie sich als Leibwächter",
+			"5BECBAB6": "Sprechen Sie Matthieu Mendola an",
+			"AE4D0D96": "Eskortieren Sie Mendola auf das Dach",
+			"5386ACC9": "Matthieu Mendola ist tot.",
+			"1CEB3ACF": "Mendola hat Sie stehen lassen.",
+			"A0D6C1C7": "Begleiten Sie Mendola zum Treffen"
+		},
+		"es": {
+			"F2CF6EC1": "Esperando a su hombre",
+			"C0FE5AC2": "Es poco probable que el escolta de Mendola se recupere pronto. Pero tiene trabajo que hacer. Quizá puedas echarle una mano.",
+			"1960902A": "Obtén un disfraz de guardaespaldas y escolta a Matthieu Mendola al lugar de encuentro.",
+			"16C704CA": "Buen trabajo, 47. Mendola está justo donde lo queríamos. Ahora lo único que falta es el anfitrión.",
+			"AC5F8EF3": "Deja inconsciente al guardaespaldas",
+			"CA1A8F3C": "Consigue el disfraz de guardaespaldas",
+			"5BECBAB6": "Acércate a Matthieu Mendola",
+			"AE4D0D96": "Escolta a Mendola al tejado",
+			"5386ACC9": "Matthieu Mendola está muerto.",
+			"1CEB3ACF": "Mendola te ha abandonado.",
+			"A0D6C1C7": "Escolta a mendola a la reunión"
+		}
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00A9CE22ED2B9D0B",
+	"languages": {
+		"xx": {
+			"92DE2180": "The Mysterious Mr. Reaper",
+			"0BD7703A": "We have hacked IAGOs security servers and provided you a suitable cover identity. You are Tobias Reaper, corporate shark specializing in hostile takeovers. However, you still need to obtain an invitation, so have a look around. We have solid intel that fashion editor Valerie St. Clair has obtained an invitation for her own purposes and there are bound to be IAGO customers in the crowd.",
+			"7CD040AC": "Obtain a IAGO invitation and gain access to the auction without wearing a disguise.",
+			"E2B4D50F": "Investigate Liza McKenzie",
+			"95B3E599": "Aquire a IAGO invitation",
+			"0CBAB423": "Enter the auction while in your suit."
+		},
+		"en": {
+			"92DE2180": "The Mysterious Mr. Rieper",
+			"0BD7703A": "We have hacked IAGO's security servers and provided you with a suitable cover identity. You are Tobias Rieper, a corporate shark specializing in hostile takeovers. However, you still need to obtain an invitation, so have a look around. We have solid intel that fashion editor Valerie St. Clair has obtained an invitation for her own purposes, and there are bound to be IAGO customers in the crowd.",
+			"7CD040AC": "Obtain an IAGO invitation and gain access to the auction without wearing a disguise.",
+			"E2B4D50F": "Investigate Liza McKenzie",
+			"95B3E599": "Acquire an IAGO invitation",
+			"0CBAB423": "Enter the auction in your suit"
+		},
+		"fr": {
+			"92DE2180": "Le mystérieux M. Rieper",
+			"0BD7703A": "Nous avons piraté les serveurs de sécurité de IAGO, et vous avons trouvé une identité de couverture. Vous êtes Tobias Rieper, véritable requin spécialisé dans les prises de contrôle hostiles. Vous devez cependant toujours obtenir une invitation, donc examinez les environs. Nous savons de source sûre que l'éditrice de mode Valerie St. Clair a réussi à en obtenir une, et vous devriez trouver des clients IAGO dans la foule.",
+			"7CD040AC": "Obtenez une invitation IAGO et accédez à la vente aux enchères sans porter de déguisement.",
+			"E2B4D50F": "Enquêtez sur Liza McKenzie",
+			"95B3E599": "Obtenez une invitation IAGO",
+			"0CBAB423": "Participez à la vente aux enchères en portant votre costume"
+		},
+		"it": {
+			"92DE2180": "Il misterioso signor Rieper",
+			"0BD7703A": "Abbiamo violato i server della sicurezza della IAGO e ti abbiamo procurato un'identità fittizia appropriata. Sei Tobias Rieper, squalo della finanza specializzato in acquisizioni ostili. Devi ancora ottenere un invito tuttavia, quindi guardati intorno. Abbiamo ricevuto informazioni sicure che Valerie St. Clair abbia ottenuto un invito, oltre a lei ci saranno anche i clienti della IAGO in giro.",
+			"7CD040AC": "",
+			"E2B4D50F": "",
+			"95B3E599": "",
+			"0CBAB423": ""
+		},
+		"de": {
+			"92DE2180": "Der mysteriöse Mr Rieper",
+			"0BD7703A": "Eine Einladung zur IAGO-Auktion. Sehr praktisch. Ich habe mir erlaubt, ihre Server zu hacken, um Ihnen eine Tarnidentität zu beschaffen. Sie sind Tobias Rieper, ein Finanzhai, spezialisiert auf feindliche Übernahmen. Margolis wird annehmen, dass Sie ein Gast von Novikov sind. Sie müssten also genug Zeit für Ihre Mission haben.",
+			"7CD040AC": "Beschaffen Sie sich eine IAGO-Einladung, um Zugang zur Auktion zu bekommen ohne Verkleidung",
+			"E2B4D50F": "Untersuchen Sie Liza McKenzie",
+			"95B3E599": "Erlangen Sie eine IAGO-Einladung",
+			"0CBAB423": "Betreten Sie die Auktion in Ihrem Anzug"
+		},
+		"es": {
+			"92DE2180": "El misterioso señor Rieper",
+			"0BD7703A": "Hemos hackeado los servidores de seguridad de IAGO y te hemos proporcionado una identidad falsa muy apropiada. Eres Tobias Rieper, un tiburón corporativo especializado en compras agresivas. Sin embargo, aun necesitas conseguir una invitación, así que estate alerta. Tenemos información sólida de que la editora Valeria St. Clair ha conseguido una invitación por sus propios motivos y que debería haber clientes de IAGO entre el público.",
+			"7CD040AC": "Consigue una invitación de IAGO y entra en la subasta sin disfrazarte.",
+			"E2B4D50F": "Investiga a Liza Mckenzie",
+			"95B3E599": "Consigue una invitación de IAGO",
+			"0CBAB423": "Entra en la subasta con tu traje"
+		}
+	}
+}

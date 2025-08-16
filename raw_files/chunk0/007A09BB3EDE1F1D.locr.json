@@ -1,0 +1,36 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "007A09BB3EDE1F1D",
+	"languages": {
+		"xx": {
+			"7532CCF4": "PH_USEINSTINCT",
+			"57F60C24": "PH_INSTINCT",
+			"4C0A28AF": "PH_HOLDTOLOCATE"
+		},
+		"en": {
+			"7532CCF4": "Use Instinct to Locate Your Target.",
+			"57F60C24": "Instinct",
+			"4C0A28AF": "Hold {INSTINCT} to use Instinct."
+		},
+		"fr": {
+			"7532CCF4": "Utilisez votre instinct pour repérer la cible.",
+			"57F60C24": "Instinct",
+			"4C0A28AF": "Maintenez {INSTINCT} pour utiliser votre instinct."
+		},
+		"it": {
+			"7532CCF4": "Usare l'istinto per localizzare il bersaglio.",
+			"57F60C24": "Istinto",
+			"4C0A28AF": "Tieni premuto {INSTINCT} per usare l'istinto."
+		},
+		"de": {
+			"7532CCF4": "Benutzen Sie Instinkt, um Ihr Ziel ausfindig zu machen.",
+			"57F60C24": "Instinkt",
+			"4C0A28AF": "Halten Sie {INSTINCT}, um Instinkt einzusetzen."
+		},
+		"es": {
+			"7532CCF4": "Usa Instinto para localizar a tu objetivo.",
+			"57F60C24": "Instinto",
+			"4C0A28AF": "Mantén {INSTINCT} para usar Instinto."
+		}
+	}
+}

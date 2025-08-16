@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "000B6082012057A8",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_NUTMEG_GROUP_TITLE": "The Hirani Evacuation",
+			"UI_CONTRACT_NUTMEG_GROUP_DESC": "Three Level Escalation on Mumbai",
+			"UI_CONTRACT_NUTMEG_LEVEL_0_OBJ": "Dump Aakash Joshi down the Rangan Tower elevator shaft",
+			"UI_CONTRACT_NUTMEG_LEVEL_0_NAME": "Aakash Joshi",
+			"UI_CONTRACT_NUTMEG_LEVEL_1_OBJ": "Dump Babu Raav down the Rangan Tower elevator shaft",
+			"UI_CONTRACT_NUTMEG_LEVEL_1_NAME": "Babu Raav",
+			"UI_CONTRACT_NUTMEG_LEVEL_2_OBJ": "Dump Reyansh Mani down the Rangan Tower elevator shaft",
+			"UI_CONTRACT_NUTMEG_LEVEL_2_NAME": "Reyansh Mani",
+			"UI_CONTRACT_NUTMEG_LEVEL_1_TITLE": "The Hirani Evacuation - Level 1",
+			"UI_CONTRACT_NUTMEG_LEVEL_2_TITLE": "The Hirani Evacuation - Level 2",
+			"UI_CONTRACT_NUTMEG_LEVEL_3_TITLE": "The Hirani Evacuation - Level 3"
+		},
+		"en": {
+			"UI_CONTRACT_NUTMEG_GROUP_TITLE": "The Hirani Evacuation",
+			"UI_CONTRACT_NUTMEG_GROUP_DESC": "Three Level Escalation in Mumbai.",
+			"UI_CONTRACT_NUTMEG_LEVEL_0_OBJ": "Dump Aakash Joshi down the Rangan Tower elevator shaft",
+			"UI_CONTRACT_NUTMEG_LEVEL_0_NAME": "Aakash Joshi",
+			"UI_CONTRACT_NUTMEG_LEVEL_1_OBJ": "Dump Babu Raav down the Rangan Tower elevator shaft",
+			"UI_CONTRACT_NUTMEG_LEVEL_1_NAME": "Babu Raav",
+			"UI_CONTRACT_NUTMEG_LEVEL_2_OBJ": "Dump Reyansh Mani down the Rangan Tower elevator shaft",
+			"UI_CONTRACT_NUTMEG_LEVEL_2_NAME": "Reyansh Mani",
+			"UI_CONTRACT_NUTMEG_LEVEL_1_TITLE": "The Hirani Evacuation - Level 1",
+			"UI_CONTRACT_NUTMEG_LEVEL_2_TITLE": "The Hirani Evacuation - Level 2",
+			"UI_CONTRACT_NUTMEG_LEVEL_3_TITLE": "The Hirani Evacuation - Level 3"
+		},
+		"fr": {
+			"UI_CONTRACT_NUTMEG_GROUP_TITLE": "L'évacuation d'Hirani",
+			"UI_CONTRACT_NUTMEG_GROUP_DESC": "Escalade en trois niveaux à Bombay",
+			"UI_CONTRACT_NUTMEG_LEVEL_0_OBJ": "Jetez Aakash Joshi dans la cage d'ascenseur de la tour de Rangan.",
+			"UI_CONTRACT_NUTMEG_LEVEL_0_NAME": "Aakash Joshi",
+			"UI_CONTRACT_NUTMEG_LEVEL_1_OBJ": "Jetez Babu Raav dans la cage d'ascenseur de la tour de Rangan.",
+			"UI_CONTRACT_NUTMEG_LEVEL_1_NAME": "Babu Raav",
+			"UI_CONTRACT_NUTMEG_LEVEL_2_OBJ": "Jetez Reyansh Mani dans la cage d'ascenseur de la tour de Rangan.",
+			"UI_CONTRACT_NUTMEG_LEVEL_2_NAME": "Reyansh Mani",
+			"UI_CONTRACT_NUTMEG_LEVEL_1_TITLE": "L'évacuation d'Hirani - Niveau 1",
+			"UI_CONTRACT_NUTMEG_LEVEL_2_TITLE": "L'évacuation d'Hirani - Niveau 2",
+			"UI_CONTRACT_NUTMEG_LEVEL_3_TITLE": "L'évacuation d'Hirani - Niveau 3"
+		},
+		"it": {
+			"UI_CONTRACT_NUTMEG_GROUP_TITLE": "L'evacuazione di Hirani",
+			"UI_CONTRACT_NUTMEG_GROUP_DESC": "Escalation di tre livelli a Mumbai",
+			"UI_CONTRACT_NUTMEG_LEVEL_0_OBJ": "Getta Aakash Joshi nella tromba dell'ascensore della Rangan Tower",
+			"UI_CONTRACT_NUTMEG_LEVEL_0_NAME": "Aakash Joshi",
+			"UI_CONTRACT_NUTMEG_LEVEL_1_OBJ": "Getta Babu Raav nella tromba dell'ascensore della Rangan Tower",
+			"UI_CONTRACT_NUTMEG_LEVEL_1_NAME": "Babu Raav",
+			"UI_CONTRACT_NUTMEG_LEVEL_2_OBJ": "Getta Reyansh Mani nella tromba dell'ascensore della Rangan Tower",
+			"UI_CONTRACT_NUTMEG_LEVEL_2_NAME": "Reyansh Mani",
+			"UI_CONTRACT_NUTMEG_LEVEL_1_TITLE": "L'evacuazione di Hirani - livello 1",
+			"UI_CONTRACT_NUTMEG_LEVEL_2_TITLE": "L'evacuazione di Hirani - livello 2",
+			"UI_CONTRACT_NUTMEG_LEVEL_3_TITLE": "L'evacuazione di Hirani - livello 3"
+		},
+		"de": {
+			"UI_CONTRACT_NUTMEG_GROUP_TITLE": "Die Hirani-Evakuierung",
+			"UI_CONTRACT_NUTMEG_GROUP_DESC": "Drei-Stufen-Eskalation in Mumbai.",
+			"UI_CONTRACT_NUTMEG_LEVEL_0_OBJ": "Beseitigen Sie Aakash Joshi im Aufzugschacht von Rangans Turm.",
+			"UI_CONTRACT_NUTMEG_LEVEL_0_NAME": "Aakash Joshi",
+			"UI_CONTRACT_NUTMEG_LEVEL_1_OBJ": "Beseitigen Sie Babu Raav im Aufzugschacht von Rangans Turm.",
+			"UI_CONTRACT_NUTMEG_LEVEL_1_NAME": "Babu Raav",
+			"UI_CONTRACT_NUTMEG_LEVEL_2_OBJ": "Beseitigen Sie Reyansh Mani im Aufzugschacht von Rangans Turm.",
+			"UI_CONTRACT_NUTMEG_LEVEL_2_NAME": "Reyansh Mani",
+			"UI_CONTRACT_NUTMEG_LEVEL_1_TITLE": "Die Hirani-Evakuierung – Stufe 1",
+			"UI_CONTRACT_NUTMEG_LEVEL_2_TITLE": "Die Hirani-Evakuierung – Stufe 2",
+			"UI_CONTRACT_NUTMEG_LEVEL_3_TITLE": "Die Hirani-Evakuierung – Stufe 3"
+		},
+		"es": {
+			"UI_CONTRACT_NUTMEG_GROUP_TITLE": "La evacuación de Hirani",
+			"UI_CONTRACT_NUTMEG_GROUP_DESC": "Intensificación de tres niveles en Bombay.",
+			"UI_CONTRACT_NUTMEG_LEVEL_0_OBJ": "Deshazte del cuerpo de Aakash Joshi tirándolo por el hueco del ascensor de la Torre Rangan.",
+			"UI_CONTRACT_NUTMEG_LEVEL_0_NAME": "Aakash Joshi",
+			"UI_CONTRACT_NUTMEG_LEVEL_1_OBJ": "Deshazte del cuerpo de Babu Raav tirándolo por el hueco del ascensor de la Torre Rangan.",
+			"UI_CONTRACT_NUTMEG_LEVEL_1_NAME": "Babu Raav",
+			"UI_CONTRACT_NUTMEG_LEVEL_2_OBJ": "Deshazte del cuerpo de Reyansh Mani tirándolo por el hueco del ascensor de la Torre Rangan.",
+			"UI_CONTRACT_NUTMEG_LEVEL_2_NAME": "Reyansh Mani",
+			"UI_CONTRACT_NUTMEG_LEVEL_1_TITLE": "La evacuación de Hirani - Nivel 1",
+			"UI_CONTRACT_NUTMEG_LEVEL_2_TITLE": "La evacuación de Hirani - Nivel 2",
+			"UI_CONTRACT_NUTMEG_LEVEL_3_TITLE": "La evacuación de Hirani - Nivel 3"
+		}
+	}
+}

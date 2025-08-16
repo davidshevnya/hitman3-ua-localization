@@ -1,0 +1,60 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "006F9C4669E504D9",
+	"languages": {
+		"xx": {
+			"3325897B": "Name",
+			"9185FC08": "Flavor",
+			"AB873D3C": "Description",
+			"C56C4B8E": "Conclusion",
+			"16F70097": "Step 1",
+			"77BBEBEA": "Step 2",
+			"A188D843": "Step 3"
+		},
+		"en": {
+			"3325897B": "Honeycomb",
+			"9185FC08": "A way to summon Claus Strandberg to the underground tunnel. Interesting.",
+			"AB873D3C": "In case of an emergency, Strandberg and Zaydan will meet face to face at the center of the underground tunnel. The conspirators are summoned over the phone, using a set of keywords. One of which is locked away in Reza Zaydan’s safe.",
+			"C56C4B8E": "Good thinking. Strandberg is on the move, and we know exactly where he is going.",
+			"16F70097": "Find Zaydan's safe combination",
+			"77BBEBEA": "Retrieve documents from safe",
+			"A188D843": "Call Strandberg"
+		},
+		"fr": {
+			"3325897B": "\"Rayon de miel\"",
+			"9185FC08": "Un moyen de faire venir Claus Strandberg dans le tunnel. Intéressant.",
+			"AB873D3C": "En cas d'urgence, Strandberg et Zaydan se parleront face à face au milieu du tunnel. Un conspirateur peut faire venir l'autre par téléphone en utilisant une série de mots-clefs, dont un est caché dans le coffre de Reza Zaydan.",
+			"C56C4B8E": "Bien raisonné, 47. Strandberg est en route et nous savons exactement où il va.",
+			"16F70097": "Trouvez la combinaison du coffre de Zaydan",
+			"77BBEBEA": "Récupérez les documents dans le coffre",
+			"A188D843": "Appelez Strandberg"
+		},
+		"it": {
+			"3325897B": "Nido d'ape",
+			"9185FC08": "Un sistema per attirare Claus Strandberg nel tunnel sotterraneo. Interessante...",
+			"AB873D3C": "In caso di emergenza, Strandberg e Zaydan si incontreranno faccia a faccia al centro del tunnel sotterraneo. I cospiratori possono convocarsi a vicenda tramite telefono usando una serie di parole chiave, una delle quali è stata messa al sicuro nella cassaforte del console Olander. E se...",
+			"C56C4B8E": "Ottima idea. Strandberg si sta muovendo e sappiamo esattamente dov'è diretto.",
+			"16F70097": "Trova la combinazione della cassaforte di Zaydan",
+			"77BBEBEA": "Recupera i documenti dalla cassaforte",
+			"A188D843": "Chiama Strandberg"
+		},
+		"de": {
+			"3325897B": "Honigwabe",
+			"9185FC08": "Eine Möglichkeit, Claus Strandberg in den unterirdischen Tunnel zu locken. Interessant.",
+			"AB873D3C": "In einem Notfall, werden  sich Strandberg und Zaydan genau in der Mitte des unterirdischen Tunnels treffen. Die Verschwörer können einander übers Telefon mittels Codewort herbeirufen. Eines davon ist in Reza Zaydans Safe. Hmm, vielleicht ...",
+			"C56C4B8E": "Gute Idee, 47. Strandberg ist unterwegs und wir wissen genau, wohin er will.",
+			"16F70097": "Finden Sie Zaydans Safekombination",
+			"77BBEBEA": "Nehmen Sie die Papiere aus dem Safe",
+			"A188D843": "Rufen Sie Strandberg an"
+		},
+		"es": {
+			"3325897B": "Panal de abejas",
+			"9185FC08": "Una forma de hacer que Claus Strandberg acuda al túnel subterráneo. Interesante.",
+			"AB873D3C": "En caso de emergencia, Strandberg y Zaydan se encontrarán cara a cara en el centro del túnel subterráneo. Los conspiradores pueden comunicarse a través de llamadas telefónicas, usando un conjunto de palabras clave... Y una de ellas se halla en la caja fuerte de Reza Zaydan. Mmm. Y si...",
+			"C56C4B8E": "Bien pensado. Strandberg se ha puesto en marcha y sabemos exactamente adónde va.",
+			"16F70097": "Encuentra la combinación de la caja fuerte de Zaydan",
+			"77BBEBEA": "Hazte con los documentos de la caja fuerte",
+			"A188D843": "Llama a Strandberg"
+		}
+	}
+}

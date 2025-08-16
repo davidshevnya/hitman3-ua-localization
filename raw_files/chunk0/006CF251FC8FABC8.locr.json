@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "006CF251FC8FABC8",
+	"languages": {
+		"xx": {
+			"FFE358D8": "PH_Headline",
+			"E871CAEF": "PH_BodyText"
+		},
+		"en": {
+			"FFE358D8": "Accidents",
+			"E871CAEF": "You can make the life raft fall down onto the deck below. You need to use a crowbar or detonate an explosive."
+		},
+		"fr": {
+			"FFE358D8": "Accidents",
+			"E871CAEF": "Vous pouvez faire tomber le radeau de sauvetage sur le pont du dessous. Vous aurez besoin pour cela d'un pied-de-biche ou de créer une explosion."
+		},
+		"it": {
+			"FFE358D8": "Incidenti",
+			"E871CAEF": "Puoi far cadere il gommone di salvataggio sul ponte del livello inferiore. Per riuscirci, devi usare un piede di porco o causare un'esplosione."
+		},
+		"de": {
+			"FFE358D8": "Unfälle",
+			"E871CAEF": "Sie können die Rettungsinsel auf das daruntergelegene Deck fallen lassen, indem Sie eine Brechstange benutzen oder eine Explosion auslösen."
+		},
+		"es": {
+			"FFE358D8": "Accidentes",
+			"E871CAEF": "Puedes hacer que la balsa salvavidas se desplome sobre la cubierta inferior. Para hacerlo, usa una palanca o detona un explosivo."
+		}
+	}
+}

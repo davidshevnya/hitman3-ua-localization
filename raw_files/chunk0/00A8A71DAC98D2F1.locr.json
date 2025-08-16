@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00A8A71DAC98D2F1",
+	"languages": {
+		"xx": {
+			"44CB5CAA": "Vaccine Tier 1",
+			"115D8EF8": "<li>Get 5 Vaccine Blueprints.</li>",
+			"C25F2E04": "Vaccine Tier 2",
+			"97C9FC56": "<li>Complete Vaccine Tier 1</li><li>Get 5 Vaccine Blueprints.</li>",
+			"0903FDA1": "Vaccine Tier 3",
+			"5C952FF3": "<li>Complete Vaccine Tier 2</li><li>Get 5 Vaccine Blueprints.</li>",
+			"F9013064": "Antidote Tier 1",
+			"AC97E236": "<li>Get 5 Antidote Blueprints.</li>",
+			"7F9542CA": "Antidote Tier 2",
+			"2A039098": "<li>Complete Antidote Tier 1</li><li>Get 5 Anitdote Blueprints.</li>",
+			"B4C9916F": "Antidote Tier 3",
+			"E15F433D": "<li>Complete Antidote Tier 2</li><li>Get 5 Anitdote Blueprints.</li>"
+		},
+		"en": {
+			"44CB5CAA": "Vaccine Tier 1",
+			"115D8EF8": "<li>Get 5 Vaccine blueprints.</li>",
+			"C25F2E04": "Vaccine Tier 2",
+			"97C9FC56": "<li>Complete Vaccine Tier 1</li><li>Get 5 Vaccine blueprints.</li>",
+			"0903FDA1": "Vaccine Tier 3",
+			"5C952FF3": "<li>Complete Vaccine Tier 2</li><li>Get 5 Vaccine blueprints.</li>",
+			"F9013064": "Antidote Tier 1",
+			"AC97E236": "<li>Get 5 Antidote blueprints.</li>",
+			"7F9542CA": "Antidote Tier 2",
+			"2A039098": "<li>Complete Antidote Tier 1</li><li>Get 5 Antidote blueprints.</li>",
+			"B4C9916F": "Antidote Tier 3",
+			"E15F433D": "<li>Complete Antidote Tier 2</li><li>Get 5 Antidote blueprints.</li>"
+		},
+		"fr": {
+			"44CB5CAA": "",
+			"115D8EF8": "",
+			"C25F2E04": "",
+			"97C9FC56": "",
+			"0903FDA1": "",
+			"5C952FF3": "",
+			"F9013064": "",
+			"AC97E236": "",
+			"7F9542CA": "",
+			"2A039098": "",
+			"B4C9916F": "",
+			"E15F433D": ""
+		},
+		"it": {
+			"44CB5CAA": "",
+			"115D8EF8": "",
+			"C25F2E04": "",
+			"97C9FC56": "",
+			"0903FDA1": "",
+			"5C952FF3": "",
+			"F9013064": "",
+			"AC97E236": "",
+			"7F9542CA": "",
+			"2A039098": "",
+			"B4C9916F": "",
+			"E15F433D": ""
+		},
+		"de": {
+			"44CB5CAA": "",
+			"115D8EF8": "",
+			"C25F2E04": "",
+			"97C9FC56": "",
+			"0903FDA1": "",
+			"5C952FF3": "",
+			"F9013064": "",
+			"AC97E236": "",
+			"7F9542CA": "",
+			"2A039098": "",
+			"B4C9916F": "",
+			"E15F433D": ""
+		},
+		"es": {
+			"44CB5CAA": "",
+			"115D8EF8": "",
+			"C25F2E04": "",
+			"97C9FC56": "",
+			"0903FDA1": "",
+			"5C952FF3": "",
+			"F9013064": "",
+			"AC97E236": "",
+			"7F9542CA": "",
+			"2A039098": "",
+			"B4C9916F": "",
+			"E15F433D": ""
+		}
+	}
+}

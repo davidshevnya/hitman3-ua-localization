@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00FA1B11CC0B4B13",
+	"languages": {
+		"xx": {
+			"7FA50ADE": "Food Vendor [PLACEHOLDER]",
+			"3C14C0ED": "Robert loves Florida mans food [Placeholder]",
+			"90497EEF": "Description of florida mans opp",
+			"D29FAACF": "Conclusion (is this used?)",
+			"BE0DB954": "",
+			"19BC5E33": "Find Florida Man",
+			"431A0A14": "Get Florida Mans disguise",
+			"E0711F5B": "Get Florida Mans Key",
+			"658A4B45": "",
+			"37A89A7C": "",
+			"C1791FEB": "Open Florida Mans Stall",
+			"CEA2AB1D": "Assume Florida Mans Role"
+		},
+		"en": {
+			"7FA50ADE": "The Munchies",
+			"3C14C0ED": "It seems Robert Knox paid several visits to a bayside area food stand yesterday. The vendor, known as Florida Man, sells extremely addictive food so we should expect Knox to return. Maybe this is a way to catch Robert Knox away from the office?",
+			"90497EEF": "Robert Knox’s favorite street food vendor has a stand at the race. Sounds promising.",
+			"D29FAACF": "Good show, 47. Now stick around. Once the word spreads, Knox won’t be long.",
+			"BE0DB954": "Investigate Robert Knox's favorite food stand",
+			"19BC5E33": "Locate Florida Man",
+			"431A0A14": "Disguise yourself as Florida Man",
+			"E0711F5B": "Find Florida Man's key",
+			"658A4B45": "Find rat poison",
+			"37A89A7C": "Find a crowbar",
+			"C1791FEB": "Open Florida Man's food stand",
+			"CEA2AB1D": "Tend the food stand as Florida Man"
+		},
+		"fr": {
+			"7FA50ADE": "Le petit creux",
+			"3C14C0ED": "Il semblerait que Robert Knox s'est rendu plusieurs fois au stand de nourriture du côté de la baie. Le vendeur, connu comme le Florida Man, vend une nourriture extrêmement addictive donc nous avons toutes les raisons de croire que Knox s'y rendra à nouveau. Peut-être est-ce un moyen d'avoir Robert Knox loin du bureau ?",
+			"90497EEF": "Le vendeur de nourriture favori de Robert Knox tient un stand à la course. Cela semble prometteur.",
+			"D29FAACF": "Bien joué, 47. Maintenant, restez dans les environs. Une fois que la nouvelle se sera répandue, Knox ne sera pas long.",
+			"BE0DB954": "Enquêtez sur le stand de nourriture préféré de Robert Knox",
+			"19BC5E33": "Cherchez Florida Man",
+			"431A0A14": "Déguisez-vous en Florida Man",
+			"E0711F5B": "Trouvez la clé de Florida Man",
+			"658A4B45": "Trouvez de la mort aux rats",
+			"37A89A7C": "Trouvez un pied-de-biche",
+			"C1791FEB": "Ouvrez le stand de Florida Man",
+			"CEA2AB1D": "Occupez-vous du stand en tant que Florida Man"
+		},
+		"it": {
+			"7FA50ADE": "Gli affamati",
+			"3C14C0ED": "Sembra che ieri Robert Knox abbia fatto diverse visite alla bancarella di cibo vicino alla baia. Il venditore, conosciuto come Florida Man, vende cibo a cui non si può resistere, quindi Knox ci tornerà sicuramente. Forse questa è un'occasione per catturare Robert Knox fuori dal suo ufficio?",
+			"90497EEF": "Il venditore di cibo preferito di Robert Knox ha una bancarella alla gara. Sembra promettente.",
+			"D29FAACF": "Bello spettacolo, 47. Adesso resta in zona. Non appena si spargerà la notizia, Knox non ci metterà molto.",
+			"BE0DB954": "Esamina la bancarella del cibo preferito di Robert Knox",
+			"19BC5E33": "Trova Florida Man",
+			"431A0A14": "Travestiti da Florida Man",
+			"E0711F5B": "Trova la chiave di Florida Man",
+			"658A4B45": "Trova il veleno per topi",
+			"37A89A7C": "Trova un piede di porco",
+			"C1791FEB": "Apri la bancarella di Florida Man",
+			"CEA2AB1D": "Assumi il ruolo di Florida Man alla bancarella"
+		},
+		"de": {
+			"7FA50ADE": "Der Heißhunger",
+			"3C14C0ED": "Es scheint, als ob Robert Knox gestern mehrfach bei einem Imbiss an der Bucht war. Der Verkäufer – auch bekannt als der „Mann aus Florida“ – hat extrem süchtig machendes Essen im Angebot. Daher dürfte Knox wohl wieder kommen. Vielleicht können wir Knox so außerhalb seines Büros erwischen?",
+			"90497EEF": "Robert Knox’ Lieblingsimbiss hat einen Stand beim Rennen. Klingt vielversprechend.",
+			"D29FAACF": "Gut gemacht, 47. Jetzt bleiben Sie in der Nähe. Sobald das bekannt wird, dürfte Knox nicht lange auf sich warten lassen.",
+			"BE0DB954": "Untersuchen Sie Robert Knox’ Lieblingsimbiss.",
+			"19BC5E33": "Suchen Sie den Mann aus Florida.",
+			"431A0A14": "Verkleiden Sie sich als der Mann aus Florida.",
+			"E0711F5B": "Finden Sie den Schlüssel des Manns aus Florida.",
+			"658A4B45": "Finden Sie Rattengift.",
+			"37A89A7C": "Finden Sie ein Brecheisen.",
+			"C1791FEB": "Öffnen Sie den Imbiss des Manns aus Florida.",
+			"CEA2AB1D": "Übernehmen Sie den Imbissstand als der Mann aus Florida."
+		},
+		"es": {
+			"7FA50ADE": "Los antojos",
+			"3C14C0ED": "Parece que Robert Knox hizo varias visitas al puesto de comida de la bahía ayer. El encargado, conocido como Florida Man, vende comida extremadamente adictiva así que esperamos que vuelva. ¿Quizá sea una manera de pillar a Robert Knox fuera de su oficina?",
+			"90497EEF": "El vendedor de comida favorito de Robert Knox tiene un puesto cerca de la carrera. Suena prometedor.",
+			"D29FAACF": "Buen espectáculo, 47. Ahora quédate ahí. Una vez que la voz se haya corrido, Knox no tardará en aparecer.",
+			"BE0DB954": "Investiga el puesto de comida favorito de Robert Knox",
+			"19BC5E33": "Encuentra a Florida Man",
+			"431A0A14": "Disfrázate de Florida Man",
+			"E0711F5B": "Busca las llaves de Florida Man",
+			"658A4B45": "Busca raticida",
+			"37A89A7C": "Busca una palanqueta",
+			"C1791FEB": "Abre el puesto de comida de Florida Man",
+			"CEA2AB1D": "Atiende el puesto de comida como Florida Man"
+		}
+	}
+}

@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/online/challenges/challenges_orbis_gimlet.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"UI_CHALLENGES_ORBIS_GIMLET_PHONE_KILL_NAME": "Call Interrupted",
+			"UI_CHALLENGES_ORBIS_GIMLET_PHONE_KILL_DESC": "Kill the veteran while phoning the other but before he warns them.",
+			"UI_CHALLENGES_ORBIS_GIMLET_TARGETDOWN_DESC": "<li>Assassinate The Veteran.</li>",
+			"UI_CHALLENGES_ORBIS_GIMLET_TARGETDOWN_NAME": "The Veteran",
+			"UI_CHALLENGES_ORBIS_GIMLET_SIGNATURE_DESC": "<li>Assassinate The Veteran by dropping a coconut on him.</li>",
+			"UI_CHALLENGES_ORBIS_GIMLET_SIGNATURE_NAME": "Cracked Nut",
+			"UI_CHALLENGES_ORBIS_GIMLET_SILENT_ASSASSIN_DESC": "<li>Assassinate The Veteran.</li><li>Only kill the target.</il><li>No bodies found.</il><li>Do not get compromised.</il><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+			"UI_CHALLENGES_ORBIS_GIMLET_SILENT_ASSASSIN_NAME": "Silent Assassin"
+		},
+		"en": {
+			"UI_CHALLENGES_ORBIS_GIMLET_PHONE_KILL_NAME": "Call Interrupted",
+			"UI_CHALLENGES_ORBIS_GIMLET_PHONE_KILL_DESC": "<li>[REDACTED]</li>",
+			"UI_CHALLENGES_ORBIS_GIMLET_TARGETDOWN_DESC": "<li>Assassinate the Veteran.</li>",
+			"UI_CHALLENGES_ORBIS_GIMLET_TARGETDOWN_NAME": "The Veteran",
+			"UI_CHALLENGES_ORBIS_GIMLET_SIGNATURE_DESC": "<li>Assassinate the Veteran by dropping a coconut on him.</li>",
+			"UI_CHALLENGES_ORBIS_GIMLET_SIGNATURE_NAME": "Cracked Nut",
+			"UI_CHALLENGES_ORBIS_GIMLET_SILENT_ASSASSIN_DESC": "<li>Assassinate the Veteran.</li><li>Only eliminate the target.</li><li>No bodies found.</li><li>Do not get spotted.</li><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+			"UI_CHALLENGES_ORBIS_GIMLET_SILENT_ASSASSIN_NAME": "Silent Assassin"
+		},
+		"fr": {
+			"UI_CHALLENGES_ORBIS_GIMLET_PHONE_KILL_NAME": "Appel interrompu",
+			"UI_CHALLENGES_ORBIS_GIMLET_PHONE_KILL_DESC": "<li>[CENSURÉ]</li>",
+			"UI_CHALLENGES_ORBIS_GIMLET_TARGETDOWN_DESC": "<li>Assassinez le vétéran.</li>",
+			"UI_CHALLENGES_ORBIS_GIMLET_TARGETDOWN_NAME": "Le vétéran",
+			"UI_CHALLENGES_ORBIS_GIMLET_SIGNATURE_DESC": "<li>Assassinez le vétéran en faisant tomber une noix de coco sur lui.</li>",
+			"UI_CHALLENGES_ORBIS_GIMLET_SIGNATURE_NAME": "Noix cassée",
+			"UI_CHALLENGES_ORBIS_GIMLET_SILENT_ASSASSIN_DESC": "<li>Assassinez le vétéran.</li><li>Abattez uniquement la cible.</li><li>Cachez tous les corps.</li><li>Ne vous faites pas repérer.</li><li>Si vous êtes repéré par les caméras, effacez ou détruisez la vidéo.</li>",
+			"UI_CHALLENGES_ORBIS_GIMLET_SILENT_ASSASSIN_NAME": "Assassin silencieux"
+		},
+		"it": {
+			"UI_CHALLENGES_ORBIS_GIMLET_PHONE_KILL_NAME": "Chiamata interrotta",
+			"UI_CHALLENGES_ORBIS_GIMLET_PHONE_KILL_DESC": "<li>[OSCURATO]</li>",
+			"UI_CHALLENGES_ORBIS_GIMLET_TARGETDOWN_DESC": "<li>Elimina il veterano.</li>",
+			"UI_CHALLENGES_ORBIS_GIMLET_TARGETDOWN_NAME": "Il veterano",
+			"UI_CHALLENGES_ORBIS_GIMLET_SIGNATURE_DESC": "<li>Elimina il veterano facendogli cadere delle noci di cocco in testa.</li>",
+			"UI_CHALLENGES_ORBIS_GIMLET_SIGNATURE_NAME": "Cocco di mamma",
+			"UI_CHALLENGES_ORBIS_GIMLET_SILENT_ASSASSIN_DESC": "<li>Elimina il veterano.</li><li>Elimina solo il bersaglio.</li><li>Fai in modo che nessun corpo sia rinvenuto.</li><li>Non essere individuato.</li><li>Se vieni inquadrato dalle telecamere, cancella o distruggi le registrazioni.</li>",
+			"UI_CHALLENGES_ORBIS_GIMLET_SILENT_ASSASSIN_NAME": "Assassino silenzioso"
+		},
+		"de": {
+			"UI_CHALLENGES_ORBIS_GIMLET_PHONE_KILL_NAME": "Unterbrochener Anruf",
+			"UI_CHALLENGES_ORBIS_GIMLET_PHONE_KILL_DESC": "<li>[GESCHWÄRZT]</li>",
+			"UI_CHALLENGES_ORBIS_GIMLET_TARGETDOWN_DESC": "<li>Eliminieren Sie den Veteran.</li>",
+			"UI_CHALLENGES_ORBIS_GIMLET_TARGETDOWN_NAME": "Der Veteran",
+			"UI_CHALLENGES_ORBIS_GIMLET_SIGNATURE_DESC": "<li>Eliminieren Sie den Veteran mit einer herunterfallenden Kokosnuss.</li>",
+			"UI_CHALLENGES_ORBIS_GIMLET_SIGNATURE_NAME": "Geknackte Nuss",
+			"UI_CHALLENGES_ORBIS_GIMLET_SILENT_ASSASSIN_DESC": "<li>Eliminieren Sie den Veteran.</li><li>Töten Sie nur das Ziel.</li><li>Keine Körper dürfen gefunden werden.</li><li>Bleiben Sie unbemerkt.</li><li>Werden Sie von einer Kamera gefilmt, löschen oder zerstören Sie die Beweise.</li>",
+			"UI_CHALLENGES_ORBIS_GIMLET_SILENT_ASSASSIN_NAME": "Lautloser Killer"
+		},
+		"es": {
+			"UI_CHALLENGES_ORBIS_GIMLET_PHONE_KILL_NAME": "Llamada interrumpida",
+			"UI_CHALLENGES_ORBIS_GIMLET_PHONE_KILL_DESC": "<li>[CLASIFICADO]</li>",
+			"UI_CHALLENGES_ORBIS_GIMLET_TARGETDOWN_DESC": "<li>Asesina al veterano.</li>",
+			"UI_CHALLENGES_ORBIS_GIMLET_TARGETDOWN_NAME": "El veterano",
+			"UI_CHALLENGES_ORBIS_GIMLET_SIGNATURE_DESC": "<li>Asesina al veterano haciendo que le caiga un coco encima.</li>",
+			"UI_CHALLENGES_ORBIS_GIMLET_SIGNATURE_NAME": "Se cascó la nuez",
+			"UI_CHALLENGES_ORBIS_GIMLET_SILENT_ASSASSIN_DESC": "<li>Asesina al veterano.</li><li>Elimina solo al objetivo.</li><li>Que no descubran cuerpos.</li><li>Evita que te descubran.</li><li>Si te detectan las cámaras, borra o destruye las pruebas.</li>",
+			"UI_CHALLENGES_ORBIS_GIMLET_SILENT_ASSASSIN_NAME": "Asesino silencioso"
+		}
+	}
+}

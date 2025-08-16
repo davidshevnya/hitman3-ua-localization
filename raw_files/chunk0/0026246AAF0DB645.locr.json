@@ -1,0 +1,60 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0026246AAF0DB645",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_LOTUS_GROUP_TITLE": "The Quimby Quandary",
+			"UI_CONTRACT_LOTUS_GROUP_DESC": "Three Level Escalation on The Isle of Sgail.",
+			"UI_CONTRACT_LOTUS_LEVEL_1_TITLE": "The Quimby Quandary - Level 1",
+			"UI_CONTRACT_LOTUS_LEVEL_2_TITLE": "The Quimby Quandary - Level 2",
+			"UI_CONTRACT_LOTUS_LEVEL_3_TITLE": "The Quimby Quandary - Level 3",
+			"UI_CONTRACT_LOTUS_OBJ_2": "Retrieve the briefcase and take it to the ark winch exit",
+			"UI_CONTRACT_LOTUS_OBJ_2_NAME": "Retrieve"
+		},
+		"en": {
+			"UI_CONTRACT_LOTUS_GROUP_TITLE": "The Quimby Quandary",
+			"UI_CONTRACT_LOTUS_GROUP_DESC": "Three Level Escalation on The Isle of Sgàil.",
+			"UI_CONTRACT_LOTUS_LEVEL_1_TITLE": "The Quimby Quandary - Level 1",
+			"UI_CONTRACT_LOTUS_LEVEL_2_TITLE": "The Quimby Quandary - Level 2",
+			"UI_CONTRACT_LOTUS_LEVEL_3_TITLE": "The Quimby Quandary - Level 3",
+			"UI_CONTRACT_LOTUS_OBJ_2": "Retrieve the briefcase and take it to the ark winch exit",
+			"UI_CONTRACT_LOTUS_OBJ_2_NAME": "Retrieve"
+		},
+		"fr": {
+			"UI_CONTRACT_LOTUS_GROUP_TITLE": "Le dilemme de Quimby",
+			"UI_CONTRACT_LOTUS_GROUP_DESC": "Escalade en trois niveaux sur l'île de Sgàil",
+			"UI_CONTRACT_LOTUS_LEVEL_1_TITLE": "Le dilemme de Quimby - Niveau 1",
+			"UI_CONTRACT_LOTUS_LEVEL_2_TITLE": "Le dilemme de Quimby - Niveau 2",
+			"UI_CONTRACT_LOTUS_LEVEL_3_TITLE": "Le dilemme de Quimby - Niveau 3",
+			"UI_CONTRACT_LOTUS_OBJ_2": "Récupérez la mallette et rapportez-la à la sortie du treuil de l'Arche",
+			"UI_CONTRACT_LOTUS_OBJ_2_NAME": "Récupérer"
+		},
+		"it": {
+			"UI_CONTRACT_LOTUS_GROUP_TITLE": "Il quesito di Quimby",
+			"UI_CONTRACT_LOTUS_GROUP_DESC": "Escalation di tre livelli sull'Isola di Sgàil.",
+			"UI_CONTRACT_LOTUS_LEVEL_1_TITLE": "Il quesito di Quimby - Livello 1",
+			"UI_CONTRACT_LOTUS_LEVEL_2_TITLE": "Il quesito di Quimby - Livello 2",
+			"UI_CONTRACT_LOTUS_LEVEL_3_TITLE": "Il quesito di Quimby - Livello 3",
+			"UI_CONTRACT_LOTUS_OBJ_2": "Recupera la valigetta e portala all'uscita con verricello della Ark",
+			"UI_CONTRACT_LOTUS_OBJ_2_NAME": "Recupera"
+		},
+		"de": {
+			"UI_CONTRACT_LOTUS_GROUP_TITLE": "Das Quimby-Dilemma",
+			"UI_CONTRACT_LOTUS_GROUP_DESC": "Drei-Stufen-Eskalation auf der Isle of Sgàil.",
+			"UI_CONTRACT_LOTUS_LEVEL_1_TITLE": "Das Quimby-Dilemma – Stufe 1",
+			"UI_CONTRACT_LOTUS_LEVEL_2_TITLE": "Das Quimby-Dilemma – Stufe 2",
+			"UI_CONTRACT_LOTUS_LEVEL_3_TITLE": "Das Quimby-Dilemma – Stufe 3",
+			"UI_CONTRACT_LOTUS_OBJ_2": "Beschaffen Sie den Aktenkoffer und bringen Sie ihn zum Ark-Winden-Ausgang",
+			"UI_CONTRACT_LOTUS_OBJ_2_NAME": "Beschaffen"
+		},
+		"es": {
+			"UI_CONTRACT_LOTUS_GROUP_TITLE": "El dilema de Quimby",
+			"UI_CONTRACT_LOTUS_GROUP_DESC": "Intensificación de tres niveles en la isla de Sgàil.",
+			"UI_CONTRACT_LOTUS_LEVEL_1_TITLE": "El dilema de Quimby - Nivel 1",
+			"UI_CONTRACT_LOTUS_LEVEL_2_TITLE": "El dilema de Quimby - Nivel 2",
+			"UI_CONTRACT_LOTUS_LEVEL_3_TITLE": "El dilema de Quimby - Nivel 3",
+			"UI_CONTRACT_LOTUS_OBJ_2": "Recupera el maletín y llévalo a la salida del cabestrante del arca",
+			"UI_CONTRACT_LOTUS_OBJ_2_NAME": "Recuperar"
+		}
+	}
+}

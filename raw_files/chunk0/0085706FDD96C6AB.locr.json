@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0085706FDD96C6AB",
+	"languages": {
+		"xx": {
+			"EA310FE1": "PH_Hint",
+			"3EB4067A": "PH_Disguising"
+		},
+		"en": {
+			"EA310FE1": "Disguise",
+			"3EB4067A": "Hold {TAKE_DISGUISE} to disguise yourself"
+		},
+		"fr": {
+			"EA310FE1": "Déguisement",
+			"3EB4067A": "Maintenez {TAKE_DISGUISE} pour vous déguiser."
+		},
+		"it": {
+			"EA310FE1": "Travestimento",
+			"3EB4067A": "Tieni premuto {TAKE_DISGUISE} per travestirti."
+		},
+		"de": {
+			"EA310FE1": "Verkleiden",
+			"3EB4067A": "Halten Sie {TAKE_DISGUISE}, um sich zu verkleiden"
+		},
+		"es": {
+			"EA310FE1": "Disfrazarse",
+			"3EB4067A": "Mantén {TAKE_DISGUISE} para disfrazarte."
+		}
+	}
+}

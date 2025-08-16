@@ -1,0 +1,78 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00DF7E19D408DAF6",
+	"languages": {
+		"xx": {
+			"CB05BE55": "Charbroiled",
+			"46CA3AF1": "There is an open invitation BBQ garden party taking place at the Wilson's. Cassidy seems to have a weakness for the burgers being prepared.",
+			"8E457BE9": "Dish best served cold",
+			"B52F240E": "Obtain a Propane Flask",
+			"42A45815": "Install Propane Flask in Barbeque",
+			"7D3E0353": "Disguise as Server",
+			"AAE90BFD": "Find the missing Server",
+			"868BDEB2": "Obtain Rat Poison",
+			"7D20D027": "Serve at the buffet table",
+			"17682858": "Serve the guests to make room for Cassidy"
+		},
+		"en": {
+			"CB05BE55": "Charbroiled",
+			"46CA3AF1": "The Wilsons are throwing a BBQ and everyone's invited. It sounds like Nolan Cassidy has some interest in the party as well but for some reason he's unwilling to go inside. Maybe you can help fix whatever's wrong in there, 47?",
+			"8E457BE9": "Dish best served cold.",
+			"B52F240E": "Obtain a propane flask",
+			"42A45815": "Install propane flask in the barbeque",
+			"7D3E0353": "Disguise yourself as a server",
+			"AAE90BFD": "Find the missing server",
+			"868BDEB2": "Obtain rat poison",
+			"7D20D027": "Serve at the buffet table",
+			"17682858": "Serve the guests to make room for Cassidy"
+		},
+		"fr": {
+			"CB05BE55": "Grillé",
+			"46CA3AF1": "Les Wilson font un barbecue chez eux, et tout le monde est invité. Nolan Cassidy a l'air intéressé, mais pour une raison inconnue, il ne veut pas y aller. Peut-être pouvez-vous y remédier, 47 ?",
+			"8E457BE9": "Un plat qui se mange froid",
+			"B52F240E": "Trouvez une bouteille de propane",
+			"42A45815": "Installez la bouteille de propane dans le barbecue",
+			"7D3E0353": "Déguisez-vous en serveur",
+			"AAE90BFD": "Trouvez le serveur manquant",
+			"868BDEB2": "Obtenez de la mort-aux-rats",
+			"7D20D027": "Faites le service au buffet",
+			"17682858": "Servez les invités pour faire de la place pour Cassidy"
+		},
+		"it": {
+			"CB05BE55": "Grigliata",
+			"46CA3AF1": "I Wilson hanno organizzato un barbecue in giardino aperto a tutti. Sembra che Cassidy voglia partecipare, ma per qualche motivo non vuole ancora entrare. Forse potresti dare una mano, 47?",
+			"8E457BE9": "Piatto da servire freddo",
+			"B52F240E": "Ottieni bombola di propano",
+			"42A45815": "Installa bombola di propano nella griglia",
+			"7D3E0353": "Travestiti da cameriere",
+			"AAE90BFD": "Trova il cameriere mancante",
+			"868BDEB2": "Ottieni il veleno per topi",
+			"7D20D027": "Servi al tavolo del buffet",
+			"17682858": "Servi gli ospiti per fare spazio a Cassidy"
+		},
+		"de": {
+			"CB05BE55": "Durchgegrillt",
+			"46CA3AF1": "Die Wilsons veranstalten eine Grillgartenfeier und alle sind eingeladen. Es scheint, als hätte Nolan Cassidy Interesse an der Feier, aber aus irgendeinem Grund weigert er sich reinzugehen. Vielleicht können Sie dabei helfen, was auch immer das Problem ist, 47?",
+			"8E457BE9": "Am besten kalt serviert",
+			"B52F240E": "Beschaffen Sie eine Propangasflasche.",
+			"42A45815": "Installieren Sie die Propangasflasche am Grill.",
+			"7D3E0353": "Verkleiden Sie sich als Kellner.",
+			"AAE90BFD": "Finden Sie den verschwundenen Kellner.",
+			"868BDEB2": "Beschaffen Sie Rattengift.",
+			"7D20D027": "Servieren Sie am Büfett-Tisch.",
+			"17682858": "Bedienen Sie Gäste, um Platz für Cassidy zu machen."
+		},
+		"es": {
+			"CB05BE55": "A la parrilla",
+			"46CA3AF1": "Los Wilson organizan una barbacoa y han invitado a todo el mundo. Al parecer, Nolan Cassidy tiene interés en acudir a la fiesta, pero, por alguna razón, se muestra reacio a entrar. A lo mejor tú puedes arreglar el problema, 47.",
+			"8E457BE9": "Sírvase frío.",
+			"B52F240E": "Consigue una bombona de propano",
+			"42A45815": "Coloca la bombona de propano en la barbacoa",
+			"7D3E0353": "Disfrázate de camarero",
+			"AAE90BFD": "Encuentra al camarero perdido",
+			"868BDEB2": "Consigue raticida",
+			"7D20D027": "Sirve en la mesa del bufé",
+			"17682858": "Sirve a los invitados para poder atender a Cassidy"
+		}
+	}
+}

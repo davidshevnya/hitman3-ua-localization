@@ -1,0 +1,60 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00667BF009A46134",
+	"languages": {
+		"xx": {
+			"31557539": "Title_Time For a Close-Up",
+			"739A697E": "Summary_There’s a camera suspended above. That could do some serious damage if it was to fall on someone’s head.",
+			"DDC3ACFC": "Briefing_Bosco, ever the method actor, demands extreme levels of authenticity and his Icon suit appears to be genuinely bullet proof. However, a heavy camera could shatter his armor--and ego. Accidents will happen.",
+			"90AFE327": "Conclusion_Nice work 47. I think it’s time for a close up.",
+			"652342D5": "Step 1_Eavesdrop on conversation between the crew member and Bosco's Agent",
+			"58912A44": "Step 2_Get Disguise",
+			"04FD14A0": "Step 3_Interrupt"
+		},
+		"en": {
+			"31557539": "Time to Meet the Fans",
+			"739A697E": "Surrounded by all his adoring fans, Bosco may expose a weakness in his personality... and armor.",
+			"DDC3ACFC": "A Q&A session? This could get complicated. A lot of witnesses around. Then again, I’m sure that a distraction of sorts could create a perfect setup.",
+			"90AFE327": "Nice work, 47. Bosco should be headed for the fan meetup by now.",
+			"652342D5": "Eavesdrop on the conversation between the crew member and Bosco's agent",
+			"58912A44": "Get a Movie Crew disguise",
+			"04FD14A0": "Interrupt the shoot"
+		},
+		"fr": {
+			"31557539": "Rencontre avec les fans",
+			"739A697E": "Entouré par tous ses fans, Bosco pourrait nous dévoiler une faiblesse dans sa personnalité... et dans son armure.",
+			"DDC3ACFC": "Une séance de questions-réponses ? Ça risque d'être compliqué. Beaucoup de témoins.  Ceci dit, une diversion pourrait simplifier les choses.",
+			"90AFE327": "Bien joué, 47. Bosco devrait maintenant se diriger vers la rencontre avec ses fans.",
+			"652342D5": "Écoutez la conversation entre le membre de l'équipe et l'agent de Bosco",
+			"58912A44": "Procurez-vous une tenue de membre de l'équipe de tournage",
+			"04FD14A0": "Interrompez le tournage"
+		},
+		"it": {
+			"31557539": "L'incontro con gli ammiratori",
+			"739A697E": "Circondato dai suoi adorati fan, Bosco potrebbe lasciare scoperti, alcuni punti deboli della sua personalità... e anche dell'armatura.",
+			"DDC3ACFC": "Una sessione di domande? Potrebbe essere complicato. Ci sono troppi testimoni in giro, ma un diversivo potrebbe fornirci l'occasione ideale.",
+			"90AFE327": "Ottimo lavoro, 47. Bosco dovrebbe essere già in cammino verso il raduno con i suoi fan adesso.",
+			"652342D5": "Origlia la conversazione tra il membro della troupe e l'agente di Bosco",
+			"58912A44": "Procurati un travestimento da membro dello staff del set",
+			"04FD14A0": "Interrompi le riprese"
+		},
+		"de": {
+			"31557539": "Ein Treffen mit den Fans",
+			"739A697E": "Von seinen treuen Fans umgeben, könnte Bosco eine Schwäche in seiner Persönlichkeit ... und Panzerung zeigen.",
+			"DDC3ACFC": "Ein Q&A? Das könnte schwierig werden. Viele Zeugen. Andererseits, mit einer Ablenkung wäre es die perfekte Gelegenheit.",
+			"90AFE327": "Gut gemacht, 47. Bosco sollte jetzt auf dem Weg zum Fantreffen sein.",
+			"652342D5": "Belauschen Sie das Gespräch zwischen Crewmitglied und Boscos Agent",
+			"58912A44": "Verkleiden Sie sich als Mitglied der Filmcrew",
+			"04FD14A0": "Unterbrechen Sie die Aufnahme"
+		},
+		"es": {
+			"31557539": "Hora de ver a los fans",
+			"739A697E": "Rodeado por sus mayores admiradores, Bosco podría mostrar un punto débil en su personalidad... y en su armadura.",
+			"DDC3ACFC": "¿Una ronda de preguntas? Podría resultar complicado, dada la enorme cantidad de testigos. Tal vez una distracción sirva para crear la oportunidad perfecta.",
+			"90AFE327": "Buen trabajo, 47. Bosco debería estar dirigiéndose al encuentro con los fans en este momento.",
+			"652342D5": "Espía la conversación entre el miembro del equipo y el agente de Bosco",
+			"58912A44": "Consigue el disfraz de miembro del equipo de rodaje",
+			"04FD14A0": "Interrumpe el rodaje"
+		}
+	}
+}

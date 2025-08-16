@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00846BBF529962DB",
+	"languages": {
+		"xx": {
+			"DBE05C20": "Title_To Fallen Comrades",
+			"42E90D9A": "Summary_The KGB officer has a thirst for vodka and he is unlikely to drink alone.",
+			"35EE3D0C": "Briefing_The officer in charge has ordered airfield security to get him a bottle of vodka. He will probably offer Knight a drink as well. That is, provided he is able to drag the grandmaster away from his chess game.",
+			"AB8AA8AF": "Step 1_Overhear security guards talking about the vodka bottle.",
+			"DC8D9839": "Step 2_Get a security guard disguise.",
+			"4584C983": "Step 3_Obtain a bottle of vodka.",
+			"3283F915": "Step 4_Place the vodka in the meeting room.",
+			"A23CE484": "Step 5_Solve Jasper Knight’s chess problem.",
+			"D53BD412": "Conclusion_Well done Initiate. I should say a toast is in order."
+		},
+		"en": {
+			"DBE05C20": "To Fallen Comrades",
+			"42E90D9A": "The KGB officer has a thirst for vodka, and he is unlikely to drink alone.",
+			"35EE3D0C": "The officer in charge has ordered airfield security to get him a bottle of vodka. He will probably offer Knight a drink as well. That is, provided he is able to drag the grandmaster away from his chess game.",
+			"AB8AA8AF": "Overhear security guards talking about the vodka bottle",
+			"DC8D9839": "Get a Soldier disguise",
+			"4584C983": "Get a bottle of vodka",
+			"3283F915": "Place the vodka in the meeting room",
+			"A23CE484": "Solve Knight’s chess problem",
+			"D53BD412": "Well done, Initiate. I should say a toast is in order."
+		},
+		"fr": {
+			"DBE05C20": "Camarades tombés",
+			"42E90D9A": "L'officier du KGB apprécie la vodka et il est peu probable qu'il boive seul.",
+			"35EE3D0C": "L'officier de service a demandé à la sécurité de l'aérodrome de lui apporter une bouteille de vodka. Il proposera probablement un verre à Knight. Du moins, s'il parvient à éloigner le grand maître de sa table d'échecs.",
+			"AB8AA8AF": "Écoutez les gardes parler de la bouteille de vodka",
+			"DC8D9839": "Procurez-vous une tenue de soldat",
+			"4584C983": "Procurez-vous une bouteille de vodka",
+			"3283F915": "Déposez la bouteille de vodka dans la salle de réunion",
+			"A23CE484": "Résolvez le problème d'échecs de Jasper Knight",
+			"D53BD412": "Beau travail, Initié. Je lève mon verre à votre réussite."
+		},
+		"it": {
+			"DBE05C20": "Ai compagni caduti",
+			"42E90D9A": "L'agente del KGB ha voglia di vodka ed è improbabile che berrà da solo.",
+			"35EE3D0C": "L'ufficiale responsabile ha ordinato alla sicurezza dell'aeroporto di procurargli una bottiglia di vodka. Probabilmente ne offrirà un bicchiere a Knight. Ammesso che riesca a distogliere il maestro dalla partita a scacchi.",
+			"AB8AA8AF": "Ascolta le guardie mentre parlano della bottiglia di vodka",
+			"DC8D9839": "Procurati un travestimento da soldato",
+			"4584C983": "Trova una bottiglia di vodka",
+			"3283F915": "Posiziona la vodka nella sala riunioni",
+			"A23CE484": "Risolvi il problema di Knight con gli scacchi",
+			"D53BD412": "Ben fatto, recluta. La tua impresa merita un brindisi"
+		},
+		"de": {
+			"DBE05C20": "Auf alle gefallenen Genossen",
+			"42E90D9A": "Der KGB-Offizier hat eine Schwäche für Wodka, und er trinkt ungern allein.",
+			"35EE3D0C": "Der diensthabende Offizier hat eine Flasche Wodka angefordert. Vermutlich wird er Knight ebenfalls einen Drink anbieten. Natürlich nur, wenn es ihm gelingt, den Großmeister von seiner Schachpartie wegzulocken.",
+			"AB8AA8AF": "Belauschen Sie die Wachen, die sich über den Wodka unterhalten",
+			"DC8D9839": "Verkleiden Sie sich als Soldat",
+			"4584C983": "Besorgen Sie eine Flasche Wodka",
+			"3283F915": "Bringen Sie den Wodka in den Besprechungsraum",
+			"A23CE484": "Lösen Sie Jasper Knights Schachproblem",
+			"D53BD412": "Gute Arbeit, Rekrut. Ich denke, darauf sollten wir anstoßen."
+		},
+		"es": {
+			"DBE05C20": "Por los caídos",
+			"42E90D9A": "Parece que el agente de la KGB tiene ganas de beber vodka, y no tiene pinta de que vaya a hacerlo solo.",
+			"35EE3D0C": "El oficial al mando ha ordenado a los guardias del aeródromo que le lleven una botella de vodka. Seguramente le ofrezca un trago a Knight. Eso siempre y cuando consiga separar al gran maestro de su partida de ajedrez.",
+			"AB8AA8AF": "Escucha la conversación de los guardias de seguridad sobre la botella de vodka",
+			"DC8D9839": "Consigue el disfraz de soldado",
+			"4584C983": "Consigue una botella de vodka",
+			"3283F915": "Lleva el vodka a la sala de reuniones",
+			"A23CE484": "Resuelve el problema de ajedrez de Jasper Knight",
+			"D53BD412": "Bien hecho, iniciado. Creo que esto se merece un brindis."
+		}
+	}
+}

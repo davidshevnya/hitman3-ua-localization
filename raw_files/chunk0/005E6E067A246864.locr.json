@@ -1,0 +1,78 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "005E6E067A246864",
+	"languages": {
+		"xx": {
+			"CHALLENGEPACK_NITROGEN_WRAPPER_NAME": "Shinobi",
+			"CHALLENGEPACK_NITROGEN_WRAPPER_DESC": "Complete all the Shinobi challenges:</li><li>Waterbender</li><li>Deadly Ninja</li><li>Deadly Shadow</li><li>Contained Explosion</li>",
+			"CHALLENGEPACK_NITROGEN_EXPLOSIVEKILL_NAME": "Contained Explosion",
+			"CHALLENGEPACK_NITROGEN_EXPLOSIVEKILL_DESC": "<li>Eliminate a target with an explosion.</li><li>Don't kill or pacify anyone else in the explosion.</li>",
+			"CHALLENGEPACK_NITROGEN_KNIFEKILL_NAME": "Deadly Shadow",
+			"CHALLENGEPACK_NITROGEN_KNIFEKILL_DESC": "<li>Eliminate a target with a katana while wearing your suit.</li><li>No bodies found.</li>",
+			"CHALLENGEPACK_NITROGEN_NINJASNIPER_NAME": "Waterbender",
+			"CHALLENGEPACK_NITROGEN_NINJASNIPER_DESC": "<li>Pacify someone with the aquarium.</li>",
+			"CHALLENGEPACK_NITROGEN_NINJA_NAME": "Deadly Ninja",
+			"CHALLENGEPACK_NITROGEN_NINJA_DESC": "<li>Eliminate 10 people using only katanas and shurikens. </li>"
+		},
+		"en": {
+			"CHALLENGEPACK_NITROGEN_WRAPPER_NAME": "Shinobi",
+			"CHALLENGEPACK_NITROGEN_WRAPPER_DESC": "Complete all the Shinobi challenges:</li><li>Waterbender</li><li>Deadly Ninja</li><li>Deadly Shadow</li><li>Contained Explosion</li>",
+			"CHALLENGEPACK_NITROGEN_EXPLOSIVEKILL_NAME": "Contained Explosion",
+			"CHALLENGEPACK_NITROGEN_EXPLOSIVEKILL_DESC": "<li>Eliminate a target with an explosion.</li><li>Don't kill or pacify anyone else in the explosion.</li>",
+			"CHALLENGEPACK_NITROGEN_KNIFEKILL_NAME": "Deadly Shadow",
+			"CHALLENGEPACK_NITROGEN_KNIFEKILL_DESC": "<li>Eliminate a target with a katana while wearing your suit.</li><li>No bodies found.</li>",
+			"CHALLENGEPACK_NITROGEN_NINJASNIPER_NAME": "Waterbender",
+			"CHALLENGEPACK_NITROGEN_NINJASNIPER_DESC": "<li>Pacify someone with the aquarium.</li>",
+			"CHALLENGEPACK_NITROGEN_NINJA_NAME": "Deadly Ninja",
+			"CHALLENGEPACK_NITROGEN_NINJA_DESC": "<li>Eliminate 10 people using only katanas and shurikens. </li>"
+		},
+		"fr": {
+			"CHALLENGEPACK_NITROGEN_WRAPPER_NAME": "Shinobi",
+			"CHALLENGEPACK_NITROGEN_WRAPPER_DESC": "Terminez tous les défis Shinobi :</li><li>Façonneur d'eau</li><li>Ninja mortel</li><li>Ombre mortelle</li><li>Explosion contenue</li>",
+			"CHALLENGEPACK_NITROGEN_EXPLOSIVEKILL_NAME": "Explosion contenue",
+			"CHALLENGEPACK_NITROGEN_EXPLOSIVEKILL_DESC": "<li>Éliminez une cible avec une explosion.</li><li>N'éliminez ou ne neutralisez personne d'autre dans l'explosion.</li>",
+			"CHALLENGEPACK_NITROGEN_KNIFEKILL_NAME": "Ombre mortelle",
+			"CHALLENGEPACK_NITROGEN_KNIFEKILL_DESC": "<li>Éliminez une cible avec un katana dans votre tenue.</li><li>Aucun corps trouvé.</li>",
+			"CHALLENGEPACK_NITROGEN_NINJASNIPER_NAME": "Façonneur d'eau",
+			"CHALLENGEPACK_NITROGEN_NINJASNIPER_DESC": "<li>Neutralisez quelqu'un avec l'aquarium.</li>",
+			"CHALLENGEPACK_NITROGEN_NINJA_NAME": "Ninja mortel",
+			"CHALLENGEPACK_NITROGEN_NINJA_DESC": "<li>Éliminez 10 personnes seulement avec des katanas ou des shurikens.</li>"
+		},
+		"it": {
+			"CHALLENGEPACK_NITROGEN_WRAPPER_NAME": "Shinobi",
+			"CHALLENGEPACK_NITROGEN_WRAPPER_DESC": "Completa tutte le sfide Shinobi:</li><li>Dominatore dell'acqua</li><li>Ninja letale</li><li>Ombra letale</li><li>Esplosione contenuta</li>",
+			"CHALLENGEPACK_NITROGEN_EXPLOSIVEKILL_NAME": "Esplosione contenuta",
+			"CHALLENGEPACK_NITROGEN_EXPLOSIVEKILL_DESC": "<li>Elimina un bersaglio con un'esplosione.</li><li>Non eliminare né neutralizzare nessun altro con l'esplosione.</li>",
+			"CHALLENGEPACK_NITROGEN_KNIFEKILL_NAME": "Ombra letale",
+			"CHALLENGEPACK_NITROGEN_KNIFEKILL_DESC": "<li>Elimina un bersaglio con una katana mentre indossi il tuo abito.</li><li>Nessun corpo dev'essere rinvenuto.</li>",
+			"CHALLENGEPACK_NITROGEN_NINJASNIPER_NAME": "Dominatore dell'acqua",
+			"CHALLENGEPACK_NITROGEN_NINJASNIPER_DESC": "<li>Neutralizza qualcuno con l'acquario.</li>",
+			"CHALLENGEPACK_NITROGEN_NINJA_NAME": "Ninja letale",
+			"CHALLENGEPACK_NITROGEN_NINJA_DESC": "<li>Elimina 10 persone usando solo katane e shuriken. </li>"
+		},
+		"de": {
+			"CHALLENGEPACK_NITROGEN_WRAPPER_NAME": "Shinobi",
+			"CHALLENGEPACK_NITROGEN_WRAPPER_DESC": "Schließen Sie alle „Shinobi“-Herausforderungen ab:<li>Wasserbändiger</li><li>Tödlicher Ninja</li><li>Tödliche Schatten</li><li>Kontrollierte Explosion</li>",
+			"CHALLENGEPACK_NITROGEN_EXPLOSIVEKILL_NAME": "Kontrollierte Explosion",
+			"CHALLENGEPACK_NITROGEN_EXPLOSIVEKILL_DESC": "<li>Eliminieren Sie ein Ziel durch eine Explosion.</li><li>Sie dürfen durch die Explosion niemand anderes töten oder ruhigstellen.</li>",
+			"CHALLENGEPACK_NITROGEN_KNIFEKILL_NAME": "Tödliche Schatten",
+			"CHALLENGEPACK_NITROGEN_KNIFEKILL_DESC": "<li>Eliminieren Sie ein Ziel mit einem Katana, während Sie Ihren Anzug tragen.</li><li>Verstecken Sie alle Körper.</li>",
+			"CHALLENGEPACK_NITROGEN_NINJASNIPER_NAME": "Wasserbändiger",
+			"CHALLENGEPACK_NITROGEN_NINJASNIPER_DESC": "<li>Stellen Sie jemanden mit dem Aquarium ruhig.</li>",
+			"CHALLENGEPACK_NITROGEN_NINJA_NAME": "Tödlicher Ninja",
+			"CHALLENGEPACK_NITROGEN_NINJA_DESC": "<li>Eliminieren Sie 10 Personen nur mit Katanas und Shuriken.</li>"
+		},
+		"es": {
+			"CHALLENGEPACK_NITROGEN_WRAPPER_NAME": "Shinobi",
+			"CHALLENGEPACK_NITROGEN_WRAPPER_DESC": "Completa todos los desafíos de Shinobi:</li><li>Control sobre el agua</li><li>Ninja letal</li><li>Sombra letal</li><li>Explosión contenida</li>",
+			"CHALLENGEPACK_NITROGEN_EXPLOSIVEKILL_NAME": "Explosión contenida",
+			"CHALLENGEPACK_NITROGEN_EXPLOSIVEKILL_DESC": "<li>Elimina a un objetivo con una explosión.</li><li>No mates ni dejes inconsciente a nadie más con dicha explosión.</li>",
+			"CHALLENGEPACK_NITROGEN_KNIFEKILL_NAME": "Sombra letal",
+			"CHALLENGEPACK_NITROGEN_KNIFEKILL_DESC": "<li>Elimina a un objetivo con una katana con el traje puesto.</li><li>Que no descubran cuerpos.</li>",
+			"CHALLENGEPACK_NITROGEN_NINJASNIPER_NAME": "Control sobre el agua",
+			"CHALLENGEPACK_NITROGEN_NINJASNIPER_DESC": "<li>Deja inconsciente a alguien con el acuario.</li>",
+			"CHALLENGEPACK_NITROGEN_NINJA_NAME": "Ninja letal",
+			"CHALLENGEPACK_NITROGEN_NINJA_DESC": "<li>Elimina a 10 personas usando únicamente katanas y shurikens. </li>"
+		}
+	}
+}

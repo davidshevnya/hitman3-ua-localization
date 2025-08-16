@@ -1,0 +1,36 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/hud_vr.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"UI_VR_HUD_FACE_THE_CAMERA": "Face the Camera",
+			"UI_VR_HUD_OUTFITWIDGET_HEADER": "Current outfit",
+			"UI_VR_HUD_HOLSTER_PROMPT": "{HOLSTER}"
+		},
+		"en": {
+			"UI_VR_HUD_FACE_THE_CAMERA": "Face the Camera",
+			"UI_VR_HUD_OUTFITWIDGET_HEADER": "Current outfit",
+			"UI_VR_HUD_HOLSTER_PROMPT": "{HOLSTER}"
+		},
+		"fr": {
+			"UI_VR_HUD_FACE_THE_CAMERA": "Placez-vous face à la caméra",
+			"UI_VR_HUD_OUTFITWIDGET_HEADER": "Tenue actuelle",
+			"UI_VR_HUD_HOLSTER_PROMPT": "{HOLSTER}"
+		},
+		"it": {
+			"UI_VR_HUD_FACE_THE_CAMERA": "Posizionati davanti alla telecamera",
+			"UI_VR_HUD_OUTFITWIDGET_HEADER": "Travestimento attuale",
+			"UI_VR_HUD_HOLSTER_PROMPT": "{HOLSTER}"
+		},
+		"de": {
+			"UI_VR_HUD_FACE_THE_CAMERA": "Schauen Sie in die Kamera.",
+			"UI_VR_HUD_OUTFITWIDGET_HEADER": "Aktuelles Outfit",
+			"UI_VR_HUD_HOLSTER_PROMPT": "{HOLSTER}"
+		},
+		"es": {
+			"UI_VR_HUD_FACE_THE_CAMERA": "Mirar a la cámara",
+			"UI_VR_HUD_OUTFITWIDGET_HEADER": "Atuendo actual",
+			"UI_VR_HUD_HOLSTER_PROMPT": "{HOLSTER}"
+		}
+	}
+}

@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00DDA44A0A52ADC0",
+	"languages": {
+		"xx": {
+			"FD524E62": "Revitalisation",
+			"238E3BE1": "Flavor",
+			"390031F0": "Description",
+			"277EE623": "Conclusion",
+			"CEC78FC0": "Get Medic Disguise",
+			"9A201B2F": "Get rid of Thierry Durand (Patient)",
+			"7C2A00BE": "Retrieve a syringe",
+			"13FEAE0D": "Search the area for a key",
+			"0693B5B7": "Call Sierra from the Intercom"
+		},
+		"en": {
+			"FD524E62": "Intravenous",
+			"238E3BE1": "So, it seems Sierra Knox has jumped on the revitalization bandwagon and is scheduled for an injection of some sort. The doctor who is supposed to help her with the procedure is preoccupied with a patient who is unable to urinate. Curious situation, 47. Maybe you can speed things up?",
+			"390031F0": "Sierra Knox is due for an intravenous revitalization treatment at the emergency area. Interesting, 47.",
+			"277EE623": "Excellent work, 47. Sierra Knox should be on her way to the emergency area.",
+			"CEC78FC0": "Disguise yourself as a medic",
+			"9A201B2F": "Get rid of the current patient",
+			"7C2A00BE": "Find a lethal syringe",
+			"13FEAE0D": "Find a key or a crowbar",
+			"0693B5B7": "Call Sierra from the intercom"
+		},
+		"fr": {
+			"FD524E62": "Intraveineuse",
+			"238E3BE1": "Il semblerait que Sierra Knox doive subir une procédure de revitalisation et a rendez-vous pour une injection. Le docteur qui est censé s'en charger est préoccupé par un patient incapable d'uriner. Curieuse situation, 47. Peut-être pourriez-vous accélèrer un peu les choses ?",
+			"390031F0": "Sierra Knox a rendez-vous pour un traitement de revitalisation au centre médical. Intéressant, 47.",
+			"277EE623": "Beau travail, 47. Sierra Knox arrive au centre médical.",
+			"CEC78FC0": "Déguisez-vous en médecin",
+			"9A201B2F": "Débarrassez-vous du patient",
+			"7C2A00BE": "Trouvez une seringue de poison mortel",
+			"13FEAE0D": "Trouvez une clé ou un pied-de-biche",
+			"0693B5B7": "Appelez Sierra depuis l'intercom"
+		},
+		"it": {
+			"FD524E62": "Endovenoso",
+			"238E3BE1": "Allora, sembra che Sierra Knox debba sottoporsi a una rivitalizzazione e ha in programma di fare un'iniezione. Il medico che dovrebbe aiutarla con la procedura è preoccupato riguardo a un paziente che non riesce a urinare. Situazione curiosa, 47. Magari potremmo accelerare le cose?",
+			"390031F0": "Sierra Knox ha in programma un trattamento di rivitalizzazione endovenosa al pronto soccorso. Interessante, 47.",
+			"277EE623": "Bel lavoro, 47. Sierra Knox dovrebbe essere quasi arrivata al pronto soccorso.",
+			"CEC78FC0": "Travestiti da medico",
+			"9A201B2F": "Sbarazzati del paziente",
+			"7C2A00BE": "Trova una siringa letale",
+			"13FEAE0D": "Trova una chiave o un piede di porco",
+			"0693B5B7": "Chiama Sierra all'interfono"
+		},
+		"de": {
+			"FD524E62": "Intravenös",
+			"238E3BE1": "So. Es scheint, als würde Sierra Knox auch bei diesem ganzen Revitalisierungswahn mitmachen: Für sie ist eine Art Injektion vorgesehen. Der Arzt, der sie behandeln soll, ist mit einem Patienten beschäftigt, der nicht urinieren kann. Eine kuriose Lage, 47. Vielleicht können Sie etwas nachhelfen?",
+			"390031F0": "Für Sierra Knox wurde eine intravenöse Revitalisierungsbehandlung im Notfallbereich eingeplant. Interessant, 47.",
+			"277EE623": "Hervorragende Arbeit, 47. Sierra Knox sollte schon auf dem Weg in den Notfallbereich sein.",
+			"CEC78FC0": "Verkleiden Sie sich als Sanitäter.",
+			"9A201B2F": "Werden Sie den momentanen Patienten los.",
+			"7C2A00BE": "Finden Sie eine tödliche Spritze.",
+			"13FEAE0D": "Finden Sie einen Schlüssel oder ein Brecheisen.",
+			"0693B5B7": "Rufen Sie Sierra über die Sprechanlage."
+		},
+		"es": {
+			"FD524E62": "Intravenoso",
+			"238E3BE1": "Parece que Sierra Knox se ha subido al tren de la revitalización y está citada para una inyección en breve. El médico que debe atenderla está ocupado con un paciente el cual es incapaz de orinar. Curiosa situación, 47. ¿Quizá puedas acelerar las cosas?",
+			"390031F0": "Sierra Knox está a la espera de un tratamiento de revitalización por vía intravenosa en el área de urgencias. Interesante, 47.",
+			"277EE623": "Excelente trabajo, 47. Sierra Knox debería estar en camino a urgencias.",
+			"CEC78FC0": "Disfrázate de médico",
+			"9A201B2F": "Líbrate del paciente actual",
+			"7C2A00BE": "Busca una jeringuilla con veneno letal",
+			"13FEAE0D": "Busca una llave o una palanqueta",
+			"0693B5B7": "Llama a Sierra por el intercomunicador"
+		}
+	}
+}

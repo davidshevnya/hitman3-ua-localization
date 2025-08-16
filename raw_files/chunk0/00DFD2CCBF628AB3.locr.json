@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00DFD2CCBF628AB3",
+	"languages": {
+		"xx": {
+			"B7609AFD": "Task Manager (IT)",
+			"9EBB740F": "Flavor",
+			"1E58F7AB": "Description",
+			"7DF91752": "Conclusion",
+			"617FAB90": "Sabotage the Wifi",
+			"1851F268": "Intercept and Disguise yourself as IT guy",
+			"2CF046A6": "Gain access to the CEO office",
+			"EC8B4412": "Investigate Tim"
+		},
+		"en": {
+			"B7609AFD": "On and Off Again",
+			"9EBB740F": "A notice from the bank's head of security mentions that the building suffers from unstable Wi-Fi. If the connection fails, IT have full access to the Director's office and computer. Hm... Sounds useful, 47.",
+			"1E58F7AB": "Faulty network wiring",
+			"7DF91752": "Alright, 47. You're in. Make the most of it.",
+			"617FAB90": "Sabotage the Wi-Fi",
+			"1851F268": "Intercept and disguise yourself as an IT guy",
+			"2CF046A6": "Gain access to the Director's office",
+			"EC8B4412": "Investigate Tim"
+		},
+		"fr": {
+			"B7609AFD": "Débranché, rebranché",
+			"9EBB740F": "Un avis laissé par le chef de la sécurité indique que le Wi-Fi de l'établissement est instable. Si la connexion saute, la directrice donnera au service informatique un accès illimité à son bureau et son ordinateur. Hm… Ça tomberait à point nommé.",
+			"1E58F7AB": "Câblage réseau défectueux",
+			"7DF91752": "Très bien, 47. Vous êtes connecté. Profitez-en.",
+			"617FAB90": "Sabotez le Wi-Fi",
+			"1851F268": "Neutralisez un informaticien et déguisez-vous en informaticien",
+			"2CF046A6": "Accédez au bureau de la directrice",
+			"EC8B4412": "Enquêtez sur Tim"
+		},
+		"it": {
+			"B7609AFD": "Spegnere e riaccendere",
+			"9EBB740F": "Un appunto del capo della sicurezza della banca dice che il WiFi dell'edificio è instabile. Se la connessione cade, l'IT avrà l'accesso completo all'ufficio e al computer della direttrice. Uhm... Sembra utile, 47.",
+			"1E58F7AB": "Cavo di rete guasto",
+			"7DF91752": "Bene, 47. Sei dentro. Approfittane.",
+			"617FAB90": "Sabota il WiFi",
+			"1851F268": "Intercetta e travestiti da ragazzo dell'IT",
+			"2CF046A6": "Ottieni l'accesso all'ufficio della direttrice",
+			"EC8B4412": "Indaga su Tim"
+		},
+		"de": {
+			"B7609AFD": "Schon wieder keine Verbindung?",
+			"9EBB740F": "Eine Nachricht des Sicherheitschefs erwähnt, dass das WLAN im Gebäude instabil ist. Wenn die Verbindung abbricht, haben Sie vollen Zugriff auf das Büro und den Computer der Direktorin. Hm … Klingt nützlich, 47.",
+			"1E58F7AB": "Defekte Netzwerkverkabelung",
+			"7DF91752": "Okay, 47. Sie sind drin. Machen Sie das Beste daraus.",
+			"617FAB90": "Sabotieren Sie das WLAN.",
+			"1851F268": "Fangen Sie den IT-Mitarbeiter ab und verkleiden Sie sich als er.",
+			"2CF046A6": "Verschaffen Sie sich Zugang zum Büro der Direktorin.",
+			"EC8B4412": "Gehen Sie der Sache mit Tim nach."
+		},
+		"es": {
+			"B7609AFD": "Apagarlo y volverlo a encender",
+			"9EBB740F": "Un aviso del jefe de seguridad del banco indica que la wifi del edificio es inestable. Si la conexión falla, los informáticos tendrán acceso total al ordenador y al despacho de la directora. Mmm... Podría ser información útil, 47.",
+			"1E58F7AB": "Red defectuosa",
+			"7DF91752": "Muy bien, 47. Ya estás dentro. Aprovéchalo bien.",
+			"617FAB90": "Sabotea la red wifi",
+			"1851F268": "Intercepta al informático y disfrázate de él",
+			"2CF046A6": "Obtén acceso al despacho de la directora",
+			"EC8B4412": "Investiga a Tim"
+		}
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "009B8F1E06122A35",
+	"languages": {
+		"xx": {
+			"MAP_AREADISCOVERED_SHEEP_GARAGE": "Garage",
+			"MAP_AREADISCOVERED_SHEEP_PANIC": "Panic Room",
+			"MAP_AREADISCOVERED_SHEEP_BEDROOM": "Bedroom",
+			"MAP_AREADISCOVERED_SHEEP_ROOF": "Roof",
+			"MAP_AREADISCOVERED_SHEEP_BOATHOUSE": "Boat House",
+			"MAP_AREADISCOVERED_SHEEP_OFFICE": "Office"
+		},
+		"en": {
+			"MAP_AREADISCOVERED_SHEEP_GARAGE": "Garage",
+			"MAP_AREADISCOVERED_SHEEP_PANIC": "Panic Room",
+			"MAP_AREADISCOVERED_SHEEP_BEDROOM": "Alma's<br>Bedroom",
+			"MAP_AREADISCOVERED_SHEEP_ROOF": "Roof",
+			"MAP_AREADISCOVERED_SHEEP_BOATHOUSE": "Boat<br>House",
+			"MAP_AREADISCOVERED_SHEEP_OFFICE": "Alma's Office"
+		},
+		"fr": {
+			"MAP_AREADISCOVERED_SHEEP_GARAGE": "Garage",
+			"MAP_AREADISCOVERED_SHEEP_PANIC": "Chambre<br>forte",
+			"MAP_AREADISCOVERED_SHEEP_BEDROOM": "Chambre<br>d'Alma",
+			"MAP_AREADISCOVERED_SHEEP_ROOF": "Toit",
+			"MAP_AREADISCOVERED_SHEEP_BOATHOUSE": "Hangar<br>à bateaux",
+			"MAP_AREADISCOVERED_SHEEP_OFFICE": "Bureau<br>d'Alma"
+		},
+		"it": {
+			"MAP_AREADISCOVERED_SHEEP_GARAGE": "Garage",
+			"MAP_AREADISCOVERED_SHEEP_PANIC": "Stanza antipanico",
+			"MAP_AREADISCOVERED_SHEEP_BEDROOM": "Camera<br>da letto di Alma",
+			"MAP_AREADISCOVERED_SHEEP_ROOF": "Tetto",
+			"MAP_AREADISCOVERED_SHEEP_BOATHOUSE": "Capanno<br>delle barche",
+			"MAP_AREADISCOVERED_SHEEP_OFFICE": "Ufficio di Alma"
+		},
+		"de": {
+			"MAP_AREADISCOVERED_SHEEP_GARAGE": "Garage",
+			"MAP_AREADISCOVERED_SHEEP_PANIC": "Panikraum",
+			"MAP_AREADISCOVERED_SHEEP_BEDROOM": "Schlafzimmer<br>von Alma",
+			"MAP_AREADISCOVERED_SHEEP_ROOF": "Dach",
+			"MAP_AREADISCOVERED_SHEEP_BOATHOUSE": "Bootshaus",
+			"MAP_AREADISCOVERED_SHEEP_OFFICE": "Büro<br>von Alma"
+		},
+		"es": {
+			"MAP_AREADISCOVERED_SHEEP_GARAGE": "Garaje",
+			"MAP_AREADISCOVERED_SHEEP_PANIC": "Sala del pánico",
+			"MAP_AREADISCOVERED_SHEEP_BEDROOM": "Habitación<br>de Alma",
+			"MAP_AREADISCOVERED_SHEEP_ROOF": "Azotea",
+			"MAP_AREADISCOVERED_SHEEP_BOATHOUSE": "Cobertizo para<br>embarcaciones",
+			"MAP_AREADISCOVERED_SHEEP_OFFICE": "Oficina de Alma"
+		}
+	}
+}

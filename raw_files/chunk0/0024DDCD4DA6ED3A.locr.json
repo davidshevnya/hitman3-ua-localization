@@ -1,0 +1,78 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0024DDCD4DA6ED3A",
+	"languages": {
+		"xx": {
+			"CHALLENGEPACK_OXYGEN_WRAPPER_NAME": "Thriller Night",
+			"CHALLENGEPACK_OXYGEN_WRAPPER_DESC": "Complete all the Thriller Night challenges:<li>Vertigo</li><li>The Scissor Man</li><li>Hitman from the Black Lagoon</li><li>Hitman with a Shotgun</li>",
+			"CHALLENGEPACK_OXYGEN_LEDGE_NAME": "Vertigo",
+			"CHALLENGEPACK_OXYGEN_LEDGE_DESC": "<li>Eliminate a target by pushing or dumping them from high above.</li>",
+			"CHALLENGEPACK_OXYGEN_SHOTGUN_NAME": "Hitman With a Shotgun",
+			"CHALLENGEPACK_OXYGEN_SHOTGUN_DESC": "<li>Eliminate 5 gaurds with a shotgun without getting spotted.</li><li>Getting spotted resets the counter.</li>",
+			"CHALLENGEPACK_OXYGEN_POOL_NAME": "Hitman of the Black Lagoon",
+			"CHALLENGEPACK_OXYGEN_POOL_DESC": "<li>Eliminate a target by pushing or dumping them into the pool.</li>",
+			"CHALLENGEPACK_OXYGEN_SCISSORS_NAME": "The Scissor Man",
+			"CHALLENGEPACK_OXYGEN_SCISSORS_DESC": "<li>Eliminate a target with a pair of scissors.</li>"
+		},
+		"en": {
+			"CHALLENGEPACK_OXYGEN_WRAPPER_NAME": "Thriller Night",
+			"CHALLENGEPACK_OXYGEN_WRAPPER_DESC": "Complete all the Thriller Night challenges:<li>Vertigo</li><li>The Scissor Man</li><li>Hitman from the Black Lagoon</li><li>Hitman with a Shotgun</li>",
+			"CHALLENGEPACK_OXYGEN_LEDGE_NAME": "Vertigo",
+			"CHALLENGEPACK_OXYGEN_LEDGE_DESC": "<li>Eliminate a target by pushing or dumping them from high above.</li>",
+			"CHALLENGEPACK_OXYGEN_SHOTGUN_NAME": "Hitman with a Shotgun",
+			"CHALLENGEPACK_OXYGEN_SHOTGUN_DESC": "<li>Eliminate 5 guards with a shotgun without getting spotted.</li><li>Getting spotted resets the counter.</li>",
+			"CHALLENGEPACK_OXYGEN_POOL_NAME": "Hitman of the Black Lagoon",
+			"CHALLENGEPACK_OXYGEN_POOL_DESC": "<li>Eliminate a target by pushing or dumping them into the pool.</li>",
+			"CHALLENGEPACK_OXYGEN_SCISSORS_NAME": "The Scissor Man",
+			"CHALLENGEPACK_OXYGEN_SCISSORS_DESC": "<li>Eliminate a target with a pair of scissors.</li>"
+		},
+		"fr": {
+			"CHALLENGEPACK_OXYGEN_WRAPPER_NAME": "Nuit mouvementée",
+			"CHALLENGEPACK_OXYGEN_WRAPPER_DESC": "Terminez tous les défis de Nuit mouvementée :<li>Vertige</li><li>Édouard le méchant</li><li>Le tueur à gages du lagon noir</li><li>Tueur à gages au fusil à pompe</li>",
+			"CHALLENGEPACK_OXYGEN_LEDGE_NAME": "Vertige",
+			"CHALLENGEPACK_OXYGEN_LEDGE_DESC": "<li>Éliminer une cible en la poussant ou la jetant de très haut.</li>",
+			"CHALLENGEPACK_OXYGEN_SHOTGUN_NAME": "Tueur à gages au fusil à pompe",
+			"CHALLENGEPACK_OXYGEN_SHOTGUN_DESC": "<li>Éliminer 5 gardes avec un fusil à pompe sans se faire repérer.</li><li>Si vous vous faites repérer, vous recommencez à zéro.</li>",
+			"CHALLENGEPACK_OXYGEN_POOL_NAME": "Le tueur à gages du lagon noir",
+			"CHALLENGEPACK_OXYGEN_POOL_DESC": "<li>Éliminer une cible en la poussant ou la jetant dans la piscine.</li>",
+			"CHALLENGEPACK_OXYGEN_SCISSORS_NAME": "Édouard le méchant",
+			"CHALLENGEPACK_OXYGEN_SCISSORS_DESC": "<li>Éliminer une cible avec une paire de ciseaux.</li>"
+		},
+		"it": {
+			"CHALLENGEPACK_OXYGEN_WRAPPER_NAME": "Brivido nella notte",
+			"CHALLENGEPACK_OXYGEN_WRAPPER_DESC": "Completa tutte le sfide di \"Brivido nella notte\":<li>Vertigini</li><li>Mani di forbice</li><li>Hitman della laguna nera</li><li>E Hitman prese il fucile</li>",
+			"CHALLENGEPACK_OXYGEN_LEDGE_NAME": "Vertigini",
+			"CHALLENGEPACK_OXYGEN_LEDGE_DESC": "<li>Elimina un bersaglio spingendolo o gettandolo da un punto molto alto.</li>",
+			"CHALLENGEPACK_OXYGEN_SHOTGUN_NAME": "E Hitman prese il fucile",
+			"CHALLENGEPACK_OXYGEN_SHOTGUN_DESC": "<li>Elimina 5 guardie con un fucile a pompa senza essere individuato.</li><li>Essere individuato azzera il contatore.</li>",
+			"CHALLENGEPACK_OXYGEN_POOL_NAME": "Hitman della laguna nera",
+			"CHALLENGEPACK_OXYGEN_POOL_DESC": "<li>Elimina un bersaglio spingendolo o gettandolo in piscina.</li>",
+			"CHALLENGEPACK_OXYGEN_SCISSORS_NAME": "Mani di forbice",
+			"CHALLENGEPACK_OXYGEN_SCISSORS_DESC": "<li>Elimina un bersaglio con un paio di forbici.</li>"
+		},
+		"de": {
+			"CHALLENGEPACK_OXYGEN_WRAPPER_NAME": "Thriller-Nacht",
+			"CHALLENGEPACK_OXYGEN_WRAPPER_DESC": "Schließen Sie alle „Uneingeladen“-Herausforderungen ab:<li>Vertigo</li><li>Der Scherenmann</li><li>Der Hitman aus der Schwarzen Lagune</li><li>Hitman with a Shotgun</li>",
+			"CHALLENGEPACK_OXYGEN_LEDGE_NAME": "Vertigo",
+			"CHALLENGEPACK_OXYGEN_LEDGE_DESC": "<li>Eliminieren Sie ein Ziel, indem Sie es aus großer Höhe schubsen oder von dort aus beseitigen.</li>",
+			"CHALLENGEPACK_OXYGEN_SHOTGUN_NAME": "Hitman with a Shotgun",
+			"CHALLENGEPACK_OXYGEN_SHOTGUN_DESC": "<li>Eliminieren Sie 5 Wachen mit einer Schrotflinte, ohne entdeckt zu werden.</li><li>Werden Sie entdeckt, wird der Zähler zurückgesetzt.</li>",
+			"CHALLENGEPACK_OXYGEN_POOL_NAME": "Der Hitman aus der Schwarzen Lagune",
+			"CHALLENGEPACK_OXYGEN_POOL_DESC": "<li>Eliminieren Sie ein Ziel, indem Sie es in das Becken schubsen oder dort beseitigen.</li>",
+			"CHALLENGEPACK_OXYGEN_SCISSORS_NAME": "Der Scherenmann",
+			"CHALLENGEPACK_OXYGEN_SCISSORS_DESC": "<li>Eliminieren Sie ein Ziel mit einer Schere.</li>"
+		},
+		"es": {
+			"CHALLENGEPACK_OXYGEN_WRAPPER_NAME": "Noche de thriller",
+			"CHALLENGEPACK_OXYGEN_WRAPPER_DESC": "Completa todos los desafíos de «No invitado»:<li>Vértigo</li><li>El asesino de las tijeras</li><li>El asesino y el monstruo</li><li>El asesino de la escopeta",
+			"CHALLENGEPACK_OXYGEN_LEDGE_NAME": "Vértigo",
+			"CHALLENGEPACK_OXYGEN_LEDGE_DESC": "<li>Elimina a un objetivo empujándolo o tirándolo desde un lugar muy elevado.</li>",
+			"CHALLENGEPACK_OXYGEN_SHOTGUN_NAME": "El asesino de la escopeta",
+			"CHALLENGEPACK_OXYGEN_SHOTGUN_DESC": "<li>Elimina a 5 guardias con una escopeta sin que te vean.</li><li>Si te ven, se reinicia el contador.</li>",
+			"CHALLENGEPACK_OXYGEN_POOL_NAME": "El asesino y el monstruo",
+			"CHALLENGEPACK_OXYGEN_POOL_DESC": "<li>Elimina a un objetivo empujándolo o tirándolo a la piscina.</li>",
+			"CHALLENGEPACK_OXYGEN_SCISSORS_NAME": "El asesino de las tijeras",
+			"CHALLENGEPACK_OXYGEN_SCISSORS_DESC": "<li>Elimina a un objetivo con unas tijeras.</li>"
+		}
+	}
+}

@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00C7FE9B57A62C74",
+	"languages": {
+		"xx": {
+			"LLAMA_QUESTITEMS_YATESFILES_NAME": "Yates Files",
+			"LLAMA_QUESTITEMS_YATESFILES_DESC": "Yates Files DESC",
+			"LLAMA_QUESTITEMS_PUMPBLUEPRINTS_DESC": "Pump Blueprints DESC",
+			"LLAMA_QUESTITEMS_PUMPBLUEPRINTS_NAME": "Pump Blueprints",
+			"LLAMA_QUESTITEMS_CALENDAR_DESC": "Calendar DESC",
+			"LLAMA_QUESTITEMS_CALENDAR_NAME": "Calendar",
+			"LLAMA_QUESTITEMS_LAWERFILES_DESC": "Diana Files DESC",
+			"LLAMA_QUESTITEMS_LAWERFILES_NAME": "Diana Files",
+			"LLAMA_QUESTITEMS_INVITATION_DESC": "Invitation DESC",
+			"LLAMA_QUESTITEMS_INVITATION_NAME": "Invitation",
+			"LLAMA_QUESTITEMS_EARPIECE_NAME": "Spotters Earpiece",
+			"LLAMA_QUESTITEMS_EARPIECE_DESC": "An Earpiece used to communicate with Yates' Sniper Team"
+		},
+		"en": {
+			"LLAMA_QUESTITEMS_YATESFILES_NAME": "Report on Data Leak",
+			"LLAMA_QUESTITEMS_YATESFILES_DESC": "A document retrieved from Don Yates's safe. It reveals that Yates caused the data leak which ruined his wife Valentina's diplomatic career.",
+			"LLAMA_QUESTITEMS_PUMPBLUEPRINTS_DESC": "Design blueprints for the pump in the fermentation room.",
+			"LLAMA_QUESTITEMS_PUMPBLUEPRINTS_NAME": "Pump Blueprints",
+			"LLAMA_QUESTITEMS_CALENDAR_DESC": "A 2021 calendar found in the Yates' house. A date has been circled with the words \"crystal anniversary\" scribbled alongside.",
+			"LLAMA_QUESTITEMS_CALENDAR_NAME": "Calendar",
+			"LLAMA_QUESTITEMS_LAWERFILES_DESC": "A research file from Morgan, Yates & Kohn containing the details of every Providence death involving Diana Burnwood.",
+			"LLAMA_QUESTITEMS_LAWERFILES_NAME": "Research File",
+			"LLAMA_QUESTITEMS_INVITATION_DESC": "An official invitation to Don Yates's retirement party.",
+			"LLAMA_QUESTITEMS_INVITATION_NAME": "Invitation",
+			"LLAMA_QUESTITEMS_EARPIECE_NAME": "Spotter's Earpiece",
+			"LLAMA_QUESTITEMS_EARPIECE_DESC": "An earpiece used to communicate with Yates's sniper team."
+		},
+		"fr": {
+			"LLAMA_QUESTITEMS_YATESFILES_NAME": "Rapport sur la fuite de données",
+			"LLAMA_QUESTITEMS_YATESFILES_DESC": "Un document récupéré dans le coffre de Don Yates. Il révèle que Yates est responsable de la fuite de données qui a ruiné la carrière diplomatique de sa femme, Valentina.",
+			"LLAMA_QUESTITEMS_PUMPBLUEPRINTS_DESC": "Un plan de la pompe dans la cuverie de vinification.",
+			"LLAMA_QUESTITEMS_PUMPBLUEPRINTS_NAME": "Plan de la pompe",
+			"LLAMA_QUESTITEMS_CALENDAR_DESC": "Un calendrier de 2021 trouvé dans la villa des Yates, sur lequel une date est entourée avec la mention \"Noces de cristal\".",
+			"LLAMA_QUESTITEMS_CALENDAR_NAME": "Calendrier",
+			"LLAMA_QUESTITEMS_LAWERFILES_DESC": "Un dossier de recherche venant des archives de Morgan, Yates & Kohn contenant les détails de toutes les pertes subies par Providence à cause de Diana Burnwood.",
+			"LLAMA_QUESTITEMS_LAWERFILES_NAME": "Dossier de recherche",
+			"LLAMA_QUESTITEMS_INVITATION_DESC": "Une invitation officielle à la fête de départ à la retraite de Don Yates.",
+			"LLAMA_QUESTITEMS_INVITATION_NAME": "Invitation",
+			"LLAMA_QUESTITEMS_EARPIECE_NAME": "Oreillette de guetteur",
+			"LLAMA_QUESTITEMS_EARPIECE_DESC": "Une oreillette permettant de communiquer avec les tireurs d'élite de Yates."
+		},
+		"it": {
+			"LLAMA_QUESTITEMS_YATESFILES_NAME": "Resoconto sulla fuoriuscita dei dati",
+			"LLAMA_QUESTITEMS_YATESFILES_DESC": "Un documento recuperato dalla cassaforte di Don Yates. Rivela che è stato Yates a causare la fuga di dati che ha rovinato la carriera diplomatica di sua moglie Valentina.",
+			"LLAMA_QUESTITEMS_PUMPBLUEPRINTS_DESC": "I progetti della pompa nella stanza di fermentazione.",
+			"LLAMA_QUESTITEMS_PUMPBLUEPRINTS_NAME": "Progetti della pompa",
+			"LLAMA_QUESTITEMS_CALENDAR_DESC": "Un calendario del 2021 trovato a casa di Yates. C'è una data cerchiata di rosso e con accanto scritto \"nozze di cristallo\".",
+			"LLAMA_QUESTITEMS_CALENDAR_NAME": "Calendario",
+			"LLAMA_QUESTITEMS_LAWERFILES_DESC": "Un dossier di ricerca della Morgan, Yates & Kohn contenente i dettagli di ogni morte di Providence che ha coinvolto Diana Burnwood.",
+			"LLAMA_QUESTITEMS_LAWERFILES_NAME": "Dossier di ricerca",
+			"LLAMA_QUESTITEMS_INVITATION_DESC": "Un invito ufficiale alla festa di pensionamento di Don Yates.",
+			"LLAMA_QUESTITEMS_INVITATION_NAME": "Invito",
+			"LLAMA_QUESTITEMS_EARPIECE_NAME": "Auricolare degli osservatori",
+			"LLAMA_QUESTITEMS_EARPIECE_DESC": "Un auricolare usato per comunicare con la squadra di cecchini di Yates."
+		},
+		"de": {
+			"LLAMA_QUESTITEMS_YATESFILES_NAME": "Bericht über Datenleck",
+			"LLAMA_QUESTITEMS_YATESFILES_DESC": "Ein Dokument, das aus Don Yates’ Tresor stammt. Es offenbart, dass Yates jenes Datenleck verursacht hat, das die Diplomatinnenkarriere seiner Frau Valentina ruinierte.",
+			"LLAMA_QUESTITEMS_PUMPBLUEPRINTS_DESC": "Entwurfsblaupausen für die Pumpe im Gärkeller.",
+			"LLAMA_QUESTITEMS_PUMPBLUEPRINTS_NAME": "Pumpen-Blaupausen",
+			"LLAMA_QUESTITEMS_CALENDAR_DESC": "Ein Kalender von 2021 aus dem Haus der Yates. Ein Datum wurde eingekreist und darunter „Kristallhochzeit“ geschrieben.",
+			"LLAMA_QUESTITEMS_CALENDAR_NAME": "Kalender",
+			"LLAMA_QUESTITEMS_LAWERFILES_DESC": "Eine Rechercheakte von Morgan, Yates & Kohn, in der Einzelheiten zu den Providence-Todesfällen stehen, bei denen Diana Burnwood involviert war.",
+			"LLAMA_QUESTITEMS_LAWERFILES_NAME": "Rechercheakte",
+			"LLAMA_QUESTITEMS_INVITATION_DESC": "Eine offizielle Einladung zu Don Yates’ Ruhestandsfeier.",
+			"LLAMA_QUESTITEMS_INVITATION_NAME": "Einladung",
+			"LLAMA_QUESTITEMS_EARPIECE_NAME": "Spotter-Ohrhörer",
+			"LLAMA_QUESTITEMS_EARPIECE_DESC": "Ein Ohrhörer, mit dem Yates’ Scharfschützenteam kommuniziert."
+		},
+		"es": {
+			"LLAMA_QUESTITEMS_YATESFILES_NAME": "Informe sobre filtración de datos",
+			"LLAMA_QUESTITEMS_YATESFILES_DESC": "Documento recuperado de la caja fuerte de Don Yates. Revela que Yates fue el responsable de la filtración de datos que arruinó la carrera diplomática de su esposa Valentina.",
+			"LLAMA_QUESTITEMS_PUMPBLUEPRINTS_DESC": "Planos de diseño de la bomba de la sala de fermentación.",
+			"LLAMA_QUESTITEMS_PUMPBLUEPRINTS_NAME": "Planos de bomba hidráulica",
+			"LLAMA_QUESTITEMS_CALENDAR_DESC": "Calendario del 2021 hallado en la casa de Yates; hay marcada una fecha con las palabras «bodas de cristal» garabateadas al lado.",
+			"LLAMA_QUESTITEMS_CALENDAR_NAME": "Calendario",
+			"LLAMA_QUESTITEMS_LAWERFILES_DESC": "Archivo de investigación de Morgan, Yates & Kohn que contiene detalles de cada muerte de Providence en la que se ha visto implicada Diana Burnwood.",
+			"LLAMA_QUESTITEMS_LAWERFILES_NAME": "Archivo de investigación",
+			"LLAMA_QUESTITEMS_INVITATION_DESC": "Invitación oficial a la fiesta de jubilación de Don Yates.",
+			"LLAMA_QUESTITEMS_INVITATION_NAME": "Invitación",
+			"LLAMA_QUESTITEMS_EARPIECE_NAME": "Auricular de observador",
+			"LLAMA_QUESTITEMS_EARPIECE_DESC": "Auricular que sirve para comunicarse con el equipo de francotiradores de Yates."
+		}
+	}
+}

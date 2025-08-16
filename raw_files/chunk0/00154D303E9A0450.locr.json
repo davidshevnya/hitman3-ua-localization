@@ -1,0 +1,60 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00154D303E9A0450",
+	"languages": {
+		"xx": {
+			"B5B1FBD5": "Name",
+			"2C4F90C6": "Flavor",
+			"25083ADF": "Description",
+			"B2F2997E": "Conclusion",
+			"FDC0BB94": "Step 1",
+			"9C8C50E9": "Step 2",
+			"271CAAED": "Step 3"
+		},
+		"en": {
+			"B5B1FBD5": "Cherry Blossom",
+			"2C4F90C6": "A way to summon General Zaydan to the underground tunnel. Interesting.",
+			"25083ADF": "In case of an emergency, Strandberg and Zaydan will meet face to face at the center of the underground tunnel. The conspirators are summoned over the phone, using a set of keywords. One of which is locked away in consul Olander’s safe.",
+			"B2F2997E": "Good thinking. Zaydan is on the move, and we know exactly where he is going.",
+			"FDC0BB94": "Find the combination to the Consul's safe",
+			"9C8C50E9": "Retrieve documents from the safe",
+			"271CAAED": "Call Zaydan"
+		},
+		"fr": {
+			"B5B1FBD5": "\"Fleur de cerisier\"",
+			"2C4F90C6": "Un moyen de faire venir le général Zaydan dans le tunnel. Intéressant.",
+			"25083ADF": "En cas d'urgence, Strandberg et Zaydan se parleront face à face au milieu du tunnel. Un conspirateur peut faire venir l'autre par téléphone en utilisant une série de mots-clefs, dont un est caché dans le coffre du consul Olander.",
+			"B2F2997E": "Bien raisonné, 47. Zaydan est en route et nous savons exactement où il va.",
+			"FDC0BB94": "Trouvez la combinaison du coffre du consul",
+			"9C8C50E9": "Récupérez les documents dans le coffre",
+			"271CAAED": "Appelez Zaydan"
+		},
+		"it": {
+			"B5B1FBD5": "Fiore di ciliegio",
+			"2C4F90C6": "Un sistema per attirare il generale Zaydan nel tunnel sotterraneo. Interessante...",
+			"25083ADF": "Strandberg e Zaydan s'incontreranno al centro del tunnel sotterraneo, in caso di emergenza. I cospiratori sono convocati usando parole chiave durante una telefonata. Una di queste parole chiave, è stata messa al sicuro nella cassaforte del console Olander.",
+			"B2F2997E": "Ottima idea. Zaydan si sta muovendo e sappiamo esattamente dov'è diretto.",
+			"FDC0BB94": "Trova la combinazione della cassaforte del console",
+			"9C8C50E9": "Recupera i documenti dalla cassaforte",
+			"271CAAED": "Chiama Zaydan"
+		},
+		"de": {
+			"B5B1FBD5": "Kirschblüte",
+			"2C4F90C6": "Eine Möglichkeit, General Zaydan in den unterirdischen Tunnel zu locken. Interessant.",
+			"25083ADF": "In einem Notfall, werden  sich Strandberg und Zaydan genau in der Mitte des unterirdischen Tunnels treffen. Die Verschwörer können einander übers Telefon mittels Codewort herbeirufen. Eines davon ist in Konsul Olanders Safe. Hmm, vielleicht ...",
+			"B2F2997E": "Gute Idee, 47. Zaydan ist unterwegs und wir wissen genau, wohin er will.",
+			"FDC0BB94": "Finden Sie die Safekombination des Konsuls",
+			"9C8C50E9": "Nehmen Sie die Papiere aus dem Safe",
+			"271CAAED": "Rufen Sie Zaydan an"
+		},
+		"es": {
+			"B5B1FBD5": "Flor de cerezo",
+			"2C4F90C6": "Una forma de hacer que el general Zaydan acuda al túnel subterráneo. Interesante.",
+			"25083ADF": "En caso de emergencia, Strandberg y Zaydan se encontrarán cara a cara en el centro del túnel subterráneo. Los conspiradores pueden comunicarse a través de llamadas telefónicas, usando un conjunto de palabras clave... Y una de ellas se halla en la caja fuerte del cónsul Olander. Mmm. Y si...",
+			"B2F2997E": "Bien pensado. Zaydan se ha puesto en marcha y sabemos exactamente adónde va.",
+			"FDC0BB94": "Encuentra la combinación de la caja fuerte del cónsul",
+			"9C8C50E9": "Hazte con los documentos de la caja fuerte",
+			"271CAAED": "Llama a Zaydan"
+		}
+	}
+}

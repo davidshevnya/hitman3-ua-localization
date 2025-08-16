@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "000A1FED894040D9",
+	"languages": {
+		"xx": {
+			"CHALLENGEPACK_SODIUM_WRAPPER_NAME": "The Culinary Trip",
+			"CHALLENGEPACK_SODIUM_WRAPPER_DESC": "Complete all The Culinary Trip challenges:<li>Flaming Hot Seafood</li><li>Feeding The Birds</li><li>Ex-Pirate, Spa-Ghet-It?</li>",
+			"CHALLENGEPACK_SODIUM_CROWS_NAME": "Feeding The Birds",
+			"CHALLENGEPACK_SODIUM_CROWS_DESC": "<li>Make 3 Crows sick.</li>",
+			"CHALLENGEPACK_SODIUM_SPAGHETTI_NAME": "Ex-Pirate, Spa-Ghet-It?",
+			"CHALLENGEPACK_SODIUM_SPAGHETTI_DESC": "<li>Knock out a target with a can of expired spaghetti.</li>",
+			"CHALLENGEPACK_SODIUM_FISH_NAME": "Flaming Hot Seafood",
+			"CHALLENGEPACK_SODIUM_FISH_DESC": "<li>Throw 3 fish into the furnaces of the metal workshops.</li>"
+		},
+		"en": {
+			"CHALLENGEPACK_SODIUM_WRAPPER_NAME": "The Culinary Trip",
+			"CHALLENGEPACK_SODIUM_WRAPPER_DESC": "Complete all The Culinary Trip challenges:<li>Flaming Hot Seafood</li><li>Feeding the Birds</li><li>Ex-Pirate, Spa-Ghet-It?</li>",
+			"CHALLENGEPACK_SODIUM_CROWS_NAME": "Feeding the Birds",
+			"CHALLENGEPACK_SODIUM_CROWS_DESC": "<li>Make 3 crows sick.</li>",
+			"CHALLENGEPACK_SODIUM_SPAGHETTI_NAME": "Ex-Pirate, Spa-Ghet-It?",
+			"CHALLENGEPACK_SODIUM_SPAGHETTI_DESC": "<li>Knock out a target with a can of expired spaghetti.</li>",
+			"CHALLENGEPACK_SODIUM_FISH_NAME": "Flaming Hot Seafood",
+			"CHALLENGEPACK_SODIUM_FISH_DESC": "<li>Throw 3 fish into the furnaces of the metal workshops.</li>"
+		},
+		"fr": {
+			"CHALLENGEPACK_SODIUM_WRAPPER_NAME": "Le voyage culinaire",
+			"CHALLENGEPACK_SODIUM_WRAPPER_DESC": "Terminez tous les défis de Le voyage culinaire :<li>Poisson cuit au charbon</li><li>À manger pour les oiseaux</li><li>Péremption mortelle</li>",
+			"CHALLENGEPACK_SODIUM_CROWS_NAME": "À manger pour les oiseaux",
+			"CHALLENGEPACK_SODIUM_CROWS_DESC": "<li>Rendez 3 Crows malades.</li>",
+			"CHALLENGEPACK_SODIUM_SPAGHETTI_NAME": "Péremption mortelle",
+			"CHALLENGEPACK_SODIUM_SPAGHETTI_DESC": "<li>Assommez une cible avec une boîte de conserve de spaghettis périmée.</li>",
+			"CHALLENGEPACK_SODIUM_FISH_NAME": "Poisson cuit au charbon",
+			"CHALLENGEPACK_SODIUM_FISH_DESC": "<li>Lancez 3 poissons dans les fours des métalleries.</li>"
+		},
+		"it": {
+			"CHALLENGEPACK_SODIUM_WRAPPER_NAME": "Il viaggio culinario",
+			"CHALLENGEPACK_SODIUM_WRAPPER_DESC": "Completa le sfide de Il viaggio culinario:<li>Pescato scottato</li><li>Cibo per volatili</li><li>Spaghettata d'assalto</li>",
+			"CHALLENGEPACK_SODIUM_CROWS_NAME": "Cibo per volatili",
+			"CHALLENGEPACK_SODIUM_CROWS_DESC": "<li>Fai vomitare 3 Corvi.</li>",
+			"CHALLENGEPACK_SODIUM_SPAGHETTI_NAME": "Spaghettata d'assalto",
+			"CHALLENGEPACK_SODIUM_SPAGHETTI_DESC": "<li>Stendi un bersaglio con un barattolo di spaghetti scaduti.</li>",
+			"CHALLENGEPACK_SODIUM_FISH_NAME": "Pescato scottato",
+			"CHALLENGEPACK_SODIUM_FISH_DESC": "<li>Lancia 3 pesci nelle fornaci delle officine metallurgiche.</li>"
+		},
+		"de": {
+			"CHALLENGEPACK_SODIUM_WRAPPER_NAME": "Der kulinarische Ausflug",
+			"CHALLENGEPACK_SODIUM_WRAPPER_DESC": "Schließen Sie alle „Der kulinarische Ausflug“-Herausforderungen ab:<li>Flambierte Meeresfrüchte</li><li>Krähen vergiften im Park</li><li>MHD abgelaufen</li>",
+			"CHALLENGEPACK_SODIUM_CROWS_NAME": "Krähen vergiften im Park",
+			"CHALLENGEPACK_SODIUM_CROWS_DESC": "<li>Verderben Sie 3 Krähen den Magen.</li>",
+			"CHALLENGEPACK_SODIUM_SPAGHETTI_NAME": "MHD abgelaufen",
+			"CHALLENGEPACK_SODIUM_SPAGHETTI_DESC": "<li>Schlagen Sie ein Ziel mit einer Dose abgelaufener Spaghetti k. o.</li>",
+			"CHALLENGEPACK_SODIUM_FISH_NAME": "Flambierte Meeresfrüchte",
+			"CHALLENGEPACK_SODIUM_FISH_DESC": "<li>Werfen Sie 3 Fische in die Öfen der Metallwerkstatt.</li>"
+		},
+		"es": {
+			"CHALLENGEPACK_SODIUM_WRAPPER_NAME": "Gastroruta",
+			"CHALLENGEPACK_SODIUM_WRAPPER_DESC": "Completa todos los desafíos de Gastroruta:<li>Marisco al rojo vivo</li><li>Dando de comer a los pájaros</li><li>Spaguetti... ¿caducatti?</li>",
+			"CHALLENGEPACK_SODIUM_CROWS_NAME": "Dando de comer a los pájaros",
+			"CHALLENGEPACK_SODIUM_CROWS_DESC": "<li>Haz enfermar a 3 Cuervos.</li>",
+			"CHALLENGEPACK_SODIUM_SPAGHETTI_NAME": "Spaguetti... ¿caducatti?",
+			"CHALLENGEPACK_SODIUM_SPAGHETTI_DESC": "<li>Noquea a un objetivo con una lata de espaguetis caducados.</li>",
+			"CHALLENGEPACK_SODIUM_FISH_NAME": "Marisco al rojo vivo",
+			"CHALLENGEPACK_SODIUM_FISH_DESC": "<li>Lanza 3 peces a los hornos de la herrería.</li>"
+		}
+	}
+}

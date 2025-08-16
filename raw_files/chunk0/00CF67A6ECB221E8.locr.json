@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/online/challenges/challenges_orbis_blueblazer.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_TARGETDOWN_DESC": "<li>Assassinate Director Scott Sarno</li>",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_TARGETDOWN_NAME": "The Director",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_SILENT_ASSASSIN_DESC": "<li>Assassinate the Director.</li><li>Only kill the target.</il><li>No bodies found.</il><li>Do not get compromised.</il><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_SILENT_ASSASSIN_NAME": "Silent Assassin",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_SIGNATURE_NAME": "Lights Out on a Promising Career",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_SIGNATURE_DESC": "<li>Assassinate The Director with the light rig.</li>"
+		},
+		"en": {
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_TARGETDOWN_DESC": "<li>Assassinate the Director.</li>",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_TARGETDOWN_NAME": "The Director",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_SILENT_ASSASSIN_DESC": "<li>Assassinate the Director.</li><li>Only eliminate the target.</li><li>No bodies found.</li><li>Do not get spotted.</li><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_SILENT_ASSASSIN_NAME": "Silent Assassin",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_SIGNATURE_NAME": "Lights Out on a Promising Career",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_SIGNATURE_DESC": "<li>Assassinate the Director with the light rig.</li>"
+		},
+		"fr": {
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_TARGETDOWN_DESC": "<li>Assassinez le directeur Scott Sarno. </li>",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_TARGETDOWN_NAME": "Le directeur",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_SILENT_ASSASSIN_DESC": "<li>Assassinez le directeur. </li><li>Abattez uniquement les cibles. </li><li>Aucun corps ne doit être trouvé. </li><li>Ne vous faites pas repérer. </li><li>Si vous êtes repéré par les caméras, effacez ou détruisez la vidéo.</li>",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_SILENT_ASSASSIN_NAME": "Assassin silencieux",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_SIGNATURE_NAME": "Carrière court-circuitée",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_SIGNATURE_DESC": "<li>Assassinez le directeur avec la barre de projecteurs.</li>"
+		},
+		"it": {
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_TARGETDOWN_DESC": "<li>Elimina il direttore.</li>",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_TARGETDOWN_NAME": "Il direttore",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_SILENT_ASSASSIN_DESC": "<li>Elimina il direttore.</li><li>Elimina solo i bersagli.</li><li>Fai in modo che nessun corpo sia rinvenuto.</li><li>Non essere individuato.</li><li>Se vieni inquadrato dalle telecamere, cancella o distruggi le registrazioni.</li>",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_SILENT_ASSASSIN_NAME": "Assassino silenzioso",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_SIGNATURE_NAME": "Il calar delle tenebre",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_SIGNATURE_DESC": "<li>Elimina il direttore con l'impianto delle luci.</li>"
+		},
+		"de": {
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_TARGETDOWN_DESC": "<li>Töten Sie den Direktor.</li>",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_TARGETDOWN_NAME": "Der Direktor",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_SILENT_ASSASSIN_DESC": "<li>Töten Sie den Direktor.</li><li>Töten Sie nur das Ziel.</li><li>Keine Körper dürfen gefunden werden.</li><li>Bleiben Sie unbemerkt.</li><li>Werden Sie von Kameras gefilmt, löschen oder zerstören Sie die Beweise.</li>",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_SILENT_ASSASSIN_NAME": "Lautloser Killer",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_SIGNATURE_NAME": "Karrierekurzschluss",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_SIGNATURE_DESC": "<li>Eliminieren Sie den Direktor mit der Lichtanlage.</li>"
+		},
+		"es": {
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_TARGETDOWN_DESC": "<li>Asesina al director Scott Sarno.</li>",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_TARGETDOWN_NAME": "El director",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_SILENT_ASSASSIN_DESC": "<li>Asesina al director.</li><li>Elimina solo al objetivo.</li><li>Que no descubran cuerpos.</li><li>Evita que te descubran.</li><li>Si te detectan las cámaras, borra o destruye las pruebas.</li>",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_SILENT_ASSASSIN_NAME": "Asesino silencioso",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_SIGNATURE_NAME": "Iluminado",
+			"UI_CHALLENGES_ORBIS_BLUEBLAZER_SIGNATURE_DESC": "<li>Asesina al director con la plataforma de iluminación.</li>"
+		}
+	}
+}

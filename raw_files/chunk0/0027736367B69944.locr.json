@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0027736367B69944",
+	"languages": {
+		"xx": {
+			"E323712D": "Title",
+			"7A2A2097": "Summary",
+			"0D2D1001": "Briefing",
+			"934985A2": "Conclusion",
+			"E44EB534": "Step 1",
+			"7D47E48E": "Step 2",
+			"0A40D418": "Step 3",
+			"9784351F": "Step 4"
+		},
+		"en": {
+			"E323712D": "Beyond the Grave",
+			"7A2A2097": "A year ago, Caruso suffered a mental breakdown. Perhaps the circumstances can be replicated.",
+			"0D2D1001": "According to the medical journal, Caruso suffered a breakdown last year. He claims to have found his mother's favorite record playing in the empty dining hall and seen her chair lift move by itself. Upon hearing the service bell ring in Isabella's old bedroom, Caruso entered alone and was later found unconscious by his staff. He claims to have no recollection of what he witnessed inside. Now, that is interesting.",
+			"934985A2": "Good show, 47. Now do put the poor soul out of his misery.",
+			"E44EB534": "Lure Caruso using the gramophone",
+			"7D47E48E": "Lure Caruso using the chair lift",
+			"0A40D418": "Ring Isabella Caruso's service bell",
+			"9784351F": "Wait for Caruso to enter the room"
+		},
+		"fr": {
+			"E323712D": "Par-delà la tombe",
+			"7A2A2097": "Il y a un an, Caruso a fait une dépression nerveuse. Peut-être pouvez-vous reproduire les circonstances qui ont fait sombrer le pauvre homme...",
+			"0D2D1001": "Selon sa fiche médicale, Caruso a fait une dépression nerveuse l'an dernier. Il a expliqué avoir entendu le disque préféré de sa mère dans la salle à manger vide et avoir vu son monte-escalier électrique se mettre en marche tout seul. Ayant entendu la cloche de service sonner dans la chambre d'Isabella, il y est entré seul, et c'est là que son personnel l'a retrouvé un peu plus tard, inconscient. Il n'a aucun souvenir de ce qui s'est passé dans la chambre. Voilà qui est fort intéressant.",
+			"934985A2": "Beau travail, 47. À présent, abrégez-donc les souffrances de ce pauvre homme.",
+			"E44EB534": "Attirez Caruso en utilisant le gramophone",
+			"7D47E48E": "Attirez Caruso en utilisant l'élévateur",
+			"0A40D418": "Utilisez la cloche de service d'Isabella Caruso",
+			"9784351F": "Attendez que Caruso entre dans la pièce"
+		},
+		"it": {
+			"E323712D": "Oltretomba",
+			"7A2A2097": "Un anno fa, Caruso è stato vittima di un crollo nervoso. Puoi fare in modo che gli capiti di nuovo.",
+			"0D2D1001": "Secondo i referti medici, l'anno scorso Caruso è stato vittima di un crollo nervoso. Sostiene di aver sentito risuonare in una sala da pranzo vuota il disco preferito di sua madre, e di aver visto il suo montascale muoversi da solo. Attirato da uno scampanellio, Caruso è entrato nella vecchia camera di Isabella e lì è stato rinvenuto privo di sensi dai suoi dipendenti. Afferma di non ricordare nulla dell'accaduto. Davvero interessante.",
+			"934985A2": "Molto bene, 47. Ora non ti resta che mettere fine ai suoi tormenti.",
+			"E44EB534": "Attira l'attenzione di Caruso con il grammofono",
+			"7D47E48E": "Attira l'attenzione di Caruso attivando il montascale",
+			"0A40D418": "Suona il campanello di servizio di Isabella Caruso",
+			"9784351F": "Aspetta che Caruso entri nella stanza"
+		},
+		"de": {
+			"E323712D": "Jenseits des Grabes",
+			"7A2A2097": "Vor einem Jahr hatte Caruso einen Nervenzusammenbruch. Vielleicht lassen sich die Umstände ja nachstellen.",
+			"0D2D1001": "Laut seiner Krankenakte hatte Caruso im letzten Jahr einen Nervenzusammenbruch. Er sagt, er hätte im Speisesaal die Lieblingsplatte seiner Mutter gehört und gesehen, wie sich ihr Treppenlift in Bewegung setzte. Kurz darauf klingelte die Dienstbotenglocke in ihrem Schlafzimmer. Dort wurde er von seinem Personal schließlich bewusstlos aufgefunden. Angeblich hat er keinerlei Erinnerung daran, was in dem Raum passiert ist. Na, das ist doch mal interessant.",
+			"934985A2": "Tolle Show, 47. Und jetzt erlösen Sie die arme Seele von ihrem Leid.",
+			"E44EB534": "Locken Sie Caruso mithilfe des Grammofons an",
+			"7D47E48E": "Locken Sie Caruso mithilfe des Treppenlifts an",
+			"0A40D418": "Läuten Sie Isabella Carusos Dienstbotenglocke",
+			"9784351F": "Warten Sie auf Caruso"
+		},
+		"es": {
+			"E323712D": "Visita desde el más allá",
+			"7A2A2097": "Hace un año, Caruso sufrió una crisis nerviosa. Quizá podamos recrear las circunstancias.",
+			"0D2D1001": "Según el parte médico, Caruso sufrió una crisis nerviosa el año pasado. Dice que el disco favorito de su madre empezó a sonar en el comedor vacío y que vio cómo el salvaescaleras se movía solo. Al oír la campana del servicio en el antiguo dormitorio de Isabella, Caruso entró solo y después su personal lo encontró inconsciente. Dice que no recuerda qué vio dentro. Vaya, qué interesante...",
+			"934985A2": "Muy bien, 47. Ahora saca a este pobre hombre de su miseria.",
+			"E44EB534": "Llama la atención de Caruso usando el gramófono",
+			"7D47E48E": "Llama la atención de Caruso usando el salvaescaleras",
+			"0A40D418": "Toca la campana del servicio de Isabella Caruso",
+			"9784351F": "Espera a que Caruso entre en el dormitorio"
+		}
+	}
+}

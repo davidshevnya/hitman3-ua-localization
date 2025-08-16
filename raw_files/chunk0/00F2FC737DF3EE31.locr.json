@@ -1,0 +1,42 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00F2FC737DF3EE31",
+	"languages": {
+		"xx": {
+			"D965665A": "PH_MissionComplete",
+			"DB63EC03": "PH_Text",
+			"00FD2BFF": "PH_Cancel",
+			"E5CB03B9": "PH_OK"
+		},
+		"en": {
+			"D965665A": "Mission Complete",
+			"DB63EC03": "You have completed the Freeform Training module.<BR><BR>Proceed to The Final Test, or stay and continue your training.",
+			"00FD2BFF": "More training",
+			"E5CB03B9": "Final Test"
+		},
+		"fr": {
+			"D965665A": "Mission terminée",
+			"DB63EC03": "Vous avez terminé le premier module d'entraînement. <BR><BR> Continuez pour Le test final, ou restez pour continuer votre entraînement.",
+			"00FD2BFF": "Entraînement supplémentaire",
+			"E5CB03B9": "Test final"
+		},
+		"it": {
+			"D965665A": "Missione completata",
+			"DB63EC03": "Hai completato il modulo di addestramento libero.<BR><BR>Procedi alla prova finale o resta e continua l'addestramento.",
+			"00FD2BFF": "Continua l'addestramento",
+			"E5CB03B9": "Prova finale"
+		},
+		"de": {
+			"D965665A": "Mission absolviert",
+			"DB63EC03": "Sie haben das freie Training absolviert.<BR><BR>Sind Sie bereit für die Abschlussprüfung oder möchten Sie weiter trainieren?",
+			"00FD2BFF": "Weiter trainieren",
+			"E5CB03B9": "Abschlussprüfung"
+		},
+		"es": {
+			"D965665A": "Misión completada",
+			"DB63EC03": "Has completado el módulo de entrenamiento improvisado.<BR><BR>Procede a la prueba final o sigue con tu entrenamiento",
+			"00FD2BFF": "Seguir entrenando",
+			"E5CB03B9": "Prueba final"
+		}
+	}
+}

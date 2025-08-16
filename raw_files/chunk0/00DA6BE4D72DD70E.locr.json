@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00DA6BE4D72DD70E",
+	"languages": {
+		"xx": {
+			"CHALLENGEPACK_ALUMINIUM_WRAPPER_NAME": "Blake's Endeavour",
+			"CHALLENGEPACK_ALUMINIUM_WRAPPER_DESC": "Complete all the Blake's Endeavour challenges:</li><li>Bounty of the Golden Hind</li><li>Treasures of Sgàil</li><li>One Shot at This</li><li>Desperate Times</li><li>Legend of the Three Suns",
+			"CHALLENGEPACK_ALUMINIUM_ARK_CRATES_NAME": "Bounty of the Golden Hind",
+			"CHALLENGEPACK_ALUMINIUM_ARK_CRATES_DESC": "While disguised as Blake Nathaniel, acquire the following from the Ark crates:</li><li>Circumcision Knife</li><li>Maori Paddle</li><li>Golf Club</li><li>Didgeridoo",
+			"CHALLENGEPACK_ALUMINIUM_GALLERY_NAME": "Treasures of Sgàil",
+			"CHALLENGEPACK_ALUMINIUM_GALLERY_DESC": "While disguised as Blake Nathaniel, acquire the following from the Gallery:</li><li>5 Filigree Eggs</li><li>Katana</li><li>Gold Idol</li><li>Aztec Necklace",
+			"CHALLENGEPACK_ALUMINIUM_CANNON_NAME": "One Shot at This",
+			"CHALLENGEPACK_ALUMINIUM_CANNON_DESC": "<li>Fire the Cannon while disguised as Blake Nathaniel.</li>",
+			"CHALLENGEPACK_ALUMINIUM_GUARDS_NAME": "Desperate Times",
+			"CHALLENGEPACK_ALUMINIUM_GUARDS_DESC": "<li>Eliminate 10 Guards with an assault rifle while disguised as Blake Nathaniel.</li>",
+			"CHALLENGEPACK_ALUMINIUM_NECKLACE_NAME": "Legend of the Three Suns",
+			"CHALLENGEPACK_ALUMINIUM_NECKLACE_DESC": "<li>Garrote 3 people with the Aztec Necklace while disguised as Blake Nathaniel.</li>"
+		},
+		"en": {
+			"CHALLENGEPACK_ALUMINIUM_WRAPPER_NAME": "Blake's Endeavour",
+			"CHALLENGEPACK_ALUMINIUM_WRAPPER_DESC": "Complete all the Blake's Endeavour challenges:</li><li>Bounty of the Golden Hind</li><li>Treasures of Sgàil</li><li>One Shot at This</li><li>Desperate Times</li><li>Legend of the Three Suns",
+			"CHALLENGEPACK_ALUMINIUM_ARK_CRATES_NAME": "Bounty of the Golden Hind",
+			"CHALLENGEPACK_ALUMINIUM_ARK_CRATES_DESC": "While disguised as Blake Nathaniel, acquire the following from the Ark crates:</li><li>Circumcision Knife</li><li>Maori Paddle</li><li>Golf Club</li><li>Didgeridoo",
+			"CHALLENGEPACK_ALUMINIUM_GALLERY_NAME": "Treasures of Sgàil",
+			"CHALLENGEPACK_ALUMINIUM_GALLERY_DESC": "While disguised as Blake Nathaniel, acquire the following from the Gallery:</li><li>5 Filigree Eggs</li><li>Katana</li><li>Gold Idol</li><li>Aztec Necklace",
+			"CHALLENGEPACK_ALUMINIUM_CANNON_NAME": "One Shot at This",
+			"CHALLENGEPACK_ALUMINIUM_CANNON_DESC": "<li>Fire the cannon while disguised as Blake Nathaniel.</li>",
+			"CHALLENGEPACK_ALUMINIUM_GUARDS_NAME": "Desperate Times",
+			"CHALLENGEPACK_ALUMINIUM_GUARDS_DESC": "<li>Eliminate 10 guards with an assault rifle while disguised as Blake Nathaniel.</li>",
+			"CHALLENGEPACK_ALUMINIUM_NECKLACE_NAME": "Legend of the Three Suns",
+			"CHALLENGEPACK_ALUMINIUM_NECKLACE_DESC": "<li>Garrotte 3 people with the Aztec necklace while disguised as Blake Nathaniel.</li>"
+		},
+		"fr": {
+			"CHALLENGEPACK_ALUMINIUM_WRAPPER_NAME": "L'entreprise de Blake",
+			"CHALLENGEPACK_ALUMINIUM_WRAPPER_DESC": "Terminez tous les défis de L'entreprise de Blake :</li><li>Prime de la biche dorée</li><li>Trésors de Sgàil</li><li>Une seule chance</li><li>Les temps sont durs</li><li>Légende des trois soleils",
+			"CHALLENGEPACK_ALUMINIUM_ARK_CRATES_NAME": "Prime de la biche dorée",
+			"CHALLENGEPACK_ALUMINIUM_ARK_CRATES_DESC": "Obtenez les objets suivants dans les caisses de l'Arche déguisé en Blake Nathaniel :</li><li>Couteau de circoncision</li><li>Pagaie maorie</li><li>Club de golf</li><li>Didgeridoo",
+			"CHALLENGEPACK_ALUMINIUM_GALLERY_NAME": "Trésors de Sgàil",
+			"CHALLENGEPACK_ALUMINIUM_GALLERY_DESC": "Obtenez les objets suivants dans la galerie déguisé en Blake Nathaniel :</li><li>5 œufs filigranés</li><li>Katana</li><li>Idole en or</li><li>Collier aztèque",
+			"CHALLENGEPACK_ALUMINIUM_CANNON_NAME": "Une seule chance",
+			"CHALLENGEPACK_ALUMINIUM_CANNON_DESC": "<li>Tirez avec le canon déguisé en Blake Nathaniel.</li>",
+			"CHALLENGEPACK_ALUMINIUM_GUARDS_NAME": "Les temps sont durs",
+			"CHALLENGEPACK_ALUMINIUM_GUARDS_DESC": "<li>Éliminez 10 gardes avec un fusil d'assaut déguisé en Blake Nathaniel.</li>",
+			"CHALLENGEPACK_ALUMINIUM_NECKLACE_NAME": "Légende des trois soleils",
+			"CHALLENGEPACK_ALUMINIUM_NECKLACE_DESC": "<li>Étranglez 3 personnes avec le collier aztèque déguisé en Blake Nathaniel.</li>"
+		},
+		"it": {
+			"CHALLENGEPACK_ALUMINIUM_WRAPPER_NAME": "L'Impresa di Blake",
+			"CHALLENGEPACK_ALUMINIUM_WRAPPER_DESC": "Completa tutte le sfide dell'\"Impresa di Blake\":</li><li>La taglia della Cerva dorata</li><li>Il tesoro di Sgàil</li><li>Un unico tentativo</li><li>Tempi drammatici</li><li>La leggenda dei tre soli",
+			"CHALLENGEPACK_ALUMINIUM_ARK_CRATES_NAME": "La taglia della Cerva dorata",
+			"CHALLENGEPACK_ALUMINIUM_ARK_CRATES_DESC": "Travestiti da Blake Nathaniel e trova i seguenti oggetti nelle casse della Ark:</li><li>Coltello da circoncisione</li><li>Remo maori</li><li>Mazza da golf</li><li>Didgeridoo",
+			"CHALLENGEPACK_ALUMINIUM_GALLERY_NAME": "Il tesoro di Sgàil",
+			"CHALLENGEPACK_ALUMINIUM_GALLERY_DESC": "Travestiti da Blake Nathaniel e trova i seguenti oggetti nella Galleria:</li><li>5 uova in filigrana</li><li>Katana</li><li>Idolo d'oro</li><li>Collana azteca",
+			"CHALLENGEPACK_ALUMINIUM_CANNON_NAME": "Un unico tentativo",
+			"CHALLENGEPACK_ALUMINIUM_CANNON_DESC": "<li>Spara con il cannone mentre sei travestito da Blake Nathaniel.</li>",
+			"CHALLENGEPACK_ALUMINIUM_GUARDS_NAME": "Tempi drammatici",
+			"CHALLENGEPACK_ALUMINIUM_GUARDS_DESC": "<li>Elimina 10 guardie con un fucile d'assalto mentre sei travestito da Blake Nathaniel.</li>",
+			"CHALLENGEPACK_ALUMINIUM_NECKLACE_NAME": "La leggenda dei tre soli",
+			"CHALLENGEPACK_ALUMINIUM_NECKLACE_DESC": "<li>Strangola 3 persone con la collana azteca mentre sei travestito da Blake Nathaniel.</li>"
+		},
+		"de": {
+			"CHALLENGEPACK_ALUMINIUM_WRAPPER_NAME": "Blakes Unterfangen",
+			"CHALLENGEPACK_ALUMINIUM_WRAPPER_DESC": "Schließen Sie alle Herausforderungen bei „Blakes Unterfangen“ ab:</li><li>Überfülle der goldenen Hirschkuh</li><li>Schätze von Sgàil</li><li>Wir haben nur einen Schuss</li><li>Verzweifelte Situationen</li><li>Legende der drei Sonnen",
+			"CHALLENGEPACK_ALUMINIUM_ARK_CRATES_NAME": "Überfülle der goldenen Hirschkuh",
+			"CHALLENGEPACK_ALUMINIUM_ARK_CRATES_DESC": "Besorgen Sie sich als Blake Nathaniel verkleidet folgende Dinge aus den Ark-Kisten:</li><li>Beschneidungsmesser</li><li>Maori-Paddel</li><li>Golfschläger</li><li>Didgeridoo",
+			"CHALLENGEPACK_ALUMINIUM_GALLERY_NAME": "Schätze von Sgàil",
+			"CHALLENGEPACK_ALUMINIUM_GALLERY_DESC": "Besorgen Sie sich als Blake Nathaniel verkleidet folgende Dinge aus der Galerie:</li><li>5 Filigran-Eier</li><li>Katana</li><li>Goldgötze</li><li>Aztekische Halskette",
+			"CHALLENGEPACK_ALUMINIUM_CANNON_NAME": "Wir haben nur einen Schuss",
+			"CHALLENGEPACK_ALUMINIUM_CANNON_DESC": "<li>Feuern Sie als Blake Nathaniel verkleidet die Kanone ab.</li>",
+			"CHALLENGEPACK_ALUMINIUM_GUARDS_NAME": "Verzweifelte Situationen",
+			"CHALLENGEPACK_ALUMINIUM_GUARDS_DESC": "<li>Eliminieren Sie als Blake Nathaniel verkleidet 10 Wachen mit einem Sturmgewehr.</li>",
+			"CHALLENGEPACK_ALUMINIUM_NECKLACE_NAME": "Legende der drei Sonnen",
+			"CHALLENGEPACK_ALUMINIUM_NECKLACE_DESC": "<li>Erdrosseln Sie als Blake Nathaniel verkleidet 3 Personen mit der Aztekischen Halskette.</li>"
+		},
+		"es": {
+			"CHALLENGEPACK_ALUMINIUM_WRAPPER_NAME": "El empeño de Blake",
+			"CHALLENGEPACK_ALUMINIUM_WRAPPER_DESC": "Completa todos los desafíos de El empeño de Blake:</li><li>La recompensa de la cierva de oro</li><li>Tesoros de Sgàil</li><li>Un intento</li><li>Tiempos desesperados</li><li>La leyenda de los tres soles",
+			"CHALLENGEPACK_ALUMINIUM_ARK_CRATES_NAME": "La recompensa de la cierva de oro",
+			"CHALLENGEPACK_ALUMINIUM_ARK_CRATES_DESC": "Mientras estés disfrazado de Blake Nathaniel, consigue los siguientes objetos en cajas de la Ark:</li><li>Cuchillo de circuncidar</li><li>Remo maorí</li><li>Palo de golf</li><li>Didyeridú",
+			"CHALLENGEPACK_ALUMINIUM_GALLERY_NAME": "Tesoros de Sgàil",
+			"CHALLENGEPACK_ALUMINIUM_GALLERY_DESC": "Mientras estés disfrazado de Blake Nathaniel, consigue los siguientes objetos en la galería:</li><li>5 huevos de filigrana</li><li>Katana</li><li>Ídolo de oro</li><li>Collar azteca",
+			"CHALLENGEPACK_ALUMINIUM_CANNON_NAME": "Un intento",
+			"CHALLENGEPACK_ALUMINIUM_CANNON_DESC": "<li>Dispara el cañón mientras estás disfrazado de Blake Nathaniel.</li>",
+			"CHALLENGEPACK_ALUMINIUM_GUARDS_NAME": "Tiempos desesperados",
+			"CHALLENGEPACK_ALUMINIUM_GUARDS_DESC": "<li>Elimina a 10 guardias con un fusil de asalto mientras estás disfrazado de Blake Nathaniel.</li>",
+			"CHALLENGEPACK_ALUMINIUM_NECKLACE_NAME": "La leyenda de los tres soles",
+			"CHALLENGEPACK_ALUMINIUM_NECKLACE_DESC": "<li>Estrangula a 3 personas con el collar azteca mientras estás disfrazado de Blake Nathaniel.</li>"
+		}
+	}
+}

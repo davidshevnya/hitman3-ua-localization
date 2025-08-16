@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00FA7E4AF690CAE1",
+	"languages": {
+		"xx": {
+			"C52461D5": "A Matter of Discipline",
+			"AB7C980E": "Vanya Shah is eager to meet the new foreman of the Mumbai Laundry business. However, the foreman has taken refuge in his office, unwilling to meet up with her at this time. You might be able to use this to your advantage.",
+			"894062E8": "An Audience with the Queen",
+			"6016F96D": "Infiltrate the foreman's office",
+			"95219E7C": "Disguise yourself as the foreman",
+			"5522B51B": "Report to the guard",
+			"9A3F61B9": "Follow the guard to the meeting spot",
+			"00E5A2AB": "Meet Vanya Shah on the bridge"
+		},
+		"en": {
+			"C52461D5": "A Matter of Discipline",
+			"AB7C980E": "Vanya Shah is eager to meet the new foreman of the Mumbai Laundry business. However, the foreman has taken refuge in his office, unwilling to meet up with her at this time. You might be able to use this to your advantage.",
+			"894062E8": "An Audience with the Queen.",
+			"6016F96D": "Infiltrate the foreman's office",
+			"95219E7C": "Disguise yourself as the foreman",
+			"5522B51B": "Report to the guard",
+			"9A3F61B9": "Follow the guard to the meeting spot",
+			"00E5A2AB": "Meet Vanya Shah on the bridge"
+		},
+		"fr": {
+			"C52461D5": "Une question de discipline",
+			"AB7C980E": "Vanya Shah a hâte de rencontrer le nouveau contremaître du lavoir de Bombay. Celui-ci s'est cependant réfugié dans son bureau et refuse de la voir. Vous pourriez utiliser ceci à votre avantage.",
+			"894062E8": "Une audience avec la reine.",
+			"6016F96D": "Infiltrez le bureau du contremaître",
+			"95219E7C": "Déguisez-vous en contremaître",
+			"5522B51B": "Faites un rapport au garde",
+			"9A3F61B9": "Suivez le garde jusqu'au point de rendez-vous",
+			"00E5A2AB": "Retrouvez Vanya Shah sur le pont"
+		},
+		"it": {
+			"C52461D5": "Una questione di disciplina",
+			"AB7C980E": "Vanya Shah è ansiosa di incontrare il nuovo caposquadra della grande lavanderia di Mumbai, il quale però si è barricato nel suo ufficio e al momento non ha intenzione di vederla. Potresti sfruttare questa situazione a tuo vantaggio.",
+			"894062E8": "Un incontro con la regina.",
+			"6016F96D": "Infiltrati nell'ufficio del caposquadra",
+			"95219E7C": "Travestiti da caposquadra",
+			"5522B51B": "Fa' rapporto alla guardia",
+			"9A3F61B9": "Segui la guardia al luogo dell'incontro",
+			"00E5A2AB": "Incontra Vanya Shah sul ponte"
+		},
+		"de": {
+			"C52461D5": "Eine Frage der Disziplin",
+			"AB7C980E": "Vanya Shah möchte sich unbedingt mit dem Vorarbeiter der Mumbai-Wäscherei treffen. Allerdings hat dieser sich in seinem Büro verschanzt, weil er aktuell überhaupt keine Lust auf ein solches Gespräch hat. Vielleicht können Sie das ja zu Ihrem Vorteil nutzen.",
+			"894062E8": "Eine Audienz bei der Königin.",
+			"6016F96D": "Infiltrieren Sie das Büro des Vorarbeiters.",
+			"95219E7C": "Verkleiden Sie sich als Vorarbeiter.",
+			"5522B51B": "Melden Sie sich bei der Wache.",
+			"9A3F61B9": "Folgen Sie der Wache zum Treffpunkt.",
+			"00E5A2AB": "Treffen Sie Vanya Shah an der Brücke."
+		},
+		"es": {
+			"C52461D5": "Cuestión de disciplina",
+			"AB7C980E": "Vanya Shah está deseando conocer al nuevo encargado del negocio lavandero de Bombay. Sin embargo, el encargado se ha refugiado en su oficina y no quiere reunirse con ella. Tal vez puedas sacar provecho de esta situación.",
+			"894062E8": "Una audiencia con la reina.",
+			"6016F96D": "Cuélate en la oficina del capataz",
+			"95219E7C": "Disfrázate del capataz",
+			"5522B51B": "Informa al guardia",
+			"9A3F61B9": "Sigue al guardia hasta el lugar de la reunión",
+			"00E5A2AB": "Reúnete con Vanya Shah en el puente"
+		}
+	}
+}

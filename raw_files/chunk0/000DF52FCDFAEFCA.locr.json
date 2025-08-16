@@ -1,0 +1,42 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/online/challenges/challenges_et_mojito.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"UI_CHALLENGES_ET_MOJITO_TARGETDOWN_DESC": "<li>Assassinate The Paparazzo.</li>",
+			"UI_CHALLENGES_ET_MOJITO_TARGETDOWN_NAME": "The Paparazzo",
+			"UI_CHALLENGES_ET_MOJITO_SILENT_ASSASSIN_DESC": "<li>Assassinate Tthe Paparazzo.</li><li>Only kill the target.</il><li>No bodies found.</il><li>Do not get compromised.</il><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+			"UI_CHALLENGES_ET_MOJITO_SILENT_ASSASSIN_NAME": "Silent Assassin"
+		},
+		"en": {
+			"UI_CHALLENGES_ET_MOJITO_TARGETDOWN_DESC": "<li>Assassinate the Paparazzo.</li>",
+			"UI_CHALLENGES_ET_MOJITO_TARGETDOWN_NAME": "The Paparazzo",
+			"UI_CHALLENGES_ET_MOJITO_SILENT_ASSASSIN_DESC": "<li>Assassinate the Paparazzo.</li><li>Only eliminate the target.</li><li>No bodies found.</li><li>Do not get spotted.</li><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+			"UI_CHALLENGES_ET_MOJITO_SILENT_ASSASSIN_NAME": "Silent Assassin"
+		},
+		"fr": {
+			"UI_CHALLENGES_ET_MOJITO_TARGETDOWN_DESC": "<li>Assassinez le paparazzo.</li>",
+			"UI_CHALLENGES_ET_MOJITO_TARGETDOWN_NAME": "Le paparazzo",
+			"UI_CHALLENGES_ET_MOJITO_SILENT_ASSASSIN_DESC": "<li>Assassinez le paparazzo. </li><li>Abattez uniquement les cibles. </li><li>Aucun corps ne doit être trouvé.</li><li>Ne vous faites pas repérer.</li><li>Si vous êtes repéré par les caméras, effacez ou détruisez la vidéo.</li>",
+			"UI_CHALLENGES_ET_MOJITO_SILENT_ASSASSIN_NAME": "Assassin silencieux"
+		},
+		"it": {
+			"UI_CHALLENGES_ET_MOJITO_TARGETDOWN_DESC": "<li>Elimina il paparazzo.</li>",
+			"UI_CHALLENGES_ET_MOJITO_TARGETDOWN_NAME": "Il paparazzo",
+			"UI_CHALLENGES_ET_MOJITO_SILENT_ASSASSIN_DESC": "<li>Elimina il paparazzo.</li><li>Elimina solo il bersaglio.</li><li>Fai in modo che nessun corpo sia rinvenuto.</li><li>Non essere individuato.</li><li>Se vieni inquadrato dalle telecamere, cancella o distruggi le registrazioni.</li>",
+			"UI_CHALLENGES_ET_MOJITO_SILENT_ASSASSIN_NAME": "Assassino silenzioso"
+		},
+		"de": {
+			"UI_CHALLENGES_ET_MOJITO_TARGETDOWN_DESC": "<li>Eliminieren Sie den Paparazzo.</li>",
+			"UI_CHALLENGES_ET_MOJITO_TARGETDOWN_NAME": "Der Paparazzo",
+			"UI_CHALLENGES_ET_MOJITO_SILENT_ASSASSIN_DESC": "<li>Eliminieren Sie den Paparazzo.</li><li>Eliminieren Sie nur das Ziel.</li><li>Keine Körper dürfen gefunden werden.</li><li>Bleiben Sie unbemerkt.</li><li>Werden Sie von Kameras gefilmt, löschen oder zerstören Sie die Beweise.</li>",
+			"UI_CHALLENGES_ET_MOJITO_SILENT_ASSASSIN_NAME": "Lautloser Killer"
+		},
+		"es": {
+			"UI_CHALLENGES_ET_MOJITO_TARGETDOWN_DESC": "<li>Asesina al paparazzi.</li>",
+			"UI_CHALLENGES_ET_MOJITO_TARGETDOWN_NAME": "El paparazzi",
+			"UI_CHALLENGES_ET_MOJITO_SILENT_ASSASSIN_DESC": "<li>Asesina al paparazzi.</li><li>Elimina solo a los objetivos.</li><li>Que no descubran cuerpos.</li><li>Evita que te descubran.</li><li>Si te detectan las cámaras, borra o destruye las pruebas.</li>",
+			"UI_CHALLENGES_ET_MOJITO_SILENT_ASSASSIN_NAME": "Asesino silencioso"
+		}
+	}
+}

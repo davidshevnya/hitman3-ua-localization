@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "009BA92CEBD62BA2",
+	"languages": {
+		"xx": {
+			"DCE58B48": "Title",
+			"45ECDAF2": "Summary",
+			"32EBEA64": "Briefing",
+			"AC8F7FC7": "Conclusion",
+			"DB884F51": "Step 1",
+			"42811EEB": "Step 2",
+			"35862E7D": "Step 3",
+			"A53933EC": "Step 4"
+		},
+		"en": {
+			"DCE58B48": "By Candlelight",
+			"45ECDAF2": "De Santis plans a romantic rendezvous. Sounds like a chance to catch her with her guard down.",
+			"32EBEA64": "Francesca De Santis is evidently having an affair with Caruso’s golf coach, Roberto Vargas. A notorious ladies' man, Vargas has turned De Santis’ bedroom into a candlelit love nest and plans to call on her after his golf lesson with Caruso. Well, she should know better than to mix business with pleasure.",
+			"AC8F7FC7": "Nicely done, 47. De Santis will be here shortly. I suggest you get in the mood.",
+			"DB884F51": "Find out more about the golf coach",
+			"42811EEB": "Disguise yourself as the Golf Coach",
+			"35862E7D": "Call De Santis",
+			"A53933EC": "Wait for De Santis in her room"
+		},
+		"fr": {
+			"DCE58B48": "Soirée aux chandelles",
+			"45ECDAF2": "De Santis a prévu un rendez-vous romantique. L'occasion idéale de la surprendre sans qu'elle soit sur ses gardes.",
+			"32EBEA64": "Il est clair que Francesca De Santis entretient une liaison avec Roberto Vargas, le coach de golf de Caruso. Ce dernier, un don juan de premier ordre, a transformé la chambre de De Santis en nid d'amour en y disposant artistiquement des bougies. Il a l'intention de l'appeler après la séance de golf de Caruso. Tant pis pour elle. Elle devrait savoir que les affaires et le plaisir ne font jamais bon ménage.",
+			"AC8F7FC7": "Bien joué, 47. De Santis ne va pas tarder à arriver. Je vous suggère de vous mettre dans l'ambiance.",
+			"DB884F51": "Apprenez-en plus sur le coach de golf",
+			"42811EEB": "Déguisez-vous en  coach de golf",
+			"35862E7D": "Appelez De Santis",
+			"A53933EC": "Allez attendre De Santis dans sa chambre"
+		},
+		"it": {
+			"DCE58B48": "A lume di candela",
+			"45ECDAF2": "De Santis ha in programma un appuntamento romantico. È l'occasione ideale per coglierla di sorpresa.",
+			"32EBEA64": "È evidente che Francesca De Santis ha una relazione con Roberto Vargas, il maestro di golf di Caruso. Vargas è un noto dongiovanni, ha trasformato la stanza di De Santis in un romantico nido d'amore a lume di candela e conta di chiamarla dopo la sua lezione di golf con Caruso. Ottimo. Quella donna dovrebbe imparare a non mischiare il lavoro con il piacere.",
+			"AC8F7FC7": "Ben fatto, 47. De Santis arriverà a momenti. Ti consiglio di entrare nella parte.",
+			"DB884F51": "Ottieni informazioni sul maestro di golf",
+			"42811EEB": "Travestiti da maestro di golf",
+			"35862E7D": "Chiama De Santis",
+			"A53933EC": "Aspetta De Santis nella sua stanza"
+		},
+		"de": {
+			"DCE58B48": "Bei Kerzenschein",
+			"45ECDAF2": "De Santis plant ein romantisches Rendezvous. Klingt nach einer Möglichkeit, sie in einem schwachen Moment zu erwischen.",
+			"32EBEA64": "Francesca De Santis hat offenbar eine Affäre mit Carusos Golflehrer Roberto Vargas. Der notorische Frauenheld hat De Santis' Schlafzimmer in ein romantisches Liebesnest verwandelt und hat vor, sie nach seiner Golfstunde mit Caruso zu sich zu rufen. Tja. Sie müsste eigentlich wissen, dass man Privates nicht mit Geschäftlichem vermischt.",
+			"AC8F7FC7": "Gute Arbeit, 47. De Santis wird in Kürze hier sein. Bringen Sie sich schon mal in Stimmung.",
+			"DB884F51": "Finden Sie mehr über den Golftrainer heraus",
+			"42811EEB": "Verkleiden Sie sich als Golflehrer",
+			"35862E7D": "Rufen Sie De Santis an",
+			"A53933EC": "Erwarten Sie De Santis in ihrem Zimmer"
+		},
+		"es": {
+			"DCE58B48": "A la luz de las velas",
+			"45ECDAF2": "De Santis planea una cita romántica. Parece una oportunidad para pillarla desprevenida.",
+			"32EBEA64": "Es evidente que Francesca De Santis tiene un lío amoroso con el entrenador de golf de Caruso, Roberto Vargas. Vargas, que tiene fama de mujeriego, ha convertido el dormitorio de De Santis en un nido de amor y planea llamarla después de su clase de golf con Caruso. Ella debería saber que los negocios no se mezclan con el placer.",
+			"AC8F7FC7": "Bien hecho, 47. De Santis llegará enseguida. Te sugiero que te pongas a tono.",
+			"DB884F51": "Averigua algo más sobre el entrenador de golf",
+			"42811EEB": "Disfrázate como el entrenador de golf",
+			"35862E7D": "Llama a De Santis",
+			"A53933EC": "Ve a esperar a De Santis en su habitación"
+		}
+	}
+}

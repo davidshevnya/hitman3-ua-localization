@@ -1,0 +1,78 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0080DE1438DBD2F6",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_SKULLCAP_OBJ_1": "Eliminate Lloyd Burgess while disguised as a Militia Technician",
+			"UI_CONTRACT_SKULLCAP_OBJ_2": "Eliminate Brandon Davis while disguised as a Militia Technician",
+			"UI_CONTRACT_SKULLCAP_LEVEL_1_TITLE": "The Otaktay Obliteration - Level 1",
+			"UI_CONTRACT_SKULLCAP_LEVEL_2_TITLE": "The Otaktay Obliteration - Level 2",
+			"UI_CONTRACT_SKULLCAP_LEVEL_3_TITLE": "The Otaktay Obliteration - Level 3",
+			"UI_CONTRACT_SKULLCAP_LEVEL_4_TITLE": "The Otaktay Obliteration - Level 4",
+			"UI_CONTRACT_SKULLCAP_LEVEL_5_TITLE": "The Otaktay Obliteration - Level 5",
+			"UI_CONTRACT_SKULLCAP_GROUP_DESC": "Five level Escalation in Colorado.",
+			"UI_CONTRACT_SKULLCAP_GROUP_TITLE": "The Otaktay Obliteration",
+			"UI_CONTRACT_SKULLCAP_OBJ_3": "Eliminate Everett Wagner"
+		},
+		"en": {
+			"UI_CONTRACT_SKULLCAP_OBJ_1": "Eliminate Lloyd Burgess while disguised as a Militia Technician",
+			"UI_CONTRACT_SKULLCAP_OBJ_2": "Eliminate Brandon Davis while disguised as a Militia Technician",
+			"UI_CONTRACT_SKULLCAP_LEVEL_1_TITLE": "The Otaktay Obliteration - Level 1",
+			"UI_CONTRACT_SKULLCAP_LEVEL_2_TITLE": "The Otaktay Obliteration - Level 2",
+			"UI_CONTRACT_SKULLCAP_LEVEL_3_TITLE": "The Otaktay Obliteration - Level 3",
+			"UI_CONTRACT_SKULLCAP_LEVEL_4_TITLE": "The Otaktay Obliteration - Level 4",
+			"UI_CONTRACT_SKULLCAP_LEVEL_5_TITLE": "The Otaktay Obliteration - Level 5",
+			"UI_CONTRACT_SKULLCAP_GROUP_DESC": "Five level Escalation in Colorado.",
+			"UI_CONTRACT_SKULLCAP_GROUP_TITLE": "The Otaktay Obliteration",
+			"UI_CONTRACT_SKULLCAP_OBJ_3": "Eliminate Everett Wagner"
+		},
+		"fr": {
+			"UI_CONTRACT_SKULLCAP_OBJ_1": "Éliminez Lloyd Burgess, déguisé en technicien de la milice",
+			"UI_CONTRACT_SKULLCAP_OBJ_2": "Éliminez Brandon Davis, déguisé en technicien de la milice",
+			"UI_CONTRACT_SKULLCAP_LEVEL_1_TITLE": "L'oblitération Otaktay - Niveau 1",
+			"UI_CONTRACT_SKULLCAP_LEVEL_2_TITLE": "L'oblitération Otaktay - Niveau 2",
+			"UI_CONTRACT_SKULLCAP_LEVEL_3_TITLE": "L'oblitération Otaktay - Niveau 3",
+			"UI_CONTRACT_SKULLCAP_LEVEL_4_TITLE": "L'oblitération Otaktay - Niveau 4",
+			"UI_CONTRACT_SKULLCAP_LEVEL_5_TITLE": "L'oblitération Otaktay - Niveau 5",
+			"UI_CONTRACT_SKULLCAP_GROUP_DESC": "Escalade en cinq niveaux dans le Colorado.",
+			"UI_CONTRACT_SKULLCAP_GROUP_TITLE": "L'oblitération Otaktay",
+			"UI_CONTRACT_SKULLCAP_OBJ_3": "Éliminez Everett Wagner"
+		},
+		"it": {
+			"UI_CONTRACT_SKULLCAP_OBJ_1": "Elimina Lloyd Burgess mentre sei travestito da tecnico della milizia",
+			"UI_CONTRACT_SKULLCAP_OBJ_2": "Elimina Brandon Davis mentre sei travestito da tecnico della milizia",
+			"UI_CONTRACT_SKULLCAP_LEVEL_1_TITLE": "L'obliterazione di Otaktay - Livello 1",
+			"UI_CONTRACT_SKULLCAP_LEVEL_2_TITLE": "L'obliterazione di Otaktay - Livello 2",
+			"UI_CONTRACT_SKULLCAP_LEVEL_3_TITLE": "L'obliterazione di Otaktay - Livello 3",
+			"UI_CONTRACT_SKULLCAP_LEVEL_4_TITLE": "L'obliterazione di Otaktay - Livello 4",
+			"UI_CONTRACT_SKULLCAP_LEVEL_5_TITLE": "L'obliterazione di Otaktay - Livello 5",
+			"UI_CONTRACT_SKULLCAP_GROUP_DESC": "Escalation di cinque livelli in Colorado.",
+			"UI_CONTRACT_SKULLCAP_GROUP_TITLE": "L'obliterazione di Otaktay",
+			"UI_CONTRACT_SKULLCAP_OBJ_3": "Elimina Everett Wagner"
+		},
+		"de": {
+			"UI_CONTRACT_SKULLCAP_OBJ_1": "Eliminieren Sie Lloyd Burgess als Miliz-Techniker",
+			"UI_CONTRACT_SKULLCAP_OBJ_2": "Eliminieren Sie Brandon Davis als Miliz-Techniker",
+			"UI_CONTRACT_SKULLCAP_LEVEL_1_TITLE": "Die Otaktay-Obliteration - Stufe 1",
+			"UI_CONTRACT_SKULLCAP_LEVEL_2_TITLE": "Die Otaktay-Obliteration - Stufe 2",
+			"UI_CONTRACT_SKULLCAP_LEVEL_3_TITLE": "Die Otaktay-Obliteration - Stufe 3",
+			"UI_CONTRACT_SKULLCAP_LEVEL_4_TITLE": "Die Otaktay-Obliteration - Stufe 4",
+			"UI_CONTRACT_SKULLCAP_LEVEL_5_TITLE": "Die Otaktay-Obliteration - Stufe 5",
+			"UI_CONTRACT_SKULLCAP_GROUP_DESC": "Fünf-Stufen-Eskalation in Colorado.",
+			"UI_CONTRACT_SKULLCAP_GROUP_TITLE": "Die Otaktay-Obliteration",
+			"UI_CONTRACT_SKULLCAP_OBJ_3": "Eliminieren Sie Everett Wagner"
+		},
+		"es": {
+			"UI_CONTRACT_SKULLCAP_OBJ_1": "Elimina a Lloyd Burgess disfrazado de técnico de la milicia",
+			"UI_CONTRACT_SKULLCAP_OBJ_2": "Elimina a Brandon Davis disfrazado de técnico de la milicia",
+			"UI_CONTRACT_SKULLCAP_LEVEL_1_TITLE": "La erradicación de Otaktay - Nivel 1",
+			"UI_CONTRACT_SKULLCAP_LEVEL_2_TITLE": "La erradicación de Otaktay - Nivel 2",
+			"UI_CONTRACT_SKULLCAP_LEVEL_3_TITLE": "La erradicación de Otaktay - Nivel 3",
+			"UI_CONTRACT_SKULLCAP_LEVEL_4_TITLE": "La erradicación de Otaktay - Nivel 4",
+			"UI_CONTRACT_SKULLCAP_LEVEL_5_TITLE": "La erradicación de Otaktay - Nivel 5",
+			"UI_CONTRACT_SKULLCAP_GROUP_DESC": "Intensificación de cinco niveles en Colorado.",
+			"UI_CONTRACT_SKULLCAP_GROUP_TITLE": "La erradicación de Otaktay",
+			"UI_CONTRACT_SKULLCAP_OBJ_3": "Elimina a Everett Wagner"
+		}
+	}
+}

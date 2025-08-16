@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/online/challenges/challenges_orbis_mimosa.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"UI_CHALLENGES_ORBIS_MIMOSA_TARGETDOWN_DESC": "<li>Assassinate The Enforcer.</li>",
+			"UI_CHALLENGES_ORBIS_MIMOSA_TARGETDOWN_NAME": "The Enforcer",
+			"UI_CHALLENGES_ORBIS_MIMOSA_SILENT_ASSASSIN_DESC": "<li>Assassinate The Enforcer.</li><li>Only kill the target.</il><li>No bodies found.</il><li>Do not get compromised.</il><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+			"UI_CHALLENGES_ORBIS_MIMOSA_SILENT_ASSASSIN_NAME": "Silent Assassin",
+			"UI_CHALLENGES_ET_MIMOSA_SIGNATURE_DESC": "<li>Assassinate The Enforcer by dropping a stalactite on him.</li>",
+			"UI_CHALLENGES_ET_MIMOSA_SIGNATURE_NAME": "Rock On!"
+		},
+		"en": {
+			"UI_CHALLENGES_ORBIS_MIMOSA_TARGETDOWN_DESC": "<li>Assassinate the Enforcer.</li>",
+			"UI_CHALLENGES_ORBIS_MIMOSA_TARGETDOWN_NAME": "The Enforcer",
+			"UI_CHALLENGES_ORBIS_MIMOSA_SILENT_ASSASSIN_DESC": "<li>Assassinate the Enforcer.</li><li>Only eliminate the target.</li><li>No bodies found.</li><li>Do not get spotted.</li><li>If you are detected by cameras, erase or destroy the evidence.</li>",
+			"UI_CHALLENGES_ORBIS_MIMOSA_SILENT_ASSASSIN_NAME": "Silent Assassin",
+			"UI_CHALLENGES_ET_MIMOSA_SIGNATURE_DESC": "<li>Assassinate the Enforcer by dropping a stalactite on him.</li>",
+			"UI_CHALLENGES_ET_MIMOSA_SIGNATURE_NAME": "Rock On!"
+		},
+		"fr": {
+			"UI_CHALLENGES_ORBIS_MIMOSA_TARGETDOWN_DESC": "<li>Assassinez l'agent. </li>",
+			"UI_CHALLENGES_ORBIS_MIMOSA_TARGETDOWN_NAME": "L'éxécuteur",
+			"UI_CHALLENGES_ORBIS_MIMOSA_SILENT_ASSASSIN_DESC": "<li>Assassinez l'éxécuteur.</li><li>Abattez uniquement les cibles. </li><li>Aucun corps ne doit être trouvé. </li><li>Ne vous faites pas repérer. </li><li>Si vous êtes repéré par les caméras, effacez ou détruisez la vidéo.</li>",
+			"UI_CHALLENGES_ORBIS_MIMOSA_SILENT_ASSASSIN_NAME": "Assassin silencieux",
+			"UI_CHALLENGES_ET_MIMOSA_SIGNATURE_DESC": "<li>Assassinez l'agent en lui faisant tomber une stalactite sur la tête. </li>",
+			"UI_CHALLENGES_ET_MIMOSA_SIGNATURE_NAME": "Coup dur"
+		},
+		"it": {
+			"UI_CHALLENGES_ORBIS_MIMOSA_TARGETDOWN_DESC": "<li>Elimina il sorvegliante.</li>",
+			"UI_CHALLENGES_ORBIS_MIMOSA_TARGETDOWN_NAME": "Il sorvegliante",
+			"UI_CHALLENGES_ORBIS_MIMOSA_SILENT_ASSASSIN_DESC": "<li>Elimina il sorvegliante.</li><li>Elimina solo il bersaglio.</li><li>Fai in modo che nessun corpo sia rinvenuto.</li><li>Non essere individuato.</li><li>Se vieni inquadrato dalle telecamere, cancella o distruggi le registrazioni.</li>",
+			"UI_CHALLENGES_ORBIS_MIMOSA_SILENT_ASSASSIN_NAME": "Assassino silenzioso",
+			"UI_CHALLENGES_ET_MIMOSA_SIGNATURE_DESC": "<li>Elimina il sorvegliante schiacciandolo sotto una stalattite.</li>",
+			"UI_CHALLENGES_ET_MIMOSA_SIGNATURE_NAME": "Rocce pericolanti"
+		},
+		"de": {
+			"UI_CHALLENGES_ORBIS_MIMOSA_TARGETDOWN_DESC": "<li>Eliminieren Sie den Vollstrecker.</li>",
+			"UI_CHALLENGES_ORBIS_MIMOSA_TARGETDOWN_NAME": "Der Vollstrecker",
+			"UI_CHALLENGES_ORBIS_MIMOSA_SILENT_ASSASSIN_DESC": "<li>Eliminieren Sie den Vollstrecker.</li><li>Töten Sie nur das Ziel.</li><li>Keine Körper dürfen gefunden werden.</li><li>Bleiben Sie unbemerkt.</li><li>Werden Sie von Kameras gefilmt, löschen oder vernichten Sie die Beweise.</li>",
+			"UI_CHALLENGES_ORBIS_MIMOSA_SILENT_ASSASSIN_NAME": "Lautloser Killer",
+			"UI_CHALLENGES_ET_MIMOSA_SIGNATURE_DESC": "<li>Eliminieren Sie den Vollstrecker, indem Sie ihn unter einem Stalaktiten begraben.</li>",
+			"UI_CHALLENGES_ET_MIMOSA_SIGNATURE_NAME": "Harte Tatsachen"
+		},
+		"es": {
+			"UI_CHALLENGES_ORBIS_MIMOSA_TARGETDOWN_DESC": "<li>Asesina al sicario.</li>",
+			"UI_CHALLENGES_ORBIS_MIMOSA_TARGETDOWN_NAME": "El sicario",
+			"UI_CHALLENGES_ORBIS_MIMOSA_SILENT_ASSASSIN_DESC": "<li>Asesina al sicario.</li><li>Elimina solo al objetivo.</li><li>Que no descubran cuerpos.</li><li>Evita que te descubran.</li><li>Si te detectan las cámaras, borra o destruye las pruebas.</li>",
+			"UI_CHALLENGES_ORBIS_MIMOSA_SILENT_ASSASSIN_NAME": "Asesino silencioso",
+			"UI_CHALLENGES_ET_MIMOSA_SIGNATURE_DESC": "<li>Asesina al sicario haciendo que una estalactita caiga sobre él.</li>",
+			"UI_CHALLENGES_ET_MIMOSA_SIGNATURE_NAME": "Rocambolesco"
+		}
+	}
+}

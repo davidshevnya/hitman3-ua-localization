@@ -1,0 +1,60 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "005F665A19EB71D9",
+	"languages": {
+		"xx": {
+			"D3E29A2A": "Title_Grown Men Shouldn’t Play With Toys",
+			"1C2F1BCD": "Summary_Bosco is very attached to a rare figurine from his glory days. Sounds like we found his Achilles heel.",
+			"8C99F030": "Briefing_According to rumors, Bosco is the sole owner of a highly valuable figurine – a prototype from his cult film “Il Brute”, the last in the otherwise highly successful Tony Dane franchise. After the films disastrous opening, the planned production of the figurine was aborted and has become quite a mythical object for the more fanatical film collectors – a cult film’s holy grail if you will. My guess is Bosco knows the value of it and keeps it closely guarded.",
+			"953D37E0": "Conclusion_Good work 47. This ought to provoke a reaction.",
+			"F04617BB": "Step 1_Eavesdrop on the Bodyguards conversation about the figure",
+			"61C36583": "Step 2_Get the doll",
+			"3D461984": "Step 3_Place toy so Bosco sees it"
+		},
+		"en": {
+			"D3E29A2A": "Grown Men Shouldn’t Play With Toys",
+			"1C2F1BCD": "Bosco is very attached to a rare figurine from his glory days. Sounds like we found his Achilles' heel.",
+			"8C99F030": "According to rumors, Bosco is the sole owner of a highly valuable figurine, a prototype from his cult film Il Brute, the last in the otherwise highly successful Tony Dane franchise. After the film's disastrous opening, the planned production of the figurine was aborted, and it has become quite a mythical object for the more fanatical film collectors. A cult film’s holy grail, if you will. My guess is Bosco knows the value of it and keeps it closely guarded.",
+			"953D37E0": "Good work, 47. This ought to provoke a reaction.",
+			"F04617BB": "Eavesdrop on the bodyguards' conversation about the figurine",
+			"61C36583": "Get the figurine",
+			"3D461984": "Place the figurine on set"
+		},
+		"fr": {
+			"D3E29A2A": "Les jouets, ce n'est pas pour les grands",
+			"1C2F1BCD": "Bosco est très attaché à une figurine rare remontant à sa grande époque. On dirait qu'on a trouvé son talon d'Achille.",
+			"8C99F030": "Selon les rumeurs, Bosco est le seul à posséder une figurine de grande valeur : un prototype datant de son film-culte \"Il Brute\", le dernier de la série à succès Tony Dane. Compte tenu du bide qu'a fait ce film, on a annulé la sortie de cette figurine, qui est devenue un objet mythique pour les collectionneurs obsessionnels... une sorte de Saint-Graal du film-culte. Je pense que Bosco en connaît la valeur et la tient sous bonne garde.",
+			"953D37E0": "Bien joué, 47. Ça devrait provoquer une réaction.",
+			"F04617BB": "Écoutez la conversation des gardes du corps à propos de la figurine",
+			"61C36583": "Procurez-vous la figurine",
+			"3D461984": "Placez le jouet sur le plateau"
+		},
+		"it": {
+			"D3E29A2A": "I giocattoli sono per i bambini",
+			"1C2F1BCD": "Bosco è molto legato a una rara statuetta risalente agli anni d'oro della sua carriera. Che sia il suo tallone d'Achille?",
+			"8C99F030": "Secondo alcune voci, Bosco è il solo proprietario di una statuetta di grande valore, un prototipo de \"Il Brute\", un film che lui adora, l'ultimo dell'altrimenti famosa serie di Tony Dane. Dopo i deludenti risultati iniziali, la prevista produzione della statuetta venne interrotta, diventando così un oggetto quasi magico per i collezionisti più fanatici, una sorta di Sacro Graal se preferisci. Ho il sospetto che Bosco ne conosca il valore e la tenga ben custodita.",
+			"953D37E0": "Buon lavoro, 47. Questo dovrebbe provocare una reazione.",
+			"F04617BB": "Origlia la conversazione delle guardie a proposito della statuetta",
+			"61C36583": "Ottieni la statuetta",
+			"3D461984": "Posiziona la statuetta sul set"
+		},
+		"de": {
+			"D3E29A2A": "Spielzeug ist nichts für Erwachsene",
+			"1C2F1BCD": "Bosco hängt sehr an einer seltenen Figur aus seinen Glanzzeiten. Ich glaube, wir haben seine Achillesferse gefunden.",
+			"8C99F030": "Laut Gerüchten ist Bosco der Alleineigentümer einer sehr wertvollen Figur, einem Prototyp aus seinem Kultfilm „Il Brute“, dem letzten aus der sonst sehr erfolgreichen Tony-Dane-Franchise. Nach dem katastrophalen Filmstart wurde die geplante Produktion der Figuren abgebrochen, und sie wurde zu einem mythischen Objekt für fanatische Sammler, dem Heiligen Gral des Kultfilms, wenn man so will. Ich glaube, Bosco kennt ihren Wert und lässt sie streng bewachen.",
+			"953D37E0": "Gute Arbeit, 47. Das sollte eine Reaktion provozieren.",
+			"F04617BB": "Belauschen Sie das Gespräch der Leibwächter über die Figur",
+			"61C36583": "Beschaffen Sie die Figur",
+			"3D461984": "Platzieren Sie das Spielzeug so, dass Bosco es sieht"
+		},
+		"es": {
+			"D3E29A2A": "Los adultos no deberían estar con juguetitos",
+			"1C2F1BCD": "Bosco siente mucho apego a una rara figurita de sus glorias pasadas. Parece que hemos encontrado su talón de Aquiles.",
+			"8C99F030": "Según los rumores, Bosco es el propietario de una figurita tremendamente valiosa: un prototipo de su película de culto \"Il Brute\", la última de la por otra parte muy exitosa franquicia de Tony Dane. Tras el desastroso estreno de la película, los planes para la producción de la misma fueron cancelados, convirtiéndose en un objeto casi mítico entre los coleccionistas; un Santo Grial para cinéfilos, por así decirlo. Me atrevería a decir que Bosco es consciente de su valor y la guarda bajo siete llaves.",
+			"953D37E0": "Buen trabajo, 47. Esto debería provocar alguna clase de reacción.",
+			"F04617BB": "Espía la conversación de los guardaespaldas sobre la figurita.",
+			"61C36583": "Hazte con la figurita",
+			"3D461984": "Coloca la figurita en el set"
+		}
+	}
+}

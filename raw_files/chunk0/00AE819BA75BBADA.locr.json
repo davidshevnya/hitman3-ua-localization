@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00AE819BA75BBADA",
+	"languages": {
+		"xx": {
+			"CBD8179D": "Contract: Dawood Rangan",
+			"DAF77B93": "To Kill a Peacock...",
+			"D375ADDA": "That's certainly an interesting turn of events. Vanya Shah has put out a contract hit on Dawood Rangan. This has to be some sort of power play. We should be able to use this to our advantage.",
+			"51EB718D": "Eliminate target: Dawood Rangan",
+			"A0D1BA33": "Call Vanya Shah",
+			"02DBF333": "Wait for Shah's reaction",
+			"601C14E3": "Get close to the bridge",
+			"5B8BEFD4": "Observe the meeting to identify the Maelstrom"
+		},
+		"en": {
+			"CBD8179D": "Contract: Dawood Rangan",
+			"DAF77B93": "To Kill a Peacock...",
+			"D375ADDA": "Well, it looks like there’s a power struggle underway in Mumbai. Vanya Shah has contracted a hired killer, The Kashmirian, to eliminate Dawood Rangan. With Rangan now out of the picture, you should be able to pick up that contract and get in touch with Shah through one of the city’s payphones. Perhaps it will set off a beneficial chain of events?",
+			"51EB718D": "Eliminate target: Dawood Rangan",
+			"A0D1BA33": "Call Vanya Shah",
+			"02DBF333": "Wait for Shah's reaction",
+			"601C14E3": "Get close to the bridge",
+			"5B8BEFD4": "Observe the meeting to identify The Maelstrom"
+		},
+		"fr": {
+			"CBD8179D": "Contrat : Dawood Rangan",
+			"DAF77B93": "Pour tuer un paon…",
+			"D375ADDA": "Bien, il semblerait qu'un jeu de pouvoir ait lieu à Bombay en ce moment. Vanya Shah a engagé un assassin, le Cachemiri, pour tuer Dawood Rangan. Maintenant que Rangan n'est plus parmi nous, vous devriez vous emparer du contrat et appeler Shah depuis l'une des cabines de la ville. Peut-être allons-nous déclencher une réaction en chaîne bénéfique ?",
+			"51EB718D": "Éliminez la cible : Dawood Rangan",
+			"A0D1BA33": "Appelez Vanya Shah",
+			"02DBF333": "Attendez la réaction de Shah",
+			"601C14E3": "Approchez-vous du pont",
+			"5B8BEFD4": "Observez la réunion pour identifier le Maelström"
+		},
+		"it": {
+			"CBD8179D": "Incarico: Dawood Rangan",
+			"DAF77B93": "Il buio oltre il cespuglio...",
+			"D375ADDA": "Beh, sembra che ci sia in atto una guerra per il potere a Mumbai. Vanya Shah ha assoldato un killer chiamato il Kashmiro per uccidere Dawood Rangan. Ora che Rangan è stato eliminato potresti impossessarti dell'incarico e metterti in contatto con Shah usando un telefono pubblico. Chissà, potrebbe avviare una serie di eventi positivi.",
+			"51EB718D": "Elimina il bersaglio: Dawood Rangan",
+			"A0D1BA33": "Chiama Vanya Shah",
+			"02DBF333": "Aspetta la reazione di Shah",
+			"601C14E3": "Avvicinati al ponte",
+			"5B8BEFD4": "Tieni d'occhio l'incontro per identificare Maelstrom"
+		},
+		"de": {
+			"CBD8179D": "Auftrag: Dawood Rangan",
+			"DAF77B93": "Der letzte Schrei des Pfaus",
+			"D375ADDA": "Das ist definitiv eine interessante Wendung: Vanya Shah hat den Mord an Dawood Rangan in Auftrag gegeben. Es scheint sich um einen Machtkampf zu handeln. Das sollten wir zu unserem Vorteil nutzen können.",
+			"51EB718D": "Ziel eliminieren: Dawood Rangan",
+			"A0D1BA33": "Rufen Sie Vanya Shah an.",
+			"02DBF333": "Warten Sie Shahs Reaktion ab.",
+			"601C14E3": "Nähern Sie sich der Brücke.",
+			"5B8BEFD4": "Beobachten Sie das Treffen, um den Maelstrom zu identifizieren."
+		},
+		"es": {
+			"CBD8179D": "Contrato: Dawood Rangan",
+			"DAF77B93": "Matar a un pavo real...",
+			"D375ADDA": "Vaya, parece que hay toda una guerra por el poder en Bombay. Vanya Shah ha contratado a un asesino, el Cachemir, para que se ocupe de Dawood Rangan. Como Rangan ya está fuera de la ecuación, deberías poder recoger el contrato y contactar con Shah mediante uno de los teléfonos públicos de la ciudad. Puede que eso desate una interesante cadena de acontecimientos.",
+			"51EB718D": "Elimina al objetivo: Dawood Rangan",
+			"A0D1BA33": "Llama a Vanya Shah",
+			"02DBF333": "Espera a ver la reacción de Shah",
+			"601C14E3": "Acércate al puente",
+			"5B8BEFD4": "Observa el encuentro para identificar al Torbellino"
+		}
+	}
+}

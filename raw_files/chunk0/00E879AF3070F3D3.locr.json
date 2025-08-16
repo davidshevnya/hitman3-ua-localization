@@ -1,0 +1,60 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00E879AF3070F3D3",
+	"languages": {
+		"xx": {
+			"3C8157FE": "Title",
+			"46FF8958": "Flavor",
+			"0AEA7B53": "Description",
+			"CE29A04E": "Conclusion",
+			"FCA2E860": "Search Room",
+			"F0B7256D": "Find cigarettes",
+			"520E6ED2": "Swap cigarettes with Yuki's vaporizer"
+		},
+		"en": {
+			"3C8157FE": "No Smoking",
+			"46FF8958": "Yuki Yamazaki dropped her cigarettes off of the lift when arriving at the hospital. According to her bodyguards, this has put her on edge. Maybe you can help quench those cravings, 47? Cigarettes are contraband at Gama, but surely not everyone follows the rules...",
+			"0AEA7B53": "So, Yuki Yamazaki dropped her cigarettes coming up to the hospital. Interesting.",
+			"CE29A04E": "Nicely done, 47. When Yamazaki finds that pack, she's sure to want to light up in the first available place she can find.",
+			"FCA2E860": "Search the Texan's room for cigarettes",
+			"F0B7256D": "Find some cigarettes",
+			"520E6ED2": "Replace Yuki's empty pack of cigarettes"
+		},
+		"fr": {
+			"3C8157FE": "Zone non-fumeurs",
+			"46FF8958": "Les cigarettes de Yuki Yamazaki sont tombées de la cabine, lorsqu'elle est arrivée ici. D'après ses gardes du corps, ça l'a mise sur les nerfs. Peut-être que vous pourriez assouvir ses envies, 47 ? Les cigarettes sont interdites à Gama, mais certains ne suivent pas les règles...",
+			"0AEA7B53": "Donc Yuki Yamazaki a fait tomber ses cigarettes en arrivant à l'hôpital... Intéressant.",
+			"CE29A04E": "Beau travail, 47. Quand Yamazaki trouvera ce paquet, elle cherchera sûrement à s'en griller une à la première occasion.",
+			"FCA2E860": "Cherchez des cigarettes dans la chambre du texan",
+			"F0B7256D": "Trouvez des cigarettes",
+			"520E6ED2": "Remplacez le paquet vide de Yuki"
+		},
+		"it": {
+			"3C8157FE": "Vietato fumare",
+			"46FF8958": "A Yuki Yamazaki sono cadute le sigarette dalla funivia al suo arrivo alla clinica. Secondo le guardie del corpo, ora è molto nervosa. Forse possiamo aiutarla a soddisfare le sue voglie, 47. Al Gama è vietato introdurre sigarette, ma dubito che tutti rispettino le regole...",
+			"0AEA7B53": "Yuki Yamazaki ha perso le sigarette salendo in clinica. Interessante.",
+			"CE29A04E": "Ben fatto, 47. Quando Yamazaki troverà il pacchetto, vorrà accendersi una sigaretta nel primo angolo appartato che troverà.",
+			"FCA2E860": "Cerca le sigarette nella stanza del texano",
+			"F0B7256D": "Trova delle sigarette",
+			"520E6ED2": "Sostituisci il pacchetto di sigarette vuoto di Yuki"
+		},
+		"de": {
+			"3C8157FE": "Rauchen verboten",
+			"46FF8958": "Yuki Yamazaki sind auf dem Weg zum Krankenhaus die Zigaretten aus der Gondel gefallen. Ihre Leibwächter sagen, sie ist deshalb sehr nervös. Vielleicht könnten Sie ihre Sucht ausnutzen, 47? Zigaretten gelten im Gama als Schmuggelware, aber es hält sich bestimmt nicht jeder an die Regeln ...",
+			"0AEA7B53": "Yuki Yamazaki hat auf dem Weg zum Krankenhaus also ihre Zigaretten verloren. Interessant.",
+			"CE29A04E": "Gute Arbeit, 47. Wenn Yamazaki die Schachtel findet, wird sie sich bestimmt so schnell wie möglich eine Zigarette anzünden.",
+			"FCA2E860": "Suchen Sie im Zimmer des Texaners nach Zigaretten",
+			"F0B7256D": "Finden Sie Zigaretten",
+			"520E6ED2": "Tauschen Sie Yukis leere Zigarettenpackung aus"
+		},
+		"es": {
+			"3C8157FE": "Prohibido fumar",
+			"46FF8958": "A Yuki Yamazaki se le han caído los cigarrillos en el teleférico al llegar al hospital. Según sus guardaespaldas, esto la tiene de los nervios. Tal vez puedas calmar sus ansias, 47. Los cigarrillos son objeto de contrabando en Gama, pero seguro que no todo el mundo sigue las reglas...",
+			"0AEA7B53": "Así que a Yuki Yamazaki se le han caído los cigarrillos al venir al hospital. Qué interesante.",
+			"CE29A04E": "Bien hecho, 47. Cuando Yamazaki encuentre el paquete, querrá encenderse uno en el primer rincón escondido que encuentre.",
+			"FCA2E860": "Encuentra cigarrillos en la habitación del tejano",
+			"F0B7256D": "Encuentra cigarrillos",
+			"520E6ED2": "Sustituye el paquete vacío de Yuki"
+		}
+	}
+}

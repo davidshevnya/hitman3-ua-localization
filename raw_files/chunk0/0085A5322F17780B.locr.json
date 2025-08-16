@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0085A5322F17780B",
+	"languages": {
+		"xx": {
+			"35CD3BE6": "Title",
+			"ACC46A5C": "Summary",
+			"DBC35ACA": "Briefing",
+			"45A7CF69": "Step 1",
+			"32A0FFFF": "Step 2",
+			"ABA9AE45": "Step 3",
+			"DCAE9ED3": "Step 4",
+			"4C118342": "Conclusion"
+		},
+		"en": {
+			"35CD3BE6": "A Drink to Die For",
+			"ACC46A5C": "Novikov has a favorite drink, and a rather obscure one at that. Sounds like an expert is needed.",
+			"DBC35ACA": "According to staff, Viktor Novikov’s favorite drink is a rather obscure cocktail known as a Bare Knuckle Boxer. The recipe, however, has been misplaced in the basement. Sounds like a chance opportunity to get on Novikov’s good side.",
+			"45A7CF69": "Get a Palace Staff disguise",
+			"32A0FFFF": "Find the cocktail recipe in the basement",
+			"ABA9AE45": "Find a box of rat poison",
+			"DCAE9ED3": "Tend the bar",
+			"4C118342": "Nice work, 47. Time to mix up a storm."
+		},
+		"fr": {
+			"35CD3BE6": "Boisson mortelle",
+			"ACC46A5C": "Novikov apprécie particulièrement un cocktail peu répandu. Il faut un expert pour le préparer !",
+			"DBC35ACA": "Selon son personnel, la boisson préférée de Viktor Novikov est un cocktail peu connu, le \"Bare Knuckle Boxer\", dont la recette a été malencontreusement égarée quelque part dans les sous-sols. Une excellente occasion de vous faire bien voir de Novikov.",
+			"45A7CF69": "Procurez-vous une tenue de membre du personnel du palais",
+			"32A0FFFF": "Trouvez la recette du cocktail dans les sous-sols",
+			"ABA9AE45": "Trouvez une boîte de mort aux rats",
+			"DCAE9ED3": "Faites office de barman",
+			"4C118342": "Excellent travail, 47. Préparez-nous donc un petit cocktail explosif !"
+		},
+		"it": {
+			"35CD3BE6": "Cocktail letale",
+			"ACC46A5C": "Il drink preferito di Novikov è un cocktail praticamente sconosciuto. Qui serve un esperto.",
+			"DBC35ACA": "L'entourage di Novikov sostiene che il suo drink preferito sia uno sconosciuto cocktail chiamato Bare Knuckle Boxer. Tuttavia, la ricetta è finita per errore nel seminterrato. Mi sembra un'ottima occasione per entrare nelle grazie di Novikov.",
+			"45A7CF69": "Procurati un travestimento da membro del personale dell'edificio",
+			"32A0FFFF": "Trova la ricetta del cocktail nel seminterrato",
+			"ABA9AE45": "Trova una scatola di veleno per topi",
+			"DCAE9ED3": "Prendi il posto del barista addetto ai cocktail",
+			"4C118342": "Ottimo lavoro, 47. È il momento di \"shakerare\" la situazione."
+		},
+		"de": {
+			"35CD3BE6": "Ein Drink zum Sterben",
+			"ACC46A5C": "Novikov hat einen Lieblingsdrink – einen ziemlich exotischen. Das schreit nach einem Experten.",
+			"DBC35ACA": "Laut des Personals ist Viktor Novikovs Lieblingsdrink ein vergleichsweise unbekannter Cocktail namens Bare Knuckle Boxer. Dummerweise hat jemand das Rezept im Keller vergessen. Das wäre doch eine Möglichkeit, sich bei Novikov beliebt zu machen.",
+			"45A7CF69": "Verkleiden Sie sich als Palast-Mitarbeiter",
+			"32A0FFFF": "Finden Sie das Cocktailrezept im Keller",
+			"ABA9AE45": "Finden Sie das Rattengift",
+			"DCAE9ED3": "Werden Sie zum Bartender",
+			"4C118342": "Gute Arbeit, 47. Es ist Zeit für Ihre Spezialität."
+		},
+		"es": {
+			"35CD3BE6": "Una bebida para morirse",
+			"ACC46A5C": "La bebida favorita de Novikov es extraña cuanto menos. Parece que se necesita a un profesional.",
+			"DBC35ACA": "Según el personal, lo que más le gusta beber a Viktor Novikov es un curioso cóctel conocido como \"púgil añejo\". Sin embargo, la receta se ha extraviado por el sótano. Parece una buena oportunidad para ganarte el favor de Novikov.",
+			"45A7CF69": "Consigue el disfraz de personal de palacio",
+			"32A0FFFF": "Busca la receta del cóctel en el sótano",
+			"ABA9AE45": "Encuentra una caja de raticida",
+			"DCAE9ED3": "Atiende la barra del bar",
+			"4C118342": "Buen trabajo, 47. Hora de preparar un pelotazo."
+		}
+	}
+}

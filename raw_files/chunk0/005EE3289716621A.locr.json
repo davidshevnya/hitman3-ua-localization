@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "005EE3289716621A",
+	"languages": {
+		"xx": {
+			"27153ACF": "Title_Something to Chew On",
+			"A7BB8E2E": "Summary_Those teeth sound sharp. Maybe “Icon” is distructable after all.",
+			"7946A086": "Briefing_With a little tampering, the prop teeth can be made lethal. And Dino Bosco does his own stunts. Always good to see an actor willing to die for his art.",
+			"4CC99AF5": "Conclusion_Well done 47. Now the pressure is on Bosco to give himself a proper “farewell performance”.",
+			"86CAA66C": "Step 1_Eavesdrop the conversation between the two crew members",
+			"4C167B68": "Step 2_Get disguise from the special effects crew member",
+			"20139B98": "Disable the robot teeth locking mechanism",
+			"298F5D2B": "Increase the air ramp pressure"
+		},
+		"en": {
+			"27153ACF": "Something to Chew On",
+			"A7BB8E2E": "Those teeth sound sharp. Maybe Icon is destructable after all.",
+			"7946A086": "With a little tampering, the prop teeth can be made lethal. And Dino Bosco does his own stunts. Always good to see an actor willing to die for his art.",
+			"4CC99AF5": "Well done, 47. Now the pressure is on Bosco to give himself a proper farewell performance.",
+			"86CAA66C": "Eavesdrop on the conversation between the two crew members",
+			"4C167B68": "Get a Special Effects Crew disguise",
+			"20139B98": "Disable the robot teeth locking mechanism",
+			"298F5D2B": "Increase the air ramp pressure"
+		},
+		"fr": {
+			"27153ACF": "Quelque chose à se mettre sous la dent",
+			"A7BB8E2E": "Ces dents ont l'air tranchantes. Peut-être qu'Icon n'est pas indestructible, finalement.",
+			"7946A086": "Légèrement bricolées, ces dents peuvent devenir mortelles. Et Dino Bosco fait lui-même ses cascades. C'est toujours émouvant de voir un acteur mourir sur scène.",
+			"4CC99AF5": "Bravo, 47. Maintenant, Bosco va ressentir la pression des \"adieux\".",
+			"86CAA66C": "Écoutez la conversation entre les deux techniciens",
+			"4C167B68": "Procurez-vous la tenue d'un membre de l'équipe des effets spéciaux",
+			"20139B98": "Désactivez le mécanisme de verrouillage des dents du robot",
+			"298F5D2B": "Augmentez la pression de la rampe de soufflage"
+		},
+		"it": {
+			"27153ACF": "Pane per i suoi denti",
+			"A7BB8E2E": "Quei denti sembrano affilatissimi. Forse \"Icon\" non è poi così indistruttibile...",
+			"7946A086": "Con una piccola modifica i denti finti possono diventare letali. E a quanto pare Dino Bosco non usa controfigure per le scene pericolose. Fa sempre piacere vedere un attore rischiare la propria vita sulla scena.",
+			"4CC99AF5": "Ben fatto, 47. Bosco sentirà la pressione e vorrà offrire al mondo un'adeguata \"performance d'addio\".",
+			"86CAA66C": "Origlia la conversazione tra i due membri della troupe",
+			"4C167B68": "Procurati un travestimento da membro della troupe degli effetti speciali",
+			"20139B98": "Disattiva il meccanismo che blocca i denti robotici",
+			"298F5D2B": "Aumenta la pressione della rampa ad aria compressa"
+		},
+		"de": {
+			"27153ACF": "Arbeit für den Kauapparat",
+			"A7BB8E2E": "Diese Zähne scheinen scharf zu sein. Vielleicht lässt sich „Icon“ doch zerstören.",
+			"7946A086": "Mit kleinen Änderungen könnten die falschen Zähne tödlich werden. Und offenbar macht Dino Bosco seine Stunts selber. Es ist immer gut, wenn ein Schauspieler bereit ist, für seine Kunst zu sterben.",
+			"4CC99AF5": "Gute Arbeit, 47. Jetzt liegt es an Bosco, eine schöne „Abschiedsvorstellung“ zu geben.",
+			"86CAA66C": "Das Gespräch zwischen den beiden Crewmitgliedern belauschen",
+			"4C167B68": "Verkleiden Sie sich als Mitglied der Special-Effects-Crew",
+			"20139B98": "Deaktivieren Sie den Sperrmechanismus der Roboterzähne",
+			"298F5D2B": "Erhöhen Sie den Rampendruck"
+		},
+		"es": {
+			"27153ACF": "Algo para considerar",
+			"A7BB8E2E": "Esos dientes parecen afilados. Tal vez el \"Icono\" se pueda destruir, después de todo.",
+			"7946A086": "Con unas ligeras modificaciones, los dientes de atrezo pueden ser una trampa mortal. Y Dino Bosco hace sus escenas de acción sin doble. Siempre es agradable ver a un actor dispuesto a morir por su arte.",
+			"4CC99AF5": "Bien hecho, 47. Es hora de aumentar la presión sobre Bosco y despedirle del escenario con una ovación.",
+			"86CAA66C": "Espía la conversación entre los dos miembros del equipo",
+			"4C167B68": "Consigue el disfraz de miembro del equipo de efectos especiales",
+			"20139B98": "Desactiva el mecanismo que bloquea los dientes robóticos",
+			"298F5D2B": "Aumenta la presión de la rampa"
+		}
+	}
+}

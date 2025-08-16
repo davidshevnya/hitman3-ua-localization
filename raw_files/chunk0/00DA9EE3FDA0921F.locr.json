@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00DA9EE3FDA0921F",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_HOGWEED_GROUP_TITLE": "The Marinello Motivation",
+			"UI_CONTRACT_HOGWEED_GROUP_DESC": "Three Level Escalation on The Isle of Sgail.",
+			"UI_CONTRACT_HOGWEED_LEVEL_1_TITLE": "The Marinello Motivation - Level 1",
+			"UI_CONTRACT_HOGWEED_LEVEL_2_TITLE": "The Marinello Motivation - Level 2",
+			"UI_CONTRACT_HOGWEED_LEVEL_3_TITLE": "The Marinello Motivation - Level 3",
+			"UI_CONTRACT_HOGWEED_OBJ_1": "Eliminate Jorge M. Johnson"
+		},
+		"en": {
+			"UI_CONTRACT_HOGWEED_GROUP_TITLE": "The Marinello Motivation",
+			"UI_CONTRACT_HOGWEED_GROUP_DESC": "Three Level Escalation on The Isle of Sgàil.",
+			"UI_CONTRACT_HOGWEED_LEVEL_1_TITLE": "The Marinello Motivation - Level 1",
+			"UI_CONTRACT_HOGWEED_LEVEL_2_TITLE": "The Marinello Motivation - Level 2",
+			"UI_CONTRACT_HOGWEED_LEVEL_3_TITLE": "The Marinello Motivation - Level 3",
+			"UI_CONTRACT_HOGWEED_OBJ_1": "Eliminate Jorge M. Johnson"
+		},
+		"fr": {
+			"UI_CONTRACT_HOGWEED_GROUP_TITLE": "La motivation de Marinello",
+			"UI_CONTRACT_HOGWEED_GROUP_DESC": "Escalade en trois niveaux sur l'île de Sgàil.",
+			"UI_CONTRACT_HOGWEED_LEVEL_1_TITLE": "La motivation de Marinello - Niveau 1",
+			"UI_CONTRACT_HOGWEED_LEVEL_2_TITLE": "La motivation de Marinello - Niveau 2",
+			"UI_CONTRACT_HOGWEED_LEVEL_3_TITLE": "La motivation de Marinello - Niveau 3",
+			"UI_CONTRACT_HOGWEED_OBJ_1": "Éliminez Jorge M. Johnson"
+		},
+		"it": {
+			"UI_CONTRACT_HOGWEED_GROUP_TITLE": "La motivazione di Marinello",
+			"UI_CONTRACT_HOGWEED_GROUP_DESC": "Escalation di tre livelli sull'Isola di Sgàil.",
+			"UI_CONTRACT_HOGWEED_LEVEL_1_TITLE": "La motivazione di Marinello - Livello 1",
+			"UI_CONTRACT_HOGWEED_LEVEL_2_TITLE": "La motivazione di Marinello - Livello 2",
+			"UI_CONTRACT_HOGWEED_LEVEL_3_TITLE": "La motivazione di Marinello - Livello 3",
+			"UI_CONTRACT_HOGWEED_OBJ_1": "Elimina Jorge M. Johnson"
+		},
+		"de": {
+			"UI_CONTRACT_HOGWEED_GROUP_TITLE": "Die Marinello-Motivation",
+			"UI_CONTRACT_HOGWEED_GROUP_DESC": "Drei-Stufen-Eskalation auf der Isle of Sgàil.",
+			"UI_CONTRACT_HOGWEED_LEVEL_1_TITLE": "Die Marinello-Motivation – Stufe 1",
+			"UI_CONTRACT_HOGWEED_LEVEL_2_TITLE": "Die Marinello-Motivation – Stufe 2",
+			"UI_CONTRACT_HOGWEED_LEVEL_3_TITLE": "Die Marinello-Motivation – Stufe 3",
+			"UI_CONTRACT_HOGWEED_OBJ_1": "Eliminieren Sie Jorge M. Johnson"
+		},
+		"es": {
+			"UI_CONTRACT_HOGWEED_GROUP_TITLE": "La motivación de Marinello",
+			"UI_CONTRACT_HOGWEED_GROUP_DESC": "Intensificación de tres niveles en la isla de Sgàil.",
+			"UI_CONTRACT_HOGWEED_LEVEL_1_TITLE": "La motivación de Marinello - Nivel 1",
+			"UI_CONTRACT_HOGWEED_LEVEL_2_TITLE": "La motivación de Marinello - Nivel 2",
+			"UI_CONTRACT_HOGWEED_LEVEL_3_TITLE": "La motivación de Marinello - Nivel 3",
+			"UI_CONTRACT_HOGWEED_OBJ_1": "Elimina a Jorge M. Johnson"
+		}
+	}
+}

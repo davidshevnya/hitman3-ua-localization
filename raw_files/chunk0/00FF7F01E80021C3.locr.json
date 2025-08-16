@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00FF7F01E80021C3",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_1_TITLE": "The Sokoloff Sophistication - Level 1",
+			"UI_CONTRACT_HONEYSUCKLE_GROUP_TITLE": "The Sokoloff Sophistication",
+			"UI_CONTRACT_HONEYSUCKLE_GROUP_DESC": "Five level escalation in Marrakesh",
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_5_TITLE": "The Sokoloff Sophistication - Level 5",
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_4_TITLE": "The Sokoloff Sophistication - Level 4",
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_3_TITLE": "The Sokoloff Sophistication - Level 3",
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_2_TITLE": "The Sokoloff Sophistication - Level 2",
+			"UI_CONTRACT_HONEYSUCKLE_OBJ_1": "Eliminate Terry Strong with an amputation knife while disguised as local printing crew",
+			"UI_CONTRACT_HONEYSUCKLE_OBJ_2": "Eliminate Faarooq Omer with an amputation knife while disguised as local printing crew",
+			"UI_CONTRACT_HONEYSUCKLE_OBJ_3": "Eliminate Bishr Nusrah Deeb with an amputation knife while disguised as local printing crew",
+			"UI_CONTRACT_HONEYSUCKLE_OBJ_4": "Break into the safe in the maintenence room and steal the contents"
+		},
+		"en": {
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_1_TITLE": "The Sokoloff Sophistication - Level 1",
+			"UI_CONTRACT_HONEYSUCKLE_GROUP_TITLE": "The Sokoloff Sophistication",
+			"UI_CONTRACT_HONEYSUCKLE_GROUP_DESC": "Five level Escalation in Marrakesh.",
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_5_TITLE": "The Sokoloff Sophistication - Level 5",
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_4_TITLE": "The Sokoloff Sophistication - Level 4",
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_3_TITLE": "The Sokoloff Sophistication - Level 3",
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_2_TITLE": "The Sokoloff Sophistication - Level 2",
+			"UI_CONTRACT_HONEYSUCKLE_OBJ_1": "Eliminate Terry Strong with an amputation knife while disguised as local printing crew",
+			"UI_CONTRACT_HONEYSUCKLE_OBJ_2": "Eliminate Faarooq Omer with an amputation knife while disguised as local printing crew",
+			"UI_CONTRACT_HONEYSUCKLE_OBJ_3": "Eliminate Bishr Nusrah Deeb with an amputation knife while disguised as local printing crew",
+			"UI_CONTRACT_HONEYSUCKLE_OBJ_4": "Break into the safe in the maintenence room and steal the contents"
+		},
+		"fr": {
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_1_TITLE": "Plan Sokoloff - Niveau 1",
+			"UI_CONTRACT_HONEYSUCKLE_GROUP_TITLE": "Plan Sokoloff",
+			"UI_CONTRACT_HONEYSUCKLE_GROUP_DESC": "Escalade en cinq niveaux à Marrakech.",
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_5_TITLE": "Plan Sokoloff - Niveau 5",
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_4_TITLE": "Plan Sokoloff - Niveau 4",
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_3_TITLE": "Plan Sokoloff - Niveau 3",
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_2_TITLE": "Plan Sokoloff - Niveau 2",
+			"UI_CONTRACT_HONEYSUCKLE_OBJ_1": "Éliminez Terry Strong avec le couteau chirurgical, déguisé en activiste.",
+			"UI_CONTRACT_HONEYSUCKLE_OBJ_2": "Éliminez Faarooq Omer avec le couteau chirurgical, déguisé en activiste.",
+			"UI_CONTRACT_HONEYSUCKLE_OBJ_3": "Éliminez Bishr Nusrah Deeb avec le couteau chirurgical, déguisé en activiste.",
+			"UI_CONTRACT_HONEYSUCKLE_OBJ_4": "Ouvrez le coffre situé dans la salle de maintenance et volez-en le contenu."
+		},
+		"it": {
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_1_TITLE": "La sofisticazione di Sokoloff - Livello 1",
+			"UI_CONTRACT_HONEYSUCKLE_GROUP_TITLE": "La sofisticazione di Sokoloff",
+			"UI_CONTRACT_HONEYSUCKLE_GROUP_DESC": "Escalation di cinque livelli a Marrakech.",
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_5_TITLE": "La sofisticazione di Sokoloff - Livello 5",
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_4_TITLE": "La sofisticazione di Sokoloff - Livello 4",
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_3_TITLE": "La sofisticazione di Sokoloff - Livello 3",
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_2_TITLE": "La sofisticazione di Sokoloff - Livello 2",
+			"UI_CONTRACT_HONEYSUCKLE_OBJ_1": "Elimina Terry Strong con un coltello da amputazione mentre sei travestito da attivista locale",
+			"UI_CONTRACT_HONEYSUCKLE_OBJ_2": "Elimina Faarooq Omer con un coltello da amputazione mentre sei travestito da attivista locale",
+			"UI_CONTRACT_HONEYSUCKLE_OBJ_3": "Elimina Bishr Nusrah Deeb con un coltello da amputazione mentre sei travestito da attivista locale",
+			"UI_CONTRACT_HONEYSUCKLE_OBJ_4": "Apri la cassaforte della sala manutenzione e ruba il contenuto"
+		},
+		"de": {
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_1_TITLE": "Die Sokoloff-Sophistikation - Stufe 1",
+			"UI_CONTRACT_HONEYSUCKLE_GROUP_TITLE": "Die Sokoloff-Sophistikation",
+			"UI_CONTRACT_HONEYSUCKLE_GROUP_DESC": "Fünf-Stufen-Eskalation in Marrakesch.",
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_5_TITLE": "Die Sokoloff-Sophistikation - Stufe 5",
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_4_TITLE": "Die Sokoloff-Sophistikation - Stufe 4",
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_3_TITLE": "Die Sokoloff-Sophistikation - Stufe 3",
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_2_TITLE": "Die Sokoloff-Sophistikation - Stufe 2",
+			"UI_CONTRACT_HONEYSUCKLE_OBJ_1": "Eliminieren Sie Terry Strong als Mitglied des örtlichen Propagandateams mit einem Amputationsmesser",
+			"UI_CONTRACT_HONEYSUCKLE_OBJ_2": "Eliminieren Sie Faarooq Omer als Mitglied des örtlichen Propagandateams mit einem Amputationsmesser",
+			"UI_CONTRACT_HONEYSUCKLE_OBJ_3": "Eliminieren Sie Bishr Nusrah Deeb als Mitglied des örtlichen Propagandateams mit einem Amputationsmesser",
+			"UI_CONTRACT_HONEYSUCKLE_OBJ_4": "Brechen Sie in den Safe im Wartungsraum ein und stehlen Sie dessen Inhalt"
+		},
+		"es": {
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_1_TITLE": "La sofisticación de Sokoloff - Nivel 1",
+			"UI_CONTRACT_HONEYSUCKLE_GROUP_TITLE": "La sofisticación de Sokoloff",
+			"UI_CONTRACT_HONEYSUCKLE_GROUP_DESC": "Intensificación de cinco niveles en Marrakech.",
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_5_TITLE": "La sofisticación de Sokoloff - Nivel 5",
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_4_TITLE": "La sofisticación de Sokoloff - Nivel 4",
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_3_TITLE": "La sofisticación de Sokoloff - Nivel 3",
+			"UI_CONTRACT_HONEYSUCKLE_LEVEL_2_TITLE": "La sofisticación de Sokoloff - Nivel 2",
+			"UI_CONTRACT_HONEYSUCKLE_OBJ_1": "Elimina a Terry Strong con un cuchillo amputador mientras vas disfrazado de activista local",
+			"UI_CONTRACT_HONEYSUCKLE_OBJ_2": "Elimina a Faarooq Omer con un cuchillo amputador mientras vas disfrazado de activista local",
+			"UI_CONTRACT_HONEYSUCKLE_OBJ_3": "Elimina a Bishr Nusrah Deeb con un cuchillo amputador mientras vas disfrazado de activista local",
+			"UI_CONTRACT_HONEYSUCKLE_OBJ_4": "Fuerza la caja fuerte de la sala de mantenimiento y roba su contenido"
+		}
+	}
+}

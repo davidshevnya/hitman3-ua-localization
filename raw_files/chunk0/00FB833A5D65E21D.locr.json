@@ -1,0 +1,60 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00FB833A5D65E21D",
+	"languages": {
+		"xx": {
+			"06FC1F68": "Title",
+			"9FF54ED2": "Summary",
+			"E8F27E44": "Briefing",
+			"7696EBE7": "Conclusion",
+			"0191DB71": "Step 1",
+			"98988ACB": "Step 2",
+			"EF9FBA5D": "Step 3"
+		},
+		"en": {
+			"06FC1F68": "Memory Lane",
+			"9FF54ED2": "Caruso likes to watch videos of his childhood. Sounds like a perfect distraction.",
+			"E8F27E44": "According to staff, Caruso has a nostalgic streak and keeps a crate of VHS tapes from his childhood somewhere in the observatory. Apparently, he used to watch them on the projector, but stopped after his mental breakdown. I suggest you locate those tapes. Could be just what we need.",
+			"7696EBE7": "Very becoming, 47. Now keep still. Caruso won't be long.",
+			"0191DB71": "Find the VHS tape",
+			"98988ACB": "Play the VHS tape on the observatory projector",
+			"EF9FBA5D": "Hide as the Plague Doctor"
+		},
+		"fr": {
+			"06FC1F68": "Nostalgie",
+			"9FF54ED2": "Caruso aime visionner des vidéos de son enfance. Voilà un excellent moyen de distraction.",
+			"E8F27E44": "Selon ses employés, Caruso conserve par nostalgie des VHS de son enfance quelque part dans l'observatoire, VHS qu'il visionnait régulièrement sur le projecteur avant sa dépression. Je vous suggère de retrouver ces cassettes. Elles pourraient se révéler fort utiles.",
+			"7696EBE7": "Excellent travail, 47. À présent, patientez. Caruso ne devrait pas tarder.",
+			"0191DB71": "Trouvez la cassette VHS",
+			"98988ACB": "Lisez la VHS sur le projecteur de l'observatoire",
+			"EF9FBA5D": "Cachez-vous en vous déguisant en médecin de la peste"
+		},
+		"it": {
+			"06FC1F68": "Ricordi e nostalgia",
+			"9FF54ED2": "Caruso adora guardare i video della sua infanzia. Sembra un diversivo perfetto.",
+			"E8F27E44": "Secondo il suo personale di servizio, Caruso è un tipo nostalgico e ha diverse videocassette della sua infanzia custodite da qualche parte nell'osservatorio. Aveva l'abitudine di guardarle con un proiettore, ma ha smesso dopo la crisi di nervi. Ti consiglio di trovare quei VHS. Potrebbero fare al caso nostro.",
+			"7696EBE7": "Molto appropriato, 47. Ora resta immobile. Caruso arriverà a momenti.",
+			"0191DB71": "Trova il VHS",
+			"98988ACB": "Riproduci il VHS con il proiettore dell'osservatorio",
+			"EF9FBA5D": "Nasconditi travestito da medico della peste"
+		},
+		"de": {
+			"06FC1F68": "Die gute alte Zeit",
+			"9FF54ED2": "Caruso sieht sich gerne Videos aus seiner Kindheit an. Klingt nach einer perfekten Ablenkung.",
+			"E8F27E44": "Laut seines Personals hat Caruso eine nostalgische Ader und bewahrt im Observatorium eine Kiste mit VHS-Videos aus seiner Kindheit auf. Offenbar hat er sich die Videos mit dem Projektor bis zu seinem Nervenzusammenbruch regelmäßig angesehen. Finden Sie die Videos. Das ist vielleicht genau das, was wir brauchen.",
+			"7696EBE7": "Sehr schick, 47. Und jetzt warten Sie. Caruso wird nicht lange auf sich warten lassen.",
+			"0191DB71": "Finden Sie das VHS-Video",
+			"98988ACB": "Spielen Sie das VHS-Video mit dem Projektor im Observatorium ab",
+			"EF9FBA5D": "Verstecken Sie sich als Pestarzt"
+		},
+		"es": {
+			"06FC1F68": "Baúl de los recuerdos",
+			"9FF54ED2": "A Caruso le gusta ver videos de su infancia. Parece la distracción perfecta.",
+			"E8F27E44": "Según el personal, Caruso tiene una vena nostálgica y guarda una caja con cintas de video de su infancia en algún lugar del observatorio. Por lo visto, solía verlas en el proyector, pero dejó de hacerlo tras su crisis nerviosa. Te sugiero que localices esas cintas. Podrían ser justo lo que necesitamos.",
+			"7696EBE7": "Muy apropiado, 47. Ahora quédate ahí. Caruso no tardará.",
+			"0191DB71": "Encuentra la cinta de video",
+			"98988ACB": "Pon la cinta de video en el proyector del observatorio",
+			"EF9FBA5D": "Escóndete vestido de médico de la peste"
+		}
+	}
+}

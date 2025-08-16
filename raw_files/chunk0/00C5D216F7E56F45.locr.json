@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/invalidresources.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"ITEM_NAME": "Unknown ItemName",
+			"ACTOR_NAME": "Unknown ActorName",
+			"ITEM_DESCRIPTION": "Unknown ItemDescription",
+			"ENTRANCE_NAME": "Unknown EntranceName",
+			"OUTFIT_DESCRIPTION": "Unknown Disguise Description",
+			"OUTFIT_NAME": "Unknown Disguise Name",
+			"AGENCY_PICKUP_DESCRIPTION": "Unknown AgencyPickupDescription",
+			"AGENCY_PICKUP_NAME": "Unknown AgencyPickupName",
+			"ACTOR_DESCRIPTION": "No intel available for target.",
+			"ITEM_CATEGORY": "Unknown ItemCategory",
+			"ENTRANCE_DESCRIPTION": "Unknown EntranceDescription"
+		},
+		"en": {
+			"ITEM_NAME": "Unknown Item Name",
+			"ACTOR_NAME": "Unknown Actor Name",
+			"ITEM_DESCRIPTION": "Unknown Item Description",
+			"ENTRANCE_NAME": "Unknown Entrance Name",
+			"OUTFIT_DESCRIPTION": "Unknown Disguise Description",
+			"OUTFIT_NAME": "Unknown Disguise Name",
+			"AGENCY_PICKUP_DESCRIPTION": "Unknown Agency Pickup Description",
+			"AGENCY_PICKUP_NAME": "Unknown Agency Pickup Name",
+			"ACTOR_DESCRIPTION": "No intel available for target.",
+			"ITEM_CATEGORY": "Unknown Item Category",
+			"ENTRANCE_DESCRIPTION": "Unknown Entrance Description"
+		},
+		"fr": {
+			"ITEM_NAME": "Nom d'objet inconnu",
+			"ACTOR_NAME": "Nom du personnage inconnu",
+			"ITEM_DESCRIPTION": "Description d'objet inconnue",
+			"ENTRANCE_NAME": "Nom de l'entrée inconnu",
+			"OUTFIT_DESCRIPTION": "Description de déguisement inconnue",
+			"OUTFIT_NAME": "Nom de déguisement inconnu",
+			"AGENCY_PICKUP_DESCRIPTION": "Description du point de retrait de l'Agence inconnue",
+			"AGENCY_PICKUP_NAME": "Nom du point de retrait de l'Agence inconnu",
+			"ACTOR_DESCRIPTION": "Pas de renseignements disponibles sur cette cible.",
+			"ITEM_CATEGORY": "Catégorie d’objet inconnue",
+			"ENTRANCE_DESCRIPTION": "Description du lieu de départ inconnue"
+		},
+		"it": {
+			"ITEM_NAME": "Nome dell'oggetto non disponibile",
+			"ACTOR_NAME": "Nome del bersaglio non disponibile",
+			"ITEM_DESCRIPTION": "Descrizione dell'oggetto non disponibile",
+			"ENTRANCE_NAME": "Nome dell'oggetto non disponibile",
+			"OUTFIT_DESCRIPTION": "Descrizione del travestimento non disponibile",
+			"OUTFIT_NAME": "Nome del travestimento non disponibile",
+			"AGENCY_PICKUP_DESCRIPTION": "Descrizione della risorsa agenzia non disponibile",
+			"AGENCY_PICKUP_NAME": "Nome risorse agenzia non disponibile",
+			"ACTOR_DESCRIPTION": "Informazioni non disponibili su questo bersaglio.",
+			"ITEM_CATEGORY": "Categoria oggetto non disponibile",
+			"ENTRANCE_DESCRIPTION": "Descrizione della posizione iniziale non disponibile"
+		},
+		"de": {
+			"ITEM_NAME": "Unbekanntes Objekt",
+			"ACTOR_NAME": "Unbekanntes Ziel",
+			"ITEM_DESCRIPTION": "Unbekannte Objektbeschreibung",
+			"ENTRANCE_NAME": "Unbekannter Eingang",
+			"OUTFIT_DESCRIPTION": "Unbekannte Verkleidungsbeschreibung",
+			"OUTFIT_NAME": "Unbekannte Verkleidung",
+			"AGENCY_PICKUP_DESCRIPTION": "Unbekannte Agentur-Pickup-Beschreibung",
+			"AGENCY_PICKUP_NAME": "Unbekanntes Agentur-Pickup",
+			"ACTOR_DESCRIPTION": "Für dieses Ziel sind keine Informationen verfügbar.",
+			"ITEM_CATEGORY": "Unbekannte Objektkategorie",
+			"ENTRANCE_DESCRIPTION": "Unbekannte Startpunkt-Beschreibung"
+		},
+		"es": {
+			"ITEM_NAME": "Nombre de objeto desconocido",
+			"ACTOR_NAME": "Nombre de actor desconocido",
+			"ITEM_DESCRIPTION": "Descripción de objeto desconocida",
+			"ENTRANCE_NAME": "Nombre de entrada desconocido",
+			"OUTFIT_DESCRIPTION": "Descripción de disfraz desconocida",
+			"OUTFIT_NAME": "Nombre de disfraz desconocido",
+			"AGENCY_PICKUP_DESCRIPTION": "Descripción de punto de recogida desconocida",
+			"AGENCY_PICKUP_NAME": "Nombre de punto de recogida desconocido",
+			"ACTOR_DESCRIPTION": "No hay informes disponibles para este objetivo.",
+			"ITEM_CATEGORY": "Categoría de objeto desconocida",
+			"ENTRANCE_DESCRIPTION": "Descripción de ubicación inicial desconocida"
+		}
+	}
+}

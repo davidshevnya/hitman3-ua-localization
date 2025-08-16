@@ -1,0 +1,78 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00B37AA10A4929DD",
+	"languages": {
+		"xx": {
+			"CHALLENGEPACK_CHLORINE_WRAPPER_NAME": "Spring Breaker",
+			"CHALLENGEPACK_CHLORINE_WRAPPER_DESC": "Complete all the Spring Breaker challenges:<li>Nacissus</li><li>Getting Rid Of The Evidence</li><li>Making Swedish Fish</li><li>Music From Down Under</li>",
+			"CHALLENGEPACK_CHLORINE_REFLECTION_NAME": "Narcissus",
+			"CHALLENGEPACK_CHLORINE_REFLECTION_DESC": "Pick up the picture of the flamingo, while dressed as a flamingo",
+			"CHALLENGEPACK_CHLORINE_SHREDDER_NAME": "Getting Rid Of The Evidence",
+			"CHALLENGEPACK_CHLORINE_SHREDDER_DESC": "<li>Eliminate a target with the wood chipper.</li>",
+			"CHALLENGEPACK_CHLORINE_SUGAR_NAME": "Making Sweet'ish Fish",
+			"CHALLENGEPACK_CHLORINE_SUGAR_DESC": "<li>Throw two bags of sugar into the aquariums under the floor.</li>",
+			"CHALLENGEPACK_CHLORINE_AUSTRALIA_NAME": "Music From Down Under",
+			"CHALLENGEPACK_CHLORINE_AUSTRALIA_DESC": "<li>Pacify a target with a didgeridoo.</li>"
+		},
+		"en": {
+			"CHALLENGEPACK_CHLORINE_WRAPPER_NAME": "Spring Breaker",
+			"CHALLENGEPACK_CHLORINE_WRAPPER_DESC": "Complete all the Spring Breaker challenges:<li>Narcissus</li><li>Shredding the Evidence</li><li>Making Sweet'ish Fish</li><li>Tunes from Down Under</li>",
+			"CHALLENGEPACK_CHLORINE_REFLECTION_NAME": "Narcissus",
+			"CHALLENGEPACK_CHLORINE_REFLECTION_DESC": "<li>[REDACTED]</li>",
+			"CHALLENGEPACK_CHLORINE_SHREDDER_NAME": "Shredding the Evidence",
+			"CHALLENGEPACK_CHLORINE_SHREDDER_DESC": "<li>Eliminate a target with the wood chipper.</li>",
+			"CHALLENGEPACK_CHLORINE_SUGAR_NAME": "Making Sweet'ish Fish",
+			"CHALLENGEPACK_CHLORINE_SUGAR_DESC": "<li>Throw two bags of sugar into the aquariums under the floor.</li>",
+			"CHALLENGEPACK_CHLORINE_AUSTRALIA_NAME": "Tunes from Down Under",
+			"CHALLENGEPACK_CHLORINE_AUSTRALIA_DESC": "<li>Pacify a target with a didgeridoo.</li>"
+		},
+		"fr": {
+			"CHALLENGEPACK_CHLORINE_WRAPPER_NAME": "Vacancier",
+			"CHALLENGEPACK_CHLORINE_WRAPPER_DESC": "Terminez tous les défis Vacancier :<li>Narcisse</li><li>Détruire les preuves</li><li>Poisson sucré</li><li>Musique d'outre-tombe</li>",
+			"CHALLENGEPACK_CHLORINE_REFLECTION_NAME": "Narcisse",
+			"CHALLENGEPACK_CHLORINE_REFLECTION_DESC": "<li>[CENSURÉ]</li>",
+			"CHALLENGEPACK_CHLORINE_SHREDDER_NAME": "Détruire les preuves",
+			"CHALLENGEPACK_CHLORINE_SHREDDER_DESC": "<li>Éliminez une cible avec la hacheuse.</li>",
+			"CHALLENGEPACK_CHLORINE_SUGAR_NAME": "Poisson sucré",
+			"CHALLENGEPACK_CHLORINE_SUGAR_DESC": "<li>Lancez 2 sacs de sucre dans les aquariums sous le sol.</li>",
+			"CHALLENGEPACK_CHLORINE_AUSTRALIA_NAME": "Musique d'outre-tombe",
+			"CHALLENGEPACK_CHLORINE_AUSTRALIA_DESC": "<li>Neutralisez une cible avec un didgeridoo.</li>"
+		},
+		"it": {
+			"CHALLENGEPACK_CHLORINE_WRAPPER_NAME": "Vacanze di primavera",
+			"CHALLENGEPACK_CHLORINE_WRAPPER_DESC": "Completa tutte le sfide in Vacanze di primavera:<li>Narciso</li><li>Sbarazzarsi delle prove</li><li>Pesce d'acqua dolce</li><li>Musica australiana</li>",
+			"CHALLENGEPACK_CHLORINE_REFLECTION_NAME": "Narciso",
+			"CHALLENGEPACK_CHLORINE_REFLECTION_DESC": "<li>[OSCURATO]</li>",
+			"CHALLENGEPACK_CHLORINE_SHREDDER_NAME": "Sbarazzarsi delle prove",
+			"CHALLENGEPACK_CHLORINE_SHREDDER_DESC": "<li>Elimina un bersaglio con una cippatrice.</li>",
+			"CHALLENGEPACK_CHLORINE_SUGAR_NAME": "Pesce d'acqua dolce",
+			"CHALLENGEPACK_CHLORINE_SUGAR_DESC": "<li>Lancia due sacchi di zucchero negli acquari sotto al pavimento.</li>",
+			"CHALLENGEPACK_CHLORINE_AUSTRALIA_NAME": "Musica australiana",
+			"CHALLENGEPACK_CHLORINE_AUSTRALIA_DESC": "<li>Neutralizza un bersaglio con un didgeridoo.</li>"
+		},
+		"de": {
+			"CHALLENGEPACK_CHLORINE_WRAPPER_NAME": "Frühlingsferien",
+			"CHALLENGEPACK_CHLORINE_WRAPPER_DESC": "Schließen Sie alle „Frühlingsferien“-Herausforderungen ab:<li>Beseitigte Beweise</li><li>Süßwasserfische</li><li>Der Klang von Down Under</li>",
+			"CHALLENGEPACK_CHLORINE_REFLECTION_NAME": "Narcissus",
+			"CHALLENGEPACK_CHLORINE_REFLECTION_DESC": "<li>[GESCHWÄRZT]</li>",
+			"CHALLENGEPACK_CHLORINE_SHREDDER_NAME": "Beseitigte Beweise",
+			"CHALLENGEPACK_CHLORINE_SHREDDER_DESC": "<li>Eliminieren Sie ein Ziel mit dem Häcksler.</li>",
+			"CHALLENGEPACK_CHLORINE_SUGAR_NAME": "Süßwasserfische",
+			"CHALLENGEPACK_CHLORINE_SUGAR_DESC": "<li>Werfen Sie zwei Packungen Zucker in die Aquarien unter dem Boden.</li>",
+			"CHALLENGEPACK_CHLORINE_AUSTRALIA_NAME": "Der Klang von Down Under",
+			"CHALLENGEPACK_CHLORINE_AUSTRALIA_DESC": "<li>Stellen Sie ein Ziel mit einem Didgeridoo ruhig.</li>"
+		},
+		"es": {
+			"CHALLENGEPACK_CHLORINE_WRAPPER_NAME": "Vacaciones de primavera",
+			"CHALLENGEPACK_CHLORINE_WRAPPER_DESC": "Completa todos los desafíos de Vacaciones de primavera:<li>Narciso</li><li>Deshaciéndose de las pruebas</li><li>Pez de agua dulce</li><li>Música de Oceanía</li>",
+			"CHALLENGEPACK_CHLORINE_REFLECTION_NAME": "Narciso",
+			"CHALLENGEPACK_CHLORINE_REFLECTION_DESC": "<li>[CLASIFICADO]</li>",
+			"CHALLENGEPACK_CHLORINE_SHREDDER_NAME": "Deshaciéndose de las pruebas",
+			"CHALLENGEPACK_CHLORINE_SHREDDER_DESC": "<li>Elimina a un objetivo con la trituradora.</li>",
+			"CHALLENGEPACK_CHLORINE_SUGAR_NAME": "Pez de agua dulce",
+			"CHALLENGEPACK_CHLORINE_SUGAR_DESC": "<li>Lanza dos bolsas de azúcar a los acuarios que están bajo el suelo.</li>",
+			"CHALLENGEPACK_CHLORINE_AUSTRALIA_NAME": "Música de Oceanía",
+			"CHALLENGEPACK_CHLORINE_AUSTRALIA_DESC": "<li>Elimina a un objetivo con un didyeridú.</li>"
+		}
+	}
+}

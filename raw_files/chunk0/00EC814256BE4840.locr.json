@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00EC814256BE4840",
+	"languages": {
+		"xx": {
+			"7773BB14": "Title",
+			"ACBAA989": "Briefing",
+			"9529B0C0": "Conclusion",
+			"00B1D564": "Description",
+			"422BEEA8": "Disguise yourself as Jebediah Block",
+			"E45B313C": "Talk to Sophia Washington",
+			"700E4623": "Follow Sophia Washington",
+			"37986F2F": "Take your seat on the Council",
+			"E2FBC516": "Wait for Conclave",
+			"63E5B2E2": "Vote in Conclave",
+			"A9095B10": "Aye",
+			"82DEB096": "Nay"
+		},
+		"en": {
+			"7773BB14": "Winds Of Change",
+			"ACBAA989": "So. Sophia Washington has called a council meeting between the original five members of the Ark Society. Sophia hopes to pass some sort of motion, but she faces stark opposition from ultra-conservative coal baron, Jebediah Block. Hm. I suggest you find Mr. Block while the Council is still in recess, 47. I suspect the headstrong Sophia will not take kindly to dissidents and troublemakers.",
+			"9529B0C0": "Good thinking, 47. Sophia won't take this humiliation lying down.",
+			"00B1D564": "Sophia Washington has called a meeting with the Ark Society council. Must be important.",
+			"422BEEA8": "Disguise yourself as Jebediah Block",
+			"E45B313C": "Talk to Sophia Washington",
+			"700E4623": "Follow Sophia Washington",
+			"37986F2F": "Take your seat on the Council",
+			"E2FBC516": "Wait for the Council to gather",
+			"63E5B2E2": "Vote in the Council",
+			"A9095B10": "Aye",
+			"82DEB096": "Nay"
+		},
+		"fr": {
+			"7773BB14": "Un vent nouveau",
+			"ACBAA989": "Sophia Washington a demandé une réunion du conseil entre les cinq membres originaux de la société de l'Arche. Elle espère faire passer une sorte de motion, mais un baron du charbon ultra-conservateur, Jebediah Block, s'y oppose. Je vous suggère de trouver ce M. Block tant que la séance est levée, 47. Sophia est autoritaire, j'imagine qu'elle ne tolérera pas qu'un électron libre lui tienne tête.",
+			"9529B0C0": "Bien vu, 47. Sophia ne laissera pas passer cette humiliation.",
+			"00B1D564": "Sophia Washington a convoqué une séance du conseil de l'Arche. Ça doit être important.",
+			"422BEEA8": "Déguisez-vous en Jebediah Block",
+			"E45B313C": "Parlez à Sophia Washington",
+			"700E4623": "Suivez Sophia Washington",
+			"37986F2F": "Prenez votre siège au conseil",
+			"E2FBC516": "Attendez que le conseil se rassemble",
+			"63E5B2E2": "Votez au conseil",
+			"A9095B10": "Oui",
+			"82DEB096": "Non"
+		},
+		"it": {
+			"7773BB14": "Il vento del cambiamento",
+			"ACBAA989": "Allora, Sophia Washington ha indetto un'assemblea del consiglio coi cinque fondatori della Ark Society. Spera di far approvare una mozione ma deve vedersela con la dura opposizione di Jebediah Block, un magnate del carbone ultra conservatore. Uhm. Ti consiglio di trovare il signor Block finché il consiglio è ancora in pausa, 47. Ho il sospetto che Sophia e la sua testardaggine non vedranno di buon occhio oppositori e piantagrane.",
+			"9529B0C0": "Ottima idea, 47. Sophia non incasserà l'umiliazione a testa bassa.",
+			"00B1D564": "Sophia Washington ha indetto una riunione con il consiglio della Ark Society. Deve trattarsi di una questione importante.",
+			"422BEEA8": "Travestiti da Jebediah Block",
+			"E45B313C": "Parla con Sophia Washington",
+			"700E4623": "Segui Sophia Washington",
+			"37986F2F": "Prendi posto al consiglio",
+			"E2FBC516": "Attendi che il consiglio si riunisca",
+			"63E5B2E2": "Vota al consiglio",
+			"A9095B10": "Favorevole",
+			"82DEB096": "Contrario"
+		},
+		"de": {
+			"7773BB14": "Winds of Change",
+			"ACBAA989": "Sophia Washington will wohl eine Art Antrag durchsetzen, aber bekommt mächtigen Gegenwind von Jebediah Block, einem ultrakonservativen Kohlebaron. Wenn Sie Mr. Block finden, solange die Ratssitzung noch unterbrochen ist, können Sie die Abstimmung vielleicht beeinflussen und Sophia zum Reagieren zwingen.",
+			"9529B0C0": "Gut mitgedacht, 47. Sophia wird diese Demütigung nicht stillschweigend hinnehmen.",
+			"00B1D564": "Sophia Washington hat eine Ratsversammlung der Ark-Gesellschaft einberufen. Muss wichtig sein.",
+			"422BEEA8": "Verkleiden Sie sich als Jebediah Block.",
+			"E45B313C": "Sprechen Sie mit Sophia Washington.",
+			"700E4623": "Folgen Sie Sophia Washington.",
+			"37986F2F": "Nehmen Sie Ihren Platz im Rat ein.",
+			"E2FBC516": "Warten Sie auf die Versammlung des Rats.",
+			"63E5B2E2": "Stimmen Sie im Rat ab.",
+			"A9095B10": "Ja",
+			"82DEB096": "Nein"
+		},
+		"es": {
+			"7773BB14": "Vientos de cambio",
+			"ACBAA989": "Sophia Washington ha convocado una reunión del consejo de la Ark Society. Pretende que se apruebe una especie de moción, pero se enfrenta a la dura oposición de Jebediah Block, un barón del carbón ultraconservador. Si aprovechas el descanso del consejo para encontrar al señor Block, puede que consigas manipular la votación y provocar una reacción en Sophia.",
+			"9529B0C0": "Buena idea, 47. Sophia no se quedará de brazos cruzados ante esta humillación.",
+			"00B1D564": "Sophia Washington ha convocado una reunión del consejo de la Ark Society. Debe de ser por algo importante.",
+			"422BEEA8": "Disfrázate de Jebediah Block",
+			"E45B313C": "Habla con Sophia Washington",
+			"700E4623": "Sigue a Sophia Washington",
+			"37986F2F": "Ocupa tu sitio en el consejo",
+			"E2FBC516": "Espera a que se reúna el consejo",
+			"63E5B2E2": "Vota en el consejo",
+			"A9095B10": "Sí",
+			"82DEB096": "No"
+		}
+	}
+}

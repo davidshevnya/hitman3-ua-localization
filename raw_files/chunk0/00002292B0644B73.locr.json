@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00002292B0644B73",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_HOLLY_GROUP_TITLE": "The Truman Contravention",
+			"UI_CONTRACT_HOLLY_GROUP_DESC": "Three Level Escalation in Colombia",
+			"UI_CONTRACT_HOLLY_LEVEL_1_NAME": "The Truman Contravention - Level 1",
+			"UI_CONTRACT_HOLLY_LEVEL_2_NAME": "The Truman Contravention - Level 2",
+			"UI_CONTRACT_HOLLY_LEVEL_3_NAME": "The Truman Contravention - Level 3",
+			"UI_CONTRACT_HOLLY_OBJ_1": "Eliminate Gus Santiago Arellano with an explosion",
+			"UI_CONTRACT_HOLLY_OBJ_2": "Eliminate Remo Zayas Paredes by electrocution",
+			"UI_CONTRACT_HOLLY_OBJ_3": "Eliminate Alan Llarnas Collado with a falling object",
+			"UI_CONTRACT_HOLLY_OBJ_4": "Eliminate Argeo Rodriguez with the cement mixer"
+		},
+		"en": {
+			"UI_CONTRACT_HOLLY_GROUP_TITLE": "The Truman Contravention",
+			"UI_CONTRACT_HOLLY_GROUP_DESC": "Three Level Escalation in Colombia.",
+			"UI_CONTRACT_HOLLY_LEVEL_1_NAME": "The Truman Contravention - Level 1",
+			"UI_CONTRACT_HOLLY_LEVEL_2_NAME": "The Truman Contravention - Level 2",
+			"UI_CONTRACT_HOLLY_LEVEL_3_NAME": "The Truman Contravention - Level 3",
+			"UI_CONTRACT_HOLLY_OBJ_1": "Eliminate Gus Santiago Arellano with an explosion",
+			"UI_CONTRACT_HOLLY_OBJ_2": "Eliminate Remo Zayas Paredes by electrocution",
+			"UI_CONTRACT_HOLLY_OBJ_3": "Eliminate Alan Llarnas Collado with a falling object",
+			"UI_CONTRACT_HOLLY_OBJ_4": "Eliminate Argeo Rodriguez with the cement mixer"
+		},
+		"fr": {
+			"UI_CONTRACT_HOLLY_GROUP_TITLE": "L'infraction de Truman",
+			"UI_CONTRACT_HOLLY_GROUP_DESC": "Escalade en trois niveaux en Colombie",
+			"UI_CONTRACT_HOLLY_LEVEL_1_NAME": "L'infraction de Truman - Niveau 1",
+			"UI_CONTRACT_HOLLY_LEVEL_2_NAME": "L'infraction de Truman - Niveau 2",
+			"UI_CONTRACT_HOLLY_LEVEL_3_NAME": "L'infraction de Truman - Niveau 3",
+			"UI_CONTRACT_HOLLY_OBJ_1": "Éliminez Gus Santiago Arellano avec une explosion",
+			"UI_CONTRACT_HOLLY_OBJ_2": "Éliminez Remo Zayas Paredes en l'électrocutant",
+			"UI_CONTRACT_HOLLY_OBJ_3": "Éliminez Alan Llarnas Collado en lui faisant tomber un objet dessus",
+			"UI_CONTRACT_HOLLY_OBJ_4": "Éliminez Argeo Rodriguez avec la bétonnière"
+		},
+		"it": {
+			"UI_CONTRACT_HOLLY_GROUP_TITLE": "L'infrazione Truman",
+			"UI_CONTRACT_HOLLY_GROUP_DESC": "Escalation di tre livelli in Colombia.",
+			"UI_CONTRACT_HOLLY_LEVEL_1_NAME": "L'infrazione Truman - Livello 1",
+			"UI_CONTRACT_HOLLY_LEVEL_2_NAME": "L'infrazione Truman - Livello 2",
+			"UI_CONTRACT_HOLLY_LEVEL_3_NAME": "L'infrazione Truman - Livello 3",
+			"UI_CONTRACT_HOLLY_OBJ_1": "Elimina Gus Santiago Arellano con un'esplosione",
+			"UI_CONTRACT_HOLLY_OBJ_2": "Elimina Remo Zayas Paredes con una scossa elettrica",
+			"UI_CONTRACT_HOLLY_OBJ_3": "Elimina Alan Llarnas Collado facendogli cadere qualcosa addosso",
+			"UI_CONTRACT_HOLLY_OBJ_4": "Elimina Argeo Rodriguez con la betoniera"
+		},
+		"de": {
+			"UI_CONTRACT_HOLLY_GROUP_TITLE": "Der Truman-Verstoß",
+			"UI_CONTRACT_HOLLY_GROUP_DESC": "Drei-Stufen-Eskalation in Kolumbien.",
+			"UI_CONTRACT_HOLLY_LEVEL_1_NAME": "Der Truman-Verstoß – Stufe 1",
+			"UI_CONTRACT_HOLLY_LEVEL_2_NAME": "Der Truman-Verstoß – Stufe 2",
+			"UI_CONTRACT_HOLLY_LEVEL_3_NAME": "Der Truman-Verstoß – Stufe 3",
+			"UI_CONTRACT_HOLLY_OBJ_1": "Eliminieren Sie Gus Santiago Arellano mit einer Explosion",
+			"UI_CONTRACT_HOLLY_OBJ_2": "Eliminieren Sie Remo Zayas Paredes per Stromschlag",
+			"UI_CONTRACT_HOLLY_OBJ_3": "Eliminieren Sie Alan Llarnas Collado mit einem herabstürzenden Gegenstand",
+			"UI_CONTRACT_HOLLY_OBJ_4": "Eliminieren Sie Argeo Rodriguez mit dem Zementmischer"
+		},
+		"es": {
+			"UI_CONTRACT_HOLLY_GROUP_TITLE": "La contravención de Truman",
+			"UI_CONTRACT_HOLLY_GROUP_DESC": "Intensificación de tres niveles en Colombia.",
+			"UI_CONTRACT_HOLLY_LEVEL_1_NAME": "La contravención de Truman - Nivel 1",
+			"UI_CONTRACT_HOLLY_LEVEL_2_NAME": "La contravención de Truman - Nivel 2",
+			"UI_CONTRACT_HOLLY_LEVEL_3_NAME": "La contravención de Truman - Nivel 3",
+			"UI_CONTRACT_HOLLY_OBJ_1": "Elimina a Gus Santiago Arellano con una explosión",
+			"UI_CONTRACT_HOLLY_OBJ_2": "Elimina a Remo Zayas Paredes electrocutándolo",
+			"UI_CONTRACT_HOLLY_OBJ_3": "Elimina a Alan Llarnas Collado tirándole un objeto encima",
+			"UI_CONTRACT_HOLLY_OBJ_4": "Elimina a Argeo Rodríguez con la hormigonera"
+		}
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "000291D4C5B76887",
+	"languages": {
+		"xx": {
+			"2074CC15": "Title",
+			"30FD0A13": "Flavor",
+			"743B3A92": "Description",
+			"AE14DC43": "Conclusion",
+			"081EB3E9": "LocateTheBar",
+			"C9B65D16": "DisguiseYourselfAsTheTattooist",
+			"0958EF52": "LocateRicoDelgadosMansion",
+			"AA372923": "FollowGuard",
+			"8FEF5E95": "FollowCatalina",
+			"BB9D2304": "WaitForRico"
+		},
+		"en": {
+			"2074CC15": "Deadly Art",
+			"30FD0A13": "So. P-Power; celebrity tattooist of “Tattoo Torment” fame has come to Santa Fortuna. Presumably, to work his magic on Rico Delgado, a known ink enthusiast. Sounds like an invitation to the mansion, 47.  Are you feeling expressive?",
+			"743B3A92": "Rico Delgado needs to have a tattoo fixed.",
+			"AE14DC43": "So far so good, 47. Now to leave your mark on Mr. Delgado.",
+			"081EB3E9": "Locate the bar",
+			"C9B65D16": "Disguise yourself as the tattooist",
+			"0958EF52": "Locate Rico Delgado's mansion",
+			"AA372923": "Follow the guard",
+			"8FEF5E95": "Follow Catalina Delgado",
+			"BB9D2304": "Wait for Rico Delgado"
+		},
+		"fr": {
+			"2074CC15": "Art mortel",
+			"30FD0A13": "P-Power, le célèbre tatoueur de l'émission \"Tatouage Carnage\", vient d'arriver à Santa Fortuna. Il serait là pour travailler sur Rico Delgado, grand amateur de tatouages. Cela ressemble bien à une invitation au manoir, 47. Vous sentez-vous l'âme créatrice ?",
+			"743B3A92": "Rico Delgado a besoin de se faire refaire un tatouage.",
+			"AE14DC43": "Continuez comme ça, 47. Vous n'avez plus qu'à laisser votre marque sur M. Delgado.",
+			"081EB3E9": "Trouvez le bar",
+			"C9B65D16": "Déguisez-vous en tatoueur",
+			"0958EF52": "Trouvez le manoir de Rico Delgado",
+			"AA372923": "Suivez le garde",
+			"8FEF5E95": "Suivez Catalina Delgado",
+			"BB9D2304": "Attendez Rico Delgado"
+		},
+		"it": {
+			"2074CC15": "Arte letale",
+			"30FD0A13": "Dunque, P-Power, il famoso tatuatore del \"Tattoo Torment\", è giunto a Santa Fortuna. Probabilmente, è qui per lavorare su Rico Delgado, un noto fan dei tatuaggi. Sembra proprio un invito alla villa, 47. Vuoi dare via libera alla tua espressività?",
+			"743B3A92": "Rico Delgado deve sistemare un tatuaggio.",
+			"AE14DC43": "Per ora va tutto bene, 47. È ora di lasciare il tuo segno sul signor Delgado.",
+			"081EB3E9": "Trova il bar",
+			"C9B65D16": "Travestiti da tatuatore",
+			"0958EF52": "Trova la villa di Rico Delgado",
+			"AA372923": "Segui la guardia",
+			"8FEF5E95": "Segui Catalina Delgado",
+			"BB9D2304": "Attendi Rico Delgado"
+		},
+		"de": {
+			"2074CC15": "Tödliche Kunst",
+			"30FD0A13": "So. P-Power – ein Promi-Tätowierer, der durch „Tattoo Torment“ bekannt wurde – ist nach Santa Fortuna gekommen. Angeblich, um mal bei Rico Delgado zu zaubern, der bekanntermaßen ein Freund von Tätowierungen ist. Klingt wie eine Einladung in sein Herrenhaus, 47. Fühlen Sie sich gerade inspiriert?",
+			"743B3A92": "Rico Delgado benötigt ein Tattoo nachgebessert.",
+			"AE14DC43": "So weit, so gut, 47. Jetzt müssen wir nur noch Mr. Delgado fürs Leben zeichnen.",
+			"081EB3E9": "Finden Sie die Bar.",
+			"C9B65D16": "Verkleiden Sie sich als der Tätowierer.",
+			"0958EF52": "Finden Sie Rico Delgados Herrenhaus.",
+			"AA372923": "Folgen Sie der Wache.",
+			"8FEF5E95": "Folgen Sie Catalina Delgado.",
+			"BB9D2304": "Warten Sie auf Rico Delgado."
+		},
+		"es": {
+			"2074CC15": "Arte mortal",
+			"30FD0A13": "P-Power, famoso tatuador de celebridades de «Tattoo Torment» está en Santa Fortuna. Por lo visto, viene a hacer su magia en la piel de Rico Delgado, que es un amante de la tinta. A mí me parece una invitación a la mansión, 47. ¿Te sientes inspirado?",
+			"743B3A92": "Rico Delgado necesita un arreglo en uno de sus tatuajes",
+			"AE14DC43": "La cosa va bien de momento, 47. Déjale huella al señor Delgado.",
+			"081EB3E9": "Encuentra el bar",
+			"C9B65D16": "Disfrázate del tatuador",
+			"0958EF52": "Encuentra la mansión de Rico Delgado",
+			"AA372923": "Sigue al guardia",
+			"8FEF5E95": "Sigue a Catalina Delgado",
+			"BB9D2304": "Espera a Rico Delgado"
+		}
+	}
+}

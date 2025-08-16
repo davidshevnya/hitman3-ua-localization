@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00FEF598072EA45F",
+	"languages": {
+		"xx": {
+			"D8DA11D7": "PH_Headline",
+			"639AF5A5": "PH_Text"
+		},
+		"en": {
+			"D8DA11D7": "Threat",
+			"639AF5A5": "The crewman on the pier will see through your disguise. Find another way off the yacht."
+		},
+		"fr": {
+			"D8DA11D7": "Menace",
+			"639AF5A5": "Le membre d'équipage sur l'appontement va vous démasquer, même avec votre déguisement. Trouvez une autre façon de quitter le yacht."
+		},
+		"it": {
+			"D8DA11D7": "Minaccia",
+			"639AF5A5": "Il membro dell'equipaggio sul molo si accorgerà del tuo travestimento. Cerca un'altro modo per scendere dallo yacht."
+		},
+		"de": {
+			"D8DA11D7": "Bedrohung",
+			"639AF5A5": "Das Besatzungsmitglied am Pier wird Ihre Verkleidung durchschauen. Finden Sie einen anderen Weg von der Jacht."
+		},
+		"es": {
+			"D8DA11D7": "Amenaza",
+			"639AF5A5": "El tripulante que está en el muelle descubrirá que vas disfrazado. Busca otra forma de salir del yate."
+		}
+	}
+}

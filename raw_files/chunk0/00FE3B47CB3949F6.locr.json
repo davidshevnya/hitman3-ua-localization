@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00FE3B47CB3949F6",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_SNAPDRAGON_GROUP_TITLE": "The Montague Audacity",
+			"UI_CONTRACT_SNAPDRAGON_GROUP_DESC": "Three Level Escalation in Colombia",
+			"UI_CONTRACT_SNAPDRAGON_LEVEL_1_TITLE": "The Montague Audacity - Level 1",
+			"UI_CONTRACT_SNAPDRAGON_LEVEL_2_TITLE": "The Montague Audacity - Level 2",
+			"UI_CONTRACT_SNAPDRAGON_LEVEL_3_TITLE": "The Montague Audacity - Level 3",
+			"UI_CONTRACT_SNAPDRAGON_OBJ_1": "Hack the laptop in the sub cave."
+		},
+		"en": {
+			"UI_CONTRACT_SNAPDRAGON_GROUP_TITLE": "The Montague Audacity",
+			"UI_CONTRACT_SNAPDRAGON_GROUP_DESC": "Three Level Escalation in Colombia.",
+			"UI_CONTRACT_SNAPDRAGON_LEVEL_1_TITLE": "The Montague Audacity - Level 1",
+			"UI_CONTRACT_SNAPDRAGON_LEVEL_2_TITLE": "The Montague Audacity - Level 2",
+			"UI_CONTRACT_SNAPDRAGON_LEVEL_3_TITLE": "The Montague Audacity - Level 3",
+			"UI_CONTRACT_SNAPDRAGON_OBJ_1": "Hack the laptop in the sub cave"
+		},
+		"fr": {
+			"UI_CONTRACT_SNAPDRAGON_GROUP_TITLE": "L'audace de Montague",
+			"UI_CONTRACT_SNAPDRAGON_GROUP_DESC": "Escalade en trois niveaux en Colombie",
+			"UI_CONTRACT_SNAPDRAGON_LEVEL_1_TITLE": "L'audace de Montague - Niveau 1",
+			"UI_CONTRACT_SNAPDRAGON_LEVEL_2_TITLE": "L'audace de Montague - Niveau 2",
+			"UI_CONTRACT_SNAPDRAGON_LEVEL_3_TITLE": "L'audace de Montague - Niveau 3",
+			"UI_CONTRACT_SNAPDRAGON_OBJ_1": "Piratez l'ordinateur portable dans la grotte du sous-marin"
+		},
+		"it": {
+			"UI_CONTRACT_SNAPDRAGON_GROUP_TITLE": "L'audacia di Montague",
+			"UI_CONTRACT_SNAPDRAGON_GROUP_DESC": "Escalation di tre livelli in Colombia.",
+			"UI_CONTRACT_SNAPDRAGON_LEVEL_1_TITLE": "L'audacia di Montague - Livello 1",
+			"UI_CONTRACT_SNAPDRAGON_LEVEL_2_TITLE": "L'audacia di Montague - Livello 2",
+			"UI_CONTRACT_SNAPDRAGON_LEVEL_3_TITLE": "L'audacia di Montague - Livello 3",
+			"UI_CONTRACT_SNAPDRAGON_OBJ_1": "Viola il portatile nella grotta del sottomarino"
+		},
+		"de": {
+			"UI_CONTRACT_SNAPDRAGON_GROUP_TITLE": "Die Montague-Dreistigkeit",
+			"UI_CONTRACT_SNAPDRAGON_GROUP_DESC": "Drei-Stufen-Eskalation in Kolumbien.",
+			"UI_CONTRACT_SNAPDRAGON_LEVEL_1_TITLE": "Die Montague-Dreistigkeit – Stufe 1",
+			"UI_CONTRACT_SNAPDRAGON_LEVEL_2_TITLE": "Die Montague-Dreistigkeit – Stufe 2",
+			"UI_CONTRACT_SNAPDRAGON_LEVEL_3_TITLE": "Die Montague-Dreistigkeit – Stufe 3",
+			"UI_CONTRACT_SNAPDRAGON_OBJ_1": "Hacken Sie den Laptop in der U-Boot-Höhle"
+		},
+		"es": {
+			"UI_CONTRACT_SNAPDRAGON_GROUP_TITLE": "La audacia de Montague",
+			"UI_CONTRACT_SNAPDRAGON_GROUP_DESC": "Intensificación de tres niveles en Colombia.",
+			"UI_CONTRACT_SNAPDRAGON_LEVEL_1_TITLE": "La audacia de Montague - Nivel 1",
+			"UI_CONTRACT_SNAPDRAGON_LEVEL_2_TITLE": "La audacia de Montague - Nivel 2",
+			"UI_CONTRACT_SNAPDRAGON_LEVEL_3_TITLE": "La audacia de Montague - Nivel 3",
+			"UI_CONTRACT_SNAPDRAGON_OBJ_1": "Piratea el portátil en la cueva subterránea"
+		}
+	}
+}

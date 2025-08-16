@@ -1,0 +1,54 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "008762D0CBDF30AC",
+	"languages": {
+		"xx": {
+			"D7E60827": "Title",
+			"EDD1500C": "Flavor",
+			"86DE9E55": "Description",
+			"29B05510": "Conclusion",
+			"FE83BB5B": "Get the Director Disguise",
+			"1DFF5D68": "Sabotage KAI Mainframe"
+		},
+		"en": {
+			"D7E60827": "Ghost in the Machine",
+			"EDD1500C": "So, the building AI known as KAI not only keeps the building running but it also controls the surgery robot in the operating theater. That's where Soders is at the moment. The manual states that the AI will automatically revive any flatlined patient, which could prove to be a problem. Ah, but... the hospital director does have access to the mainframe. Care to run a hospital, 47?",
+			"86DE9E55": "Interesting. A manual for KAI, the Gama hospital artificial intelligence.",
+			"29B05510": "Well, that's one approach. Remind me not to call you for tech support, 47.",
+			"FE83BB5B": "Disguise yourself as the Hospital Director",
+			"1DFF5D68": "Sabotage the KAI mainframe"
+		},
+		"fr": {
+			"D7E60827": "Fantôme dans la machine",
+			"EDD1500C": "Donc, l'IA du bâtiment prénommée KAI contrôle non seulement les lieux, mais également le robot chirurgien du bloc opératoire. C'est là où se trouve Soders en ce moment. Selon le manuel, l'IA réanimera automatiquement tout patient en arrêt cardiaque, ce qui pourrait nous poser problème. Ah, mais... le directeur a accès à l'ordinateur central. Voulez-vous diriger un hôpital, 47 ?",
+			"86DE9E55": "Intéressant. Un manuel pour KAI, l'intelligence artificielle de l'hôpital Gama.",
+			"29B05510": "Hum, c'est une façon de faire. Apparemment, l'informatique et vous, ça fait deux.",
+			"FE83BB5B": "Déguisez-vous en directeur de l'hôpital",
+			"1DFF5D68": "Sabotez l'ordinateur central KAI"
+		},
+		"it": {
+			"D7E60827": "Un fantasma nella macchina",
+			"EDD1500C": "L'IA nota come KAI, oltre a gestire la clinica, controlla il robot della sala operatoria. È dove si trova Soders al momento. Nel manuale si legge che l'IA rianima automaticamente i pazienti in caso di arresto cardiaco. Potrebbe rivelarsi un problema. Tuttavia... il direttore della clinica ha accesso al computer centrale. Ti andrebbe di dirigere un ospedale, 47?",
+			"86DE9E55": "Interessante. Un manuale per KAI, l'intelligenza artificiale della clinica.",
+			"29B05510": "Ognuno ha il suo stile. Se mi servirà un tecnico, sarai l'ultimo a cui mi rivolgerò, 47...",
+			"FE83BB5B": "Travestiti da direttore della clinica",
+			"1DFF5D68": "Manometti il computer centrale di KAI"
+		},
+		"de": {
+			"D7E60827": "Geist in der Maschine",
+			"EDD1500C": "Die Gebäude-KI mit dem Namen KAI hält also nicht nur das Gebäude am Laufen, sondern steuert auch den Chirurgieroboter im Operationssaal. Genau dort befindet sich Soders im Moment. Im Handbuch steht, dass die KI automatisch jeden Patienten mit Herzstillstand wiederbelebt, was für uns ein Problem sein könnte. Ah ... der Krankenhausdirektor hat Zugriff auf den Mainframe. Möchten Sie mal Krankenhausdirektor sein, 47?",
+			"86DE9E55": "Interessant. Ein Handbuch für KAI, die künstliche Intelligenz des Gama-Krankenhauses.",
+			"29B05510": "Auch eine Möglichkeit. Erinnern Sie mich daran, dass ich Sie nicht anrufe, wenn ich mal technische Hilfe benötige, 47 ...",
+			"FE83BB5B": "Verkleiden Sie sich als Direktor",
+			"1DFF5D68": "Sabotieren Sie den KAI-Mainframe"
+		},
+		"es": {
+			"D7E60827": "Fantasmas en la máquina",
+			"EDD1500C": "Parece que la IA del edificio, KAI, no solo se encarga de toda la gestión del lugar, sino que también controla el robot quirúrgico del quirófano. Soders se encuentra allí en estos momentos. El manual indica que la IA reanimará automáticamente a cualquier paciente que fallezca. Esto podría ser un problema. Ah, pero... El director del hospital tiene acceso al ordenador central. ¿Quieres dirigir un hospital, 47?",
+			"86DE9E55": "Qué interesante. Un manual de KAI, la inteligencia artificial del hospital Gama.",
+			"29B05510": "Bueno, es una forma de hacerlo. Recuérdame que no te llame para ningún problema técnico, 47...",
+			"FE83BB5B": "Disfrázate como el director del hospital",
+			"1DFF5D68": "Sabotea el ordenador central de KAI"
+		}
+	}
+}

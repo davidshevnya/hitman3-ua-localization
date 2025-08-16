@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "[assembly:/localization/hitman6/conversations/ui/pro/menutext_legacysupport.sweetmenutext].pc_localized-textlist",
+	"languages": {
+		"xx": {
+			"UI_LEGACY_S1_MODAL_TITLE": "HITMAN - Legacy Pack",
+			"UI_LEGACY_S1_MODAL_DESCRIPTION": "HITMAN 2 is now live!<br><br>We would like to give you the option to redeem the HITMAN - Legacy Pack as a thank you for playing HITMAN. The locations and missions have been remastered and enhanced to support the new HITMAN 2 features.<br><br>You will be directed to the {0} where you can redeem and download the HITMAN - Legacy Pack.<br><br>If you do not own HITMAN 2, the Legacy Pack will include the FREE HITMAN 2 - Starter Pack.<br><br>Enjoy,<br>The IO Interactive Team<br><br>For more info:<br>www.ioi.dk/hitman-legacy-faq",
+			"UI_LEGACY_S2_MODAL_TITLE": "Do you own HITMAN ?",
+			"UI_LEGACY_S2_MODAL_HOWTO_DESCRIPTION": "Thanks for playing HITMAN. You can redeem the HITMAN Legacy Pack if you owned either the disc or digital version of the following:<br><br><li>HITMAN - Complete First Season / Full Experience / Upgrade</li><li>HITMAN - Game of the Year Edition / Upgrade</li><li>HITMAN - Definitive Edition</li><li>HITMAN - All indvidual Episodes from the Complete First Season</li><br>The Legacy Pack includes all locations from HITMAN which have been remastered and enhanced to support new HITMAN 2 features.<br><br>You will need to install and launch HITMAN, go to the 'Store Menu' and follow the instructions to redeem your version of the HITMAN Legacy Pack.<br><br>For more info:<br>www.ioi.dk/hitman-legacy-faq",
+			"UI_LEGACY_S2_BUTTON_OWN": "How to redeem?",
+			"1FCDBB7E": "Get HITMAN 2 now!",
+			"7C1572C9": "Redeem your HITMAN Legacy Pack now!",
+			"UI_LEGACY_S2_MODAL_DESCRIPTION": "The Legacy Pack includes all locations from HITMAN which have been remastered and enhanced to support new HITMAN 2 features.<BR><BR>If you own this content in HITMAN, you can redeem your version of the Legacy Pack for FREE! <BR>Or you can purchase it on the {0}.",
+			"95E2EBC9": "Redeem HITMAN - Legacy Pack now!"
+		},
+		"en": {
+			"UI_LEGACY_S1_MODAL_TITLE": "HITMAN - Legacy Pack",
+			"UI_LEGACY_S1_MODAL_DESCRIPTION": "HITMAN 2 is now live!<br><br>We would like to give you the option to redeem the HITMAN - Legacy Pack as a thank you for playing HITMAN. The locations and missions have been remastered and enhanced to support the new HITMAN 2 features.<br><br>You will be directed to the {0} where you can redeem and download the HITMAN - Legacy Pack.<br><br>If you do not own HITMAN 2, the Legacy Pack will include the FREE HITMAN 2 - Starter Pack.<br><br>Enjoy,<br>The IO Interactive Team<br><br>For more info:<br>www.ioi.dk/hitman-legacy-faq",
+			"UI_LEGACY_S2_MODAL_TITLE": "Do you own HITMAN ?",
+			"UI_LEGACY_S2_MODAL_HOWTO_DESCRIPTION": "Thanks for playing HITMAN. You can redeem the HITMAN Legacy Pack if you owned either the disc or digital version of the following:<br><br><li>HITMAN - Complete First Season / Full Experience / Upgrade</li><li>HITMAN - Game of the Year Edition / Upgrade</li><li>HITMAN - Definitive Edition</li><li>HITMAN - All indvidual Episodes from the Complete First Season</li><br>The Legacy Pack includes all locations from HITMAN which have been remastered and enhanced to support new HITMAN 2 features.<br><br>You will need to install and launch HITMAN, go to the 'Store Menu' and follow the instructions to redeem your version of the HITMAN Legacy Pack.<br><br>For more info:<br>www.ioi.dk/hitman-legacy-faq",
+			"UI_LEGACY_S2_BUTTON_OWN": "How to redeem?",
+			"1FCDBB7E": "Get HITMAN 2 now!",
+			"7C1572C9": "Redeem your HITMAN Legacy Pack now!",
+			"UI_LEGACY_S2_MODAL_DESCRIPTION": "The Legacy Pack includes all locations from HITMAN which have been remastered and enhanced to support new HITMAN 2 features.<br><br>If you own HITMAN, you can redeem your version of the Legacy Pack for FREE!<br>Or you can purchase it on the {0}.",
+			"95E2EBC9": "Redeem HITMAN - Legacy Pack now!"
+		},
+		"fr": {
+			"UI_LEGACY_S1_MODAL_TITLE": "HITMAN - Pack Héritage",
+			"UI_LEGACY_S1_MODAL_DESCRIPTION": "HITMAN 2 est sorti !<br><br>Pour vous remercier d'avoir joué à HITMAN, nous vous offrons la possibilité d'obtenir le pack Héritage pour HITMAN. Tous les lieux et toutes les missions ont été remasterisés et améliorés afin d'accueillir les nouvelles fonctionnalités de HITMAN 2.<br><br>Vous serez redirigé vers le {0}, où vous pourrez récupérer et télécharger le pack Héritage pour HITMAN.<br><br>Si vous ne possédez pas HITMAN 2, le pack Héritage contiendra le prologue GRATUIT de HITMAN 2.<br><br>Amusez-vous bien,<br>L'équipe IO Interactive<br><br>Pour plus d'informations : <br>www.ioi.dk/hitman-legacy-faq",
+			"UI_LEGACY_S2_MODAL_TITLE": "Possédez-vous HITMAN ?",
+			"UI_LEGACY_S2_MODAL_HOWTO_DESCRIPTION": "Merci de jouer à HITMAN. Vous pouvez obtenir le pack Héritage pour HITMAN si vous possédez la version physique ou dématérialisée de l'une des éditions suivantes :<br><br><li>HITMAN - Intégrale de la première saison / Expérience complète / Upgrade Pack</li><li>HITMAN - Édition Jeu de l’année / Upgrade Pack</li><li>HITMAN - Édition définitive</li><li>HITMAN - Tous les épisodes de l'intégrale de la première saison</li><br>Le pack Héritage comprend tous les lieux de HITMAN, remasterisés et améliorés afin d'accueillir les nouvelles fonctionnalités de HITMAN 2.<br><br>Vous devez installer et lancer HITMAN, accéder à la boutique et suivre les instructions pour récupérer votre version du pack Héritage pour HITMAN.<br><br>Pour plus d'informations :<br>www.ioi.dk/hitman-legacy-faq",
+			"UI_LEGACY_S2_BUTTON_OWN": "Comment l'obtenir ?",
+			"1FCDBB7E": "Obtenez HITMAN 2 maintenant !",
+			"7C1572C9": "Obtenez votre pack Héritage pour HITMAN maintenant !",
+			"UI_LEGACY_S2_MODAL_DESCRIPTION": "Le pack Héritage comprend tous les lieux de HITMAN, remasterisés et améliorés afin d'accueillir les nouvelles fonctionnalités de HITMAN 2.<br><br>Si vous possédez HITMAN, vous pouvez obtenir votre version du pack Héritage GRATUITEMENT.<br>Vous pouvez également l'acheter sur le {0}.",
+			"95E2EBC9": "Obtenez le pack Héritage pour HITMAN maintenant !"
+		},
+		"it": {
+			"UI_LEGACY_S1_MODAL_TITLE": "HITMAN - Pacchetto eredità",
+			"UI_LEGACY_S1_MODAL_DESCRIPTION": "HITMAN 2 è ora disponibile!<br><br>Per ringraziarti di aver giocato a HITMAN, ti offriamo la possibilità di riscattare il Pacchetto eredità. I luoghi e le missioni sono stati rimasterizzati e migliorati per supportare le nuove funzionalità di HITMAN 2.<br><br>Ora visiterai {0}, dove potrai riscattare e scaricare il Pacchetto eredità di HITMAN.<br><br>Se non possiedi HITMAN 2, il Pacchetto eredità includerà lo Starter Pack GRATUITO di HITMAN 2.<br><br>Buon divertimento!<br>La squadra di IO Interactive<br><br>Per ulteriori informazioni:<br>www.ioi.dk/hitman-legacy-faq",
+			"UI_LEGACY_S2_MODAL_TITLE": "Hai già HITMAN?",
+			"UI_LEGACY_S2_MODAL_HOWTO_DESCRIPTION": "Grazie per aver giocato a HITMAN. Puoi riscattare il Pacchetto eredità di Hitman se sei già in possesso della versione su disco o digitale di:<br><br><li>HITMAN - Complete First Season / Full Experience / Upgrade</li><li>HITMAN - Game of the Year Edition / Upgrade</li><li>HITMAN - Definitive Edition</li><li>Tutti gli episodi della prima stagione completa</li><br>Il Pacchetto eredità include tutti i luoghi di HITMAN rimasterizzati e migliorati per supportare le nuove funzionalità di HITMAN 2.<br><br>Dovrai installare e avviare HITMAN, e seguire le istruzioni che trovi nel \"Menu negozio\" per riscattare la tua versione del Pacchetto eredità.<br><br>Per ulteriori informazioni:<br>www.ioi.dk/hitman-legacy-faq",
+			"UI_LEGACY_S2_BUTTON_OWN": "Come riscattare?",
+			"1FCDBB7E": "Ottieni HITMAN 2 ora!",
+			"7C1572C9": "Riscatta ora il tuo Pacchetto eredità di Hitman!",
+			"UI_LEGACY_S2_MODAL_DESCRIPTION": "Il Pacchetto eredità include tutti i luoghi di HITMAN rimasterizzati e migliorati per supportare le nuove funzionalità di HITMAN 2.<BR><BR>Se hai già HITMAN, puoi riscattare la tua versione del Pacchetto eredità gratuitamente!<BR>Oppure puoi acquistarlo su {0}.",
+			"95E2EBC9": "Riscatta ora il Pacchetto eredità di Hitman!"
+		},
+		"de": {
+			"UI_LEGACY_S1_MODAL_TITLE": "HITMAN - Legacypack",
+			"UI_LEGACY_S1_MODAL_DESCRIPTION": "HITMAN 2 ist jetzt live!<br><br>Wir möchten Ihnen als Dankeschön dafür, dass Sie HITMAN gespielt haben, die Gelegenheit geben, den HITMAN-Legacypack einzulösen. Die Orte und Missionen wurden überarbeitet und verbessert, um die neuen Features von HITMAN 2 zu unterstützen.<br><br>Sie werden auf {0} weitergeleitet, wo Sie den HITMAN-Legacypack einlösen und herunterladen können.<br><br>Falls Sie HITMAN 2 nicht besitzen, wird der Legacypack den KOSTENLOSEN HITMAN 2 – Starterpack beinhalten.<br><br>Viel Spaß<br>Das Team von IO Interactive<br><br>Weitere Informationen:<br>www.ioi.dk/hitman-legacy-faq",
+			"UI_LEGACY_S2_MODAL_TITLE": "Besitzen Sie HITMAN?",
+			"UI_LEGACY_S2_MODAL_HOWTO_DESCRIPTION": "Danke, dass Sie HITMAN spielen. Sie können das HITMAN-Legacypack einlösen, wenn Sie entweder die Disk-Version oder die digitale Version folgender Produkte besitzen:<br><br><li>HITMAN – Die komplette erste Season / Full Experience / Upgrade</li><li>HITMAN – Game of the Year Edition / Upgrade</li><li>HITMAN – Definitive Edition</li><li>HITMAN – alle Einzelepisoden aus der kompletten ersten Season</li><br>Das Legacypack enthält alle Orte aus HITMAN, die remastered und verbessert wurden, um die neuen Features von HITMAN 2 zu unterstützen.<br><br>Sie müssen HITMAN installieren und starten, zum „Store-Menü“ gehen und den Anweisungen dort folgen, um Ihre Version des HITMAN-Legacypacks einzulösen.<br><br>Weitere Informationen:<br>www.ioi.dk/hitman-legacy-faq",
+			"UI_LEGACY_S2_BUTTON_OWN": "Wie einlösen?",
+			"1FCDBB7E": "Holen Sie sich jetzt HITMAN 2!",
+			"7C1572C9": "Lösen Sie jetzt Ihr HITMAN-Legacypack ein!",
+			"UI_LEGACY_S2_MODAL_DESCRIPTION": "Das Legacypack enthält alle Orte aus HITMAN in remasterter und verbesserter Form, um die neuen Features von HITMAN 2 zu unterstützen.<br><br>Wenn Sie HITMAN besitzen, können Sie Ihre Version des Legacypacks KOSTENLOS einlösen.<br>Oder Sie können es auf {0} erwerben.",
+			"95E2EBC9": "Lösen Sie jetzt das HITMAN-Legacypack ein!"
+		},
+		"es": {
+			"UI_LEGACY_S1_MODAL_TITLE": "HITMAN - Paquete de legado",
+			"UI_LEGACY_S1_MODAL_DESCRIPTION": "¡Ya ha salido HITMAN 2!<br><br>Como agradecimiento por jugar a HITMAN, queremos darte la opción de canjear HITMAN - Paquete de legado. Las ubicaciones y misiones han sido remasterizadas y mejoradas para admitir las nuevas funciones de HITMAN 2.<br><br>Se te redirigirá a {0} donde podrás canjear y descargar HITMAN - Paquete de legado.<br><br>Si no tienes HITMAN 2, el Paquete de legado incluirá el Prólogo de HITMAN 2 gratuito.<br><br>Disfrútalo,<br>El equipo de IO Interactive<br><br>Más información:<br>www.ioi.dk/hitman-legacy-faq",
+			"UI_LEGACY_S2_MODAL_TITLE": "¿Ya tienes HITMAN?",
+			"UI_LEGACY_S2_MODAL_HOWTO_DESCRIPTION": "Gracias por jugar a HITMAN. Puedes canjear el Paquete de legado de HITMAN si ya posees el disco o la versión digital de:<br><br><li>HITMAN - Primera temporada completa / Toda la experiencia / Actualización</li><li>HITMAN - Edición Juego del año / Actualización</li><li>HITMAN - Edición definitiva</li><li>HITMAN - Todos los episodios individuales desde la primera temporada completa</li><br>El Paquete de legado incluye todas las ubicaciones de HITMAN que se han remasterizado y mejorado para admitir las nuevas funciones de HITMAN 2.<br><br>Tendrás que instalar y ejecutar HITMAN: ve al menú de la tienda y sigue las instrucciones para canjear tu versión del Paquete de legado de HITMAN.<br><br>Más información:<br>www.ioi.dk/hitman-legacy-faq",
+			"UI_LEGACY_S2_BUTTON_OWN": "¿Cómo se canjea?",
+			"1FCDBB7E": "¡Consigue HITMAN 2 ahora!",
+			"7C1572C9": "¡Canjea ya tu Paquete de legado de HITMAN!",
+			"UI_LEGACY_S2_MODAL_DESCRIPTION": "El Paquete de legado incluye todas las ubicaciones de HITMAN que se han remasterizado y mejorado para admitir las nuevas funciones de HITMAN 2.<br><br>Si ya tienes HITMAN, ¡puedes canjear tu versión del Paquete de legado gratis!<br>O puedes comprarlo en {0}.",
+			"95E2EBC9": "¡Canjea ya HITMAN - Paquete de legado!"
+		}
+	}
+}

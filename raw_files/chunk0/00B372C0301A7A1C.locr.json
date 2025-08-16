@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00B372C0301A7A1C",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_CALLUNA_GROUP_TITLE": "The MacMillan Surreptition",
+			"UI_CONTRACT_CALLUNA_GROUP_DESC": "Three Level Escalation in Colombia",
+			"UI_CONTRACT_CALLUNA_LEVEL_1_TITLE": "The MacMillan Surreptition - Level 1",
+			"UI_CONTRACT_CALLUNA_LEVEL_2_TITLE": "The MacMillan Surreptition - Level 2",
+			"UI_CONTRACT_CALLUNA_LEVEL_3_TITLE": "The MacMillan Surreptition - Level 3",
+			"UI_CONTRACT_CALLUNA_OBJ_1": "Eliminate Floreal Cordova Melgar with a machete",
+			"UI_CONTRACT_CALLUNA_OBJ_2": "Eliminate Licio Domínquez Camarillo with a pistol",
+			"UI_CONTRACT_CALLUNA_OBJ_3": "Eliminate Ciril Adame Cabrera in melee"
+		},
+		"en": {
+			"UI_CONTRACT_CALLUNA_GROUP_TITLE": "The MacMillan Surreptition",
+			"UI_CONTRACT_CALLUNA_GROUP_DESC": "Three Level Escalation in Colombia.",
+			"UI_CONTRACT_CALLUNA_LEVEL_1_TITLE": "The MacMillan Surreptition - Level 1",
+			"UI_CONTRACT_CALLUNA_LEVEL_2_TITLE": "The MacMillan Surreptition - Level 2",
+			"UI_CONTRACT_CALLUNA_LEVEL_3_TITLE": "The MacMillan Surreptition - Level 3",
+			"UI_CONTRACT_CALLUNA_OBJ_1": "Eliminate Floreal Cordova Melgar with a machete",
+			"UI_CONTRACT_CALLUNA_OBJ_2": "Eliminate Licio Domínquez Camarillo with a pistol",
+			"UI_CONTRACT_CALLUNA_OBJ_3": "Eliminate Ciril Adame Cabrera in melee"
+		},
+		"fr": {
+			"UI_CONTRACT_CALLUNA_GROUP_TITLE": "La furtivité de MacMillan",
+			"UI_CONTRACT_CALLUNA_GROUP_DESC": "Escalade en trois niveaux en Colombie",
+			"UI_CONTRACT_CALLUNA_LEVEL_1_TITLE": "La furtivité de MacMillan - Niveau 1",
+			"UI_CONTRACT_CALLUNA_LEVEL_2_TITLE": "La furtivité de MacMillan - Niveau 2",
+			"UI_CONTRACT_CALLUNA_LEVEL_3_TITLE": "La furtivité de MacMillan - Niveau 3",
+			"UI_CONTRACT_CALLUNA_OBJ_1": "Éliminez Floreal Cordova Melgar avec une machette",
+			"UI_CONTRACT_CALLUNA_OBJ_2": "Éliminez Licio Domínquez Camarillo avec un pistolet",
+			"UI_CONTRACT_CALLUNA_OBJ_3": "Éliminez Ciril Adame Cabrera au corps à corps"
+		},
+		"it": {
+			"UI_CONTRACT_CALLUNA_GROUP_TITLE": "Il terribile segreto di MacMillan",
+			"UI_CONTRACT_CALLUNA_GROUP_DESC": "Escalation di tre livelli in Colombia.",
+			"UI_CONTRACT_CALLUNA_LEVEL_1_TITLE": "Il terribile segreto di MacMillan - Livello 1",
+			"UI_CONTRACT_CALLUNA_LEVEL_2_TITLE": "Il terribile segreto di MacMillan - Livello 2",
+			"UI_CONTRACT_CALLUNA_LEVEL_3_TITLE": "Il terribile segreto di MacMillan - Livello 3",
+			"UI_CONTRACT_CALLUNA_OBJ_1": "Elimina Floreal Cordova Melgar con un machete",
+			"UI_CONTRACT_CALLUNA_OBJ_2": "Elimina Licio Domínquez Camarillo con una pistola",
+			"UI_CONTRACT_CALLUNA_OBJ_3": "Elimina Ciril Adame Cabrera in corpo a corpo"
+		},
+		"de": {
+			"UI_CONTRACT_CALLUNA_GROUP_TITLE": "Die MacMillan-Verheimlichung",
+			"UI_CONTRACT_CALLUNA_GROUP_DESC": "Drei-Stufen-Eskalation in Kolumbien.",
+			"UI_CONTRACT_CALLUNA_LEVEL_1_TITLE": "Die MacMillan-Verheimlichung – Stufe 1",
+			"UI_CONTRACT_CALLUNA_LEVEL_2_TITLE": "Die MacMillan-Verheimlichung – Stufe 2",
+			"UI_CONTRACT_CALLUNA_LEVEL_3_TITLE": "Die MacMillan-Verheimlichung – Stufe 3",
+			"UI_CONTRACT_CALLUNA_OBJ_1": "Eliminieren Sie Floreal Cordova Melgar mit einer Machete.",
+			"UI_CONTRACT_CALLUNA_OBJ_2": "Eliminieren Sie Licio Domínquez Camarillo mit einer Pistole.",
+			"UI_CONTRACT_CALLUNA_OBJ_3": "Eliminieren Sie Ciril Adame Cabrera im Nahkampf."
+		},
+		"es": {
+			"UI_CONTRACT_CALLUNA_GROUP_TITLE": "La furtividad de MacMillan",
+			"UI_CONTRACT_CALLUNA_GROUP_DESC": "Intensificación de tres niveles en Colombia.",
+			"UI_CONTRACT_CALLUNA_LEVEL_1_TITLE": "La furtividad de MacMillan: nivel 1",
+			"UI_CONTRACT_CALLUNA_LEVEL_2_TITLE": "La furtividad de MacMillan: nivel 2",
+			"UI_CONTRACT_CALLUNA_LEVEL_3_TITLE": "La furtividad de MacMillan: nivel 3",
+			"UI_CONTRACT_CALLUNA_OBJ_1": "Elimina a Floreal Córdova Melgar con un machete",
+			"UI_CONTRACT_CALLUNA_OBJ_2": "Elimina a Licio Domínquez Camarillo con una pistola",
+			"UI_CONTRACT_CALLUNA_OBJ_3": "Elimina a Ciril Adame Cabrera en un cuerpo a cuerpo"
+		}
+	}
+}

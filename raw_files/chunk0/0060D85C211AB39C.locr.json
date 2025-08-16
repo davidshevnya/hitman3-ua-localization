@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "0060D85C211AB39C",
+	"languages": {
+		"xx": {
+			"97E5E19B": "The Exposé",
+			"3A4A3519": "Flavor",
+			"AC3DCADB": "Description",
+			"A5CF4FEB": "Conclusion",
+			"296EA237": "Investigate Ruby Red",
+			"7D47A14D": "Investigate the Whistleblower",
+			"02C42597": "Locate the depositbox key",
+			"099758C2": "Find the incriminating evidence",
+			"98A5789C": "Hand over the files to Ruby Red"
+		},
+		"en": {
+			"97E5E19B": "The Exposé",
+			"3A4A3519": "Ruby Red, famous muckraking investigative journalist, is in the bank. Known for her fierce skills at digging up dirt and her excellent nose for scandal, she's definitely up to something. Might be worth following her around the bank, 47.",
+			"AC3DCADB": "Digging for dirt",
+			"A5CF4FEB": "It sounds like Miss Red has quite a scoop on her hands. My guess is this will cause a major market upset, which is sure to bring the Director out from her fortified office...",
+			"296EA237": "Investigate Ruby Red",
+			"7D47A14D": "Investigate the Whistleblower",
+			"02C42597": "Locate the deposit box key",
+			"099758C2": "Find the incriminating evidence",
+			"98A5789C": "Hand over the files to Ruby Red"
+		},
+		"fr": {
+			"97E5E19B": "Les révélations",
+			"3A4A3519": "Ruby Red, célèbre journaliste d'investigation experte en furetage, est sur place. Connue pour déterrer des calomnies et scandales en tous genres, elle a sûrement une idée derrière la tête. Vous pourriez la suivre dans la banque et apprendre quelque chose, 47.",
+			"AC3DCADB": "Furetage expert",
+			"A5CF4FEB": "On dirait que mademoiselle Red a trouvé son scoop. Cela ébranlera certainement le marché, ce qui fera à coup sûr sortir la directrice de son bureau forteresse…",
+			"296EA237": "Enquêtez sur Ruby Red",
+			"7D47A14D": "Enquêtez sur l'informateur",
+			"02C42597": "Trouvez la clé du coffre",
+			"099758C2": "Trouvez les documents compromettants",
+			"98A5789C": "Donnez les documents à Ruby Red"
+		},
+		"it": {
+			"97E5E19B": "L'inchiesta",
+			"3A4A3519": "Ruby Red, la famosa giornalista investigativa scandalistica, si trova nella banca. Date le sue tremende abilità nel scoprire i peggiori segreti e il suo naso fino per gli scandali, sta di certo tramando qualcosa. Forse è il caso di seguirla in giro per la banca, 47.",
+			"AC3DCADB": "In cerca di segreti",
+			"A5CF4FEB": "A quanto sembra la signorina Red ha uno scoop niente male per le mani. Io dico che porterà a una grossa crisi di mercato, cosa che di certo farà uscire la direttrice dal suo ufficio fortificato.",
+			"296EA237": "Indaga su Ruby Red",
+			"7D47A14D": "Indaga sulla talpa",
+			"02C42597": "Localizza la chiave della cassetta di sicurezza",
+			"099758C2": "Trova la prova incriminante",
+			"98A5789C": "Consegna i documenti a Ruby Red"
+		},
+		"de": {
+			"97E5E19B": "Die Enthüllung",
+			"3A4A3519": "Ruby Red, die berühmte ruchlose Enthüllungsjournalistin, befindet sich in der Bank. Sie ist dafür bekannt, gern im Dreck zu wühlen, und hat einen hervorragenden Riecher für Skandale. Und sie ist sicher nicht zufällig hier. Könnte sich lohnen, ihr durch die Bank zu folgen, 47.",
+			"AC3DCADB": "Im Dreck wühlen",
+			"A5CF4FEB": "Klingt, als hätte Miss Red da eine nette Story an Land gezogen. Das wird wohl zu einem echten Marktbeben führen, was wiederum die Direktorin aus der Festung ihres Büros locken wird …",
+			"296EA237": "Gehen Sie der Sache mit Ruby Red nach.",
+			"7D47A14D": "Gehen Sie der Sache mit dem Whistleblower nach.",
+			"02C42597": "Finden Sie den Schlüssel für das Schließfach.",
+			"099758C2": "Finden Sie die belastenden Beweise.",
+			"98A5789C": "Geben Sie Ruby Red die Akten."
+		},
+		"es": {
+			"97E5E19B": "El reportaje",
+			"3A4A3519": "Ruby Red, la famosa periodista de investigación de escándalos, está en el banco. Es famosa por su don para sacar a relucir toda la basura y por su excelente olfato para los escándalos. Seguro que está siguiendo alguna pista. Puede que te sea útil seguirla por el banco, 47.",
+			"AC3DCADB": "Rebuscando en la basura",
+			"A5CF4FEB": "Parece que la señorita Red tiene un bombazo entre manos. Opino que esto podría causar estragos en la bolsa, lo cual a buen seguro obligaría a la directora a salir de su despacho fortificado...",
+			"296EA237": "Investiga a Ruby Red",
+			"7D47A14D": "Investiga a la soplona",
+			"02C42597": "Localiza la llave de la caja fuerte",
+			"099758C2": "Encuentra pruebas incriminatorias",
+			"98A5789C": "Dale los archivos a Ruby Red"
+		}
+	}
+}

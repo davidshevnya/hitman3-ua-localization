@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00178BDABA88E81F",
+	"languages": {
+		"xx": {
+			"05F364DF": "PH_Hint",
+			"A3BBE70C": "PH_MovementControl"
+		},
+		"en": {
+			"05F364DF": "Movement Control",
+			"A3BBE70C": "Use {MOVE} to move your character"
+		},
+		"fr": {
+			"05F364DF": "Contrôle des déplacements",
+			"A3BBE70C": "Utilisez {MOVE} pour déplacer votre personnage."
+		},
+		"it": {
+			"05F364DF": "Comandi dei movimenti",
+			"A3BBE70C": "Usa {MOVE} per spostare il personaggio."
+		},
+		"de": {
+			"05F364DF": "Bewegungssteuerung",
+			"A3BBE70C": "Benutzen Sie {MOVE}, um Ihren Charakter zu bewegen"
+		},
+		"es": {
+			"05F364DF": "Controlar el movimiento",
+			"A3BBE70C": "Usa {MOVE} para mover a tu personaje."
+		}
+	}
+}

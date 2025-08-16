@@ -1,0 +1,90 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00866A32D7976E79",
+	"languages": {
+		"xx": {
+			"494049A3": "as a Security Guard",
+			"B5B3AC52": "as Jasper's Bodyguard",
+			"1E421DF3": "as a Soviet Soldier",
+			"E005B77B": "as the Client",
+			"75D38622": "as Erich Soders",
+			"7F558E03": "as a Girlfriend",
+			"9E0EEB47": "as Jasper Knight",
+			"A8249621": "as the KGB Contact",
+			"BB2C7B38": "as the Thief",
+			"7859F3B4": "as a Hangar Mechanic",
+			"F9395EC1": "as a Yacht Crew member",
+			"FBEDB336": "as Young Diana"
+		},
+		"en": {
+			"494049A3": "as a Security Guard",
+			"B5B3AC52": "as Jasper's Bodyguard",
+			"1E421DF3": "as a Soviet Soldier",
+			"E005B77B": "as the Client",
+			"75D38622": "as Erich Soders",
+			"7F558E03": "as a Girlfriend",
+			"9E0EEB47": "as Jasper Knight",
+			"A8249621": "as the KGB Contact",
+			"BB2C7B38": "as the Thief",
+			"7859F3B4": "as a Hangar Mechanic",
+			"F9395EC1": "as a Yacht Crew member",
+			"FBEDB336": "as Young Diana"
+		},
+		"fr": {
+			"494049A3": "en agent de sécurité",
+			"B5B3AC52": "en garde du corps de Jasper",
+			"1E421DF3": "en soldat soviétique",
+			"E005B77B": "en client",
+			"75D38622": "en Erich Soders",
+			"7F558E03": "en petite-amie",
+			"9E0EEB47": "en Jasper Knight",
+			"A8249621": "en contact du KGB",
+			"BB2C7B38": "en voleur",
+			"7859F3B4": "en mécanicien du hangar",
+			"F9395EC1": "en membre de l'équipage du yacht",
+			"FBEDB336": "en Diana jeune"
+		},
+		"it": {
+			"494049A3": "come addetto alla sicurezza",
+			"B5B3AC52": "come guardia del corpo di Jasper",
+			"1E421DF3": "come soldato sovietico",
+			"E005B77B": "come cliente",
+			"75D38622": "come Erich Soders",
+			"7F558E03": "come fidanzata",
+			"9E0EEB47": "come Jasper Knight",
+			"A8249621": "come contatto del KGB",
+			"BB2C7B38": "come ladro",
+			"7859F3B4": "come meccanico dell'hangar",
+			"F9395EC1": "come membro dell'equipaggio dello yacht",
+			"FBEDB336": "come giovane Diana"
+		},
+		"de": {
+			"494049A3": "als Wachmann",
+			"B5B3AC52": "als Jaspers Leibwächter",
+			"1E421DF3": "als sowjetischer Soldat",
+			"E005B77B": "als Kunde",
+			"75D38622": "als Erich Soders",
+			"7F558E03": "als Freundin",
+			"9E0EEB47": "als Jasper Knight",
+			"A8249621": "als KGB-Kontakt",
+			"BB2C7B38": "als Dieb",
+			"7859F3B4": "als Flugzeug-Mechaniker",
+			"F9395EC1": "als Besatzungsmitglied der Jacht",
+			"FBEDB336": "als junge Diana"
+		},
+		"es": {
+			"494049A3": "como guardia de seguridad",
+			"B5B3AC52": "como guardaespaldas de Jasper",
+			"1E421DF3": "como soldado soviético",
+			"E005B77B": "como cliente",
+			"75D38622": "como Erich Soders",
+			"7F558E03": "como novia",
+			"9E0EEB47": "como Jasper Knight",
+			"A8249621": "como contacto de la KGB",
+			"BB2C7B38": "como ladrón",
+			"7859F3B4": "como mecánico aeronáutico",
+			"F9395EC1": "como miembro de la tripulación del yate",
+			"FBEDB336": "como la joven Diana"
+		}
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00405A5A05FDF31A",
+	"languages": {
+		"xx": {
+			"0C18C4A5": "PH_Hint",
+			"BA176817": "PH_EscortControl"
+		},
+		"en": {
+			"0C18C4A5": "Escorting Characters",
+			"BA176817": "Some disguises allow you to escort key characters.<BR>To begin escorting, approach a viable character and press {ACTIVATE_PROP}."
+		},
+		"fr": {
+			"0C18C4A5": "Escorte de personnages",
+			"BA176817": "Certains déguisements vous permettent d'escorter des personnages clés. <BR>Pour commencer, approchez-vous d'un personnage viable et appuyez sur {ACTIVATE_PROP}."
+		},
+		"it": {
+			"0C18C4A5": "Scorta personaggi",
+			"BA176817": "Alcuni travestimenti ti permettono di scortare personaggi chiave.<BR>Per avviare una scorta, avvicinati a un personaggio idoneo e premi {ACTIVATE_PROP}."
+		},
+		"de": {
+			"0C18C4A5": "Charaktere eskortieren",
+			"BA176817": "Manche Verkleidungen ermöglichen das Eskortieren wichtiger Charaktere.<BR>Nähern Sie sich dazu einem geeigneten Charakter und drücken Sie {ACTIVATE_PROP}."
+		},
+		"es": {
+			"0C18C4A5": "Escoltar a personajes",
+			"BA176817": "Algunos disfraces te permitirán escoltar a personajes clave.<BR>Para empezar a escoltar, acércate a un personaje viable y pulsa {ACTIVATE_PROP}."
+		}
+	}
+}

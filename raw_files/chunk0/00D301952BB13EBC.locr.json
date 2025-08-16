@@ -1,0 +1,72 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00D301952BB13EBC",
+	"languages": {
+		"xx": {
+			"DFAC5B0D": "No Smoking Area",
+			"236E4AD2": "Janus usually smokes alot, but seems to have cut down. Perhaps he would be interested in a fresh pack of cigarettes?",
+			"A5E0E4FF": "Smoking kills",
+			"4BC8C91E": "Obtain a Pack of Cigarettes",
+			"52DF9D94": "Infiltrate Janus' Property",
+			"8AF4B9E1": "LocateJanusBedroom",
+			"24AD83F7": "Place the Pack of Cigarettes on the table",
+			"87A0C7BE": "Obtain a Wrench",
+			"172E2015": "Rig the Gas Stove Tank"
+		},
+		"en": {
+			"DFAC5B0D": "No Smoking Area",
+			"236E4AD2": "So, Janus smokes despite being dependant on an oxygen tank and his bodyguards' insistance on hiding his cigarettes. I wonder what might happen if he combined the two?",
+			"A5E0E4FF": "Smoking kills.",
+			"4BC8C91E": "Obtain a pack of cigarettes",
+			"52DF9D94": "Infiltrate Janus' property",
+			"8AF4B9E1": "Locate Janus' bedroom",
+			"24AD83F7": "Place the pack of cigarettes on the table",
+			"87A0C7BE": "Obtain a wrench",
+			"172E2015": "Rig the oxygen tank"
+		},
+		"fr": {
+			"DFAC5B0D": "Interdiction de fumer",
+			"236E4AD2": "Janus fume alors qu'il dépend de bouteilles d'oxygène et que ses gardes du corps cachent sans cesse ses cigarettes. Que se passerait-il s'il combinait les deux ?",
+			"A5E0E4FF": "Fumer tue",
+			"4BC8C91E": "Trouvez un paquet de cigarettes",
+			"52DF9D94": "Infiltrez la résidence de Janus",
+			"8AF4B9E1": "Trouvez la chambre de Janus",
+			"24AD83F7": "Placez le paquet de cigarettes sur la table",
+			"87A0C7BE": "Trouvez une clé anglaise",
+			"172E2015": "Trafiquez la bouteille d'oxygène"
+		},
+		"it": {
+			"DFAC5B0D": "Vietato fumare",
+			"236E4AD2": "Sappiamo che Janus fuma nonostante abbia bisogno della bombola d'ossigeno per vivere, e che le guardie del corpo insistono nel nascondergli le sigarette. Cosa succederebbe se fumasse mentre è attaccato all'ossigeno?",
+			"A5E0E4FF": "Il fumo uccide",
+			"4BC8C91E": "Ottieni un pacchetto di sigarette",
+			"52DF9D94": "Infiltrati nella proprietà di Janus",
+			"8AF4B9E1": "Localizza la camera da letto di Janus",
+			"24AD83F7": "Posiziona il pacchetto di sigarette sul tavolo",
+			"87A0C7BE": "Ottieni una chiave inglese",
+			"172E2015": "Manipola la bombola d'ossigeno"
+		},
+		"de": {
+			"DFAC5B0D": "Rauchen verboten",
+			"236E4AD2": "Janus raucht, obwohl er einen Sauerstofftank braucht und seine Leibwächter darauf bestehen, die Zigaretten zu verstecken. Was wohl passiert, wenn man die beiden zusammenbringt?",
+			"A5E0E4FF": "Rauchen ist tödlich",
+			"4BC8C91E": "Beschaffen Sie eine Zigarettenschachtel.",
+			"52DF9D94": "Infiltrieren Sie Janus’ Grundstück.",
+			"8AF4B9E1": "Finden Sie Janus’ Schlafzimmer.",
+			"24AD83F7": "Legen Sie die Zigarettenschachtel auf den Tisch.",
+			"87A0C7BE": "Beschaffen Sie einen Schraubenschlüssel.",
+			"172E2015": "Präparieren Sie den Sauerstofftank."
+		},
+		"es": {
+			"DFAC5B0D": "Zona de no fumadores",
+			"236E4AD2": "Janus fuma pese a tener que usar una bombona de oxígeno y a la insistencia de sus guardaespaldas en que deje el tabaco. ¿Qué pasaría si se combinasen esos dos elementos?",
+			"A5E0E4FF": "Fumar mata.",
+			"4BC8C91E": "Hazte con un paquete de cigarrillos",
+			"52DF9D94": "Infíltrate en la propiedad de Janus",
+			"8AF4B9E1": "Encuentra el dormitorio de Janus",
+			"24AD83F7": "Pon el paquete de cigarrillos en la mesa",
+			"87A0C7BE": "Hazte con una llave inglesa",
+			"172E2015": "Manipula la bombona de oxígeno"
+		}
+	}
+}

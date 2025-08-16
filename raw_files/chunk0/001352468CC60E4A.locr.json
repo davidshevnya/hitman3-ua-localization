@@ -1,0 +1,84 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "001352468CC60E4A",
+	"languages": {
+		"xx": {
+			"UI_CONTRACT_BANEBERRY_GROUP_TITLE": "The McCallister Ransack",
+			"UI_CONTRACT_BANEBERRY_GROUP_DESC": "Baneberry Desc",
+			"UI_CONTRACT_BANEBERRY_LEVEL_1_TITLE": "The McCallister Ransack - Level 1",
+			"UI_CONTRACT_BANEBERRY_LEVEL_2_TITLE": "The McCallister Ransack - Level 2",
+			"UI_CONTRACT_BANEBERRY_LEVEL_3_TITLE": "The McCallister Ransack - Level 3",
+			"UI_CONTRACT_BANEBERRY_OBJ_0": "Take the letter opener from the West property",
+			"UI_CONTRACT_BANEBERRY_OBJ_1": "Take the filigree egg from the Wilson property",
+			"UI_CONTRACT_BANEBERRY_OBJ_2": "Take the golden idol from the Cassidy property",
+			"UI_CONTRACT_BANEBERRY_OBJ_0_NAME": "Letter Opener",
+			"UI_CONTRACT_BANEBERRY_OBJ_1_NAME": "Filigree Egg",
+			"UI_CONTRACT_BANEBERRY_OBJ_2_NAME": "Golden Idol"
+		},
+		"en": {
+			"UI_CONTRACT_BANEBERRY_GROUP_TITLE": "The McCallister Ransack",
+			"UI_CONTRACT_BANEBERRY_GROUP_DESC": "Three Level Escalation in Whittleton Creek.",
+			"UI_CONTRACT_BANEBERRY_LEVEL_1_TITLE": "The McCallister Ransack - Level 1",
+			"UI_CONTRACT_BANEBERRY_LEVEL_2_TITLE": "The McCallister Ransack - Level 2",
+			"UI_CONTRACT_BANEBERRY_LEVEL_3_TITLE": "The McCallister Ransack - Level 3",
+			"UI_CONTRACT_BANEBERRY_OBJ_0": "Take the letter opener from the West property",
+			"UI_CONTRACT_BANEBERRY_OBJ_1": "Take the filigree egg from the Wilson property",
+			"UI_CONTRACT_BANEBERRY_OBJ_2": "Take the golden idol from the Cassidy property",
+			"UI_CONTRACT_BANEBERRY_OBJ_0_NAME": "Letter Opener",
+			"UI_CONTRACT_BANEBERRY_OBJ_1_NAME": "Filigree Egg",
+			"UI_CONTRACT_BANEBERRY_OBJ_2_NAME": "Golden Idol"
+		},
+		"fr": {
+			"UI_CONTRACT_BANEBERRY_GROUP_TITLE": "Le pillage de McCallister",
+			"UI_CONTRACT_BANEBERRY_GROUP_DESC": "Escalade en trois niveaux dans la Crique de Whittleton",
+			"UI_CONTRACT_BANEBERRY_LEVEL_1_TITLE": "Le pillage de McCallister - Niveau 1",
+			"UI_CONTRACT_BANEBERRY_LEVEL_2_TITLE": "Le pillage de McCallister - Niveau 2",
+			"UI_CONTRACT_BANEBERRY_LEVEL_3_TITLE": "Le pillage de McCallister - Niveau 3",
+			"UI_CONTRACT_BANEBERRY_OBJ_0": "Récupérez le coupe-papier dans la propriété de West",
+			"UI_CONTRACT_BANEBERRY_OBJ_1": "Récupérez l'œuf filigrané dans la propriété de Wilson",
+			"UI_CONTRACT_BANEBERRY_OBJ_2": "Récupérez l'idole en or dans la propriété de Cassidy",
+			"UI_CONTRACT_BANEBERRY_OBJ_0_NAME": "Coupe-papier",
+			"UI_CONTRACT_BANEBERRY_OBJ_1_NAME": "Œuf filigrané",
+			"UI_CONTRACT_BANEBERRY_OBJ_2_NAME": "Idole en or"
+		},
+		"it": {
+			"UI_CONTRACT_BANEBERRY_GROUP_TITLE": "La rapina McCallister",
+			"UI_CONTRACT_BANEBERRY_GROUP_DESC": "Escalation di tre livelli a Whittleton Creek.",
+			"UI_CONTRACT_BANEBERRY_LEVEL_1_TITLE": "La rapina McCallister - Livello 1",
+			"UI_CONTRACT_BANEBERRY_LEVEL_2_TITLE": "La rapina McCallister - Livello 2",
+			"UI_CONTRACT_BANEBERRY_LEVEL_3_TITLE": "La rapina McCallister - Livello 3",
+			"UI_CONTRACT_BANEBERRY_OBJ_0": "Prendi il tagliacarte dalla Proprietà ovest",
+			"UI_CONTRACT_BANEBERRY_OBJ_1": "Prendi l'uovo in filigrana dalla Proprietà di Wilson",
+			"UI_CONTRACT_BANEBERRY_OBJ_2": "Prendi l'idolo d'oro dalla Proprietà di Cassidy",
+			"UI_CONTRACT_BANEBERRY_OBJ_0_NAME": "Tagliacarte",
+			"UI_CONTRACT_BANEBERRY_OBJ_1_NAME": "Uovo in filigrana",
+			"UI_CONTRACT_BANEBERRY_OBJ_2_NAME": "Idolo d'oro"
+		},
+		"de": {
+			"UI_CONTRACT_BANEBERRY_GROUP_TITLE": "Die McCallister-Plünderung",
+			"UI_CONTRACT_BANEBERRY_GROUP_DESC": "Drei-Stufen-Eskalation in Whittleton Creek.",
+			"UI_CONTRACT_BANEBERRY_LEVEL_1_TITLE": "Die McCallister-Plünderung – Stufe 1",
+			"UI_CONTRACT_BANEBERRY_LEVEL_2_TITLE": "Die McCallister-Plünderung – Stufe 2",
+			"UI_CONTRACT_BANEBERRY_LEVEL_3_TITLE": "Die McCallister-Plünderung – Stufe 3",
+			"UI_CONTRACT_BANEBERRY_OBJ_0": "Nehmen Sie den Brieföffner vom Grundstück der Wests mit",
+			"UI_CONTRACT_BANEBERRY_OBJ_1": "Nehmen Sie das Filigran-Ei vom Grundstück der Wilsons mit",
+			"UI_CONTRACT_BANEBERRY_OBJ_2": "Nehmen Sie den Goldgötzen vom Grundstück der Cassidys mit",
+			"UI_CONTRACT_BANEBERRY_OBJ_0_NAME": "Brieföffner",
+			"UI_CONTRACT_BANEBERRY_OBJ_1_NAME": "Filigran-Ei",
+			"UI_CONTRACT_BANEBERRY_OBJ_2_NAME": "Goldgötze"
+		},
+		"es": {
+			"UI_CONTRACT_BANEBERRY_GROUP_TITLE": "El saqueo de McCallister",
+			"UI_CONTRACT_BANEBERRY_GROUP_DESC": "Intensificación de tres niveles en Whittleton Creek",
+			"UI_CONTRACT_BANEBERRY_LEVEL_1_TITLE": "El saqueo de McCallister - Nivel 1",
+			"UI_CONTRACT_BANEBERRY_LEVEL_2_TITLE": "El saqueo de McCallister - Nivel 2",
+			"UI_CONTRACT_BANEBERRY_LEVEL_3_TITLE": "El saqueo de McCallister - Nivel 3",
+			"UI_CONTRACT_BANEBERRY_OBJ_0": "Coge el abrecartas en la propiedad de West",
+			"UI_CONTRACT_BANEBERRY_OBJ_1": "Coge el huevo de filigrana en la propiedad de Wilson",
+			"UI_CONTRACT_BANEBERRY_OBJ_2": "Coge el ídolo de oro en la propiedad de Cassidy",
+			"UI_CONTRACT_BANEBERRY_OBJ_0_NAME": "Abrecartas",
+			"UI_CONTRACT_BANEBERRY_OBJ_1_NAME": "Huevo de filigrana",
+			"UI_CONTRACT_BANEBERRY_OBJ_2_NAME": "Ídolo de oro"
+		}
+	}
+}

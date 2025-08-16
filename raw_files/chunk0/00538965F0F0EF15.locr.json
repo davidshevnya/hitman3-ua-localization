@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00538965F0F0EF15",
+	"languages": {
+		"xx": {
+			"B21D1B30": "Title",
+			"7B6BB783": "Flavor",
+			"A036D949": "Description",
+			"18C7E520": "Conclusion",
+			"4B98015F": "Find Circuitry",
+			"BFDD9BDB": "Locate Cocaine machine",
+			"CCD8C3B1": "Disguise yourself as a Drug Lab worker",
+			"F9B07AA2": "Repair cocaine machine"
+		},
+		"en": {
+			"B21D1B30": "Half Baked",
+			"7B6BB783": "So. It sounds like the Delgado’s helicopter pilot dropped a package over the jungle by mistake. A red box, containing circuit boards, for Jorge Franco’s new cocaine processing machine. Hm. Sounds like a workplace accident waiting to happen. Providing Franco can get his machine working.",
+			"A036D949": "A helicopter pilot lost a package belonging to Jorge Franco.",
+			"18C7E520": "Good show, 47. Time to bring Franco down to size.",
+			"4B98015F": "Find the missing circuit board",
+			"BFDD9BDB": "Locate the cocaine machine",
+			"CCD8C3B1": "Disguise yourself as a drug lab worker",
+			"F9B07AA2": "Repair the cocaine machine"
+		},
+		"fr": {
+			"B21D1B30": "Mi-cuit",
+			"7B6BB783": "Il semblerait que le pilote d'hélicoptère de Delgado ait perdu un colis en survolant la jungle. C'est une boîte rouge contenant des circuits imprimés pour la nouvelle machine traitant la cocaïne de Jorge Franco. Hmm… Voilà qui va finir en accident de travail. Enfin, à condition que Franco puisse faire fonctionner sa machine.",
+			"A036D949": "Le pilote d'hélicoptère a perdu un colis appartenant à Jorge Franco.",
+			"18C7E520": "Belle prestation, 47. Il est temps de remettre Franco à sa place.",
+			"4B98015F": "Trouvez les circuits perdus",
+			"BFDD9BDB": "Trouvez la machine à cocaïne",
+			"CCD8C3B1": "Déguisez-vous en ouvrier du labo de drogues",
+			"F9B07AA2": "Réparez la machine à cocaïne"
+		},
+		"it": {
+			"B21D1B30": "Fatto a metà",
+			"7B6BB783": "Dunque, sembra che il pilota d'elicottero di Delgado abbia fatto cadere per errore un pacchetto nella giungla. È una scatola rossa che contiene i circuiti per la nuova macchina per la lavorazione della cocaina di Jorge Franco. Uh, sembra che ci sia un forte rischio di incidente sul lavoro. Sempre se Franco riuscirà a farla funzionare.",
+			"A036D949": "Il pilota ha perso un pacco di Jorge Franco",
+			"18C7E520": "Bello spettacolo, 47. È ora che Franco abbassi la cresta.",
+			"4B98015F": "Trova il circuito mancante",
+			"BFDD9BDB": "Trova la macchina per la cocaina",
+			"CCD8C3B1": "Travestiti da operaio del laboratorio di droga",
+			"F9B07AA2": "Ripara la macchina per la cocaina"
+		},
+		"de": {
+			"B21D1B30": "Halb gar",
+			"7B6BB783": "So. Es klingt, als ob Delgados Hubschrauberpilot aus Versehen ein Paket über dem Dschungel abgeworfen hat. Eine rote Kiste, welche Platinen für Jorge Francos neue Maschine zur Kokainverarbeitung enthält. Hm. Klingt, als ob es einen Arbeitsunfall geben könnte. Sofern Franco seine Maschine zum Laufen bekommt.",
+			"A036D949": "Ein Helikopterpilot hat ein Paket verloren, das Jorge Franco gehört.",
+			"18C7E520": "Gute Arbeit, 47. Es wird Zeit, dass Franco mal zurechtgestutzt wird.",
+			"4B98015F": "Finden Sie die vermisste Platine.",
+			"BFDD9BDB": "Finden Sie die Kokainmaschine.",
+			"CCD8C3B1": "Verkleiden Sie sich als Drogen-Laborant.",
+			"F9B07AA2": "Reparieren Sie die Kokainmaschine."
+		},
+		"es": {
+			"B21D1B30": "A medio cocer",
+			"7B6BB783": "Parece que el piloto del helicóptero de Delgado ha dejado caer un paquete en la jungla por error. Es una caja roja que contiene las placas base para la nueva máquina de procesado de cocaína de Franco. Vaya. Esto huele a accidente laboral inminente... si es que Franco consigue que la máquina funcione.",
+			"A036D949": "Un piloto de helicóptero ha perdido un paquete perteneciente a Jorge Franco.",
+			"18C7E520": "Buen trabajo, 47. Es hora de demostrarle a Franco que no es tan listo.",
+			"4B98015F": "Busca las placas base perdidas",
+			"BFDD9BDB": "Encuentra la máquina de cocaína",
+			"CCD8C3B1": "Disfrázate de un trabajador del laboratorio",
+			"F9B07AA2": "Repara la máquina de cocaína"
+		}
+	}
+}

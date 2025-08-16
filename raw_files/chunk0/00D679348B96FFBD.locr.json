@@ -1,0 +1,66 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00D679348B96FFBD",
+	"languages": {
+		"xx": {
+			"C357227D": "Title_Man machine",
+			"84FA8D17": "Headline_A replacement drummer. Could be your fifteen minutes of fame, 47.",
+			"A931BB56": "Briefing_The Class' regular drummer unexpectedly quit the band and the record label has flown in a replacement; upcoming indie drummer Abel De Silva, who is currently waiting at the restaurant lounge. Better yet, Jordan Cross has not previously met Mr. De Silva - and the two of you share a striking resemblance, 47.",
+			"60301DD3": "Conclusion_Climbing the cultural ladder I see. Good work, 47.",
+			"9436513C": "AUDITION_Step_01_Get_Drummer_Disguise",
+			"B9CD8D9A": "AUDITION_Step_02_Talk_To_Jordan_Cross",
+			"D3D67C25": "AUDITION_Step_03_Play_Drums",
+			"5B21F525": "AUDITION_Step_04_Follow_Cross"
+		},
+		"en": {
+			"C357227D": "Man Machine",
+			"84FA8D17": "A replacement drummer. Could be your fifteen minutes of fame, 47.",
+			"A931BB56": "Interesting. The Class' regular drummer unexpectedly quit the band, and the record label has flown in a replacement, upcoming indie drummer Abel de Silva, who is currently waiting in the restaurant lounge. Better yet, Jordan Cross has not previously met Mr. de Silva, and the two of you do share a resemblance, 47.",
+			"60301DD3": "Climbing the cultural ladder, I see. Good work, 47.",
+			"9436513C": "Disguise yourself as Abel de Silva",
+			"B9CD8D9A": "Approach Jordan Cross",
+			"D3D67C25": "Play the drums for Jordan Cross",
+			"5B21F525": "Follow Cross to a private talk"
+		},
+		"fr": {
+			"C357227D": "La Machine",
+			"84FA8D17": "Un batteur remplaçant. Cela pourrait être votre quart d'heure de gloire, 47.",
+			"A931BB56": "Intéressant. Le batteur habituel de The Class a quitté brutalement le groupe. La maison de disques vient de leur envoyer un remplaçant : Abel de Silva, la valeur montante, qui attend actuellement dans le restaurant. Il se trouve que Jordan Cross n'a pas encore rencontré M. de Silva, et vous lui ressemblez étrangement, 47.",
+			"60301DD3": "Je vois que vous grimpez les échelons, 47. Joli travail.",
+			"9436513C": "Déguisez-vous en Abel de Silva",
+			"B9CD8D9A": "Abordez Jordan Cross",
+			"D3D67C25": "Jouez de la batterie pour Jordan Cross",
+			"5B21F525": "Suivez Jordan Cross pour un entretien privé"
+		},
+		"it": {
+			"C357227D": "La macchina",
+			"84FA8D17": "Un sostituto batterista. Avrai i tuoi quindici minuti di notorietà, 47.",
+			"A931BB56": "Interessante. Il batterista dei The Class ha abbandonato improvvisamente la band e l'etichetta discografica ha chiamato un rimpiazzo: il promettente percussionista indie Abel de Silva, ora in attesa nella lounge del ristorante. Per nostra fortuna, Jordan Cross non ha mai incontrato de Silva, che peraltro ti somiglia molto, 47.",
+			"60301DD3": "Potresti avere un futuro come artista. Ottimo lavoro, 47.",
+			"9436513C": "Travestiti da Abel de Silva",
+			"B9CD8D9A": "Parla con Jordan Cross",
+			"D3D67C25": "Suona la batteria per Jordan Cross",
+			"5B21F525": "Segui Cross per una chiacchierata in privato"
+		},
+		"de": {
+			"C357227D": "Mensch-Maschine",
+			"84FA8D17": "Ein neuer Drummer. Wollten Sie nicht schon immer in einer Band spielen, 47?",
+			"A931BB56": "Interessant. Der Drummer von The Class hat die Band überraschend verlassen, und das Plattenlabel hat sofort für Ersatz gesorgt. Der neue Mann, ein aufstrebender Indie-Drummer namens Abel de Silva wartet bereits in der Restaurant-Lounge. Und es kommt noch besser: Niemand hier kennt Mr de Silva persönlich – und Sie sehen ihm erstaunlich ähnlich, 47.",
+			"60301DD3": "Kultur ist einfach Ihre Stärke, 47. Gute Arbeit.",
+			"9436513C": "Verkleiden Sie sich als der Drummer Abel de Silva",
+			"B9CD8D9A": "Treffen Sie Jordan Cross",
+			"D3D67C25": "Spielen Sie für Jordan Cross Schlagzeug",
+			"5B21F525": "Folgen Sie Cross für ein Gespräch unter vier Augen"
+		},
+		"es": {
+			"C357227D": "Hombre máquina",
+			"84FA8D17": "Un batería sustituto. Podrían ser tus quince minutos de fama, 47.",
+			"A931BB56": "El batería habitual de The Class ha abandonado la banda de manera inesperada y la compañía discográfica ha enviado a un sustituto: el nuevo batería es Abel de Silva, que actualmente está esperando en el restaurante. Lo mejor de todo es que Jordan Cross no conoce todavía al señor de Silva y los dos os parecéis mucho, 47.",
+			"60301DD3": "Ascendiendo en la escalera cultural, por lo que veo. Buen trabajo, 47.",
+			"9436513C": "Disfrázate como el batería Abel de Silva",
+			"B9CD8D9A": "Acércate a Jordan Cross",
+			"D3D67C25": "Toca la batería para Jordan Cross",
+			"5B21F525": "Sigue a Cross para una charla privada"
+		}
+	}
+}

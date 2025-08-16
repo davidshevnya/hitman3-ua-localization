@@ -1,0 +1,60 @@
+{
+	"$schema": "https://tonytools.win/schemas/locr.schema.json",
+	"hash": "00E2FF190301B0E6",
+	"languages": {
+		"xx": {
+			"74E84FF7": "Title",
+			"EDE11E4D": "Summary",
+			"9AE62EDB": "Briefing",
+			"0482BB78": "Step 1",
+			"73858BEE": "Step 2",
+			"EA8CDA54": "Step 3",
+			"9D8BEAC2": "Conclusion"
+		},
+		"en": {
+			"74E84FF7": "A Quick Break",
+			"EDE11E4D": "The auction is run from Dalia Margolis’ private laptop. Good to know.",
+			"9AE62EDB": "The IAGO auction employs an interactive bidding system controlled from Margolis’ laptop. If you can get to it, you should be able to shut down the auction temporarily. This could be an opportunity to catch Margolis away from the spotlight.",
+			"0482BB78": "Investigate Margolis' laptop",
+			"73858BEE": "Find the laptop dongle",
+			"EA8CDA54": "Sabotage Margolis' laptop after the auction has begun",
+			"9D8BEAC2": "Margolis should be here shortly to fix the problem. Good thinking, 47."
+		},
+		"fr": {
+			"74E84FF7": "Une brève interruption",
+			"EDE11E4D": "La vente aux enchères sera contrôlée depuis l'ordinateur portable de Dalia Margolis. Une information intéressante.",
+			"9AE62EDB": "La vente de IAGO se fera via un système d'enchères interactif, contrôlé depuis l'ordinateur portable de Margolis. Si vous parvenez à vous en approcher, vous devriez pouvoir interrompre temporairement l'événement, ce qui vous offrira une occasion de surprendre Margolis à l'écart des projecteurs.",
+			"0482BB78": "Examinez l'ordinateur portable de Margolis",
+			"73858BEE": "Trouvez la clé de sécurité de l'ordinateur",
+			"EA8CDA54": "Sabotez l'ordinateur de Margolis après le début des enchères",
+			"9D8BEAC2": "Margolis ne devrait pas tarder à arriver pour régler le problème. Bien joué, 47."
+		},
+		"it": {
+			"74E84FF7": "Breve interruzione",
+			"EDE11E4D": "L'asta viene gestita dal portatile personale di Dalia Margolis. Buono a sapersi...",
+			"9AE62EDB": "L'asta della IAGO utilizza un sistema di offerte interattivo gestito dal portatile di Margolis. Se riuscissi ad accedervi, potresti interromperla. Sarebbe un'ottima occasione per avvicinarsi a Margolis lontano da occhi indiscreti.",
+			"0482BB78": "Ispeziona il portatile di Margolis",
+			"73858BEE": "Trova la chiave di sicurezza del portatile",
+			"EA8CDA54": "Sabota il portatile di Margolis dopo l'inizio dell'asta",
+			"9D8BEAC2": "Margolis sarà qui a breve per risolvere il problema. Ottimo piano, 47."
+		},
+		"de": {
+			"74E84FF7": "Eine kurze Unterbrechung",
+			"EDE11E4D": "Die Auktion läuft über Dalia Margolis' privaten Laptop. Gut, zu wissen.",
+			"9AE62EDB": "Bei der IAGO-Auktion kommt ein interaktives Gebotssystem zum Einsatz, das über Margolis' Laptop gesteuert wird. Mit Letzterem könnten Sie die Auktion kurz unterbrechen, um Margolis abseits des Scheinwerferlichts zu erwischen.",
+			"0482BB78": "Untersuchen Sie Margolis' Laptop",
+			"73858BEE": "Finden Sie den Laptop-Dongle",
+			"EA8CDA54": "Sabotieren Sie Margolis' Laptop nachdem die Auktion begonnen hat",
+			"9D8BEAC2": "Margolis wird gleich hier sein, um das Problem zu beheben. Gute Arbeit, 47."
+		},
+		"es": {
+			"74E84FF7": "Un descansito",
+			"EDE11E4D": "La subasta se dirige desde el portátil personal de Margolis. Puede sernos útil.",
+			"9AE62EDB": "La subasta de IAGO emplea un sistema interactivo de subastas controlado desde el portátil de Margolis. Si consigues llegar a él, podrás interrumpir la subasta de forma temporal, lo que te permitiría alejar a Margolis del centro de atención.",
+			"0482BB78": "Examina el portátil de Margolis",
+			"73858BEE": "Busca la llave electrónica del portátil",
+			"EA8CDA54": "Sabotea el portátil de Margolis después de que empiece la subasta",
+			"9D8BEAC2": "Margolis llegará en breve para arreglar el problema. Bien pensado, 47."
+		}
+	}
+}
